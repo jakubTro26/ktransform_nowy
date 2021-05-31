@@ -223,6 +223,7 @@ document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > d
 wspimg();
 
 agenda();
+agenda2();
 };
 
 var starzynskiOpis = "&bull; Kompleksowość vs integracja wewnętrzna w obliczu zmian technologicznych i rosnącej dynamiki otoczenia.<br>&bull; Cyfryzacja prac biurowych i terenowych - jakie technologie będą dawać realne przewagi konkurencyjne.<br>&bull; Transformacja cyfrowa ale jaka? Doraźna vs. zaplanowana, wewnętrznie rozwijana vs. gotowe rozwiązania";
