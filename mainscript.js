@@ -40,7 +40,8 @@ $('body > div.jx-ievent-summary-info > div > ul > li:nth-child(2)').style.width=
 
 if(window.location.href=="https://kongrestransformacji.pl/" || window.location.href=="https://kongrestransformacji.pl/#schedule" || window.location.href=="https://kongrestransformacji.pl/#about" || window.location.href=="https://kongrestransformacji.pl/#speakers"  ){
 
-
+  dodajimg1();
+  dodajimg2();
 $('body > div.jx-ievent-slider.header-1.home-count-down > div.jx-ievent-main-slider.jx-ievent-parallax-fullwidth > div.parallax-no.bg-pos-center').style.background=" url('https://kongrestransformacji.pl/wp-content/uploads/2018/12/image.jpg')";
 
  $('#speakers > div.container > div > div > div > div:nth-child(1) > div:nth-child(3) > div > div > div > div > p:nth-child(2)').style.margin="0px";
@@ -126,8 +127,7 @@ document.querySelector('#sponsors > div > div > div > div > div:nth-child(2) > d
 
 document.querySelector('#sponsors > div > div > div > div > div:nth-child(2) > div > div > div > div.wpb_text_column.wpb_content_element > div > center > a:nth-child(2)').style.display="none";
 }
-dodajimg1();
-dodajimg2();
+
 
 
 function dodajimg1(){
