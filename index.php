@@ -12,6 +12,6 @@
  * @var bool
  */
 define( 'WP_USE_THEMES', true );
-echo 'co jest grane';
+
 /** Loads the WordPress Environment and Template */
 require __DIR__ . '/wp-blog-header.php';
