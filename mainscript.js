@@ -222,37 +222,7 @@ document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > d
 
 wspimg();
 
-agenda();
-agenda2();
+
 };
 
-var starzynskiOpis = "&bull; Kompleksowość vs integracja wewnętrzna w obliczu zmian technologicznych i rosnącej dynamiki otoczenia.<br>&bull; Cyfryzacja prac biurowych i terenowych - jakie technologie będą dawać realne przewagi konkurencyjne.<br>&bull; Transformacja cyfrowa ale jaka? Doraźna vs. zaplanowana, wewnętrznie rozwijana vs. gotowe rozwiązania";
-var miszulowiczOpis = "Podpisy elektroniczne<br> Nasz model – jak depapieryzujemy procesy<br> Zielone korzyści z paperless ";
-
-
-
-function agenda(){
-
-var opisDiv=document.createElement('div');
-
-opisDiv.innerHTML=starzynskiOpis;
-
-var starzynski = document.querySelector('#ChildTab-1 > div > div > div > div:nth-child(3) > div.right-position');
-
-starzynski.insertAdjacentElement('beforeEnd',opisDiv);
-
-}
-
-
-function agenda2(){
-
-  var opisDiv=document.createElement('div');
-  
-  opisDiv.innerHTML=miszulowiczOpis;
-  
-  var miszulowicz = document.querySelector('#ChildTab-1 > div > div > div > div:nth-child(23) > div.right-position');
-  
-  miszulowicz.insertAdjacentElement('beforeEnd',opisDiv);
-  
-  }
 
