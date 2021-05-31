@@ -1,0 +1,20 @@
+<form id="form-register" class="p-t-15" method="post" role="form" action="">
+    <input type="hidden" value="4" name="step" id="step" />
+    <input type="hidden" value="<?php echo $visitor_id; ?>" name="visitor_id" id="visitor_id" />
+    <input type="hidden" value="" name="faktura" id="faktura" />
+    
+    <div class="row m-t-10">
+        <div class="col-md-12 m-t-10" style="text-align: center">
+			<h2>W jaki sposób chcesz otrzymać fakturę?</h2>
+            <button class="btn btn-primary btn-cons m-b-40 faktura_button <?php if($email == '') { echo 'disabled'; } ?>"  <?php if($email == '') { echo 'disabled="disabled" style="opacity: 0.5;"'; } ?>typeP="1" style="margin-bottom: 80px; padding: 20px; font-size: 20px;">FAKTURA ELEKTRONICZNA<br /><span style="font-size: 12px;">otrzymasz ją teraz e-mailem</span></button>
+            <button class="btn btn-success btn-cons m-b-40 faktura_button" typeP="2" style="margin-bottom: 80px; padding: 20px; font-size: 20px; height: 89px;">FAKTURA PAPIEROWA</button>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12" style="text-align: center">
+			<p style="font-weight: bold; font-size: 13px;"><?php if($email == '') { echo 'NIE PODAŁEŚ ADRESU E-MAIL - nie otrzymasz katalogu i mapki w PDF'; } else { echo 'NA TWÓJ ADRES E-MAIL OTRZYMASZ RÓWNIEŻ KATALOG TARGOWY W PDF ORAZ MAPĘ STOISK W PDF'; } ?></p>
+			<p>*Wybierając opcję faktury elektronicznej wyrażasz zgodę na przesłanie dokumentu rozliczeniowego w formie elektronicznej (e-mail), zgodnie z  art. 106n ust. 1 ustawy.</p>
+        </div>
+    </div>
+</form>

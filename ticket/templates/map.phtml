@@ -1,0 +1,89 @@
+<link href="/assets/css/summer.css" type="text/css" rel="stylesheet" />
+<div id="wrapper">
+    <header id="summer-header">
+        <div class="btn-group" id="nav" data-toggle="buttons">
+            <button id="save" class="btn btn-default btn-sm m-t-10"><i class="fs-14 fa fa-magic"></i> zapisz</button>
+            <button id="edit" class="btn btn-default btn-sm m-t-10"><i class="fs-14 fa fa-paint-brush"></i> tryb edycji</button>
+            <button id="rectangle" class="btn btn-default btn-sm m-t-10"><i class="fs-14 fa fa-cube"></i> prostokąt</button>
+            <button id="circle" class="btn btn-default btn-sm m-t-10"><i class="fs-14 fa fa-adjust"></i> koło</button>
+            <button id="polygon" class="btn btn-default btn-sm m-t-10"><i class="fs-14 fa fa-share-alt"></i> wielobok</button>
+            <button id="clear" class="btn btn-default btn-sm m-t-10"> wyczyść</button>
+            <button id="to_html" class="btn btn-default btn-sm m-t-10">to html</button>
+<!--            <button id="preview" class="btn btn-default btn-sm m-t-10">preview</button>-->
+        </div>
+        <div id="coords"></div>
+        <div id="debug"></div>
+    </header>
+    <div id="image_wrapper">
+        <div id="image">
+            <img src="/images/plan.jpg" alt="#" id="img" />
+            <svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" id="svg"></svg>
+        </div>
+    </div>
+</div>
+
+<!-- For html image map code -->
+<div id="code">
+    <span class="close_button" title="close"></span>
+    <div id="code_content"></div>
+</div>
+
+<!-- From html block -->
+<div class="modal fade stick-up" id="edit_details_div" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <form id="edit_details">
+            <input id="station_key" name="station_key" type="hidden" value="" />
+            <div class="modal-content">
+                <div class="modal-header clearfix ">
+                    <h5 class="p-b-5">Właściwości stanowiska</h5>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-group form-group-default section_edit">
+                                <label for="station_name">Nazwa/numer</label>
+                                <input id="station_name" name="station_name" type="text" class="form-control" placeholder="" required>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-group form-group-default section_edit">
+                                <label for="station_price">Cena</label>
+                                <input id="station_price" name="station_price" type="text" class="form-control" placeholder="netto" required>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-group form-group-default section_edit">
+                                <label for="station_area">Powierzchnia</label>
+                                <input id="station_area" name="station_area" type="text" class="form-control" placeholder="w m2" required>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button id="save_details" type="button" class="btn btn-primary btn-cons">Zapisz</button>
+                    <button type="button" class="btn btn-cons close_button">Close</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<!-- From html block -->
+<div id="from_html_wrapper">
+    <form id="from_html_form">
+        <h5>Loading areas</h5>
+        <span class="close_button" title="close"></span>
+        <p>
+            <label for="code_input">Enter your html code:</label>
+            <textarea id="code_input"></textarea>
+        </p>
+        <button id="load_code_button">Load</button>
+    </form>
+</div>
+
+<textarea id="mapHtml" style="display: none"><?php echo $mapContent; ?></textarea>
+<script type="text/javascript" src="/assets/js/summerHTMLImageMapCreator.js"></script>

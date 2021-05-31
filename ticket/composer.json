@@ -1,0 +1,20 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "zendframework/zend-db": "^2.8",
+        "slim/php-view": "^2.1",
+        "tuupola/slim-basic-auth": "^2.2",
+        "aferrandini/phpqrcode": "1.0.1",
+        "swiftmailer/swiftmailer": "@stable",
+        "spipu/html2pdf": "^4.6",
+		"openpayu/openpayu" : "2.2.*",
+        "mpdf/mpdf": "^6.1"
+    },
+	
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "https://packages.zendframework.com/"
+		}
+	]
+}

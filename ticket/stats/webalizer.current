@@ -1,0 +1,142 @@
+# Webalizer V2.23-08 Incremental Data - 10/30/2017 10:29:25
+2017 10 30 10 29 25
+6 6 3 4 2 2 9986 3 2 0 0 0
+1 2 2 27 30
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+2 2 616 1 0 0 0 0
+2 2 506 1 2 1 0 0
+0 0 0 0 0 0 0 0
+2 2 8864 1 1 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 8864 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 506 2 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 616 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/favicon.ico
+0 1 0 7659 0 0 0 0
+/.well-known/acme-challenge/VtSLCxlqZL1P0SVx3_P3iyS9JoZTSjD0iIyuDC-tpOo
+0 1 17102240 308 0 0 0 0
+/
+0 3 0 1711 2 0 0 0
+/.well-known/acme-challenge/u0thn-xXxNZtNeHfSL2UYaULaBs6UDu3p9ZvI8FVUT4
+0 1 0 308 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+195.82.172.210
+0 2 2 8864 1 1509359365 0 0
+/
+66.133.109.36
+0 2 2 616 0 0 0 0
+-
+178.255.80.147
+0 2 2 506 1 1509205509 0 0
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+195.82.172.210
+0 2 2 8864 1 1509359365 0 0
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://bilet.walutaprzyszlosci.eu/
+1 1
+- (Direct Request)
+0 5
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

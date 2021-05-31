@@ -1,0 +1,116 @@
+
+ 
+ 
+ 
+/* ------------------------------------------------------------------------ */
+/* Grey Base Color
+/* ------------------------------------------------------------------------ */
+ 
+strong , select , .jx-ievent-blog-tag li a , #commentform input[type=text],#commentform textarea , .comment-heading , .commentlist li .author span , .jx-ievent-blog-tag i , input[type="text"],input[type="password"],input[type="email"],textarea , .jx-ievent-speaker-item .speaker-social li i:hover , .resp-tabs-list li , .jx-ievent-contact-form input , .jx-ievent-contact-form textarea , .jx-ievent-contact-info h2 , .jx-ievent-price-table.jx-ievent-price-2 , .jx-ievent-price-table.jx-ievent-price-2 .jx-ievent-price-btn a , .jx-ievent-event-register .sbSelector:link,.jx-ievent-event-register .sbSelector:visited,.jx-ievent-event-register .sbSelector:hover , .jx-ievent-more-info p , .jx-skillsbar-3 .skillbar-title , .jx-skillsbar-3 .skillbar-title span , .jx-skillsbar-3 .percenttext , .jx-skillsbar-4 .skillbar-title , .jx-skillsbar-4 .percenttext , .jx-skillsbar-6 .skillbar-title , .jx-skillsbar-6 .percenttext , .jx-icon-box .title , .jx-grid-image-btns a:hover div , .woocommerce ul.products .item-product .add_to_cart_button , .woocommerce .pagination .page-numbers li span.current , .woocommerce .pagination .page-numbers li .page-numbers.current , .woocommerce .pagination .page-numbers li:hover a , , .single-product.woocommerce div.product p.price, .woocommerce div.product span.price , .single-product .woocommerce-variation-price .price .amount , .shop_attributes th , .woocommerce-page #sidebar .product-categories li a:hover 
+{
+	color: #333!important;
+} 
+ 
+
+
+/* ------------------------------------------------------------------------ */
+/* Grey Base Background 
+/* ------------------------------------------------------------------------ */
+
+.jx-ievent-blog-tag li:hover , .jx-ievent-servicebox-2 .service-title , .jx-ievent-speaker-item .speaker-social li i , .jx-ievent-venue-box , .jx-ievent-price-btn a , .jx-ievent-price-table.jx-ievent-price-2 .jx-ievent-head , .jx-ievent-price-table.jx-ievent-price-3 .jx-ievent-price-btn a , .jx-ievent-price-table.jx-ievent-price-4 .jx-ievent-price-btn a , .jx-ievent-pricing-switcher .fieldset , .jx-accordion .none  .title .jx-accordion-icon::after , .jx-ievent-grid li .title , .woocommerce .pagination .page-numbers li .page-numbers , .item-product .added_to_cart:hover , #sidebar .widget_product_search input[type="submit"]:hover , .woocommerce-page.woocommerce-checkout .woocommerce #respond input#submit:hover, .woocommerce-page.woocommerce-checkout .woocommerce a.button:hover, .woocommerce-page.woocommerce-checkout .woocommerce button.button:hover, .woocommerce-page.woocommerce-checkout .woocommerce input.button:hover
+{
+	background: #333!important;
+}
+
+ 
+ 
+/* ------------------------------------------------------------------------ */
+/* Grey Base Background Color
+/* ------------------------------------------------------------------------ */
+
+.jx-ievent-price-table .jx-ievent-price-item.jx-ievent-white 
+{
+	background-color:  #333!important;
+}
+ 
+ 
+/* ------------------------------------------------------------------------ */
+/* Grey Base Border Color
+/* ------------------------------------------------------------------------ */
+ 
+.jx-ievent-post-footer li i , .woocommerce-page .flexslider li .glass-wrapper 
+{
+	border-color: #333!important;
+} 
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+
+/* ------------------------------------------------------------------------ */
+/* Black Base Color
+/* ------------------------------------------------------------------------ */
+
+
+h1,h2,h3,h4,h5,h6 , blockquote,blockquote p , a:hover , .jx-ievent-fontawesome-icon-list i , .jx-ievent-fontawesome-icon-list i , .jx-ievent-icon-listing-1 .line-icon , .jx-ievent-dark .line-icon , .black , .jx-ievent-black , .sticky:after , .jx-ievent-section-title-1 .jx-ievent-title , .jx-ievent-title-2 .jx-ievent-title , .jx-ievent-section-title-1.jx-ievent-dark p,.jx-ievent-section-title-1.jx-ievent-dark div.jx-ievent-title , 
+.header-3 .jx-ievent-menu .main-menu li a , .header-4 .jx-ievent-menu .main-menu li a , .header-5 .jx-ievent-menu .main-menu li a , .header-6 .jx-ievent-menu .main-menu li a , .header-7 .jx-ievent-menu .main-menu li a , .header-8 .jx-ievent-menu .main-menu li a , .header-9 .jx-ievent-menu .main-menu li .sub-menu li a , .header-10 .jx-ievent-menu .main-menu li a , .header-2 .jx-ievent-menu .main-menu li a , .jx-ievent-placeholder-head.title_style-1 h2 , 
+.jx-ievent-placeholder-head.title_style-1 a h2 , .jx-ievent-blog-head .jx-ievent-event-date , .jx-ievent-blog-head .title a , .jx-ievent-blog .title , .jx-ievent-blog-meta div.jx-ievent-event-cat , .jx-ievent-blog-meta div.jx-ievent-event-cat a , .jx-ievent-blog .date i , .jx-ievent-black , .jx-ievent-pagination a.next:hover , .jx-ievent-pagination .prev.page-numbers:hover , .commentlist li .date a:hover , .nav-links div.nav-previous:before , 
+.nav-links div.nav-next:after , .jx-ievent-error .jx-ievent-error-msg , .jx-ievent-error .jx-ievent-error-code , .jx-ievent-footer-copyright a:hover , .jx-ievent-servicebox-1 .jx-ievent-service-item .service-title a ,.jx-ievent-servicebox-2 .jx-ievent-service-item .service-title a , .jx-ievent-servicebox-3 .jx-ievent-service-item .service-title a , .jx-ievent-dark .jx-ievent-counter-item .jx-ievent-counter-info .jx-ievent-counter-text , 
+.jx-ievent-dark .jx-ievent-counter-item .jx-ievent-counter-info .jx-ievent-counter-number , .jx-ievent-speaker-item.jx-ievent-speaker-box-content .jx-ievent-title , .jx-ievent-speaker .speaker-name , .jx-ievent-price-table.jx-ievent-price-3 .jx-ievent-package-name , 
+.jx-ievent-price-table.jx-ievent-price-3 .jx-ievent-price , .jx-ievent-media-center .title a , .jx-accordion .none .title , .jx-accordion.jx-accordion-border .title , .percenttext.jx-grey-bg , .percenttext.jx-white-bg , .jx-icon-box .icon , .jx-icon-box .icon i , .woocommerce ul.products li.product .onsale:after , .woocommerce-page .product .onsale:after , .woocommerce-page ul.product_list_widget li a , .woocommerce-page ul.product-categories li a 
+{
+	color: #333!important;
+}
+
+
+
+
+
+/* ------------------------------------------------------------------------ */
+/* Black Base Background
+/* ------------------------------------------------------------------------ */
+
+
+.jx-ievent-newsletter .jx-ievent-form-wrapper button:hover , .jx-ievent-btn-default:hover , .jx-ievent-btn-default.jx-ievent-outline:hover , .resp-tabs-list.jx-ievent-subtab , .shortcode_tab_e.jx-ievent-white-tab.jx-ievent-arrow-tab ul.jx-ievent-subtab li , .jx-ievent-faq-description , 
+.jx-ievent-testimonial-item .jx-ievent-testimonial-content .jx-ievent-name , .jx-ievent-btn-default.jx-ievent-outline.jx-ievent-white-btn:hover , .jx-ievent-media-center .jx-ievent-image-wrapper .jx-ievent-blog-more i , .jx-ievent-summary-info li .jx-ievent-newsletter-submit input , .wpcf7-form .wpcf7-submit:hover , .jx-skillsbar-2 .percenttext , .jx-ievent-section-title-1 .jx-ievent-title-border , .jx-ievent-section-title-1.jx-ievent-dark div.jx-ievent-title-border , .header-8 .jx-ievent-topbar , .header-9 .jx-ievent-topbar , .jx-ievent-menu .main-menu li ul.sub-menu > li > ul , .fixed .jx-ievent-menu > .main-menu > li:hover a , .jx-ievent-event-register .jx-ievent-btn-default:hover , .jx-ievent-ticket-form .jx-ievent-btn-default:hover , .jx-ievent-blog .jx-ievent-image-wrapper .jx-ievent-blog-more i , .jx-ievent-pagination a:hover , #comment-submit:hover , .jx-ievent-page-search.wide .jx-ievent-form-wrapper button:hover ,  .jx-ievent-sidebar-widget .widget_search input.search-submit:hover , .jx-ievent-sidebar-widget .widget_calendar caption , .tagcloud a:hover , .jx-ievent-footersection-widget .widget_search input.search-submit:hover , .jx-ievent-footersection-widget .widget_calendar caption
+{
+	background: #333!important;
+}
+
+
+
+/* ------------------------------------------------------------------------ */
+/* Black Base Background Color
+/* ------------------------------------------------------------------------ */
+
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt , .jx-ievent-black-bg 
+{
+	background-color: #333!important;
+}
+
+/* ------------------------------------------------------------------------ */
+/* Black Base Border Right
+/* ------------------------------------------------------------------------ */
+
+
+.jx-ievent-counter-item .jx-ievent-counter-icon , .jx-ievent-newsletter .jx-ievent-form-wrapper button:hover:before 
+{
+	border-right-color: #333!important;
+}
+
+
+
+
+
+ 
+ 

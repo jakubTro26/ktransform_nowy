@@ -1,0 +1,309 @@
+<form id="form-register" class="p-t-15" method="post" role="form" action="">
+    <input type="hidden" value="0" name="bon_id" id="bon_id" />
+    <input type="hidden" value="0" name="bon_discount" id="bon_discount" />
+    <input type="hidden" value="1" name="step" id="step" />
+    <input type="hidden" value="<?php echo $ticketPrice; ?>" name="price_amount" id="price_amount" />
+    <p>Proszę wypełnić dane w formularzu, aby dokonać zakupu biletu</p>
+    <div class="form-group-attached">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="form-group form-group-default">
+                    <label>Imię</label>
+                    <input type="text" name="visitor_firstname" placeholder="Jan" class="form-control" required>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="form-group form-group-default">
+                    <label>Nazwisko</label>
+                    <input type="text" name="visitor_lastname" placeholder="Kowalski" class="form-control" required>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="form-group form-group-default">
+                    <label>Telefon</label>
+                    <input type="tel" name="visitor_tel" placeholder="+48" class="form-control">
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="form-group form-group-default">
+                    <label>Email</label>
+                    <input type="email" name="visitor_email" placeholder="jan@kowalski.pl" class="form-control">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row" id="">
+        <div class="checkbox check-success">
+            <input type="checkbox" value="1" name="ticket_fv" id="ticket_fv">
+            <label for="ticket_fv">Chcę otrzymać fakturę</label>
+        </div>
+    </div>
+
+    <div id="boxFv" style="display: none" class="m-b-20">
+        <div class="form-group-attached">
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="form-group form-group-default">
+                        <label>Nazwa firmy</label>
+                        <input type="text" name="visitor_company" placeholder="Podaj nazwę firmy" class="form-control">
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="form-group form-group-default">
+                        <label>NIP</label>
+                        <input type="text" name="visitor_nip" placeholder="Wpisz tutaj NIP (tylko cyfry)" class="form-control">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="form-group form-group-default">
+                        <label>Ulica</label>
+                        <input type="text" name="visitor_address" placeholder="Wpisz nazwę ulicy" class="form-control">
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="form-group form-group-default">
+                        <label>Numer</label>
+                        <input type="text" name="visitor_address2" placeholder="Wpisz numer budynku lub lokalu" class="form-control">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="form-group form-group-default">
+                        <label>Kod pocztowy</label>
+                        <input type="text" name="visitor_zipcode" placeholder="00-000" class="form-control">
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="form-group form-group-default">
+                        <label>Miasto</label>
+                        <input type="text" name="visitor_city" placeholder="Wpisz miasto" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <?php
+    $opis[1] = "BILET BASIC
+Co zawiera bilet?
+
+- dostęp do powierzchni targowej
+- katalog targowy";
+						$opis[2] = 'BILET VIP
+Co zawiera bilet?
+ 
+- dostęp do powierzchni targowej
+- udział w całodziennej konferencji
+- katalog targowy
+- możliwość udziału w każdym warsztacie:
+* Cryptosignals – warsztaty z tradingu kryptowalut
+* Cryptorig – warsztaty z kryptokoparek i miningu
+* Cryptotaxes – warsztaty z prawa i podatków od kryptowalut';
+    $opis[3] = 'PREMIUM - 1 DZIEŃ
+Co zawiera bilet?
+ 
+- zwiedzanie stoisk jednego dnia
+  (przyjdź w sobotę lub niedzielę)
+- mapa targowa
+- katalog wydarzenia w PDF
+- pokaz kulinarny
+- strefa chillout
+- udział w Kongresie
+- trening z Gwiazdami
+- spotkanie z Gośćmi Specjalnymi
+- spotkanie z Ambasadorami
+- strefa metamorfozy
+- porady dietetyczne';
+    $opis[4] = 'VIP - 2 DNI
+Co zawiera bilet?
+ 
+- zwiedzanie stoisk w oba dni
+  (sobota i niedziela)
+- mapa targowa
+- katalog wydarzenia w PDF
+- pokaz kulinarny
+- strefa chillout
+- udział w Kongresie
+- trening z Gwiazdami
+- spotkanie z Gośćmi Specjalnymi
+- spotkanie z Ambasadorami
+- strefa metamorfozy
+- porady dietetyczne
+- warsztaty taneczne
+- warsztaty jogi
+- warsztaty dietetyczne
+- pokaz sztuk walki';
+    $opis[5] = 'Trening Be Active Tour
+z Ewą Chodakowską
+sobota, 24 lutego 2018';
+    ?>
+    <div class="panel panel-default" style="margin-bottom: 0px;">
+        <div class="panel-heading separator">
+            <div class="panel-title">Wybierz ilość biletów
+            </div>
+        </div>
+        <div class="panel-body" style="padding-bottom: 5px;" id="box_additional_tickets">
+            <div class="form-group form-group-default m-t-10 box_additional_ticket_data" style="border: 0;">
+                <i class="fa pg-minus_circle" style="font-size: 19px; color: #ca3737; float: left; cursor: pointer"></i>
+                <input type="text" name="ticket_num" id="ticket_num" value="1" readonly class="form-control" style="text-align: center; color: #000; width: 30px; float: left;">
+                <i class="fa pg-plus_circle" style="font-size: 19px; color: #37ca43; float: left; cursor: pointer"></i>
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default" style="margin-bottom: 0px;">
+        <div class="panel-heading separator">
+            <div class="panel-title">Wybierz rodzaj biletu
+            </div>
+        </div>
+        <div class="panel-body">
+            <div class="cc-selector m-t-15" style="text-align: cetner;">
+				<?php foreach($ticketList as $row) { if($row['ticket_type_id'] == $ticketType) {$ticketName = $row['ticket_name']; $ticketPrice = $row['ticket_price'];} ?>
+					<input class="radio-button" id="ticket_<?php echo $row['ticket_type_id'] ?>" data-name="<?php echo $row['ticket_name'] ?>"" data-price="<?php echo $row['ticket_price'] ?>" data-old-price="<?php echo $row['ticket_old_price'] ?>" type="radio" <?php if($row['ticket_type_id'] == $ticketType) echo 'checked="checked"'; ?> name="ticket_type_id" value="<?php echo $row['ticket_type_id'] ?>" />
+					<label data-toggle="tooltip" data-placement="bottom" data-original-title="<?php echo $opis[$row['ticket_type_id']] ?>" class="drinkcard-cc ticket_<?php echo $row['ticket_type_id'] ?>" for="ticket_<?php echo $row['ticket_type_id'] ?>">
+					<div style="width: 155px; margin-top: 150px; text-align: center;"><?php echo $row['ticket_price'] ?> PLN <?php if($row['ticket_old_price'] > 0) { ?><span style="text-decoration: line-through"><?php echo $row['ticket_old_price'] ?> PLN</span><?php } ?> (brutto)</div></label>
+				<?php } ?>
+			</div>
+			
+			<div class="row" style="padding: 10px; padding-bottom: 0px; display: none;" id="ticketBoxAdditional">
+				<div class="panel-heading separator">
+					<div class="panel-title" style="font-family: Helvetica;">Jeśli chcesz wziąć udział w warsztatach dokonaj wyboru</div>
+				</div>
+			
+				<div class="checkbox check-success">
+					<input type="checkbox" class="additionalCheckbox" value="1" readonly name="additional11" id="additional11">
+					<label for="additional11" style="white-space: normal">TRADING (10:00-12:30)</label>
+				</div>
+				<div class="checkbox check-success">
+					<input type="checkbox" class="additionalCheckbox" value="1" readonly name="additional12" id="additional12">
+					<label for="additional12" style="white-space: normal">KRYPTOKOPARKI (12:30-14:45)</label>
+				</div>
+				<div class="checkbox check-success">
+					<input type="checkbox" class="additionalCheckbox" value="1" name="additional21" id="additional21">
+					<label for="additional21" style="white-space: normal">PODATKI OD KRYPTOWALUT (15:00-17:15)</label>
+				</div>
+			</div>
+    </div>
+
+    <div class="row">
+        <div class="panel panel-default">
+            <div class="panel-heading separator">
+                <div class="panel-title">Podsumowanie
+                </div>
+            </div>
+            <div class="panel-body">
+                <h4><span style="color: #e73c56; font-weight: 400">Wybrany bilet:</span> <span id="box_bilet"><?php echo $ticketName; ?></span></h4>
+                <h4 class="m-b-10"><span style="color: #e73c56; font-weight: 400">Do zapłaty:</span> <span id="box_price"><?php echo $ticketPrice; ?></span> PLN</h4>
+            </div>
+        </div>
+    </div>
+
+    <div class="row m-t-10">
+
+
+        <div class="checkbox check-success">
+            <input type="checkbox" value="1" checked="checked" name="zgoda2" id="zgoda2" required>
+            <label class="question" for="zgoda2" style="white-space: normal; color: #797979; text-align: justify">Oświadczam, że zostałem poinformowany, zgodnie z art.24 ust. 1 ustawy z dnia 29 sierpnia 1997r. o ochronie danych osobowych (t.j. Dz. U. z 2002r. nr 101, poz 926 ze zm.), że administratorem danych osobowych jest Innovative Group spółka z ograniczoną odpowiedzialnością z siedzibą w Warszawie (02-495), ul. Ryżowa 49. Dane osobowe będą przetwarzane w celu realizacji płatności i finalnego zakupu biletu.</label>
+        </div>
+
+        <div class="checkbox check-success">
+            <input type="checkbox" value="1" name="regulamin" id="regulamin" required>
+            <label class="question" for="regulamin" style="white-space: normal">Oświadczam, że zapoznałem/am się z regulamin i akceptuję <a data-toggle="modal" data-target="#exampleModal" class="text-info" style="font-weight: bold; text-decoration: underline; color: #9f9f9f">regulamin targów</a> CryptoExpo.</label>
+        </div>
+
+        <div class="checkbox check-success">
+            <input type="checkbox" value="1" name="zgoda" id="zgoda">
+            <label class="question" for="zgoda" style="white-space: normal; color: #797979">Wyrażam zgodę na przetwarzanie moich danych osobowych przez INNOVATIVE GROUP SP. Z O.O. oraz Partnerów wydarzenia Crypto Future Expo, w celach związanych z przekazywaniem informacji dotyczących działalności i oferty.</label>
+        </div>
+    </div>
+	
+	<div class="modal slide-up" id="exampleModal">
+		<div class="modal-dialog modal-dialog-centered" role="document" style="width: 1000px">
+			<div class="modal-content">
+			  <div class="modal-header">
+				<h5 class="modal-title" id="exampleModalLabel">Regulamin</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				  <span aria-hidden="true">&times;</span>
+				</button>
+			  </div>
+			  <div class="modal-body">
+				<div class="wpb_wrapper">
+			<p style="font-weight: 400;">Polityka Prywatności dotyczy funkcjonowania strony internetowej wydarzenia, znajdującej się pod&nbsp;adresem URL:&nbsp;<a href="http://www.cryptoexpo.pl/" data-saferedirecturl="https://www.google.com/url?q=http://www.cryptoexpo.pl&amp;source=gmail&amp;ust=1528898639369000&amp;usg=AFQjCNEe9FghkTxsIqh3iP3D2E7-13XcRA">www.cryptoexpo.pl</a>&nbsp;oraz&nbsp;wysyłania notyfikacji i&nbsp;zakresu przetwarzanych danych osobowych. Niniejszy dokument obowiązuje od&nbsp;dnia 1 stycznia 2018. Organizator zastrzega sobie prawo do&nbsp;wprowadzania zmian w&nbsp;Polityce Prywatności poprzez opublikowanie nowej polityki prywatności na stronie&nbsp;<a href="http://www.cryptoexpo.pl/" data-saferedirecturl="https://www.google.com/url?q=http://www.cryptoexpo.pl&amp;source=gmail&amp;ust=1528898639369000&amp;usg=AFQjCNEe9FghkTxsIqh3iP3D2E7-13XcRA">www.cryptoexpo.pl</a></p>
+<p style="font-weight: 400;">Organizatorem wydarzenia jest Innovative Group sp. z&nbsp;o.o., ul.&nbsp;Ryżowa 49, 02-495 Warszawa, NIP: 5223005310, wpisaną pod&nbsp;numerem KRS: 0000463197 do&nbsp;Rejestru Przedsiębiorców przez&nbsp;Sąd Rejonowy dla&nbsp;<a href="http://m.st/" data-saferedirecturl="https://www.google.com/url?q=http://m.st&amp;source=gmail&amp;ust=1528898639369000&amp;usg=AFQjCNE5MnOFKIExMcGg1YMdbjuOKBmaiA">m.st</a>. Warszawy, XII Wydział Gospodarczy Krajowego Rejestru Sądowego.</p>
+<p style="font-weight: 400;">Jeżeli nie&nbsp;akceptujesz&nbsp;Polityki Prywatności prosimy o&nbsp;niekorzystanie ze&nbsp;strony internetowej oraz&nbsp;rezygnację z&nbsp;udziału w&nbsp;wydarzeniu.</p>
+<p style="font-weight: 400;">Jako Uczestników należy rozumieć osoby odwiedzające stronę wydarzenia&nbsp;<a href="http://www.cryptoexpo.pl/" data-saferedirecturl="https://www.google.com/url?q=http://www.cryptoexpo.pl&amp;source=gmail&amp;ust=1528898639369000&amp;usg=AFQjCNEe9FghkTxsIqh3iP3D2E7-13XcRA">www.cryptoexpo.pl</a>&nbsp;jak również osoby rejestrujące się na wydarzenie organizowane przez Innovative Group Sp. Z o.o.</p>
+<p style="font-weight: 400;">INFORMACJE OGÓLNE<br>
+1. Szanujemy prawo do&nbsp;prywatności i&nbsp;dbamy o&nbsp;bezpieczeństwo danych, w&nbsp;tym danych osobowych.<br>
+2. Dane osobowe przetwarzane są zgodnie z&nbsp;przepisami prawa oraz Polityką Prywatności.<br>
+3. Zakres danych gromadzonych podczas rejestracji na wydarzenie:<br>
+a) dobrowolnie wprowadzone dane osobowe na&nbsp;etapie rejestracji (imię i nazwisko, nazwa firmy, stanowisko, telefon, adres e-mail, data oraz&nbsp;godzina zgłoszenia, adres IP);<br>
+b) pliki cookies zapisywane w&nbsp;urządzeniach końcowych;<br>
+c) logi serwera, zbierane przez&nbsp;operatora hostingowego.</p>
+<p style="font-weight: 400;">COOKIES</p>
+<p style="font-weight: 400;">1.Strona internetowa&nbsp;<a href="http://www.cryptoexpo.pl/" data-saferedirecturl="https://www.google.com/url?q=http://www.cryptoexpo.pl&amp;source=gmail&amp;ust=1528898639369000&amp;usg=AFQjCNEe9FghkTxsIqh3iP3D2E7-13XcRA">www.cryptoexpo.pl</a>&nbsp;wykorzystuje Cookies, które służą identyfikacji przeglądarki podczas korzystania z naszej strony oraz tworzeniu statystyk. Cookies mogą być wykorzystane przez sieci reklamowe powiązane z Google do wyświetlenia reklam dopasowanych do sposobu, w jaki osoba korzystała ze strony internetowej.&nbsp; Cookies nie zawierają żadnych danych osobowych. Możesz uniemożliwić zapisywanie cookies na swoim urządzeniu bądź zapisane pliki trwale usunąć poprzez modyfikację ustawień swojej przeglądarki. Wystarczy, że wyłączysz obsługę cookies.</p>
+<p style="font-weight: 400;">LOGI SERWERA<br>
+1. Podczas wizyty Uczestnika na stronie internetowej wydarzenia, serwer automatycznie zbiera informacje dotyczące:<br>
+a) czasu nadejścia zapytania oraz wysłania odpowiedzi;<br>
+b) adresu strony poprzednio odwiedzanej przez użytkownika – w sytuacji gdy wejście na stronę wydarzenia nastąpiło przez odnośnik;<br>
+c) zachowań i aktywności użytkownika na stronie<br>
+d) typu przeglądarki użytkownika korzystającego ze strony internetowej wydarzenia,<br>
+e) adresu IP.<br>
+2. Powyższe informacje nie są powiązywane z konkretnymi osobami oglądającymi stronę.</p>
+<p style="font-weight: 400;">PRZETWARZANIE I UDOSTĘPNIANIE DANYCH OSOBOWYCH Z REJESTRACJI<br>
+1. Dane osobowe podane są dobrowolnie przez Uczestnika lub osobę zgłaszającą Uczestnika.</p>
+<p>2. Dane zbierane za pomocą formularzy zgłoszeniowych strony internetowej, wykorzystywane są w celu:</p>
+<p>a) zrealizowania zamówionej usługi przez Organizatora;</p>
+<p>b) działań marketingowych Organizatora oraz osób trzecich – Partnerów i Sponsorów wydarzenia. Lista Sponsorów dostępna jest na stronie Konferencji, w zakładce „Partnerzy”. Zgodnie z artykułem 6 pkt.f ustawy (prawnie uzasadnione interesy administratora i strony trzeciej), w sytuacji udostępnienia danych stronie trzeciej, Uczestnik każdorazowo zostanie o tym poinformowany przez administratora strony trzeciej wraz z przysługującymi mu prawami (w tym prawa do sprzeciwu, żądania usunięcia danych bądź ograniczenia przetwarzania).</p>
+<p>3. Nie udostępniamy Twoich danych osobom trzecim, jeśli nie udzieliłeś/aś zgody.</p>
+<p>4. Jeżeli wyraziłeś/aś zgodę na udostępnienie danych osobom trzecim, zostaną one przekazane wyłącznie firmom znajdującym się w zakładce „Partnerzy”, na stronie internetowej wydarzenia. Będą one mogły skontaktować się z Tobą drogą telefoniczną oraz mailową.</p>
+<p style="font-weight: 400;">KONTAKT Z UCZESTNIKAMI ORAZ NOTYFIKACJE</p>
+<p style="font-weight: 400;">1.Jeżeli użytkownik strony dokona rejestracji na wydarzenie, otrzyma od Organizatora e-mail potwierdzający zgłoszenie oraz inne, niezbędne informacje w celu umożliwienia realizacji usługi. W przypadku ważnych informacji dotyczących świadczonej usługi, Organizator może również kontaktować się z Uczestnikiem telefonicznie.</p>
+<p style="font-weight: 400;">INFORMACJE HANDLOWE</p>
+<p>1. Informacje handlowe (oferty, zaproszenia, informacje o wydarzeniach) będą przesyłane przy użyciu telefonu lub e-maila do czasu cofnięcia zgody.</p>
+<p style="font-weight: 400;">NEWSLETTER<br>
+1. Jeżeli wyraziłeś zgodę na&nbsp;informowanie o&nbsp;przyszłych wydarzeniach organizowanych przez Innovative Group Sp. z o.o. będziemy wysyłać do&nbsp;Ciebie wiadomości o&nbsp;nadchodzących konferencjach. W każdej chwili możesz cofnąć zgodę i&nbsp;wypisać się z&nbsp;newslettera, zgłaszając taką wolę na adres&nbsp;<a href="mailto:biuro@pureconferences.pl">biuro@pureconferences.pl</a>&nbsp;W&nbsp;przypadku cofnięcia zgody, mamy prawo przetwarzać Twój&nbsp;adres e-mail oraz&nbsp;logi pozwalające na&nbsp;ustalenie kiedy zgoda została cofnięta wyłącznie na&nbsp;potrzeby dochodzenia praw/rozstrzygania roszczeń.<br>
+W przypadku zgłoszenia sprzeciwu Uczestnika na dalsze przetwarzanie jego danych osobowych, dane zostaną usunięte w przeciągu 48 godzin, w dni robocze.</p>
+<p style="font-weight: 400;">OKRES PRZECHOWYWANIA DANYCH</p>
+<p style="font-weight: 400;">1.Informujemy, ze przekazane nam dane przetwarzane i przechowywane będą do czasu, kiedy zgoda na ich przechowywanie i przetwarzanie nie zostanie cofnięta.</p>
+<p style="font-weight: 400;">PROFILOWANIE<br>
+1.Oświadczamy, iż uczestnicy wydarzeń oraz klienci nie podlegają zautomatyzowanemu przetwarzaniu, w tym profilowaniu na zasadach określonych w art. 22 RODO.</p>
+
+		</div>
+			  </div>
+			  <div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-dismiss="modal">Zamknij</button>
+			  </div>
+			</div>
+		  </div>
+	</div>
+	
+	<div class="modal slide-up" id="exampleModal2">
+		<div class="modal-dialog modal-dialog-centered" role="document" style="width: 1000px">
+			<div class="modal-content">
+			  <div class="modal-header">
+				<h5 class="modal-title" id="exampleModalLabel">Regulamin Be Active Tour</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				  <span aria-hidden="true">&times;</span>
+				</button>
+			  </div>
+			  <div class="modal-body">
+				<object data="/pliki/regulaminbeactivetour.pdf" type="application/pdf" style="width: 910px; height: 500px; margin-top: 10px;">
+					<embed src="/pliki/regulaminbeactivetour.pdf" type="application/pdf" />
+				</object>
+			  </div>
+			  <div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-dismiss="modal">Zamknij</button>
+			  </div>
+			</div>
+		  </div>
+	</div>
+
+    <div class="row m-t-10">
+        <div class="col-md-12 m-t-10" style="text-align: center">
+            <button class="btn btn-success btn-cons m-b-40" style="margin-bottom: 80px; padding: 20px; font-size: 20px;" type="submit">Potwierdzam dane</button>
+        </div>
+    </div>
+</form>

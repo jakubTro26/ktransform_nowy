@@ -1,0 +1,159 @@
+<div class="page-container">
+  <div class="page-content-wrapper">
+	<div class="content" style="padding-bottom: 0;">
+	  <div class="container-fluid container-fixed-lg">
+		<div class="panel panel-default">
+		  <div class="panel-body">
+			<div class="invoice padding-30 sm-padding-10">
+			  <table class="table m-t-30">
+				  <tr>
+					<td style="text-align: left;">
+						<p class="small no-margin">Sprzedawca:</p>
+						<h5 class="semi-bold m-t-0">INNOVATIVE GROUP SP. Z O.O.</h5>
+						<address class="m-t-10">NIP: 5223005310<br />UL. RYŻOWA 49<br />02-495 WARSZAWA</address>
+					</td>
+					<td style="text-align: right; vertical-align: top:">
+						<div class="pull-left font-montserrat all-caps">Faktura numer: <span class="bold"><?php echo $invoice_name; ?></span></div>
+						<div class="pull-left font-montserrat m-t-10">Data wystawienia: <?php echo date('d-m-Y'); ?></div>
+					</td>
+				</tr>
+			  </table>
+			  <br>
+			  <br>
+			  <div class="container-sm-height">
+				<table class="table m-t-10">
+				  <tr>
+					<td style="text-align: left;">
+						<p class="small no-margin">Nabywca:</p>
+						<?php if($visitor_nip == '') { ?>
+							<h5 class="semi-bold m-t-0"><?php echo $visitor_firstname . ' ' . $visitor_lastname; ?></h5>
+							<address>
+								tel. <?php echo $visitor_tel; ?><br />
+								email: <?php echo $visitor_email; ?>
+							</address>
+						<?php } else { ?>
+							<h5 class="semi-bold m-t-0"><?php echo $visitor_company; ?></h5>
+							<address>
+								NIP: <?php echo $visitor_nip; ?><br />
+								<?php echo $visitor_address; ?> <?php echo $visitor_address2; ?><br />
+								<?php echo $visitor_zipcode; ?> <?php echo $visitor_city; ?><br />
+							</address>
+						<?php } ?>
+					  </td>
+					  <td style="text-align: right; vertical-align: top:">
+						<div>
+						  
+						  <div class="clearfix"></div>
+						</div>
+					  </td>
+					</tr>
+				</table>
+			  </div>
+			  <div class="table-responsive">
+				<table class="table m-t-50">
+				<?php if($visitor_nip == '') { ?>
+				  <thead>
+					<tr>
+					  <th class="text-center">Lp.</th>
+					  <th class="" style="width: 30%">Nazwa towaru lub usługi</th>
+					  <th class="text-center">Ilość</th>
+					  <th class="text-center">Jedn.</th>
+					  <th class="text-center">Cena jedn.<br />brutto</th>
+					  <th class="text-center">Wartość<br />brutto</th>
+					  <th class="text-center">Stawka<br />VAT</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					<tr>
+					  <td class="text-center">1</td>
+					  <td class="" style="width: 30%">
+							Bilet - Targi Crypto Future Expo 2018
+					  </td>
+					  <td class="text-center"><?php echo $ticket_num; ?></td>
+					  <td class="text-center">szt.</td>
+					  <td class="text-center"><?php echo $ticket_price/$ticket_num; ?></td>
+					  <td class="text-center"><?php echo $ticket_price; ?></td>
+					  <td class="text-center">23%</td>
+					</tr>
+				  </tbody>
+				  <?php } else { ?> 
+					<thead>
+					<tr>
+					  <th class="text-center">Lp.</th>
+					  <th class="" style="width: 30%">Nazwa towaru lub usługi</th>
+					  <th class="text-center">Ilość</th>
+					  <th class="text-center">Jedn.</th>
+					  <th class="text-center">Cena jedn.<br />netto</th>
+					  <th class="text-center">Wartość<br />netto</th>
+					  <th class="text-center">Stawka<br />VAT</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					<tr>
+					  <td class="text-center">1</td>
+					  <td class="" style="width: 30%">
+							Bilet - Targi Crypto Future Expo 2018
+					  </td>
+					  <td class="text-center"><?php echo $ticket_num; ?></td>
+					  <td class="text-center">szt.</td>
+					  <td class="text-center"><?php $netto = ($ticket_price/1.23); echo number_format($netto/$ticket_num, 2); ?></td>
+					  <td class="text-center"><?php echo number_format($netto, 2); ?></td>
+					  <td class="text-center">23%</td>
+					</tr>
+				  </tbody>
+				  <?php } ?>
+				</table>
+			  </div>
+			  <div class="container-sm-height m-t-50 m-b-0">
+					<h5 class="semi-bold m-t-0">Podsumowanie</h5>
+                    <div class="row row-sm-height b-a b-grey">
+                      <table class="table m-t-0">
+						  <thead>
+							<tr>
+							  <th class="text-right"></th>
+							  <th class="text-center">Stawka VAT.</th>
+							  <th class="text-center">Wartość netto</th>
+							  <th class="text-center">VAT</th>
+							  <th class="text-center">Wartość brutto</th>
+							</tr>
+						  </thead>
+						  <tbody>
+						  <tr>
+							  <td class="text-right"></td>
+							  <td class="text-center">23%</td>
+							  <td class="text-center"><?php $netto = ($ticket_price/1.23); echo number_format($netto, 2); ?></td>
+							  <td class="text-center"><?php echo $ticket_price-number_format($netto, 2); ?></td>
+							  <td class="text-center"><?php echo $ticket_price; ?></td>
+							</tr>
+							<tr>
+							  <td class="text-right">Razem:</td>
+							  <td class="text-center"></td>
+							  <td class="text-center"><?php echo number_format($netto, 2); ?></td>
+							  <td class="text-center"><?php echo $ticket_price-number_format($netto, 2); ?></td>
+							  <td class="text-center"><?php echo $ticket_price; ?></td>
+							</tr>
+							<tr>
+							  <td class="text-right">Zapłacono:</td>
+							  <td class="text-center"></td>
+							  <td class="text-center"></td>
+							  <td class="text-center"></td>
+							  <td class="text-center"><?php echo $ticket_price; ?></td>
+							</tr>
+							<tr>
+							  <td class="text-right">Pozostało do zapłaty:</td>
+							  <td class="text-center"></td>
+							  <td class="text-center"></td>
+							  <td class="text-center"></td>
+							  <td class="text-center">0,00</td>
+							</tr>
+						  </tbody>
+						</table>
+                    </div>
+                  </div>
+			</div>
+		  </div>
+		</div>
+	  </div>
+	</div>
+  </div>
+</div>

@@ -1,0 +1,46 @@
+<form role="form" id="form" action="/ajax/visitor/bon/edit/<?php echo $id; ?>" method="post">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Kod</label>
+                <input id="bon_code" type="text" class="form-control" value="<?php echo $result['bon_code']; ?>" name="bon_code">
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Zniżka (w %)</label>
+                <input id="bon_discount" type="text" class="form-control" value="<?php echo $result['bon_discount']; ?>" name="bon_discount">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="form-group form-group-default">
+                <label>Aktywny</label>
+                <select name="bon_active">
+                    <option <?php if($result['bon_active'] == 1) echo 'selected="selected"'; ?> value="1">tak</option>
+                    <option <?php if($result['bon_active'] == 0) echo 'selected="selected"'; ?> value="0">nie</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="form-group form-group-default">
+                <label>Data ważności</label>
+                <input id="daterangepicker" type="text" class="form-control" value="<?php echo $result['bon_start_date'] . ' - ' . $result['bon_end_date']; ?>" name="bon_start_date">
+            </div>
+        </div>
+    </div>
+</form>
+
+<script>
+    $(document).ready(function (e) {
+        $('#daterangepicker').daterangepicker({
+            timePicker: false,
+            format: 'YYYY-MM-DD hh:mm'
+        }, function(start, end, label) {
+            console.log(start.toISOString(), end.toISOString(), label);
+        });
+    });
+</script>

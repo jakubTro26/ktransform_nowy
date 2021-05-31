@@ -1,0 +1,160 @@
+<!-- START PAGE CONTENT WRAPPER -->
+<div class="page-content-wrapper">
+    <!-- MODAL STICK UP  -->
+    <div class="modal fade stick-up" id="addNewAppModal" tabindex="-1" role="dialog" aria-labelledby="addNewAppModal"
+         aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header clearfix ">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i
+                            class="pg-close fs-14"></i>
+                    </button>
+                    <h4 class="p-b-5"><span class="semi-bold">Uczestnicy</span> edycja</h4>
+                </div>
+                <div class="modal-body">
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" data-dismiss="modal" class="btn btn-cons">Zamknij</button>
+                    <button id="add-app" type="button" class="btn btn-primary  btn-cons">Zapisz</button>
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+
+    <div class="modal fade stick-up" id="addNewAppDelete" tabindex="-1" role="dialog" aria-labelledby="addNewAppDelete"
+         aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header clearfix ">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i
+                            class="pg-close fs-14"></i>
+                    </button>
+                    <h4 class="p-b-5"><span class="semi-bold">Uczestnicy</span> potwierdzenie usunięcia</h4>
+                </div>
+                <div class="modal-body">
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" data-dismiss="modal" class="btn btn-cons">Anuluj</button>
+                    <button id="delete-app" type="button" class="btn btn-primary  btn-cons">Usuń</button>
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+    <!-- END MODAL STICK UP  -->
+    <!-- START PAGE CONTENT -->
+    <div class="content">
+
+        <!-- START CONTAINER FLUID -->
+        <div class="container-fluid container-fixed-lg">
+            <!-- START PANEL -->
+            <div class="panel panel-transparent">
+                <div class="panel-heading">
+                    <div class="panel-title">Lista uczestników</div>
+                    <div class="pull-right">
+                        
+						<div class="col-xs-6">
+							<input type="text" id="search-table" class="form-control pull-right" placeholder="Search">
+						</div>
+						
+						<div class="col-xs-6">
+                            <button  data-toggle="modal" href="/ajax/visitor/edit" data-remote="false" data-target="#addNewAppModal" class="btn btn-primary btn-cons"><i class="fa fa-plus"></i> Dodaj
+                                nowego
+                            </button>
+							<a href="/admin/visitor/csv" class="btn btn-info btn-cons"><i class="far fa-file-alt"></i> Pobierz CSV</a>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="panel-body">
+                    <table class="table table-hover demo-table-dynamic" id="tableWithDynamicRows">
+                        <thead>
+                        <tr>
+                            <th>Osoba</th>
+							<th>Bilet</th>
+							<th>Kwota</th>
+                            <th>Firma</th>
+                            <th>Warsztaty</th>
+                            <th>Telefon, email</th>
+                            <th>Data rejestracji</th>
+                            <th>Aktywny</th>
+                            <th>Akcje</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <?php foreach($result as $row) { ?>
+                            <tr>
+                                <td class="v-align-middle">
+                                    <p>
+										<?php echo $row['visitor_firstname']; ?> <?php echo $row['visitor_lastname']; ?>
+									</p>
+									<?php if($row['parent_id'] > 0) { ?><p style="color: <?php echo ($row['parent']['payment']['payment_success'] == 1 ? 'green' : 'orange'); ?>; font-size: 11px; line-height: 12px; font-weight: bold;">Bilet dodatkowy od:<br /><?php foreach($resultParent[$row['parent_id']] as $parent) { ?><?php echo $parent['visitor_firstname']; ?> <?php echo $parent['visitor_lastname']; } ?></p><?php } ?>
+                                </td>
+								<td class="v-align-middle">
+								<?php if($row['ticketDarmowy'] ==1) { ?>
+									<p>Bilet darmowy</p>
+								<?php } else { ?>
+                                    <p><?php echo $ticket[$row['payment']['ticket_type_id']]; echo ($row['payment']['ticket_type_additional'] == 1 ? '<br />+ Be Active Tour' : ''); ?></p>
+                                <?php } ?>
+								</td>
+								<td class="v-align-middle">
+								<?php if($row['ticketDarmowy'] ==1) { ?>
+									<p>Wystawca</p>
+								<?php } else { ?>
+								<?php if($row['parent_id'] == 0) { ?>
+                                    <p><?php echo $row['payment']['payment_amount']; ?> PLN<br /><?php echo ($row['payment']['payment_success'] == 1 ? '<span style="color: green; font-weight: bold;">ZAPŁACONE<br />(' . $row['payment']['payment_success_date'] . ')</span>' : '<span style="color: orange;">NIEZAPŁACONE</span>'); ?>
+									<?php echo ($row['payment']['bon_id'] > 0 ? '<br /><b>BON</b>: ' . $bon[$row['payment']['bon_id']] . ' (' . $row['payment']['bon_discount'] . '%)' : ''); ?>
+									<?php if($row['parent_id'] == 0 && array_key_exists($row['visitor_id'], $resultParent)) { ?>
+											<strong>Bilety dodatkowe: <?php echo count($resultParent[$row['visitor_id']]); ?></strong><br />
+											<?php foreach($resultParent[$row['visitor_id']] as $parent) { ?>
+												<a href="/ajax/visitor/ticket/<?php echo $parent['visitor_id']; ?>" class="btn btn-info" style="padding: 4px; margin: 2px;" title="Pobierz wejściówkę"><i class="fa fa-file-pdf-o"></i> <?php echo $parent['visitor_firstname']; ?> <?php echo $parent['visitor_lastname']; ?></a>
+											<?php } ?>
+									<?php } ?>
+									</p>
+								<?php } } ?>
+                                </td>
+                                <td class="v-align-middle">
+                                    <p><?php echo $row['visitor_company']; ?></p>
+                                </td>
+								<td class="v-align-middle"> 
+								<?php $tmpWarsztaty = explode(',', $row['payment']['ticket_type_additional']); ?>
+                                    <p><?php foreach($tmpWarsztaty as $war) { echo '<a href="#" style="margin: 2px; padding: 3px; font-size: 11px;" class="btn btn-tag">' . $warsztaty[$war] . '</a>'; } ?></p>
+                                </td>
+                                <td class="v-align-middle">
+                                    <p><?php echo $row['visitor_tel']; ?><br /><?php echo $row['visitor_email']; ?></p>
+                                </td>
+								<td class="v-align-middle">
+                                    <p><?php echo $row['visitor_registerdate']; ?></p>
+                                </td>
+                                <td class="v-align-middle" style="text-align: center;">
+                                    <p><?php echo ($row['visitor_accepted'] == 1 ? '<i class="fa fa-check-circle-o text-success" aria-hidden="true" style="font-size: 16px; padding: 5px;"></i><br /><button name="" data-hash="'.$row["visitor_hash"].'" data-id="'.$row["visitor_id"].'" class="activate_again btn btn-primary" style="margin-top: 5px;">Wyślij wejściówkę na email</button>' : '<i class="fa fa-minus-circle text-danger" style="font-size: 16px; padding: 5px;" aria-hidden="true"></i><br /><button name="" data-hash="'.$row["visitor_hash"].'" data-id="'.$row["visitor_id"].'" class="activate btn btn-complete" style="margin-top: 5px;">Aktywuj</button>'); ?></p>
+                                </td>
+                                <td  style="width: 90px;">
+                                    <div class="btn-group btn-group-xs">
+                                        <a href="/ajax/visitor/ticket/<?php echo $row['visitor_id']; ?>" class="btn btn-info" title="Pobierz wejściówkę"><i class="fa fa-file-pdf-o"></i>
+                                        </a>
+										<?php if($row['parent_id'] == 0) { ?><a href="/ajax/visitor/invoice/<?php echo $row['visitor_id']; ?>" class="btn btn-error" title="Pobierz fakturę"><i class="fa fa-file-pdf-o"></i>
+                                        </a><?php } ?>
+                                        <button type="button" data-toggle="modal" href="/ajax/visitor/edit/<?php echo $row['visitor_id']; ?>" data-remote="false" data-target="#addNewAppModal" class="btn btn-success"><i class="fa fa-pencil"></i>
+                                        </button>
+                                        <button type="button" data-toggle="modal" href="/ajax/visitor/delete/<?php echo $row['visitor_id']; ?>" data-remote="false" data-target="#addNewAppDelete" class="btn btn-warning"><i class="fa fa-trash-o"></i>
+                                        </button>
+                                    </div>
+                                </td>
+                            </tr>
+                        <?php } ?>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!-- END PANEL -->
+        </div>
+        <!-- END CONTAINER FLUID -->
+
+    </div>
+    <!-- END PAGE CONTENT -->

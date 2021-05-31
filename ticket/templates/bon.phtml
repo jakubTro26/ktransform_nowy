@@ -1,0 +1,118 @@
+<!-- START PAGE CONTENT WRAPPER -->
+<div class="page-content-wrapper">
+    <!-- MODAL STICK UP  -->
+    <!-- MODAL STICK UP  -->
+    <div class="modal fade stick-up" id="addNewAppModal" tabindex="-1" role="dialog" aria-labelledby="addNewAppModal"
+         aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header clearfix ">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i
+                            class="pg-close fs-14"></i>
+                    </button>
+                    <h4 class="p-b-5"><span class="semi-bold">Bon</span> edycja</h4>
+                </div>
+                <div class="modal-body">
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" data-dismiss="modal" class="btn btn-cons">Zamknij</button>
+                    <button id="add-app" type="button" class="btn btn-primary  btn-cons">Zapisz</button>
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+
+    <div class="modal fade stick-up" id="addNewAppDelete" tabindex="-1" role="dialog" aria-labelledby="addNewAppDelete"
+         aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header clearfix ">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i
+                            class="pg-close fs-14"></i>
+                    </button>
+                    <h4 class="p-b-5"><span class="semi-bold">Bon</span> potwierdzenie usunięcia</h4>
+                </div>
+                <div class="modal-body">
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" data-dismiss="modal" class="btn btn-cons">Anuluj</button>
+                    <button id="delete-app" type="button" class="btn btn-primary  btn-cons">Usuń</button>
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+    <!-- END MODAL STICK UP  -->
+    <!-- START PAGE CONTENT -->
+    <div class="content">
+
+        <!-- START CONTAINER FLUID -->
+        <div class="container-fluid container-fixed-lg">
+            <!-- START PANEL -->
+            <div class="panel panel-transparent">
+                <div class="panel-heading">
+                    <div class="panel-title">Lista bonów</div>
+                    <div class="pull-right">
+                        <div class="col-xs-12">
+                            <button  data-toggle="modal" href="/ajax/visitor/bon/edit" data-remote="false" data-target="#addNewAppModal" class="btn btn-primary btn-cons"><i class="fa fa-plus"></i> Dodaj
+                                nowy bon
+                            </button>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="panel-body">
+                    <table class="table table-hover demo-table-dynamic" id="tableWithDynamicRows">
+                        <thead>
+                        <tr>
+                            <th>Kod</th>
+                            <th>Zniżka</th>
+                            <th>Data start</th>
+                            <th>Data stop</th>
+                            <th>Aktywny</th>
+                            <th>Akcje</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <?php foreach($result as $row) { ?>
+                            <tr>
+                                <td class="v-align-middle">
+                                    <p><?php echo $row['bon_code']; ?></p>
+                                </td>
+                                <td class="v-align-middle">
+                                    <p><?php echo $row['bon_discount']; ?> %</p>
+                                </td>
+                                <td class="v-align-middle">
+                                    <p><?php echo $row['bon_start_date']; ?></p>
+                                </td>
+                                <td class="v-align-middle">
+                                    <p><?php echo $row['bon_end_date']; ?></p>
+                                </td>
+                                <td class="v-align-middle">
+                                    <p><?php if($row['bon_active'] == 1) { ?><span style="color: green">aktywny</span><?php } else { ?><span style="color: red">nieaktywny</span><?php } ?></p>
+                                </td>
+                                <td  style="width: 70px;">
+                                    <div class="btn-group btn-group-xs">
+                                        <button type="button" data-toggle="modal" href="/ajax/visitor/bon/edit/<?php echo $row['ticket_bon_id']; ?>" data-remote="false" data-target="#addNewAppModal" class="btn btn-success"><i class="fa fa-pencil"></i>
+                                        </button>
+                                        <button type="button" data-toggle="modal" href="/ajax/visitor/bon/delete/<?php echo $row['ticket_bon_id']; ?>" data-remote="false" data-target="#addNewAppDelete" class="btn btn-warning"><i class="fa fa-trash-o"></i>
+                                        </button>
+                                    </div>
+                                </td>
+                            </tr>
+                        <?php } ?>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!-- END PANEL -->
+        </div>
+        <!-- END CONTAINER FLUID -->
+
+    </div>
+    <!-- END PAGE CONTENT -->

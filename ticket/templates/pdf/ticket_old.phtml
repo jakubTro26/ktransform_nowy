@@ -1,0 +1,32 @@
+<page format="A5" orientation="P" backcolor="#ffffff" style="font: arial;" margin-top="0" margin-bottom="0" backleft="0mm" backright="0mm">
+<table style="width: 100%;">
+    <tr>
+        <td style="text-align: center;">
+            <div style="margin-top: 5px">
+				<table>
+					<tr>
+						<td style="height: 26mm; font-size: 30px; font-weight: bold;"><img src="<?php echo $public_url; ?>/images/CryptoFutureFinalExpoTransparent.png" style="width: 280px; margin-bottom: 20px;"></td>
+					</tr>
+					<tr>
+						<td style="font-size: 17px; height: 30mm; clear: both; line-height: 30px; padding-right: 15px;">20 września 2018<br />Warszawa</td>
+					</tr>
+					<tr>
+						<td style="height: 30mm; clear: both; line-height: 30px; padding-right: 15px;"><span style="font-size: 25px; font-weight: bold;"><?php echo $ticket_name; if($ticketDarmowy == 1) echo 'Wystawca'; ?></span>
+						<?php if($ticket_additional != '') { $tmpWarsztaty = explode(',', $ticket_additional); ?><br /><span style="font-size: 17px;">Warsztaty: <?php foreach($tmpWarsztaty as $war) { echo $warsztaty[$war] . ' '; } ?></span><?php } ?>
+						</td>
+					</tr>
+					<tr>
+						<td style="clear: both; height: 50mm; font-size: 25px; vertical-align: middle;"><img src="<?php echo $public_url . $visitor_qr; ?>" style="width: 150px;"></td>
+					</tr>
+					<tr>
+						<td style="text-align: center; font-size: 25px; height: 40mm; clear: both; margin-top: 15px; padding-right: 12px;"><?php echo $visitor_firstname; ?> <?php echo $visitor_lastname; ?><?php if($visitor_type == 2) { ?><br /><?php echo $visitor_company; ?><?php } ?></td>
+					</tr>
+					<tr>
+						<td style="text-align: center; font-size: 25px; height: 40mm; clear: both; padding-right: 12px; margin-top: 15px;"><div><img src="<?php echo $public_url; ?>/data/loga/ada.jpg" style="height: 150px;"></div></td>
+					</tr>
+				</table>
+            </div>
+        </td>
+    </tr>
+</table>
+</page>

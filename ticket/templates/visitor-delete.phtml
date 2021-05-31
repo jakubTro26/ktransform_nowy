@@ -1,0 +1,4 @@
+<form role="form" id="form" action="/ajax/visitor/delete/<?php echo $id; ?>" method="post">
+    <input type="hidden" name="id" value="<?php echo $id; ?>" />
+    <h5>Na pewno chcesz usunąć odwiedzającego <strong><?php echo $result['visitor_firstname']; ?> <?php echo $result['visitor_lastname']; ?></strong>?</h5>
+</form>

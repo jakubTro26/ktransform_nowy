@@ -1,0 +1,77 @@
+<?php
+    $platnosc = array(
+        '1' => 'karta',
+        '2' => 'gotówka',
+        '3' => 'anulowano'
+    );
+
+    $dzien = array(
+        'Thursday' => 'czwartek',
+        'Friday' => 'piątek',
+        'Saturday' => 'sobota',
+        'Sunday' => 'niedziela',
+    );
+?>
+
+<!-- START PAGE CONTENT WRAPPER -->
+<div class="page-content-wrapper">
+
+    <!-- START PAGE CONTENT -->
+    <div class="content">
+
+        <!-- START CONTAINER FLUID -->
+        <div class="container-fluid container-fixed-lg">
+            <!-- START PANEL -->
+            <div class="panel panel-transparent">
+                <div class="panel-heading">
+                    <div class="panel-title">Rozliczenie kas</div>
+                    <div class="pull-right">
+                        <div class="col-xs-6">
+                            <input type="text" id="search-table" class="form-control pull-right" placeholder="Search">
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="panel-body">
+                    <table class="table table-hover demo-table-dynamic" id="tableWithDynamicRows">
+                        <thead>
+                            <tr>
+                                <th>Kasjer</th>
+                                <th>Dzień</th>
+                                <th>Rodzaj płatności</th>
+                                <th>Suma</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        <?php $suma = 0; foreach($kasjerList as $row) { ?>
+                        <tr>
+                            <td class="v-align-middle">
+                                <p><?php echo $row['visitor_kasa']; ?></p>
+                            </td>
+                            <td class="v-align-middle">
+                                <p><?php echo $dzien[$row['dzien']]; ?></p>
+                            </td>
+                            <td class="v-align-middle">
+                                <p><?php echo $platnosc[$row['platnosc']]; ?></p>
+                            </td>
+                            <td class="v-align-middle">
+                                <p><?php echo $row['suma']; $suma += $row['suma']; ?> zł</p>
+                            </td>
+                        </tr>
+                        <?php } ?>
+						<tr>
+							<td><strong>SUMA</strong></td>
+							<td></td>
+							<td></td>
+							<td><strong><?php echo $suma; ?> zł</strong></td>
+						</tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!-- END PANEL -->
+        </div>
+        <!-- END CONTAINER FLUID -->
+
+    </div>
+    <!-- END PAGE CONTENT -->

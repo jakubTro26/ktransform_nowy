@@ -1,0 +1,159 @@
+<?php include(dirname(__FILE__) . '/../partial/header.phtml'); ?>
+<body class="fixed-header   ">
+    <!-- BEGIN SIDEBPANEL-->
+    <nav class="page-sidebar" data-pages="sidebar">
+        <?php include(dirname(__FILE__) . '/../partial/sidebar_header.phtml'); ?>
+        <?php include(dirname(__FILE__) . '/../partial/sidebar.phtml'); ?>
+    </nav>
+    <div class="page-container">
+        <!-- START PAGE CONTENT WRAPPER -->
+        <div class="page-content-wrapper">
+            <!-- END SIDEBPANEL-->
+            <div class="page-container">
+                <?php include(dirname(__FILE__) . '/../partial/top.phtml'); ?>
+                <?php echo $content; ?>
+            </div>
+            <!-- START COPYRIGHT -->
+            <!-- START CONTAINER FLUID -->
+            <div class="container-fluid container-fixed-lg footer">
+                <div class="copyright sm-text-center">
+                    <p class="small no-margin pull-left sm-pull-reset">
+                        <span class="hint-text">Copyright © <?php echo date('Y'); ?> </span>
+                        <span class="font-montserrat">Lemonbee</span>.
+                        <span class="hint-text">All rights reserved. </span>
+
+                    </p>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+            <!-- END COPYRIGHT -->
+        </div>
+        <!-- END PAGE CONTENT WRAPPER -->
+    </div>
+    <script src="/assets/plugins/pace/pace.min.js" type="text/javascript"></script>
+    <script src="/assets/plugins/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+    <script src="/assets/plugins/modernizr.custom.js" type="text/javascript"></script>
+    <script src="/assets/plugins/jquery-ui/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="/assets/plugins/boostrapv3/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/assets/plugins/jquery/jquery-easy.js" type="text/javascript"></script>
+    <script src="/assets/plugins/jquery-unveil/jquery.unveil.min.js" type="text/javascript"></script>
+    <script src="/assets/plugins/jquery-bez/jquery.bez.min.js"></script>
+    <script src="/assets/plugins/jquery-ios-list/jquery.ioslist.min.js" type="text/javascript"></script>
+    <script src="/assets/plugins/jquery-actual/jquery.actual.min.js"></script>
+    <script src="/assets/plugins/jquery-scrollbar/jquery.scrollbar.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/bootstrap-select2/select2.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/classie/classie.js"></script>
+    <script src="/assets/plugins/switchery/js/switchery.min.js" type="text/javascript"></script>
+    <script src="/assets/plugins/jquery-datatable/media/js/jquery.dataTables.min.js" type="text/javascript"></script>
+    <script src="/assets/plugins/jquery-datatable/extensions/TableTools/js/dataTables.tableTools.min.js"
+            type="text/javascript"></script>
+    <script src="/assets/plugins/jquery-datatable/extensions/Bootstrap/jquery-datatable-bootstrap.js"
+            type="text/javascript"></script>
+    <script type="text/javascript" src="/assets/plugins/datatables-responsive/js/datatables.responsive.js"></script>
+    <script type="text/javascript" src="/assets/plugins/datatables-responsive/js/lodash.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/moment/moment.min.js"></script>
+    <script src="/assets/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js" type="text/javascript"></script>
+    <script src="/assets/plugins/bootstrap-daterangepicker/daterangepicker.js"></script>
+
+
+    <!-- END VENDOR JS -->
+    <!-- BEGIN CORE TEMPLATE JS -->
+    <script src="/pages/js/pages.min.js"></script>
+    <!-- END CORE TEMPLATE JS -->
+    <!-- BEGIN PAGE LEVEL JS -->
+    <script src="/assets/js/datatables.js" type="text/javascript"></script>
+    <script src="/assets/js/scripts.js" type="text/javascript"></script>
+    <!-- END PAGE LEVEL JS -->
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#addNewAppModal").on("show.bs.modal", function(e) {
+                var link = $(e.relatedTarget);
+                $(this).find(".modal-body").load(link.attr("href"));
+            });
+
+            $("#addNewAppDelete").on("show.bs.modal", function(e) {
+                var link = $(e.relatedTarget);
+                $(this).find(".modal-body").load(link.attr("href"));
+            });
+
+            $("#add-app").on("click", function(e) {
+                $.ajax({
+                    type: 'POST',
+                    url: $('#form').attr('action'),
+                    data: $('#form').serialize()
+                }).done(function( data ) {
+                    if(data.status == 'success') {
+                        $('body').pgNotification({style:'flip',message:'Dane zostały zapisane.',position:'top-right',timeout:2000,type:'success'}).show();
+                        setTimeout(function(){
+                            location.reload();
+                        },2000);
+                    }
+
+                    if(data.status == 'error') {
+                        $('body').pgNotification({style:'flip',message:'Błąd! Istnieje powiązana rezerwacja.',position:'top-right',timeout:4000,type:'error'}).show();
+                    }
+
+                    $('#addNewAppModal').modal('hide');
+                })
+            });
+
+            $("#delete-app").on("click", function(e) {
+                $.ajax({
+                    type: 'POST',
+                    url: $('#form').attr('action'),
+                    data: $('#form').serialize()
+                }).done(function( data ) {
+                    if(data.status == 'success') {
+                        $('body').pgNotification({style:'flip',message:'Dane zostały usunięte.',position:'top-right',timeout:2000,type:'success'}).show();
+                        setTimeout(function(){
+                            location.reload();
+                        },2000);
+                    }
+
+                    if(data.status == 'error') {
+                        $('body').pgNotification({style:'flip',message:'Nie można usunąć danych. Istnieje powiązana rezerwacja.',position:'top-right',timeout:4000,type:'error'}).show();
+                    }
+
+                    $('#addNewAppDelete').modal('hide');
+                })
+            });
+
+            $(".activate").on("click", function(e) {
+                var _this = $(this);
+                if (confirm("Na pewno aktywować uczestnika? Pamiętaj, że podczas aktywacji wysyłana jest wygenerowana wejściówka na adres email uczestnika.") == true) {
+                    $.ajax({
+                        type: 'GET',
+                        url: '/ajax/visitor/accept/' + _this.data('hash') + '/' + _this.data('id')
+                    }).done(function( data ) {
+                        if(data.status == 'success') {
+                            $('body').pgNotification({style:'flip',message:'Uczestnik został aktywowany. Wejściówka została wysłana na adres email.',position:'top-right',timeout:2000,type:'success'}).show();
+                            setTimeout(function(){
+                                location.reload();
+                            },2000);
+                        }
+                    })
+                }
+            });
+			
+			$(".activate_again").on("click", function(e) {
+                var _this = $(this);
+                if (confirm("Operacja spowoduje ponowne wygenerowania maila z wejściówką dla uczestnika. Zgadzasz się?.") == true) {
+                    $.ajax({
+                        type: 'GET',
+                        url: '/ajax/visitor/accept/' + _this.data('hash') + '/' + _this.data('id')
+                    }).done(function( data ) {
+                        if(data.status == 'success') {
+                            $('body').pgNotification({style:'flip',message:'Wejściówka została wysłana ponownie do użytkownika.',position:'top-right',timeout:2000,type:'success'}).show();
+                            setTimeout(function(){
+                                location.reload();
+                            },2000);
+                        }
+                    })
+                }
+            });
+			
+        })
+    </script>
+</body>
+<?php include(dirname(__FILE__) . '/../partial/footer.phtml'); ?>

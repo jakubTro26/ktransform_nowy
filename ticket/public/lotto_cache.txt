@@ -1,0 +1,1034 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xmlns:fb="http://ogp.me/ns/fb#"
+	xml:lang="pl"
+	lang="pl"
+	dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Wyniki gier | Lotto, Kaskada, Multi Multi, Mini Lotto, Zdrapki - lotto.pl</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="fb:app_id" content=""/>
+
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//lottocdn.directtraffic.pl" />
+<link rel="shortcut icon" href="http://lottocdn.directtraffic.pl/sites/default/files/basic_favicon_1.ico" type="image/x-icon" />
+<meta name="keywords" content="lotto,milionerzy,multi multi,kaskada,mini lotto,keno,wyniki" />
+<meta name="description" content="Zapraszamy na lotto.pl zawsze aktualne wyniki, wygrane, statystyki, archiwa, losowania na żywo - wszystko jest tutaj!" />
+<meta name="revisit-after" content="7 days" />
+<!-- CSS aggregated by CDN module. -->
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_19419753361ff107a7206913a83c1755_zdrapka_style.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_180932ec7725832548cd81bdd2b298c4_wysokie_wygrane.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_c5cb86a30725052b8df2ac195bcfad07_node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_eb802ae98034b21e5fdeebc90948e8e1_defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_ed75d6b6affda6c5d900ff7290a9e8f4_system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_60d86dd7f3579ddc7cc010a8c3e9883e_system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_6c56919c25d174ad562f6ef7939bd5ac_user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_e02300eabf450d3865ccdea7243b0dad_content-module.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_9ced1b2536833078fa08ad07cea746dd_colorbox.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_366a05d67b61a4b28759d6a0eb20a7ca_ctools.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_66867e469ec796dd8a03c4aadf2c60e0_custompage.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_45e61aca0482bccd5519ebbb07115367_date.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_2e49565bbe199ede4c68774a9b334553_datepicker.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_ac9f3cab750a1ea8374f65e1be766d70_jquery.timeentry.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_891f58eb697db35f51bc559af3c0bf1c_filefield.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_c8dbe9f7ceee0d2fecf02a9924c10845_panels.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_fb1ecbbc7f37aa2c3d3c04b42048bdae_thickbox.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_474a7fffc3bf28cbdeccecccc9be339d_thickbox_ie.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_08fec888b89cffb0af404966d08f55d7_fieldgroup.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_d81c0a10045c473bde636edd5bce4a25_views.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_b027de7772840cc88a747f52a418380f_style.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_c533b8ebc2051f51b8068c5750856e7d_style_2.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_b9e4d9278345254b695dc3acbde2b7da_style_3.css" />
+<link type="text/css" rel="stylesheet" media="print" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_579737e5f0f556facf38a21ee9b1744c_print.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="http://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_http_aa3bf82b4c0ca5072601ef5acb97e3a6_tabs.css" />
+<!-- CSS aggregated by CDN module. -->
+
+<script type="text/javascript" src="http://lottocdn.directtraffic.pl/sites/all/modules/jquery_update/replace/jquery.min.js?j"></script>
+<script type="text/javascript" src="http://lottocdn.directtraffic.pl/misc/drupal.js?j"></script>
+<script type="text/javascript" src="http://lottocdn.directtraffic.pl/sites/default/files/languages/pl_ef79c334ec72a0a7849032bca763887f.js?j"></script>
+<script type="text/javascript" src="http://lottocdn.directtraffic.pl/sites/all/modules/beautytips/js/jquery.bt.min.js?j"></script>
+<script type="text/javascript" src="http://lottocdn.directtraffic.pl/sites/all/modules/beautytips/js/beautytips.js?j"></script>
+<script type="text/javascript" src="http://lottocdn.directtraffic.pl/sites/all/libraries/colorbox/colorbox/jquery.colorbox-min.js?j"></script>
+<script type="text/javascript" src="http://lottocdn.directtraffic.pl/sites/all/modules/colorbox/js/colorbox.js?j"></script>
+<script type="text/javascript" src="http://lottocdn.directtraffic.pl/sites/all/modules/colorbox/js/colorbox_load.js?j"></script>
+<script type="text/javascript" src="http://lottocdn.directtraffic.pl/sites/all/modules/colorbox/js/colorbox_inline.js?j"></script>
+<script type="text/javascript" src="http://lottocdn.directtraffic.pl/sites/all/modules/google_analytics/googleanalytics.js?j"></script>
+<script type="text/javascript" src="http://lottocdn.directtraffic.pl/sites/all/modules/panels/js/panels.js?j"></script>
+<script type="text/javascript" src="http://lottocdn.directtraffic.pl/sites/all/modules/thickbox/thickbox.js?j"></script>
+<script type="text/javascript" src="http://lottocdn.directtraffic.pl/sites/all/themes/basic/js/jquery.tinycarousel.min.js?j"></script>
+<script type="text/javascript" src="http://lottocdn.directtraffic.pl/sites/all/themes/basic/js/jquery.bxSlider.min.js?j"></script>
+<script type="text/javascript" src="http://lottocdn.directtraffic.pl/sites/all/themes/basic/js/swfobject.js?j"></script>
+<script type="text/javascript" src="http://lottocdn.directtraffic.pl/sites/all/themes/basic/js/scripts.js?j"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","beautytips":{".beautytips":{"fill":"#F7F7F7","padding":8,"strokeStyle":"#B7B7B7","cornerRadius":0,"cssStyles":{"fontFamily":"\"lucida grande\",tahoma,verdana,arial,sans-serif","fontSize":"11px"},"cssSelect":".beautytips","list":["fill","padding","strokeStyle","cornerRadius","cssStyles"]}},"colorbox":{"transition":"elastic","speed":350,"opacity":"0.85","slideshow":false,"slideshowAuto":false,"slideshowSpeed":2500,"slideshowStart":"","slideshowStop":"","current":"{current} z {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Zamknij","overlayClose":true,"maxWidth":"100%","maxHeight":"100%"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"thickbox":{"close":"Zamknij","next":"Nast\u0119pny \u003e","prev":"\u003c Poprzedni","esc_key":" ","next_close":"Next \/ Close on last","image_count":"!current z !total"}});
+//--><!]]>
+</script>
+
+</head>
+
+<body class="not-front not-logged-in page-wyniki-gier no-sidebars lotto lotto_podstrona with-navigation page-wyniki-gier section-wyniki-gier">
+	<!-- Google Tag Manager -->
+		<noscript>
+			<iframe src="//www.googletagmanager.com/ns.html?id=GTM-TX8FC5"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<script>
+			(function(w, d, s, l, i) {
+				w[l] = w[l] || [];
+				w[l].push({
+					'gtm.start' : new Date().getTime(),
+					event : 'gtm.js'
+				});
+				var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore(j, f);
+			})(window, document, 'script', 'dataLayer', 'GTM-TX8FC5');
+		</script>
+	<!-- End Google Tag Manager -->
+	<noscript>
+		<div class="no_script_info">Do poprawnego korzystania z serwisu
+			konieczne jest włączenie obsługi języka Java Script.</div>
+	</noscript>
+
+	<!--[if lte IE 6]>
+		<div class="no_script_info">
+			Do poprawnego korzystania z serwisu konieczna jest nowsza wersja przeglądarki Internet Explorer.
+		</div>
+	<![endif]-->
+	
+			<div id="header">
+		<div id="logo-title">
+						<a href="/"
+				title="Strona główna" rel="home" id="logo"> <img
+				src="http://lottocdn.directtraffic.pl/sites/default/files/basic_logo.png" alt="Strona główna" />
+			</a>
+					</div>
+		<div id="header-region">
+						  	<script type="text/javascript" src="http://lottocdn.directtraffic.pl/sites/all/modules/jcarousel/js/jquery.jcarousel.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+		var startindex = $("#block-menu_block-1 ul li").index( jQuery('.active'))+1;
+		if(startindex>9) var startindex=startindex-7;
+		else var startindex=1;
+		
+		jQuery("#block-menu_block-1 .content").jcarousel({
+			scroll: 1,
+			visible: 8,
+			buttonNextHTML: null,
+			buttonPrevHTML: null,
+			start: startindex
+		});
+
+		jQuery("a").focus(function() {
+			$(this).blur();
+			});
+	});
+</script>
+<div id="block-menu_block-1" class="block block-menu_block block-header block-id-28 clearfix odd ">
+    <div class="block_top"></div>
+        <div class="content">
+      <div class="jcarousel-prev"></div>
+      <div class="menu-block-1 menu-name-primary-links parent-mlid-1163 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-711 has-children lotto"><a href="/lotto" class="gra_lotto">Lotto</a></li>
+<li class="leaf menu-mlid-27474 has-children ekstra_pensja"><a href="/ekstra-pensja" class="gra_ekstra_pensja">Ekstra pensja</a></li>
+<li class="leaf menu-mlid-716 has-children multi_multi"><a href="/multi-multi" class="gra_multi_multi">Multi Multi</a></li>
+<li class="leaf menu-mlid-718 has-children mini_lotto"><a href="/mini-lotto" class="gra_mini_lotto">Mini Lotto</a></li>
+<li class="leaf menu-mlid-717 has-children kaskada"><a href="/kaskada" class="gra_kaskada">KASKADA</a></li>
+<li class="leaf menu-mlid-30629 has-children super_szansa"><a href="/super-szansa" class="gra_super_szansa">Super Szansa</a></li>
+<li class="leaf menu-mlid-720 has-children zdrapki"><a href="/zdrapki" class="gra_zdrapki">Zdrapki</a></li>
+<li class="leaf last menu-mlid-721 has-children keno"><a href="/keno" class="gra_keno">Keno</a></li>
+</ul></div>
+      <div class="jcarousel-next"></div>
+    </div>
+	<div class="block_footer"></div>
+    </div> 
+  <div id="block-block-58" class="block block-block block-header block-id-434 clearfix even block_user_access">
+    <div class="block_top"></div>
+        <div class="content">
+      <p><img alt="" src="http://lottocdn.directtraffic.pl/sites/default/files/bloki/lotto_web_index_03.png" style="border-style: initial; border-color: initial; border-width: initial;">&nbsp;<a href="/konto/logowanie"><span>Zarządzaj newsletterem</span></a></p>
+    </div>
+	<div class="block_footer"></div>
+    </div> 			<div class="search_region">
+				<form action="/wyniki-gier"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" class="form-text NormalTextBox txtSearch" onblur="if (this.value == &#039;&#039;) {this.value = &#039;&#039;;} ;" onfocus="if (this.value == &#039;&#039;) {this.value = &#039;&#039;;} ;" />
+</div>
+<input type="image" name="op" value="Szukaj" id="edit-submit"  class="form-submit" src="http://lottocdn.directtraffic.pl/sites/all/themes/basic/images/search_button2.png" />
+<input type="hidden" name="form_build_id" id="form-3758322a6c22eae375ac9c3c1b6eed87" value="form-3758322a6c22eae375ac9c3c1b6eed87"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+			</div>
+					</div>
+	</div>
+
+			<div id="breadcrumb">
+		  <div id="block-block-13" class="block block-block block-breadcrumb_region block-id-block-13 clearfix odd ">
+    <div class="block_top"></div>
+        <div class="content">
+      <div class="breadcrumb"><div class="br_wrapper"><span class="start_txt">Jesteś w:</span> <a href="/">Strona główna</a><span class="seperator"> » </span>Wyniki gier</div><span class="logo_game"></span></div>    </div>
+	<div class="block_footer"></div>
+    </div> 	</div>
+	
+			<div id="bg_wall">
+	<div class="page_wrapper">
+		<div id="page">
+						<div class="message_frame"></div>
+<script type="text/javascript">
+		jQuery(document).ready(function(){
+		
+		jQuery('.messages_close').click(function(){
+			jQuery(this).parents('.messages').slideUp('slow');
+		});
+		
+   		//jQuery('.messages').fadeTo(5000,1).fadeOut('slow');
+   				
+		});
+		
+
+		</script>									<div id="sidebar_left_page">
+				  <div id="block-menu_block-7" class="block block-menu_block block-sidebar_left block-id-menu_block-7 clearfix odd ">
+    <div class="block_top"></div>
+        <div class="content">
+      <div class="menu-block-7 menu-name-primary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="collapsed first menu-mlid-1131 lotto"><a href="/">LOTTO</a></li>
+<li class="leaf menu-mlid-10018 mapa_milioner-w"><a href="/mapa-milionerow">Mapa milionerów</a></li>
+<li class="leaf menu-mlid-30023 najwy-sze_wygrane"><a href="/wysokie-wygrane">Najwyższe wygrane</a></li>
+<li class="leaf menu-mlid-1133 active active-trail wyniki_gier"><a href="/wyniki-gier" title="Wyniki gier" class="active-trail active">Wyniki gier</a></li>
+<li class="collapsed menu-mlid-1184 archiwum_aktualno-ci"><a href="/aktualnosci">Archiwum aktualności</a></li>
+<li class="leaf menu-mlid-13540 mapa_strony"><a href="/mapa-strony" title="Mapa strony">Mapa strony</a></li>
+<li class="leaf menu-mlid-22854 polityka_plik-w_cookies"><a href="/polityka-plikow-cookies" title="Polityka plików cookies">Polityka plików cookies</a></li>
+<li class="expanded last menu-mlid-13286 studio_lotto"><a href="/studio-lotto">Studio LOTTO</a><ul class="menu"><li class="leaf first menu-mlid-23640 na_-ywo"><a href="/studio-lotto">Na żywo</a></li>
+<li class="leaf menu-mlid-23641 archiwum"><a href="/studio-lotto/archiwum-losowan">Archiwum</a></li>
+<li class="leaf menu-mlid-13301 go-cie"><a href="/studio-lotto/goscie">Goście</a></li>
+<li class="leaf menu-mlid-23639 wideo"><a href="http://www.youtube.com/user/TotalizatorSportowy/videos" target="_blank">Wideo</a></li>
+<li class="leaf last menu-mlid-23642 pytania_i_odpowiedzi"><a href="/studio-lotto/faq">Pytania i odpowiedzi</a></li>
+</ul></li>
+</ul></div>
+    </div>
+	<div class="block_footer"></div>
+    </div> 			</div>
+									<div
+				class="content_page   content_with_sidebar_left_page">
+												
+								<div class="page_title">
+					<div class="page_title_top"></div>
+					<div class="page_title_repeat">
+						<h1 class="title">
+							Wyniki gier						</h1>
+					</div>
+					<div class="page_title_bottom"></div>
+				</div>
+								
+				
+				<div class="page">
+					<div class="page_top"></div>
+					<div class="page_repeat">
+
+						
+						<div class="wyniki-gier">
+	<div class="start-wyniki_wrapper">
+	
+	
+		<div class="start-wyniki_lotto">
+			<a href="/lotto" class="wyniki_logo">
+			</a>		
+			
+							
+										
+										
+										
+																			
+												
+							<a href="/lotto" class="wyniki_tytul" style="text-decoration: none;">
+								Lotto
+							</a>
+							
+							<div class="wyniki_data lottoplus">
+																wyniki z dnia <strong>04-06-16</strong>, godz.: <strong>21:40</strong>
+							</div>
+							
+							<div class="glowna_wyniki_lotto lottoplus">
+																	<div class="wynik_lotto">5 </div>
+																	<div class="wynik_lotto">19 </div>
+																	<div class="wynik_lotto">20 </div>
+																	<div class="wynik_lotto">37 </div>
+																	<div class="wynik_lotto">39 </div>
+																	<div class="wynik_lotto">49 </div>
+															</div>
+					
+						
+												
+							<div class="lottoplus_line">
+								<a href="/lotto" class="wyniki_tytul" style="text-decoration: none; color: #009be4">
+									Lotto Plus
+								</a>
+								<div class="glowna_wyniki_lottoplus">
+										
+										<div class="wynik_lotto">5 </div>
+	
+										
+										<div class="wynik_lotto">19 </div>
+	
+										
+										<div class="wynik_lotto">24 </div>
+	
+										
+										<div class="wynik_lotto">33 </div>
+	
+										
+										<div class="wynik_lotto">38 </div>
+	
+										
+										<div class="wynik_lotto">46 </div>
+	
+																	</div>
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>
+												
+						
+																	
+										
+																			
+												
+							<a href="/lotto" class="wyniki_tytul" style="text-decoration: none;">
+								Lotto
+							</a>
+							
+							<div class="wyniki_data lottoplus">
+																wyniki z dnia <strong>02-06-16</strong>, godz.: <strong>21:40</strong>
+							</div>
+							
+							<div class="glowna_wyniki_lotto lottoplus">
+																	<div class="wynik_lotto">9 </div>
+																	<div class="wynik_lotto">19 </div>
+																	<div class="wynik_lotto">28 </div>
+																	<div class="wynik_lotto">29 </div>
+																	<div class="wynik_lotto">36 </div>
+																	<div class="wynik_lotto">49 </div>
+															</div>
+					
+						
+												
+							<div class="lottoplus_line">
+								<a href="/lotto" class="wyniki_tytul" style="text-decoration: none; color: #009be4">
+									Lotto Plus
+								</a>
+								<div class="glowna_wyniki_lottoplus">
+										
+										<div class="wynik_lotto">7 </div>
+	
+										
+										<div class="wynik_lotto">17 </div>
+	
+										
+										<div class="wynik_lotto">30 </div>
+	
+										
+										<div class="wynik_lotto">35 </div>
+	
+										
+										<div class="wynik_lotto">36 </div>
+	
+										
+										<div class="wynik_lotto">39 </div>
+	
+																	</div>
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>
+												
+						
+																	
+										
+																			
+												
+							<a href="/lotto" class="wyniki_tytul" style="text-decoration: none;">
+								Lotto
+							</a>
+							
+							<div class="wyniki_data lottoplus">
+																wyniki z dnia <strong>31-05-16</strong>, godz.: <strong>21:40</strong>
+							</div>
+							
+							<div class="glowna_wyniki_lotto lottoplus">
+																	<div class="wynik_lotto">4 </div>
+																	<div class="wynik_lotto">12 </div>
+																	<div class="wynik_lotto">16 </div>
+																	<div class="wynik_lotto">27 </div>
+																	<div class="wynik_lotto">28 </div>
+																	<div class="wynik_lotto">30 </div>
+															</div>
+					
+						
+												
+							<div class="lottoplus_line">
+								<a href="/lotto" class="wyniki_tytul" style="text-decoration: none; color: #009be4">
+									Lotto Plus
+								</a>
+								<div class="glowna_wyniki_lottoplus">
+										
+										<div class="wynik_lotto">7 </div>
+	
+										
+										<div class="wynik_lotto">18 </div>
+	
+										
+										<div class="wynik_lotto">26 </div>
+	
+										
+										<div class="wynik_lotto">29 </div>
+	
+										
+										<div class="wynik_lotto">36 </div>
+	
+										
+										<div class="wynik_lotto">39 </div>
+	
+																	</div>
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>
+												
+						
+																	
+					
+						<a href="/lotto">Poprzednie wyniki</a>
+			
+		</div>
+		
+		
+		
+		
+		
+		<div class="start-wyniki_multi-multi">
+			<a href="/multi-multi" class="wyniki_logo">
+			</a>
+			
+						
+				
+																									<a href="/multi-multi" class="wyniki_tytul" style="text-decoration: none;">
+						Multi Multi
+					</a>
+					<div class="wyniki_data">
+						wyniki z dnia <strong>07-06-16</strong>, godz.: <strong>14:00</strong>
+					</div>
+					<div class="glowna_wyniki_multi-multi">
+														<div class="wynik_multi-multi">1 </div>	
+														<div class="wynik_multi-multi">2 </div>	
+														<div class="wynik_multi-multi">3 </div>	
+														<div class="wynik_multi-multi">6 </div>	
+														<div class="wynik_multi-multi">8 </div>	
+														<div class="wynik_multi-multi">9 </div>	
+														<div class="wynik_multi-multi">10 </div>	
+														<div class="wynik_multi-multi">25 </div>	
+														<div class="wynik_multi-multi">31 </div>	
+														<div class="wynik_multi-multi">40 </div>	
+														<div class="wynik_multi-multi">43 </div>	
+														<div class="wynik_multi-multi">50 </div>	
+														<div class="wynik_multi-multi">53 </div>	
+														<div class="wynik_multi-multi">54 </div>	
+														<div class="wynik_multi-multi">58 </div>	
+														<div class="wynik_multi-multi">60 </div>	
+														<div class="wynik_multi-multi">66 </div>	
+														<div class="wynik_multi-multi">74 </div>	
+														<div class="wynik_multi-multi">76 </div>	
+														<div class="wynik_multi-multi">77 </div>	
+											</div>
+					<div class="wynik_multi-multi_plus">43</div>
+					<div class="wyniki_plus">plus</div>
+					<div style="clear: both;"></div>
+					
+					
+															
+										<div class="super_szansa_line">
+					<a href="/multi-multi" class="wyniki_tytul" style="text-decoration: none;">
+						Super Szansa
+					</a>
+											<div class="wyniki_data">
+							wyniki z dnia <strong>07-06-16</strong>, godz.: <strong>14:00</strong>
+						</div>
+										<div class="glowna_wyniki_super_szansa">
+																											<div class="wynik_super_szansa">2 </div>	
+																			<div class="wynik_super_szansa">8 </div>	
+																			<div class="wynik_super_szansa">7 </div>	
+																			<div class="wynik_super_szansa">6 </div>	
+																			<div class="wynik_super_szansa">6 </div>	
+																			<div class="wynik_super_szansa">2 </div>	
+																			<div class="wynik_super_szansa">8 </div>	
+																						</div>
+					<div class="clear"></div>
+				</div>
+				 
+																				<a href="/multi-multi" class="wyniki_tytul" style="text-decoration: none;">
+						Multi Multi
+					</a>
+					<div class="wyniki_data">
+						wyniki z dnia <strong>06-06-16</strong>, godz.: <strong>21:40</strong>
+					</div>
+					<div class="glowna_wyniki_multi-multi">
+														<div class="wynik_multi-multi">10 </div>	
+														<div class="wynik_multi-multi">15 </div>	
+														<div class="wynik_multi-multi">20 </div>	
+														<div class="wynik_multi-multi">24 </div>	
+														<div class="wynik_multi-multi">25 </div>	
+														<div class="wynik_multi-multi">30 </div>	
+														<div class="wynik_multi-multi">31 </div>	
+														<div class="wynik_multi-multi">32 </div>	
+														<div class="wynik_multi-multi">33 </div>	
+														<div class="wynik_multi-multi">34 </div>	
+														<div class="wynik_multi-multi">35 </div>	
+														<div class="wynik_multi-multi">37 </div>	
+														<div class="wynik_multi-multi">41 </div>	
+														<div class="wynik_multi-multi">45 </div>	
+														<div class="wynik_multi-multi">46 </div>	
+														<div class="wynik_multi-multi">54 </div>	
+														<div class="wynik_multi-multi">62 </div>	
+														<div class="wynik_multi-multi">69 </div>	
+														<div class="wynik_multi-multi">73 </div>	
+														<div class="wynik_multi-multi">77 </div>	
+											</div>
+					<div class="wynik_multi-multi_plus">37</div>
+					<div class="wyniki_plus">plus</div>
+					<div style="clear: both;"></div>
+					
+					
+															
+					 
+																				<a href="/multi-multi" class="wyniki_tytul" style="text-decoration: none;">
+						Multi Multi
+					</a>
+					<div class="wyniki_data">
+						wyniki z dnia <strong>06-06-16</strong>, godz.: <strong>14:00</strong>
+					</div>
+					<div class="glowna_wyniki_multi-multi">
+														<div class="wynik_multi-multi">15 </div>	
+														<div class="wynik_multi-multi">17 </div>	
+														<div class="wynik_multi-multi">19 </div>	
+														<div class="wynik_multi-multi">22 </div>	
+														<div class="wynik_multi-multi">30 </div>	
+														<div class="wynik_multi-multi">35 </div>	
+														<div class="wynik_multi-multi">36 </div>	
+														<div class="wynik_multi-multi">37 </div>	
+														<div class="wynik_multi-multi">38 </div>	
+														<div class="wynik_multi-multi">39 </div>	
+														<div class="wynik_multi-multi">44 </div>	
+														<div class="wynik_multi-multi">46 </div>	
+														<div class="wynik_multi-multi">59 </div>	
+														<div class="wynik_multi-multi">60 </div>	
+														<div class="wynik_multi-multi">62 </div>	
+														<div class="wynik_multi-multi">68 </div>	
+														<div class="wynik_multi-multi">70 </div>	
+														<div class="wynik_multi-multi">73 </div>	
+														<div class="wynik_multi-multi">78 </div>	
+														<div class="wynik_multi-multi">79 </div>	
+											</div>
+					<div class="wynik_multi-multi_plus">60</div>
+					<div class="wyniki_plus">plus</div>
+					<div style="clear: both;"></div>
+					
+					
+															
+					 
+										<a href="/multi-multi">Poprzednie wyniki</a>
+		</div>
+		
+			<div style="clear: both;"></div>
+            <div class="start-wyniki_ekstra-pensja">
+                <a href="/ekstra-pensja" class="wyniki_logo">
+
+                </a>
+                                                                                                                        	
+                        						<a href="/ekstra-pensja" class="wyniki_tytul" style="text-decoration: none;">
+							Ekstra Pensja
+						</a>
+						<div class="wyniki_data">
+                            wyniki z dnia <strong>05-06-16</strong>, godz.: <strong>21:40</strong>
+                        </div>
+                        <div class="glowna_wyniki_ekstra-pensja">
+                                                            <div class="wynik_ekstra-pensja">11 </div>	
+                                                            <div class="wynik_ekstra-pensja">13 </div>	
+                                                            <div class="wynik_ekstra-pensja">16 </div>	
+                                                            <div class="wynik_ekstra-pensja">21 </div>	
+                                                            <div class="wynik_ekstra-pensja">31 </div>	
+                                                        <div class="wynik_ekstra_pensja last">2</div>
+                        </div>
+						
+						
+												
+						 
+                                            	
+                        						<a href="/ekstra-pensja" class="wyniki_tytul" style="text-decoration: none;">
+							Ekstra Pensja
+						</a>
+						<div class="wyniki_data">
+                            wyniki z dnia <strong>03-06-16</strong>, godz.: <strong>21:40</strong>
+                        </div>
+                        <div class="glowna_wyniki_ekstra-pensja">
+                                                            <div class="wynik_ekstra-pensja">8 </div>	
+                                                            <div class="wynik_ekstra-pensja">9 </div>	
+                                                            <div class="wynik_ekstra-pensja">19 </div>	
+                                                            <div class="wynik_ekstra-pensja">23 </div>	
+                                                            <div class="wynik_ekstra-pensja">28 </div>	
+                                                        <div class="wynik_ekstra_pensja last">2</div>
+                        </div>
+						
+						
+												
+						 
+                                            	
+                        						<a href="/ekstra-pensja" class="wyniki_tytul" style="text-decoration: none;">
+							Ekstra Pensja
+						</a>
+						<div class="wyniki_data">
+                            wyniki z dnia <strong>01-06-16</strong>, godz.: <strong>21:40</strong>
+                        </div>
+                        <div class="glowna_wyniki_ekstra-pensja">
+                                                            <div class="wynik_ekstra-pensja">2 </div>	
+                                                            <div class="wynik_ekstra-pensja">8 </div>	
+                                                            <div class="wynik_ekstra-pensja">9 </div>	
+                                                            <div class="wynik_ekstra-pensja">24 </div>	
+                                                            <div class="wynik_ekstra-pensja">35 </div>	
+                                                        <div class="wynik_ekstra_pensja last">3</div>
+                        </div>
+						
+						
+												
+						 
+                                                    				<a href="/ekstra-pensja">Poprzednie wyniki</a>
+            </div>
+		
+		<div class="start-wyniki_mini-lotto">
+			<a href="/mini-lotto" class="wyniki_logo">
+				
+			</a>
+																	
+										<a href="/ekstra-pensja" class="wyniki_tytul" style="text-decoration: none;">
+						Mini Lotto
+					</a>
+					<div class="wyniki_data">
+						wyniki z dnia <strong>06-06-16</strong>, godz.: <strong>21:40</strong>
+					</div>
+					<div class="glowna_wyniki_mini-lotto">
+													<div class="wynik_mini-lotto">2 </div>	
+													<div class="wynik_mini-lotto">4 </div>	
+													<div class="wynik_mini-lotto">5 </div>	
+													<div class="wynik_mini-lotto">16 </div>	
+													<div class="wynik_mini-lotto">42 </div>	
+											</div>
+					
+					
+															
+					 
+										
+										<a href="/ekstra-pensja" class="wyniki_tytul" style="text-decoration: none;">
+						Mini Lotto
+					</a>
+					<div class="wyniki_data">
+						wyniki z dnia <strong>05-06-16</strong>, godz.: <strong>21:40</strong>
+					</div>
+					<div class="glowna_wyniki_mini-lotto">
+													<div class="wynik_mini-lotto">11 </div>	
+													<div class="wynik_mini-lotto">12 </div>	
+													<div class="wynik_mini-lotto">34 </div>	
+													<div class="wynik_mini-lotto">37 </div>	
+													<div class="wynik_mini-lotto">41 </div>	
+											</div>
+					
+					
+															
+					 
+										
+										<a href="/ekstra-pensja" class="wyniki_tytul" style="text-decoration: none;">
+						Mini Lotto
+					</a>
+					<div class="wyniki_data">
+						wyniki z dnia <strong>04-06-16</strong>, godz.: <strong>21:40</strong>
+					</div>
+					<div class="glowna_wyniki_mini-lotto">
+													<div class="wynik_mini-lotto">7 </div>	
+													<div class="wynik_mini-lotto">10 </div>	
+													<div class="wynik_mini-lotto">12 </div>	
+													<div class="wynik_mini-lotto">23 </div>	
+													<div class="wynik_mini-lotto">40 </div>	
+											</div>
+					
+					
+															
+					 
+										<a href="/mini-lotto">Poprzednie wyniki</a>
+		</div>
+		<div class="start-wyniki_kaskada">
+			<a href="/kaskada" class="wyniki_logo">
+			
+			</a>
+
+												
+								
+					
+				<a href="/kaskada" class="wyniki_tytul" style="text-decoration: none;">
+					Kaskada
+				</a>
+				<div class="wyniki_data">
+					wyniki z dnia <strong>07-06-16</strong>, godz.: <strong>14:00</strong>
+				</div>
+				<div class="glowna_wyniki_kaskada">
+											<div class="wynik_kaskada">1 </div>	
+											<div class="wynik_kaskada">3 </div>	
+											<div class="wynik_kaskada">6 </div>	
+											<div class="wynik_kaskada">8 </div>	
+											<div class="wynik_kaskada">9 </div>	
+											<div class="wynik_kaskada">12 </div>	
+											<div class="wynik_kaskada">13 </div>	
+											<div class="wynik_kaskada">14 </div>	
+											<div class="wynik_kaskada">16 </div>	
+											<div class="wynik_kaskada">19 </div>	
+											<div class="wynik_kaskada">23 </div>	
+											<div class="wynik_kaskada">24 </div>	
+									</div>
+				
+				
+												
+								<div class="super_szansa_line">
+					<a href="/kaskada" class="wyniki_tytul" style="text-decoration: none;">
+						Super Szansa
+					</a>
+											<div class="wyniki_data">
+							wyniki z dnia <strong>07-06-16</strong>, godz.: <strong>14:00</strong>
+						</div>
+										<div class="glowna_wyniki_super_szansa">
+																											<div class="wynik_super_szansa">2 </div>	
+																			<div class="wynik_super_szansa">8 </div>	
+																			<div class="wynik_super_szansa">7 </div>	
+																			<div class="wynik_super_szansa">6 </div>	
+																			<div class="wynik_super_szansa">6 </div>	
+																			<div class="wynik_super_szansa">2 </div>	
+																			<div class="wynik_super_szansa">8 </div>	
+																	 
+					</div>
+					<div class="clear"></div>
+				</div>
+				 
+				
+							
+								
+					
+				<a href="/kaskada" class="wyniki_tytul" style="text-decoration: none;">
+					Kaskada
+				</a>
+				<div class="wyniki_data">
+					wyniki z dnia <strong>06-06-16</strong>, godz.: <strong>21:40</strong>
+				</div>
+				<div class="glowna_wyniki_kaskada">
+											<div class="wynik_kaskada">2 </div>	
+											<div class="wynik_kaskada">3 </div>	
+											<div class="wynik_kaskada">7 </div>	
+											<div class="wynik_kaskada">8 </div>	
+											<div class="wynik_kaskada">9 </div>	
+											<div class="wynik_kaskada">11 </div>	
+											<div class="wynik_kaskada">14 </div>	
+											<div class="wynik_kaskada">16 </div>	
+											<div class="wynik_kaskada">18 </div>	
+											<div class="wynik_kaskada">21 </div>	
+											<div class="wynik_kaskada">22 </div>	
+											<div class="wynik_kaskada">24 </div>	
+									</div>
+				
+				
+												
+				 
+				
+							
+								
+					
+				<a href="/kaskada" class="wyniki_tytul" style="text-decoration: none;">
+					Kaskada
+				</a>
+				<div class="wyniki_data">
+					wyniki z dnia <strong>06-06-16</strong>, godz.: <strong>14:00</strong>
+				</div>
+				<div class="glowna_wyniki_kaskada">
+											<div class="wynik_kaskada">1 </div>	
+											<div class="wynik_kaskada">2 </div>	
+											<div class="wynik_kaskada">5 </div>	
+											<div class="wynik_kaskada">7 </div>	
+											<div class="wynik_kaskada">8 </div>	
+											<div class="wynik_kaskada">9 </div>	
+											<div class="wynik_kaskada">13 </div>	
+											<div class="wynik_kaskada">15 </div>	
+											<div class="wynik_kaskada">16 </div>	
+											<div class="wynik_kaskada">18 </div>	
+											<div class="wynik_kaskada">22 </div>	
+											<div class="wynik_kaskada">23 </div>	
+									</div>
+				
+				
+												
+				 
+				
+								
+						<a href="/kaskada">Poprzednie wyniki</a>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+	<div class="start-wyniki_wrapper ">
+	
+			<div class="start-wyniki_keno">
+			<a href="/keno" class="wyniki_logo">
+				
+			</a>
+						
+				
+																								<a href="/keno" class="wyniki_tytul" style="text-decoration: none;">
+						Keno
+					</a>
+					<div class="wyniki_data">
+						wyniki z dnia <strong>07-06-16</strong>, godz.: <strong>21:34</strong>
+					</div>
+					<div class="glowna_wyniki_keno">
+														<div class="wynik_keno">11 </div>	
+														<div class="wynik_keno">19 </div>	
+														<div class="wynik_keno">21 </div>	
+														<div class="wynik_keno">22 </div>	
+														<div class="wynik_keno">26 </div>	
+														<div class="wynik_keno">28 </div>	
+														<div class="wynik_keno">30 </div>	
+														<div class="wynik_keno">32 </div>	
+														<div class="wynik_keno">41 </div>	
+														<div class="wynik_keno">42 </div>	
+														<div class="wynik_keno">43 </div>	
+														<div class="wynik_keno">45 </div>	
+														<div class="wynik_keno">47 </div>	
+														<div class="wynik_keno">55 </div>	
+														<div class="wynik_keno">58 </div>	
+														<div class="wynik_keno">61 </div>	
+														<div class="wynik_keno">63 </div>	
+														<div class="wynik_keno">64 </div>	
+														<div class="wynik_keno">65 </div>	
+														<div class="wynik_keno">66 </div>	
+											</div>
+					<div style="clear: both;"></div>
+																				<a href="/keno" class="wyniki_tytul" style="text-decoration: none;">
+						Keno
+					</a>
+					<div class="wyniki_data">
+						wyniki z dnia <strong>07-06-16</strong>, godz.: <strong>21:30</strong>
+					</div>
+					<div class="glowna_wyniki_keno">
+														<div class="wynik_keno">6 </div>	
+														<div class="wynik_keno">10 </div>	
+														<div class="wynik_keno">20 </div>	
+														<div class="wynik_keno">21 </div>	
+														<div class="wynik_keno">22 </div>	
+														<div class="wynik_keno">27 </div>	
+														<div class="wynik_keno">30 </div>	
+														<div class="wynik_keno">33 </div>	
+														<div class="wynik_keno">37 </div>	
+														<div class="wynik_keno">41 </div>	
+														<div class="wynik_keno">42 </div>	
+														<div class="wynik_keno">43 </div>	
+														<div class="wynik_keno">47 </div>	
+														<div class="wynik_keno">54 </div>	
+														<div class="wynik_keno">59 </div>	
+														<div class="wynik_keno">60 </div>	
+														<div class="wynik_keno">62 </div>	
+														<div class="wynik_keno">63 </div>	
+														<div class="wynik_keno">65 </div>	
+														<div class="wynik_keno">66 </div>	
+											</div>
+					<div style="clear: both;"></div>
+																				<a href="/keno" class="wyniki_tytul" style="text-decoration: none;">
+						Keno
+					</a>
+					<div class="wyniki_data">
+						wyniki z dnia <strong>07-06-16</strong>, godz.: <strong>21:26</strong>
+					</div>
+					<div class="glowna_wyniki_keno">
+														<div class="wynik_keno">1 </div>	
+														<div class="wynik_keno">3 </div>	
+														<div class="wynik_keno">4 </div>	
+														<div class="wynik_keno">7 </div>	
+														<div class="wynik_keno">15 </div>	
+														<div class="wynik_keno">25 </div>	
+														<div class="wynik_keno">30 </div>	
+														<div class="wynik_keno">36 </div>	
+														<div class="wynik_keno">41 </div>	
+														<div class="wynik_keno">42 </div>	
+														<div class="wynik_keno">43 </div>	
+														<div class="wynik_keno">47 </div>	
+														<div class="wynik_keno">49 </div>	
+														<div class="wynik_keno">51 </div>	
+														<div class="wynik_keno">54 </div>	
+														<div class="wynik_keno">55 </div>	
+														<div class="wynik_keno">56 </div>	
+														<div class="wynik_keno">58 </div>	
+														<div class="wynik_keno">61 </div>	
+														<div class="wynik_keno">65 </div>	
+											</div>
+					<div style="clear: both;"></div>
+										<a href="/keno">Poprzednie wyniki</a>
+		</div>
+		
+		
+	</div>
+</div>
+						
+						
+												<div class="page_archiwum">
+													</div>
+					</div>
+					<div class="page_bottom"></div>
+				</div>
+
+				
+
+			</div>
+					</div>
+	</div>
+
+
+
+	
+	<div id="footer">
+					<div class="footer_block_top">
+				  <div id="block-block-60" class="block block-block block-footer_block_top block-id-933 clearfix odd content_block_bottom_social">
+    <div class="block_top"></div>
+        <div class="content">
+      <!--?php global $base_path ?-->
+<p>
+	<a class="social_link_footer" href="http://twitter.com/lotto_pl" target="_blank">
+					<img alt="" src="http://lottocdn.directtraffic.pl/sites/all/themes/basic/images/social/twiter.png" />
+			</a>
+	<a class="social_link_footer" style="text-decoration: none;" href="http://www.youtube.com/TotalizatorSportowy" target="_blank">
+					<img alt="" src="http://lottocdn.directtraffic.pl/sites/all/themes/basic/images/social/youtube.png" />
+			</a>
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.write('<iframe allowtransparency="true" frameborder="0" hspace="0" id="I1_1329299595459" marginheight="0" marginwidth="0" name="I1_1329299595459" scrolling="no" src="https://plusone.google.com/_/+1/fastbutton?url=http%3A%2F%2Fwww.lotto.pl%2F&amp;size=medium&amp;count=true&amp;hl=pl&amp;jsh=m%3B%2F_%2Fapps-static%2F_%2Fjs%2Fgapi%2F__features__%2Frt%3Dj%2Fver%3D_DUDBX69vuU.pl.%2Fsv%3D1%2Fam%3D%21RERB5bJyvtSIVCfJNg%2Fd%3D1%2F#id=I1_1329299595459&amp;parent=http%3A%2F%2Fwww.lotto.pl&amp;rpctoken=719152270&amp;_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart" style="position: static; left: 0pt; top: 0pt; width: 80px; margin: 0px; border-style: none; visibility: visible; height: 20px;" tabindex="-1" title="+1" vspace="0" width="100%"></iframe>')
+//--><!]]>
+</script>
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.write('<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Flotto.pl&amp;send=false&amp;layout=button_count&amp;width=200&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=137004966400663" style="border:none; overflow:hidden; width:200px; height:20px;" znajomym=""></iframe>')
+//--><!]]>
+</script>
+
+</p>    </div>
+	<div class="block_footer"></div>
+    </div> 			</div>
+						<div class="footer_block">
+						  <div id="block-block-5" class="block block-block block-footer_block block-id-70 clearfix odd ">
+    <div class="block_top"></div>
+        <div class="content">
+      <div class="infolinia">
+
+<div class="infolinia_icon">&nbsp;</div>
+
+<div class="infolinia_title">Infolinia 801 450 450</div>
+<div class="infolinia_content">Opłata za połączenie jest zgodna z planem taryfikacyjnym<br/>danego operatora.</div>
+
+</div>    </div>
+	<div class="block_footer"></div>
+    </div>   <div id="block-block-6" class="block block-block block-footer_block block-id-73 clearfix even ">
+    <div class="block_top"></div>
+        <div class="content">
+      <div class="sale">
+
+<div class="sale_icon"></div>
+
+<div class="sale_title">
+<a class="big_bottom_link" href="/lotto/mapa-kolektur">Punkty sprzedaży</a>
+</div>
+
+<div class="sale_content">
+<a class="big_bottom_link" href="/lotto/mapa-kolektur">Gry LOTTO są do kupienia wyłącznie w sieci kolektur<br/>opatrzonych logo LOTTO, a także sieci hipermarketów Real!</a></div></div>    </div>
+	<div class="block_footer"></div>
+    </div>   <div id="block-block-7" class="block block-block block-footer_block block-id-76 clearfix odd ">
+    <div class="block_top"></div>
+        <div class="content">
+      <div class="boff"><div class="boff_icon">&nbsp;</div><div class="boff_title">Zakłady tylko w punktach LOTTO</div><div class="boff_content">Totalizator Sportowy, właściciel marki LOTTO, sprzedaje swoje<br>produkty wyłącznie w punktach opatrzonych logo LOTTO.<br>Nie współpracujemy w tym zakresie z żadną z firm oferujących<br>gry i loterie w internecie lub przez SMS.</div></div>    </div>
+	<div class="block_footer"></div>
+    </div>   <div id="block-block-8" class="block block-block block-footer_block block-id-79 clearfix even ">
+    <div class="block_top"></div>
+        <div class="content">
+      <div class="culture"><div class="culture_icon">&nbsp;</div><div class="culture_title"><a href="http://www.totalizator.pl/zaangazowanie/zaangaowanie" style="color: #b0b0b0; text-decoration: none;" target="_blank">Wspieramy sport i kulturę</a></div><div class="culture_content"><a href="http://www.totalizator.pl/zaangazowanie/zaangaowanie" style="color: #b0b0b0; text-decoration: none;" target="_blank">Każda złotówka Gracza LOTTO to 19 gr dla polskiego<br>sportu i kultury.</a></div></div>    </div>
+	<div class="block_footer"></div>
+    </div>   <div id="block-block-77" class="block block-block block-footer_block block-id-1353 clearfix odd ">
+    <div class="block_top"></div>
+        <div class="content">
+      <div class="sponsorship_offer"><div class="sponsorship_offer_icon">&nbsp;</div><div class="sponsorship_offer_title"><a href="http://www.totalizator.pl/zaangazowanie/sponsoring" target="_blank">Złóż ofertę sponsoringową</a></div><div class="sponsorship_offer_content"><a href="http://www.totalizator.pl/zaangazowanie/sponsoring" target="_blank">Totalizator Sportowy prowadzi działalność sponsoringową,<br>zgodnie z przyjętą strategią komunikacji, na podstawie<br>wpływających ofert.</a></div></div><div class="b18"><div class="b18_icon">&nbsp;</div><div class="b18_title"><a href="http://www.totalizator.pl/zaangaowanie/csr/bezpieczna-rozrywka" style="color: #b0b0b0; text-decoration: none;" target="_blank">Tylko 18+</a></div><div class="b18_content"><a href="http://www.totalizator.pl/zaangaowanie/csr/bezpieczna-rozrywka" style="color: #b0b0b0; text-decoration: none;" target="_blank">Zgodnie z obowiązującym prawem w gry liczbowe mogą grać<br>wyłącznie osoby, które ukończyły 18. rok życia.</a></div></div>    </div>
+	<div class="block_footer"></div>
+    </div>   <div id="block-block-78" class="block block-block block-footer_block block-id-1354 clearfix even cookiesblock">
+    <div class="block_top"></div>
+        <div class="content">
+      <div id="cookiesBar" style="display:none">
+<div id="cookiesBarWrap">
+<p>Strona korzysta z plików cookie w celu realizacji usług zgodnie z <a href="/polityka-plikow-cookies" title="Polityka prywatności">Polityką prywatności</a>.</p>
+<p>Możesz określić warunki przechowywania lub dostępu do cookie w Twojej przeglądarce lub konfiguracji usługi.</p>
+<div id="cookiesBarClose">&nbsp;</div>
+</div>
+</div>
+<p>&nbsp;</p>
+    </div>
+	<div class="block_footer"></div>
+    </div> 		</div>
+						<div class="footer_menu">
+			  <div id="block-block-10" class="block block-block block-footer_menu block-id-103 clearfix odd copyright_block_footer">
+    <div class="block_top"></div>
+        <div class="content">
+      <p>Copyright 2015 – Lotto</p>
+    </div>
+	<div class="block_footer"></div>
+    </div>   <div id="block-menu_block-2" class="block block-menu_block block-footer_menu block-id-88 clearfix even ">
+    <div class="block_top"></div>
+        <div class="content">
+      <div class="menu-block-2 menu-name-menu-stopka parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-920 totalizator-pl"><a href="http://totalizator.pl" target="_blank">Totalizator.pl</a></li>
+<li class="leaf menu-mlid-2085 kariera"><a href="http://www.totalizator.pl/wspopraca/kariera" target="_blank">Kariera</a></li>
+<li class="leaf menu-mlid-2083 media"><a href="http://www.totalizator.pl/media" target="_blank">Media</a></li>
+<li class="leaf menu-mlid-2084 wsp-praca"><a href="http://www.totalizator.pl/wspopraca/kariera" target="_blank">Współpraca</a></li>
+<li class="leaf last menu-mlid-2086 zaanga-owanie"><a href="http://www.totalizator.pl/zaangazowanie " target="_blank">Zaangażowanie</a></li>
+</ul></div>
+    </div>
+	<div class="block_footer"></div>
+    </div>   <div id="block-menu_block-3" class="block block-menu_block block-footer_menu block-id-94 clearfix odd ">
+    <div class="block_top"></div>
+        <div class="content">
+      <div class="menu-block-3 menu-name-menu-mapa-strony parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-19684 kontakt"><a href="/kontakt">Kontakt</a></li>
+<li class="leaf menu-mlid-22145 reklamacje"><a href="/kontakt/reklamacje">Reklamacje</a></li>
+<li class="leaf menu-mlid-937 mapa_strony"><a href="/mapa-strony" class="sitemap_menu">Mapa Strony</a></li>
+<li class="leaf last menu-mlid-19899 regulamin_serwisu"><a href="/regulamin-serwisu-lotto" title="Polityka prywatności" target="_blank">Regulamin serwisu</a></li>
+</ul></div>
+    </div>
+	<div class="block_footer"></div>
+    </div>   <div id="block-menu-menu-stopka-dodatkowe-menu" class="block block-menu block-footer_menu block-id-91 clearfix even ">
+    <div class="block_top"></div>
+        <div class="content">
+      <ul class="menu"><li class="leaf first last tor_s-u-ewiec"><a href="http://www.torsluzewiec.pl" class="tor_sluzewiec" target="_blank">Tor Służewiec</a></li>
+</ul>    </div>
+	<div class="block_footer"></div>
+    </div> 		</div>
+			</div>
+	</div>
+
+	<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-8741095-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+		
+	
+		
+		
+</body>
+</html>

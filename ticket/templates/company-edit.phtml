@@ -1,0 +1,87 @@
+<form role="form" id="form" action="/ajax/company/edit<?php if($id > 0) { ?>/<?php echo $id; } ?>" method="post">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Nazwa</label>
+                <input id="company_name" type="text" class="form-control" value="<?php echo $result['company_name']; ?>" name="company_name">
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>NIP</label>
+                <input id="company_nip" type="text" class="form-control" value="<?php echo $result['company_nip']; ?>" name="company_nip">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Przedstawiciel - Imię</label>
+                <input id="company_user" type="text" class="form-control" value="<?php echo $result['company_user']; ?>" name="company_user">
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Przedstawiciel - Nazwisko</label>
+                <input id="company_user2" type="text" class="form-control" value="<?php echo $result['company_user2']; ?>" name="company_user2">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Ulica</label>
+                <input id="company_address" type="text" class="form-control" value="<?php echo $result['company_address']; ?>" name="company_address">
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Numer</label>
+                <input id="company_address2" type="text" class="form-control" value="<?php echo $result['company_address2']; ?>" name="company_address2">
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Miasto</label>
+                <input id="company_city" type="text" class="form-control" value="<?php echo $result['company_city']; ?>" name="company_city">
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Kod pocztowy</label>
+                <input id="company_zipcode" type="text" class="form-control" value="<?php echo $result['company_zipcode']; ?>" name="company_zipcode">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Telefon</label>
+                <input id="company_tel" type="text" class="form-control" value="<?php echo $result['company_tel']; ?>" name="company_tel">
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Email</label>
+                <input id="company_email" type="text" class="form-control" value="<?php echo $result['company_email']; ?>" name="company_email">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Login</label>
+                <input id="company_login" type="text" class="form-control" value="<?php echo $result['company_login']; ?>" name="company_login">
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Hasło</label>
+                <input id="company_pass" type="text" class="form-control" value="<?php echo $result['company_pass']; ?>" name="company_pass">
+            </div>
+        </div>
+    </div>
+</form>

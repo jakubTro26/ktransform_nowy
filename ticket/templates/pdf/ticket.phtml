@@ -1,0 +1,46 @@
+<page format="A4" orientation="P" backcolor="#ffffff" style="font: arial;" margin-top="0" margin-bottom="0" backleft="0mm" backright="0mm">
+<table style="width: 100%; height: 296mm;">
+    <tr style="height: 146mm;">
+        <td style="width: 105mm; height: 146mm; border-right: 1px dashed #dcdbdb; text-align: center;">
+            <div style="rotate: 180; margin-top: 5px">
+				<table>
+					<tr>
+						<td style="height: 26mm"><img src="<?php echo $public_url; ?>/images/CryptoFutureFinalExpoTransparent.png" style="width: 220px;"></td>
+					</tr>
+					<tr> 
+						<td style="font-size: 22px; height: 30mm; clear: both; line-height: 30px; padding-right: 15px;"><span style="font-size: 25px; font-weight: bold;"><?php echo $ticket_name; if($ticketDarmowy == 1) echo 'Wystawca'; ?></span><br /><br /><strong><?php echo $visitor_firstname; ?> <?php echo $visitor_lastname; ?></strong><?php if($visitor_type == 2) { ?><br /><?php echo $visitor_company; ?><?php } ?><?php if($ticket_additional != '') { $tmpWarsztaty = explode(',', $ticket_additional); ?><br /><span style="font-size: 14px;">Warsztaty: <?php foreach($tmpWarsztaty as $war) { echo $warsztaty[$war] . ' '; } ?></span><?php } ?></td>
+					</tr>
+					<tr>
+						<td style="clear: both; height: 40mm; font-size: 25px; vertical-align: middle; padding-right: 25px;"><img src="<?php echo $public_url . $visitor_qr; ?>" style="width: 160px;"></td>
+					</tr>
+					<tr>
+						<td style="text-align: center; height: 30mm; clear: both; margin-top: 5px; padding-right: 12px;"><img src="<?php echo $public_url; ?>/data/loga/ada.jpg" style="height: 100px;"></td>
+					</tr>
+				</table>
+            </div>
+        </td>
+        <td style="width: 105mm; height: 146mm; text-align: center;">
+            <?php /*<div style="rotate: 180; margin-top: 5px">
+                <div style="margin-bottom: 10px; clear: both;"><img src="<?php echo $_SERVER['DOCUMENT_ROOT']; ?>planning/public/data/loga/LOGO-IT_FUTURE_EXPO2017_rgbtransparent_napis_data-copy-1.png" style="width: 190px;"></div>
+                <div style="font-size: 30px; margin: 30px 0 35px; clear: both;"><strong><?php echo $visitor_firstname; ?> <?php echo $visitor_lastname; ?></strong></div>
+                <div style="clear: both; font-size: 25px;"><img src="<?php echo $_SERVER['DOCUMENT_ROOT'] . 'planning/public' . $visitor_qr; ?>" style="width: 130px;"><br /></div>
+                <div style="text-align: center; clear: both; margin-top: 35px;"><img src="<?php echo $_SERVER['DOCUMENT_ROOT']; ?>planning/public/data/loga/sponsorzy.png" style="width: 300px;"></div>
+            </div>*/ ?>
+        </td>
+    </tr>
+    <tr style="height: 146mm; width: 200mm;">
+        <td style="width: 105mm; height: 146mm; border-right: 1px dashed #dcdbdb; border-top: 1px dashed #dcdbdb;">
+            <?php /*<div style="text-align: center; margin-bottom: 10px; clear: both;"><img src="<?php echo $_SERVER['DOCUMENT_ROOT']; ?>planning/public/data/loga/LOGO-IT_FUTURE_EXPO2017_rgbtransparent_napis_data-copy-1.png" style="width: 190px;"></div>
+            <div style="text-align: center; font-size: 30px; margin: 30px 0 35px; clear: both;"><strong><?php echo $visitor_firstname; ?> <?php echo $visitor_lastname; ?></strong></div>
+            <div style="text-align: center; clear: both; font-size: 25px;"><img src="<?php echo $_SERVER['DOCUMENT_ROOT'] . 'planning/public' . $visitor_qr; ?>" style="width: 130px;"><br /></div>
+            <div style="text-align: center; clear: both; margin-top: 35px;"><img src="<?php echo $_SERVER['DOCUMENT_ROOT']; ?>planning/public/data/loga/sponsorzy.png" style="width: 300px;"></div>*/ ?>
+        </td>
+        <td style="width: 105mm; height: 146mm; border-top: 1px dashed #dcdbdb">
+            <?php /*<div style="text-align: center; margin-bottom: 10px; clear: both;"><img src="<?php echo $_SERVER['DOCUMENT_ROOT']; ?>planning/public/data/loga/LOGO-IT_FUTURE_EXPO2017_rgbtransparent_napis_data-copy-1.png" style="width: 190px;"></div>
+            <div style="text-align: center; font-size: 30px;margin: 30px 0 35px; clear: both;"><strong><?php echo $visitor_firstname; ?> <?php echo $visitor_lastname; ?></strong></div>
+            <div style="text-align: center; clear: both; font-size: 25px;"><img src="<?php echo $_SERVER['DOCUMENT_ROOT'] . 'planning/public' . $visitor_qr; ?>" style="width: 130px;"><br /></div>
+            <div style="text-align: center; clear: both; margin-top: 35px;"><img src="<?php echo $_SERVER['DOCUMENT_ROOT']; ?>planning/public/data/loga/sponsorzy.png" style="width: 300px;"></div>*/ ?>
+        </td>
+    </tr>
+</table>
+</page>

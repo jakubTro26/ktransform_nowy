@@ -1,0 +1,29 @@
+<form id="form-register" class="p-t-15" method="post" role="form" action="">
+    <input type="hidden" value="3" name="step" id="step" />
+    <input type="hidden" value="<?php echo $ticketdata['visitor_id'] ?>" name="visitor_id" id="visitor_id" />
+    <input type="hidden" value="" name="payment_type" id="payment_type" />
+    
+
+    <div class="row m-t-10">
+        <div class="col-md-12 m-t-10" style="text-align: center">
+			<h2>Przyjęto płatność?</h2>
+            <button class="btn btn-primary btn-cons m-b-40 payment_type_button" typeP="1" onclick="$('#payment_type').val(1)" style="margin-bottom: 80px; padding: 20px; font-size: 20px;">KARTĄ </button>
+            <button class="btn btn-success btn-cons m-b-40 payment_type_button" typeP="2" onclick="$('#payment_type').val(2)" style="margin-bottom: 80px; padding: 20px; font-size: 20px;">GOTÓWKĄ</button>
+            <button class="btn btn-danger btn-cons m-b-40 payment_type_button" typeP="3" onclick="$('#payment_type').val(3)" style="margin-bottom: 80px; padding: 20px; font-size: 20px;">NIE</button>
+        </div>
+    </div>
+	
+	<div>
+		<div class="col-md-12 m-t-10" style="text-align: center">
+			<h2>KWOTA: <?php echo $ticketdata['price_amount'] ?> zł</h2>
+		</div>
+	</div>
+
+    <div class="row m-t-10">
+        <div class="col-md-12 m-t-10" style="text-align: center">
+			<p style="font-weight: bold; color: red;">UWAGA!</>
+            <p>*po otrzymaniu płatności nie ma możliwości zwrotu</p>
+            <p>**nie ma możliwości przekazywania identyfikatora osobie trzeciej</p>
+        </div>
+    </div>
+</form>

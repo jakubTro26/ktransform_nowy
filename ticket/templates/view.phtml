@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Crypto Future Expo 2018</title>
+    <meta name="HandheldFriendly" content="True"/>
+    <meta name="MobileOptimized" content="320"/>
+    <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1"/>
+    <link href="assets/plugins/pace/pace-theme-flash.css" rel="stylesheet" type="text/css"/>
+    <link href="assets/plugins/boostrapv3/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    <link href="assets/plugins/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css"/>
+    <link class="main-stylesheet" href="pages/css/pages.css" rel="stylesheet" type="text/css"/>
+    <link href="pages/css/pages-icons.css" rel="stylesheet" type="text/css">
+
+    <link href="assets/css/jquery.qtip.min.css" media="screen" rel="stylesheet" type="text/css">
+    <style>
+        body {
+            font-family: Helvetica, Arial, sans-serif;
+            margin: 0;
+        }
+
+        h1 {
+            font-size: 20px;
+        }
+
+        img[usemap] {
+            border: none;
+            height: auto;
+            max-width: 100%;
+            width: auto;
+        }
+
+        .qtip-bootstrap {
+            font-size: 12px;
+        }
+
+        .free {
+            fill: lightsteelblue;
+        }
+
+    </style>
+</head>
+<body>
+<div style="width: 100%; text-align:center; margin-top: 20px;">
+	<button type="button" onclick="window.location.href='http://cryptoexpo.pl/'" class="btn btn-primary btn-cons">Wróć</button>
+	<div style="margin-top: 80px; margin: 80px 80px 0px">
+		<img src="images/plan.jpg" alt="" class="map" usemap="#Map"/>
+		<map name="Map" id="Map">
+			<?php echo $mapContent; ?>
+		</map>
+	</div>
+</div>
+<div class="modal fade slide-up disable-scroll" id="modalSlideUp" tabindex="-1" role="dialog" aria-hidden="false">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content-wrapper">
+            <div class="modal-content">
+                <div class="modal-header clearfix text-left">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="pg-close fs-14"></i>
+                    </button>
+                    <h5>Crytpo Future Expo 2018. Rezerwacja <span class="semi-bold" id="stanowisko">Information</span></h5>
+                    <p style="color: #000; font-size: 12px;">Dziękujemy za zainteresowanie wydarzeniem Crytpo Future Expo 2018.</p>
+                    <p class="p-b-10">Proszę wypełnić dane w formularzu poniżej aby dokonać rezerwacji.</p>
+                </div>
+                <div class="modal-body">
+                    <form autocomplete="off" id="form-personal" novalidate="novalidate" method="post" action="ajax/planning/reservation/add">
+                        <input type="hidden" name="station_key" id="station_key" value="" />
+                        <input type="hidden" name="reservation_price" id="reservation_price" value="" />
+                        <div class="form-group-attached">
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <div class="form-group form-group-default required">
+                                        <label>Firma</label>
+                                        <input type="text" required name="company_name" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="form-group form-group-default required">
+                                        <label>Imię</label>
+                                        <input type="text" required name="company_user" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="form-group form-group-default required">
+                                        <label>Nazwisko</label>
+                                        <input type="text" required name="company_user2" class="form-control">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group form-group-default required">
+                                        <label>Telefon kontaktowy</label>
+                                        <input type="text" required name="company_tel" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group form-group-default required">
+                                        <label>Email</label>
+                                        <input type="email" required name="company_email" class="form-control">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                    <div class="row">
+                        <div class="col-sm-8">
+                            <div class="p-t-20 clearfix p-l-10 p-r-10">
+                                <div class="pull-left">
+                                    <p class="bold font-montserrat text-uppercase">Koszt rezerwacji</p>
+                                </div>
+                                <div class="pull-right">
+                                    <p class="bold font-montserrat text-uppercase"><span id="cena"></span> + 23% VAT</span></p>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="col-sm-4 m-t-10 sm-m-t-10">
+                            <button type="submit" id="rezerwuj_button" onclick="$('#form-personal').submit();" class="btn btn-primary btn-block m-t-5">Rezerwuj</button>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="p-t-20 clearfix p-l-10 p-r-10">
+                                <p class="" style="margin-bottom: 0px;">Do w/w ceny dodana zostanie opłata rejestracyjna wynosząca 399 PLN + 23% VAT.</p>
+                                <p class="p-b-10">Po dokonaniu rezerwacji zostanie wystawiona faktura proforma na 50% wartości zamówienia. Rezerwacja stoiska jest ważna 3 dni.</p>
+                            </div>
+
+                            <div class="p-t-20 clearfix p-l-10 p-r-10">
+                                <p class="p-b-10">Z pozdrowieniami,<br />Pure Expo</p>
+                                <p class="">Szybki kontakt:<br />+48 500 703 863<br />biuro@pureexpo.pl</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+<script src="assets/js/jquery.rwdImageMaps.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.maphilight.min.js"></script>
+<script src="assets/js/jquery.qtip.min.js"></script>
+
+<script src="assets/plugins/pace/pace.min.js" type="text/javascript"></script>
+<script src="assets/plugins/jquery-ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="assets/plugins/boostrapv3/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="assets/plugins/jquery/jquery-easy.js" type="text/javascript"></script>
+<script src="assets/plugins/jquery-unveil/jquery.unveil.min.js" type="text/javascript"></script>
+<script src="assets/plugins/jquery-bez/jquery.bez.min.js"></script>
+<script src="assets/plugins/jquery-ios-list/jquery.ioslist.min.js" type="text/javascript"></script>
+<script src="assets/plugins/jquery-actual/jquery.actual.min.js"></script>
+<script src="assets/plugins/jquery-validation/js/jquery.validate.min.js" type="text/javascript"></script>
+<script src="assets/plugins/jquery-validation/js/localization/messages_pl.js" type="text/javascript"></script>
+
+<script src="pages/js/pages.min.js"></script>
+<script>
+    $(document).ready(function (e) {
+        $('#form-personal').validate();
+        $('img[usemap]').rwdImageMaps();
+
+        var at = [
+            'bottom left', 'bottom right', 'bottom center',
+            'top left', 'top right', 'top center'
+        ];
+
+        $('area').each(function () {
+            var text = "Status: " + ($(this).attr('active') == 1 ? "<span style='color: green'>WOLNE</span>" : "<span style='color: red'>ZAJĘTE</span>") + "<br />";
+            if($(this).attr('active') == 1) { text += "Cena: " + $(this).attr('station_price') + " PLN + 23% VAT<br />"; } 
+            text += "Powierzchnia: " + $(this).attr('station_area') + " m2 (powierzchnia niezabudowana)<br />";
+            if ($(this).attr('active') == 1) {
+                text += "Kliknij na stoisko, aby dokonać rezerwacji";
+            }
+            $(this).qtip({
+                content: {
+                    text: text,
+                    title: $(this).attr('station_name')
+                },
+                position: {
+                    my: 'bottom center',
+                    at: 'top right'
+                },
+                hide: {
+                    fixed: true
+                },
+                style: {
+                    classes: 'qtip-rounded qtip-bootstrap qtip-shadow'
+                }
+            });
+        });
+
+        $('.map').maphilight({
+            fillColor: 'ffffff',
+            fillOpacity: 0.4,
+            stroke: false
+        });
+
+        setTimeout(function(){
+            $("area").each(function( index ) {
+                if($(this).attr('active') == 0) {
+                    $(this).data('maphilight', {'alwaysOn': true, 'fillColor': 'b7b7b7', 'fillOpacity' : 0.6}).trigger('alwaysOn.maphilight');
+                }
+            });
+        }, 1000);
+
+
+
+        $('area').click(function () {
+            if($(this).attr('active') == 1) {
+                $('#stanowisko').html($(this).attr('station_name'));
+                $('#cena').html($(this).attr('station_price') + ' PLN');
+
+                $('#station_key').val($(this).attr('station_key'));
+                $('#reservation_price').val($(this).attr('station_price'));
+
+                $('#modalSlideUp').modal('show');
+            }
+        });
+
+        $('#modalSlideUp').on('show.bs.modal', function(e) {
+
+        });
+
+        <?php if($reservation == 'ok') { ?>
+            $('body').pgNotification({style:'flip',message:'Rezerwacja została zapisana.',position:'top-right',timeout:3000,type:'success'}).show();
+        <?php } ?>
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,6803 @@
+# Webalizer V2.23-08 Incremental Data - 02/13/2020 23:35:52
+2020 2 13 23 35 52
+10456 8886 1400 314 49 88 93163836 7653 2625 0 0 0
+529 44 954 1 13
+1505 1174 8328685 70 1043 54 0 0
+205 158 5706523 30 65 46 0 0
+507 335 7397745 69 304 54 0 0
+712 663 6122559 179 563 212 0 0
+374 323 3838385 211 233 181 0 0
+1029 967 5351498 169 880 127 0 0
+277 266 3498876 110 161 41 0 0
+513 465 3611921 145 384 73 0 0
+453 238 5843611 180 289 99 0 0
+465 247 8270970 190 180 129 0 0
+1680 1600 4035386 304 1514 303 0 0
+493 446 10422803 257 186 106 0 0
+2243 2004 20734874 529 1851 1200 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+162 119 1105577 117 0 0
+195 134 4563564 88 0 0
+87 48 2917025 43 0 0
+334 79 2005782 50 0 0
+148 74 1570838 83 0 0
+208 199 1090039 131 0 0
+251 205 1468178 225 0 0
+193 168 786251 152 0 0
+392 371 1478855 372 0 0
+475 316 4906808 431 0 0
+403 389 2313544 352 0 0
+432 403 3362381 361 0 0
+1374 1326 6434601 1252 0 0
+503 476 4918950 346 0 0
+407 385 4942204 267 0 0
+1433 1256 10429920 1079 0 0
+357 295 8372847 199 0 0
+401 371 3540755 252 0 0
+267 223 2410588 189 0 0
+378 322 4224296 182 0 0
+233 146 1581942 153 0 0
+180 126 4568960 58 0 0
+418 268 7305063 250 0 0
+1225 1187 6864868 1021 0 0
+0
+0
+0
+8886
+0
+0
+0
+0
+0
+6
+0
+302
+220
+0
+116
+0
+0
+68
+0
+0
+0
+853
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+# -urls- 
+/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js
+0 29 0 672504 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/btnNext.png
+1 1 0 1697 0 0 0 0
+/mec-kamil-kalenczuk/
+0 5 0 50461 5 3 0 0
+/wp-content/uploads/2019/04/7.jpg
+1 24 0 163334 0 0 0 0
+/wp-content/uploads/2019/04/2.jpg
+1 9 0 88613 0 0 0 0
+/wp-content/plugins/js-composer/assets/vc/alert.png
+1 1 0 587 0 0 0 0
+/wp-json/wp/v2/pages
+0 1 0 127238 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5845-150x150@2x.jpg
+1 1 0 14248 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/facebook/sprite.png
+1 1 0 4514 0 0 0 0
+/witold-furman/feed/
+0 2 0 2588 2 0 0 0
+/wp-content/uploads/2018/08/fa.png
+1 3 0 164122 0 0 0 0
+/wp-content/plugins/js-composer/assets/vc/remove.png
+1 1 0 550 0 0 0 0
+/wp-content/themes/ievent/fonts/linecons.ttf
+0 7 0 109928 0 0 0 0
+/wp-content/uploads/2019/02/po-500x439@2x.jpg
+1 1 0 25773 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/light_square/btnPrevious.png
+1 1 0 1728 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/facebook/contentPatternLeft.png
+1 1 7307126079760655719 421 0 0 0 0
+/blog/
+0 1 7089074971063973220 12471 0 0 0 0
+/wp-content/uploads/2019/04/e-biznes_logo.png
+1 7 7935378219376797795 161804 0 0 0 0
+/wp-content/uploads/2019/05/exact-logo.png
+1 7 7307218078149207840 10793 0 0 0 0
+/wp-content/uploads/2015/10/user_1238354_aa3a22_huge-176x178.jpg
+1 8 3472387901132993657 44979 0 0 0 0
+/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+1 1 7352465532759338819 1218 0 0 0 0
+/wp-content/uploads/2019/05/ns.jpg
+1 10 0 581988 0 0 0 0
+/witaj-swiecie/
+0 1 0 10127 0 0 0 0
+/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+1 1 0 1220 0 0 0 0
+/wp-content/uploads/2019/05/dda-500x439@2x.jpg
+1 2 0 35748 0 0 0 0
+/natalia-suska/feed/
+0 2 0 2592 2 1 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/btnPrevious.png
+1 1 0 1728 0 0 0 0
+/wp-json/wp/v2/users/
+0 4 0 5431 2 4 0 0
+/wp-content/uploads/2018/09/m.chomuszko-500x439@2x.jpg
+1 1 0 24487 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/control.png
+1 1 0 755 0 0 0 0
+/magdalena-chomuszko/feed/
+0 3 0 3900 3 3 0 0
+/category/prelegenci/feed/
+0 3 0 16756 2 2 0 0
+/wp-content/uploads/2018/04/kamil-gliwinski-568269-unsplash.jpg
+1 11 0 13115303 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js
+0 11 0 71794 0 0 0 0
+/wp-content/themes/ievent/css/skeleton.css
+0 39 0 168540 0 0 0 0
+/wp-config.php
+0 2 0 866 1 0 0 0
+/wp-content/plugins/js-composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js
+0 11 0 110724 0 0 0 0
+/izabela-gorecka-olejniczak/
+0 11 0 112724 10 6 0 0
+/wp-content/themes/ievent/css/vc_style.css
+0 34 0 36410 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternBottom.png
+1 1 0 426 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/fire.png
+1 1 0 891 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/light_square/sprite.png
+1 1 0 3793 0 0 0 0
+/wp-content/uploads/2019/06/a-500x439@2x.jpg
+1 2 0 54020 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_prev.png
+1 1 0 1662 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_x.png
+1 1 0 1383 0 0 0 0
+/wp-json/wp/v2/users
+0 2 0 2716 1 0 0 0
+/pawel-jedrzejak/
+0 3 0 30093 3 1 0 0
+/wp-content/uploads/2015/09/IMG_3806-1-250x150.jpg
+1 7 0 90605 0 0 0 0
+/wp-content/themes/ievent/js/plugins.js
+0 38 0 2922315 0 0 0 0
+/wp-content/themes/ievent/css/theme-elements.css
+0 37 0 1084740 0 0 0 0
+/wp-content/uploads/2019/05/uek.jpg
+1 7 0 603105 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5843-150x150@2x.jpg
+1 1 0 10180 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/dark_square/btnPrevious.png
+1 1 0 1728 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/blue-document-word.png
+1 1 0 976 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/css/prettyPhoto.min.css
+0 11 0 34823 0 0 0 0
+/wp-content/uploads/2015/09/pod-slider-2-1024x683-1024x683.jpg
+1 7 0 768078 0 0 0 0
+/wp-json/
+0 1 0 82769 1 0 0 0
+/wp-content/uploads/2018/07/b.png
+1 1 0 34899 0 0 0 0
+/author/admin/
+0 13 0 216318 7 4 0 0
+/wp-content/plugins/js-composer/assets/images/icons/chart.png
+1 1 0 944 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5855-150x150@2x.jpg
+1 1 0 18025 0 0 0 0
+/author/admin/page/2/
+0 4 0 41573 4 1 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/default/default_thumb.png
+1 1 0 1823 0 0 0 0
+/wp-content/themes/ievent/css/theme-responsive.css
+0 37 0 532215 0 0 0 0
+/wp-content/uploads/2018/09/hot-coffee.png
+1 8 0 88262 0 0 0 0
+/robert-rogalewicz/
+0 4 0 41103 4 1 0 0
+/wp-content/uploads/2019/06/IMG_5854-150x150@2x.jpg
+1 1 0 11223 0 0 0 0
+/robert-rogalewicz/feed/
+0 3 0 3891 3 2 0 0
+/wp-content/plugins/js-composer/assets/images/flickr.png
+1 1 0 482 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5849-150x150@2x.jpg
+1 1 0 15151 0 0 0 0
+/danuta-kajrunajtys/feed/
+0 3 0 3897 3 2 0 0
+/wp-includes/wlwmanifest.xml
+0 14 0 12407 0 0 0 0
+/wp-content/themes/ievent/fonts/linecons.woff
+0 21 0 552337 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/btnPrevious.png
+1 1 0 1728 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/balloon-buzz.png
+1 1 0 1002 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternLeft.png
+1 1 0 421 0 0 0 0
+/dr-witold-k-staniszkis/feed/
+0 2 0 2611 1 1 0 0
+/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+1 1 0 1223 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/blue-document-powerpoint.png
+1 1 0 994 0 0 0 0
+/wp-content/themes/ievent/fonts/font-awesome.min.css
+0 32 0 239617 0 0 0 0
+/janusz-bossak/
+0 6 0 60177 6 2 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/facebook/contentPatternBottom.png
+1 1 0 426 0 0 0 0
+/wp-content/uploads/2015/10/user_1238354_aa3a22_huge-176x178@2x.jpg
+1 2 0 18653 0 0 0 0
+/wp-content/uploads/2015/09/It-Future-Expo-2015_dodatkowe-177-1024x684-1024x684.jpg
+1 5 0 761370 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite.png
+1 1 0 6969 0 0 0 0
+/wp-content/themes/ievent/vendor/flexslider/flexslider.css
+0 32 0 76659 0 0 0 0
+/wp-content/uploads/2018/07/c.png
+1 2 0 68893 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/dark_square/sprite.png
+1 1 0 3793 0 0 0 0
+/wp-content/themes/ievent/vendor/jquery.validate.js
+0 29 0 224055 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/light_rounded/sprite.png
+1 1 0 4386 0 0 0 0
+/mateusz-borowiak/feed/
+0 2 0 2596 2 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/default/sprite_y.png
+1 1 0 1448 0 0 0 0
+/wp-content/uploads/2015/12/0-500x439@2x.jpg
+1 1 0 20753 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternTop.png
+1 1 0 426 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/facebook/btnNext.png
+1 1 0 1130 0 0 0 0
+/wp-content/uploads/2019/06/b-500x439@2x.jpg
+1 1 0 20899 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/default/sprite_x.png
+1 1 0 1383 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5874-150x150@2x.jpg
+1 1 0 15866 0 0 0 0
+/wp-content/uploads/2019/05/wh.jpg
+1 8 0 179703 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5884-150x150@2x.jpg
+1 1 0 14444 0 0 0 0
+/wp-content/uploads/2018/12/pod-rejestracje-opcja-1-3.jpg
+1 9 0 4817581 0 0 0 0
+/wp-content/uploads/2015/12/Bez-nazwy-2-300x300@2x.jpg
+1 1 0 16398 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5870-150x150@2x.jpg
+1 1 0 13106 0 0 0 0
+/wp-content/uploads/2015/09/IMG_3806-1.jpg
+1 1 0 94788 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/dark_rounded/btnPrevious.png
+1 1 0 1728 0 0 0 0
+/wp-content/themes/ievent/images/top-black.png
+1 16 0 69517 0 0 0 0
+/wp-content/themes/ievent/fonts/fontawesome-webfont.svg
+0 1 0 313692 0 0 0 0
+/wp-content/uploads/2019/05/ns-500x439@2x.jpg
+1 1 0 37821 0 0 0 0
+/wp-content/uploads/2019/04/a.jpg
+1 9 0 998941 0 0 0 0
+/wp-content/uploads/2019/04/cyfrowa_transformacja_logo-1.png
+1 20 0 353268 0 0 0 0
+/home/
+0 1 0 20011 0 1 0 0
+/wp-content/uploads/2019/04/lubasz-wspolnicy-poziom-dark.jpg
+1 7 0 66905 0 0 0 0
+/favicon.ico
+0 3 0 22980 0 0 0 0
+/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+1 1 0 468 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/alarm-clock.png
+1 1 0 1126 0 0 0 0
+/wp-content/plugins/js-composer/assets/vc/info.png
+1 1 0 608 0 0 0 0
+/shortcode/testimonials/
+0 1 0 9024 0 1 0 0
+/wp-content/uploads/2015/09/It-Future-Expo-2015_dodatkowe-177-1024x684-250x150.jpg
+1 7 0 101240 0 0 0 0
+/wp-content/themes/ievent/vendor/isotope/jquery.isotope.min.js
+0 31 0 403047 0 0 0 0
+/wp-content/uploads/2019/05/2.jpg
+1 7 0 250312 0 0 0 0
+/wp-content/plugins/js-composer/assets/js/dist/js_composer_front.min.js
+0 22 0 147441 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5862.jpg
+1 11 0 665838 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5846.jpg
+1 1 0 47784 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/dark_square/btnNext.png
+1 1 0 1697 0 0 0 0
+/wp-content/themes/ievent/fonts/fontawesome-webfont.woff2
+0 8 0 456343 0 0 0 0
+/rafal-gorski/feed/
+0 3 0 3912 3 2 0 0
+/wp-content/uploads/2015/09/Targi-IT_Wrocław_mm019-1-1024x682-1024x682.jpg
+1 1 0 148751 0 0 0 0
+/witold-chomiczewski/feed/
+0 4 0 5204 4 3 0 0
+/witold-furman/
+0 4 0 41268 4 2 0 0
+/magdalena-chomuszko/
+0 5 0 50496 4 2 0 0
+/kontakt/
+0 6 0 54662 6 1 0 0
+/wp-content/uploads/2019/04/1.jpg
+1 18 0 147457 0 0 0 0
+/wp-json/oembed/1.0/embed
+0 25 0 66132 0 0 0 0
+/wp-content/uploads/2015/09/IMG_3381-1-250x150.jpg
+1 7 0 90817 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/jquery.prettyPhoto.js
+0 28 0 208837 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/light_square/btnPrevious.png
+1 1 0 1728 0 0 0 0
+/wp-content/uploads/2018/08/5D416D14-5056-B753-A798CFF48DAED33C-logo.png
+1 3 0 376538 0 0 0 0
+/mateusz-borowiak/
+0 6 0 60759 5 1 0 0
+/wp-content/uploads/2018/07/d.png
+1 2 0 69369 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/sprite.png
+1 1 0 4514 0 0 0 0
+/wp-content/themes/ievent/vendor/form-validator/jquery.form-validator.min.js
+0 32 0 388414 0 0 0 0
+/wp-content/uploads/2019/05/1.jpg
+1 7 0 628123 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5891.jpg
+1 1 0 144512 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/default/default_thumb.png
+1 1 0 1823 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/facebook/btnPrevious.png
+1 1 0 1113 0 0 0 0
+/en/hotels/
+0 5 0 46452 5 3 0 0
+/witold-chomiczewski/
+0 10 0 107732 10 5 0 0
+/wp-content/plugins/js-composer/assets/images/icons/auction-hammer.png
+1 1 0 990 0 0 0 0
+/wp-content/uploads/2018/04/3-1.jpg
+1 3 0 15284 0 0 0 0
+/wp-content/uploads/2018/04/2.jpg
+1 2 0 11477 0 0 0 0
+/wp-content/uploads/2018/08/Logo-I_love_crypto.png
+1 2 0 28817 0 0 0 0
+/arkadiusz-siechowicz/feed/
+0 3 0 3906 2 1 0 0
+/wp-content/themes/ievent/css/dynamic_ievent.css
+0 33 0 89160 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/balloon-facebook.png
+1 1 0 976 0 0 0 0
+/izabela-gorecka-olejniczak/feed/
+0 2 0 2634 2 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/plus-shield.png
+1 1 0 1041 0 0 0 0
+/rafal-gorski/
+0 6 0 60438 6 2 0 0
+/wp-content/plugins/js-composer/assets/images/icons/address-book.png
+1 1 0 997 0 0 0 0
+/mec-kamil-kalenczuk/feed/
+0 3 0 3933 3 1 0 0
+/wp-content/themes/ievent/js/theme.js
+0 39 0 501834 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/light_square/btnNext.png
+1 1 0 1697 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/camera.png
+1 1 0 920 0 0 0 0
+/wp-content/uploads/2019/01/dada-300x300-1-500x439.jpg
+1 1 0 28648 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5863-150x150.jpg
+1 1 0 5783 0 0 0 0
+/wp-content/uploads/2019/06/b-500x439.jpg
+1 1 0 18309 0 0 0 0
+/partnerzy/
+0 8 0 75523 8 2 0 0
+/wp-includes/js/comment-reply.min.js
+0 37 0 56754 0 0 0 0
+/wp-content/uploads/2019/02/po-500x439.jpg
+1 2 0 21558 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/facebook/contentPatternTop.png
+1 1 0 426 0 0 0 0
+/wp-content/uploads/2015/09/IMG_3843-1-250x150.jpg
+1 7 0 89808 0 0 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 29 0 144649 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/balloon.png
+1 1 0 959 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/bookmark.png
+1 1 0 920 0 0 0 0
+/wp-content/uploads/2015/09/AdamPrzemyk-176x178-1.jpg
+1 7 0 44820 0 0 0 0
+/wp-content/plugins/js-composer/assets/css/lib/isotope.min.css
+0 11 0 5531 0 0 0 0
+/wp-content/uploads/2018/12/image-3.jpg
+1 9 0 3530787 0 0 0 0
+/wp-content/themes/ievent/vendor/modernizr.js
+0 25 0 172767 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/dark_rounded/contentPattern.png
+1 1 0 414 0 0 0 0
+/wp-content/uploads/2018/04/0.jpg
+1 9 0 279061 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/btnPrevious.png
+1 1 0 1728 0 0 0 0
+/wp-content/uploads/2018/08/Cl3okr.png
+1 2 0 57613 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/toggle_close.png
+1 1 0 452 0 0 0 0
+/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+1 1 1 1236 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/bower/skrollr/dist/skrollr.min.js
+0 11 0 65391 0 0 0 0
+/wp-content/themes/ievent/vendor/magnific-popup/jquery.magnific-popup.min.js
+0 40 0 362561 0 0 0 0
+/polityka-prywatnosci/
+0 2 0 22348 1 1 0 0
+/wp-content/uploads/2018/07/a.png
+1 3 0 58268 0 0 0 0
+/wp-login.php
+0 1686 0 3187448 1143 722 0 0
+/wp-content/uploads/2018/04/facvz.png
+1 13 0 88295 0 0 0 0
+/wp-json/wp/v2/posts
+0 2 0 68826 0 0 0 0
+/wp-content/uploads/2019/02/kk.jpg
+1 1 0 14099 0 0 0 0
+/wp-content/uploads/2015/09/IMG_3876-1-250x150.jpg
+1 7 0 44119 0 0 0 0
+/en/exhibitors/
+0 4 0 46516 4 2 0 0
+/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+1 16 0 17159 0 0 0 0
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+0 34 0 36571 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5846-150x150@2x.jpg
+1 1 0 13980 0 0 0 0
+/wp-content/uploads/2015/12/user.png
+1 18 0 169353 0 0 0 0
+/wp-content/uploads/2019/07/W.-Chomiczewski-Transformacja-cyfrowa.-Czy-prawo-za-nią-nadąża.pdf
+0 5 0 6167179 0 0 0 0
+/wp-content/plugins/js-composer/assets/vc/tick.png
+1 1 0 528 0 0 0 0
+/wp-content/themes/ievent/css/plugins.css
+0 37 0 396110 0 0 0 0
+/wp-includes/js/jquery/jquery.js
+0 33 0 1315487 0 0 0 0
+/en/speakers/taco-lian-2/
+0 1 0 1565 1 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/prettyPhoto.css
+0 38 0 185150 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5865-150x150@2x.jpg
+1 1 0 15838 0 0 0 0
+/wp-includes/js/wp-embed.min.js
+0 24 0 26465 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5878-150x150@2x.jpg
+1 1 0 15061 0 0 0 0
+/wp-content/plugins/contact-form-7/includes/js/scripts.js
+0 35 0 183326 0 0 0 0
+/prelegenci/
+0 7 0 63355 5 1 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 32 0 186731 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_y.png
+1 1 0 1448 0 0 0 0
+/natalia-suska/
+0 7 0 71940 6 2 0 0
+/wp-content/plugins/js-composer/assets/images/icons/battery-full.png
+1 1 0 933 0 0 0 0
+/wp-content/plugins/revslider/public/assets/css/settings.css
+0 33 0 416889 0 0 0 0
+/wp-content/uploads/2019/02/po.jpg
+1 1 0 31416 0 0 0 0
+/wp-content/uploads/2019/04/MOM-logo-350x50.jpg
+1 7 0 82515 0 0 0 0
+/janusz-bossak/feed/
+0 1 0 1296 1 0 0 0
+/en/speakers/volen-atim-2-3/
+0 5 0 8894 2 1 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/facebook/contentPatternRight.png
+1 1 0 420 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/chart-pie.png
+1 1 0 1972 0 0 0 0
+/wp-content/uploads/2018/09/brandcoin.png
+1 2 0 875415 0 0 0 0
+/wp-content/uploads/2015/12/kkk-500x439@2x.jpg
+1 1 0 41535 0 0 0 0
+/danuta-kajrunajtys/
+0 4 0 41317 4 2 0 0
+/xmlrpc.php
+0 4279 0 2908970 511 453 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/btnNext.png
+1 1 0 1697 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/blue-document-excel.png
+1 1 0 973 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/anchor.png
+1 1 0 979 0 0 0 0
+/wp-content/uploads/2015/12/Bez-nazwy-2-300x300.jpg
+1 5 0 32606 0 0 0 0
+/wp-content/uploads/2015/12/asa.jpg
+1 11 0 339800 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/mail.png
+1 1 0 790 0 0 0 0
+/wp-content/uploads/2019/04/4.jpg
+1 9 0 83940 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/heart.png
+1 1 0 1077 0 0 0 0
+/category/prelegenci/page/2/
+0 5 0 52036 5 3 0 0
+/wp-admin/admin-post.php
+0 86 0 41573 5 8 0 0
+/wp-content/plugins/js-composer/assets/lib/bower/imagesloaded/imagesloaded.pkgd.min.js
+0 10 0 27037 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternRight.png
+1 1 0 420 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5879-150x150@2x.jpg
+1 1 0 14457 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5872-150x150@2x.jpg
+1 1 0 16090 0 0 0 0
+/hotele/
+0 3 0 28628 3 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/clock.png
+1 1 0 991 0 0 0 0
+/
+0 259 0 6311701 272 161 0 0
+/patryk-oleszczuk/feed/
+0 4 0 5191 4 2 0 0
+/relacja/
+0 5 0 41403 5 1 0 0
+/wp-content/uploads/2015/12/ff.jpg
+1 9 0 364564 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/blue-document-pdf.png
+1 1 0 975 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5874.jpg
+1 2 0 313746 0 0 0 0
+/wystawcy/
+0 5 0 68926 5 0 0 0
+/en/comments/feed/
+0 1 0 1162 1 0 0 0
+/wp-content/uploads/2019/06/IMG_5862-150x150@2x.jpg
+1 1 0 12973 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_next.png
+1 1 0 1644 0 0 0 0
+/wp-content/uploads/2019/06/a-500x439.jpg
+1 2 0 23651 0 0 0 0
+/wp-content/themes/ievent/vendor/magnific-popup/magnific-popup.css
+0 33 0 92888 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/application-image.png
+1 1 0 829 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/sprite.png
+1 1 0 4386 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5868-150x150@2x.jpg
+1 1 0 14198 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/blue-document-office.png
+1 1 0 1048 0 0 0 0
+/wp-content/themes/ievent/fonts/fontawesome-webfont.ttf
+0 1 0 122393 0 0 0 0
+/wp-content/uploads/2019/02/kok-500x439@2x.jpg
+1 2 0 62958 0 0 0 0
+/comments/feed/
+0 3 0 3433 3 1 0 0
+/wp-content/uploads/2019/06/IMG_5836-150x150@2x.jpg
+1 1 0 14042 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5856-150x150@2x.jpg
+1 1 0 17425 0 0 0 0
+/wp-content/plugins/js-composer/assets/vc/exclamation.png
+1 1 0 780 0 0 0 0
+/wp-content/uploads/2015/09/IMG_3876-1.jpg
+1 1 0 69584 0 0 0 0
+/galeria-czerwiec-2019/
+0 6 0 64037 5 2 0 0
+/wp-content/plugins/js-composer/assets/images/icons/blue-document-image.png
+1 1 0 985 0 0 0 0
+/wp-content/themes/ievent/js/bootstrap.min.js
+0 34 0 100446 0 0 0 0
+/wp-content/uploads/2019/05/logo-1.png
+1 7 0 137220 0 0 0 0
+/wp-content/uploads/2015/12/dada-300x300@2x.jpg
+1 1 0 45329 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/light_rounded/btnNext.png
+1 1 0 1697 0 0 0 0
+/category/prelegenci/
+0 7 0 85781 7 4 0 0
+/wp-content/plugins/js-composer/assets/images/icons/camcorder.png
+1 1 0 875 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/sprite.png
+1 1 0 3793 0 0 0 0
+/wp-json/wp/v2/users/1
+0 3 0 3963 0 0 0 0
+/wp-content/themes/ievent/css/theme-animate.css
+0 33 0 343769 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/blue-document-music.png
+1 1 0 932 0 0 0 0
+/robots.txt
+0 170 0 42506 0 0 0 0
+/author/admin/feed/
+0 2 0 11174 1 1 0 0
+/patryk-oleszczuk/
+0 6 0 61377 6 2 0 0
+/wp-content/uploads/2019/06/a.jpg
+1 5 0 152739 0 0 0 0
+/wp-content/themes/ievent/style.css
+0 33 0 1367049 0 0 0 0
+/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js
+0 29 0 1266376 0 0 0 0
+/feed/
+0 2 0 11144 2 1 0 0
+/wp-content/uploads/2018/09/coinbe_720x240_N.png
+1 3 0 83141 0 0 0 0
+/wp-content/plugins/js-composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/btnNext.png
+1 1 0 1130 0 0 0 0
+/wp-content/uploads/2015/12/ff-500x439@2x.jpg
+1 2 0 39466 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/default/sprite_prev.png
+1 1 0 1662 0 0 0 0
+/wp-content/themes/ievent/vendor/flexslider/jquery.flexslider.js
+0 28 0 471669 0 0 0 0
+/wp-cron.php
+0 284 0 119789 260 240 0 0
+/wp-content/uploads/2019/01/dada-300x300-1-500x439@2x.jpg
+1 3 0 65044 0 0 0 0
+/wp-content/themes/ievent/vendor/respond.js
+0 38 0 97414 0 0 0 0
+/wp-content/themes/ievent/images/select-icons.png
+1 1 0 3493 0 0 0 0
+/wp-content/uploads/2019/06/zzr.png
+1 7 0 290205 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/light_square/btnNext.png
+1 1 0 1697 0 0 0 0
+/wp-content/uploads/2019/04/b.jpg
+1 7 0 1272466 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5866-150x150@2x.jpg
+1 1 0 14303 0 0 0 0
+/dr-witold-k-staniszkis/
+0 15 0 160128 12 9 0 0
+/pawel-jedrzejak/feed/
+0 1 0 1307 0 1 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/dark_rounded/sprite.png
+1 1 0 4362 0 0 0 0
+/arkadiusz-siechowicz/
+0 5 0 52034 5 2 0 0
+/wp-content/themes/ievent/images/apple-touch-icon-144x144.png
+1 8 0 46221 0 0 0 0
+/wp-content/themes/ievent/vendor/jquery.appear.js
+0 41 0 78662 0 0 0 0
+/wp-content/uploads/2018/04/0-500x439@2x.jpg
+1 2 0 45084 0 0 0 0
+/wp-content/plugins/js-composer/assets/images/icons/arrow.png
+1 1 0 875 0 0 0 0
+/wp-content/uploads/2019/06/IMG_5856.jpg
+1 1 0 17376 0 0 0 0
+/wp-content/uploads/2019/05/dda.jpg
+1 11 0 547049 0 0 0 0
+/wp-content/themes/ievent/vendor/prettyPhoto/images/prettyPhoto/dark_rounded/btnNext.png
+1 1 0 1697 0 0 0 0
+/wp-content/uploads/2015/12/0.jpg
+1 13 0 700048 0 0 0 0
+/wp-content/uploads/2015/09/Targi-IT_Wrocław_mm019-1-1024x682-250x150.jpg
+1 7 0 95717 0 0 0 0
+/wp-content/uploads/2018/04/2222222-250x150.jpg
+1 7 0 77853 0 0 0 0
+/wp-includes/css/dist/block-library/style.min.css
+0 37 0 286876 0 0 0 0
+/wp-content/plugins/js-composer/assets/css/js_composer.min.css
+0 23 0 1458114 0 0 0 0
+/wp-content/uploads/2019/05/logo.png
+1 7 0 165213 0 0 0 0
+/wp-content/uploads/2019/06/b.jpg
+1 3 0 75146 0 0 0 0
+/wp-content/uploads/2015/09/pod-slider-2-1024x683-250x150.jpg
+1 7 0 108450 0 0 0 0
+/wp-content/uploads/2018/08/logofkwww.png
+1 2 0 29753 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+172.69.190.59
+0 2 2 2713 2 1581583108 0 0
+/wp-login.php
+172.68.146.189
+0 26 26 18433 2 1581003530 0 0
+/xmlrpc.php
+162.158.219.83
+0 13 13 16961 7 1581608615 0 0
+/xmlrpc.php
+172.68.25.11
+0 1 1 1691 1 1581614249 0 0
+/wp-login.php
+162.158.74.168
+0 1 0 29334 0 0 0 0
+-
+66.249.66.152
+0 1 0 610 1 1580569046 0 0
+/
+172.68.65.85
+0 5 5 5719 5 1581583276 0 0
+/xmlrpc.php
+162.158.22.149
+0 1 1 18841 0 0 0 0
+-
+162.158.150.123
+0 6 6 12436 4 1581124920 0 0
+/wp-cron.php
+172.69.62.119
+0 7 7 53947 2 1581592278 0 0
+/wp-login.php
+162.158.88.117
+0 2 2 11556 0 0 0 0
+-
+172.68.11.252
+0 1 1 4974 0 0 0 0
+-
+108.162.245.83
+0 23 4 30731 3 1581616731 0 0
+/
+172.69.70.60
+0 2 2 16857 1 1581423904 0 0
+/danuta-kajrunajtys/
+162.158.74.238
+0 5 5 6781 3 1581593306 0 0
+/xmlrpc.php
+162.158.103.156
+0 1 1 4366 0 0 0 0
+-
+95.108.213.21
+0 1 0 458 1 1580569682 0 0
+-
+172.68.11.210
+0 1 1 3206 0 0 0 0
+-
+162.158.103.160
+0 1 1 38689 0 0 0 0
+-
+162.158.74.108
+0 3 3 29670 0 0 0 0
+-
+172.69.62.215
+0 3 3 86191 1 1581014719 0 0
+/wp-json/
+162.158.93.190
+0 18 18 50054 7 1581611998 0 0
+/wp-login.php
+51.68.137.133
+0 3 3 4330 1 1580827620 0 0
+/xmlrpc.php
+162.158.92.131
+0 22 22 47797 10 1581616248 0 0
+/
+162.158.23.12
+0 1 1 5779 0 0 0 0
+-
+5.45.207.40
+0 34 32 339467 2 1580835456 0 0
+-
+162.158.158.152
+0 19 19 27113 10 1581617041 0 0
+/xmlrpc.php
+198.41.238.89
+0 2 2 2713 1 1581599943 0 0
+/xmlrpc.php
+172.69.34.119
+0 14 12 23860 8 1581613840 0 0
+/wp-login.php
+162.158.106.55
+0 8 3 24847 0 0 0 0
+-
+162.158.154.86
+0 16 15 48381 10 1581618554 0 0
+/xmlrpc.php
+162.158.74.142
+0 4 4 20420 0 0 0 0
+-
+162.158.111.218
+0 1 1 1041 0 0 0 0
+-
+40.77.189.145
+0 1 1 21392 0 0 0 0
+-
+162.158.94.141
+0 2 2 1070574 0 0 0 0
+-
+141.101.69.144
+0 2 2 2377 2 1581582171 0 0
+/wp-login.php
+162.158.90.55
+0 3 3 6245 0 0 0 0
+-
+162.158.158.28
+0 14 14 39111 8 1581620010 0 0
+/wp-login.php
+162.158.74.116
+0 1 0 29331 0 0 0 0
+-
+108.162.246.186
+0 4 4 3948 0 0 0 0
+-
+162.158.103.190
+0 1 1 42407 0 0 0 0
+-
+172.69.69.251
+0 1 1 10074 1 1581396130 0 0
+/rafal-gorski/
+162.158.202.35
+0 14 13 190112 0 0 0 0
+-
+108.162.219.85
+0 9 9 32995 5 1581619773 0 0
+/wp-login.php
+172.68.245.176
+0 1 1 1444 0 0 0 0
+-
+108.162.216.231
+0 5 5 92313 5 1581262755 0 0
+/
+162.158.103.214
+0 1 1 89732 0 0 0 0
+-
+162.158.111.98
+0 1 1 414 0 0 0 0
+-
+172.68.11.138
+0 1 1 1691 1 1581613905 0 0
+/wp-login.php
+108.162.219.215
+0 7 7 10499 5 1581614733 0 0
+/wp-login.php
+54.36.150.181
+0 1 1 17376 0 0 0 0
+-
+108.162.237.47
+0 1 0 29395 0 0 0 0
+-
+162.158.186.13
+0 1 0 29393 0 0 0 0
+-
+172.69.54.166
+0 1 1 829 0 0 0 0
+-
+162.158.90.121
+0 3 3 118425 1 1581421176 0 0
+/wp-login.php
+172.69.69.53
+0 1 1 14457 0 0 0 0
+-
+162.158.91.168
+0 2 2 19116 0 0 0 0
+-
+162.158.202.5
+0 5 4 38981 0 0 0 0
+-
+162.158.74.216
+0 2 0 58652 0 0 0 0
+-
+162.158.74.56
+0 3 3 13035 0 0 0 0
+-
+172.69.55.77
+0 1 1 1220 0 0 0 0
+-
+108.162.246.240
+0 1 1 1298 1 1581280924 0 0
+/patryk-oleszczuk/feed/
+172.69.63.244
+0 4 4 1314894 2 1581588772 0 0
+/xmlrpc.php
+162.158.88.51
+0 2 1 7505 0 0 0 0
+-
+162.158.203.6
+0 6 6 38172 0 0 0 0
+-
+46.229.168.131
+0 1 1 260 0 0 0 0
+-
+172.69.134.40
+0 30 30 26781 9 1581603559 0 0
+/xmlrpc.php
+172.69.71.81
+0 13 2 19691 0 0 0 0
+-
+141.101.76.41
+0 1 1 1223 0 0 0 0
+-
+172.69.70.12
+0 1 1 987 0 0 0 0
+-
+162.158.107.168
+0 5 5 46585 3 1581599324 0 0
+/wp-login.php
+31.170.123.73
+0 9 9 12990 3 1580836935 0 0
+/xmlrpc.php
+66.249.75.119
+0 3 1 75054 1 1580737011 0 0
+-
+108.162.246.138
+0 3 2 32932 1 1581166270 0 0
+/en/hotels/
+162.158.90.19
+0 22 21 92033 10 1581632187 0 0
+-
+40.77.188.211
+0 2 2 125022 0 0 0 0
+-
+172.69.70.66
+0 2 2 77709 0 0 0 0
+-
+162.158.111.122
+0 1 1 1383 0 0 0 0
+-
+172.68.246.51
+0 3 3 4404 2 1581599297 0 0
+/wp-login.php
+172.69.71.53
+0 1 1 12973 0 0 0 0
+-
+192.241.148.219
+0 3 3 4330 1 1580804057 0 0
+/xmlrpc.php
+162.158.238.223
+0 40 28 324514 14 1581636270 0 0
+/
+172.68.11.246
+0 1 1 18339 0 0 0 0
+-
+172.68.10.35
+0 1 1 2027 1 1581428651 0 0
+/wp-login.php
+162.158.111.50
+0 3 0 88215 0 0 0 0
+-
+172.69.62.47
+0 5 5 8167 3 1581593088 0 0
+/xmlrpc.php
+162.158.88.99
+0 2 1 25828 0 0 0 0
+-
+162.158.202.247
+0 4 4 17464 0 0 0 0
+-
+212.67.214.27
+0 12 4 408186 1 1580748541 0 0
+-
+40.77.188.134
+0 1 1 43513 0 0 0 0
+-
+162.158.74.84
+0 22 2 11840 3 1581580744 0 0
+/xmlrpc.php
+172.68.11.222
+0 1 1 27608 0 0 0 0
+-
+40.77.189.40
+0 1 1 7160 0 0 0 0
+-
+162.158.155.171
+0 8 8 11191 5 1581610440 0 0
+/xmlrpc.php
+162.158.238.203
+0 5 5 33362 1 1581337085 0 0
+/izabela-gorecka-olejniczak/
+162.158.154.98
+0 2 2 20491 2 1581421408 0 0
+/wp-login.php
+162.158.166.118
+0 24 24 17095 3 1581422322 0 0
+/xmlrpc.php
+162.158.94.51
+0 2 2 5408 0 0 0 0
+-
+162.158.63.197
+0 6 6 6462 5 1581617297 0 0
+/xmlrpc.php
+162.158.103.176
+0 2 2 621445 0 0 0 0
+-
+141.101.105.205
+0 43 36 174597 30 1581616134 0 0
+/wp-login.php
+162.158.78.239
+0 1 1 6550 0 0 0 0
+-
+172.69.34.241
+0 10 9 16168 7 1581617013 0 0
+/xmlrpc.php
+141.101.105.253
+0 1 1 780 0 0 0 0
+-
+162.158.103.220
+0 2 2 62017 0 0 0 0
+-
+162.158.79.78
+0 4 4 75364 0 0 0 0
+-
+162.158.202.95
+0 11 9 273303 0 0 0 0
+-
+40.77.188.204
+0 1 1 55500 0 0 0 0
+-
+172.69.68.164
+0 1 1 9819 0 0 0 0
+-
+162.158.243.221
+0 10 10 13565 6 1581614921 0 0
+/xmlrpc.php
+159.89.52.128
+0 3 3 4330 1 1580829433 0 0
+/xmlrpc.php
+172.68.132.24
+0 1 0 29405 0 0 0 0
+-
+108.162.219.117
+0 1 1 2027 1 1580905806 0 0
+/wp-login.php
+141.101.105.25
+0 1 1 1728 0 0 0 0
+-
+46.229.168.139
+0 1 1 10087 1 1580778803 0 0
+/mateusz-borowiak/
+162.158.238.7
+0 22 20 363234 6 1581322210 0 0
+/category/prelegenci/feed/
+162.158.107.56
+0 8 8 237008 0 0 0 0
+-
+141.101.76.17
+0 1 1 42407 0 0 0 0
+-
+159.65.159.28
+0 3 3 4330 1 1580807055 0 0
+/xmlrpc.php
+5.62.58.98
+0 10 8 8960 1 1580746159 0 0
+/xmlrpc.php
+108.162.216.71
+0 3 3 3399 2 1581585938 0 0
+/xmlrpc.php
+40.77.189.245
+0 1 1 4369 0 0 0 0
+-
+40.77.189.144
+0 1 1 115748 0 0 0 0
+-
+172.69.55.23
+0 2 2 51399 0 0 0 0
+-
+162.158.154.188
+0 21 21 29151 13 1581616875 0 0
+/wp-login.php
+157.245.105.87
+0 3 3 4330 1 1580836181 0 0
+/xmlrpc.php
+172.69.62.53
+0 5 3 5808 5 1581585346 0 0
+/xmlrpc.php
+162.158.243.177
+0 11 11 18604 6 1581617518 0 0
+/wp-login.php
+157.55.39.118
+0 5 5 31803 2 1580874831 0 0
+/galeria-czerwiec-2019/
+162.158.186.97
+0 8 4 9067 4 1581602670 0 0
+/wp-login.php
+162.158.107.198
+0 8 6 26107 5 1581573957 0 0
+/wp-login.php
+172.69.68.88
+0 1 1 13106 0 0 0 0
+-
+162.158.74.102
+0 2 2 12447 1 1581220022 0 0
+/en/hotels/
+162.158.23.106
+0 3 3 35135 1 1581089435 0 0
+/
+46.229.168.149
+0 1 1 260 0 0 0 0
+-
+46.229.168.142
+0 1 1 10034 1 1580828615 0 0
+/janusz-bossak/
+51.15.235.181
+0 2 2 183132 2 1580610747 0 0
+/
+162.158.74.194
+0 5 3 73563 0 0 0 0
+-
+40.77.190.102
+0 1 1 29605 0 0 0 0
+-
+46.101.235.24
+0 3 3 4330 1 1580828364 0 0
+/xmlrpc.php
+172.69.55.113
+0 2 2 153971 0 0 0 0
+-
+162.158.91.248
+0 3 3 6855 0 0 0 0
+-
+162.158.92.5
+0 1 1 9123 1 1581191910 0 0
+/kontakt/
+162.158.202.177
+0 13 10 163427 0 0 0 0
+-
+172.69.62.243
+0 5 5 18219 3 1581586598 0 0
+/wp-login.php
+162.158.111.248
+0 102 95 227523 30 1581636952 0 0
+/wp-cron.php
+172.69.68.76
+0 2 2 5678 0 0 0 0
+-
+172.69.71.85
+0 1 0 29317 0 0 0 0
+-
+172.69.63.198
+0 1 1 1299 1 1581492629 0 0
+/danuta-kajrunajtys/feed/
+162.158.22.131
+0 1 1 6714 0 0 0 0
+-
+172.69.71.51
+0 3 2 40879 0 0 0 0
+-
+172.69.63.6
+0 6 6 5070 6 1581633917 0 0
+/xmlrpc.php
+172.69.63.20
+0 1 1 2989 0 0 0 0
+-
+40.77.190.109
+0 1 1 2353 0 0 0 0
+-
+108.162.246.114
+0 3 3 17337 0 0 0 0
+-
+172.69.33.12
+0 2 2 2377 1 1581613289 0 0
+/xmlrpc.php
+162.158.94.69
+0 2 2 179464 0 0 0 0
+-
+103.27.61.222
+0 15 15 21650 4 1580833013 0 0
+/xmlrpc.php
+172.69.71.83
+0 3 3 3399 3 1581620116 0 0
+/xmlrpc.php
+162.158.89.98
+0 5 5 29794 0 0 0 0
+-
+162.158.202.197
+0 9 7 364759 0 0 0 0
+-
+172.68.133.151
+0 3 3 3399 3 1581592657 0 0
+/xmlrpc.php
+162.158.103.126
+0 1 1 18339 0 0 0 0
+-
+162.158.202.113
+0 18 17 119710 0 0 0 0
+-
+188.114.111.228
+0 7 6 70416 4 1581619420 0 0
+/xmlrpc.php
+172.68.132.156
+0 1 0 29405 0 0 0 0
+-
+141.101.105.235
+0 1 1 991 0 0 0 0
+-
+35.173.124.143
+0 3 3 4330 1 1580805810 0 0
+/xmlrpc.php
+108.162.238.240
+0 8 6 86690 2 1581602669 0 0
+/wp-login.php
+40.77.188.232
+0 5 5 43903 0 0 0 0
+-
+162.158.78.101
+0 1 1 10329 1 1581188445 0 0
+/danuta-kajrunajtys/
+165.22.168.131
+0 3 3 4330 1 1580809435 0 0
+/xmlrpc.php
+172.69.134.100
+0 27 27 27250 8 1581603273 0 0
+/wp-login.php
+162.158.202.243
+0 50 48 367066 4 1581617579 0 0
+/wp-login.php
+45.125.239.234
+0 2 0 29773 1 1580589010 0 0
+-
+172.68.47.163
+0 8 7 13787 6 1581612431 0 0
+/xmlrpc.php
+162.158.88.39
+0 5 4 232384 0 0 0 0
+-
+40.77.189.244
+0 3 3 139953 0 0 0 0
+-
+172.69.63.116
+0 1 1 1296 1 1580963076 0 0
+/janusz-bossak/feed/
+162.158.103.90
+0 1 1 41458 0 0 0 0
+-
+172.69.54.76
+0 1 1 608 0 0 0 0
+-
+40.77.189.207
+0 1 1 48770 0 0 0 0
+-
+162.158.106.217
+0 11 11 39051 2 1581584721 0 0
+/xmlrpc.php
+162.158.106.139
+0 3 3 32094 1 1581599325 0 0
+/xmlrpc.php
+162.158.94.89
+0 2 2 22546 0 0 0 0
+-
+162.158.23.118
+0 1 1 34130 0 0 0 0
+-
+172.68.65.55
+0 1 1 10073 1 1581382299 0 0
+/rafal-gorski/
+162.158.74.138
+0 1 1 10276 1 1581212200 0 0
+/robert-rogalewicz/
+162.158.89.200
+0 3 3 19650 0 0 0 0
+-
+162.158.90.61
+0 1 1 2027 1 1580894270 0 0
+/wp-login.php
+162.158.43.173
+0 5 5 7117 3 1581616004 0 0
+/xmlrpc.php
+206.189.203.221
+0 3 3 4330 1 1580815917 0 0
+/xmlrpc.php
+162.158.107.218
+0 1 1 1304 1 1581316337 0 0
+/rafal-gorski/feed/
+172.69.54.196
+0 2 2 4219 0 0 0 0
+-
+150.95.110.45
+0 6 6 8660 2 1580839852 0 0
+/xmlrpc.php
+162.158.202.241
+0 5 4 47359 0 0 0 0
+-
+162.158.103.170
+0 1 1 9890 0 0 0 0
+-
+172.69.62.65
+0 1 1 297 0 0 0 0
+-
+162.158.107.188
+0 8 8 13688 0 0 0 0
+-
+108.162.219.13
+0 7 7 9158 6 1581603856 0 0
+/wp-login.php
+172.68.65.127
+0 1 1 1902 0 0 0 0
+-
+141.101.107.217
+0 14 14 22494 12 1581623910 0 0
+/xmlrpc.php
+162.158.159.99
+0 1 1 18461 1 1581133815 0 0
+/
+108.162.241.227
+0 2 2 3382 2 1581588332 0 0
+/wp-login.php
+172.69.68.130
+0 1 1 37821 0 0 0 0
+-
+162.158.63.125
+0 19 19 25100 10 1581619774 0 0
+/wp-login.php
+162.158.62.178
+0 6 5 7642 4 1581615182 0 0
+/wp-login.php
+172.69.63.210
+0 1 1 38689 0 0 0 0
+-
+162.158.74.244
+0 3 3 6743 2 1581580741 0 0
+/wp-login.php
+40.77.190.61
+0 1 1 14164 0 0 0 0
+-
+46.229.168.144
+0 3 2 20915 2 1580828708 0 0
+/magdalena-chomuszko/
+172.69.69.29
+0 1 1 14303 0 0 0 0
+-
+40.77.188.241
+0 1 1 2353 0 0 0 0
+-
+162.158.91.24
+0 3 3 2841 0 0 0 0
+-
+162.158.22.95
+0 1 1 6064 0 0 0 0
+-
+162.158.106.193
+0 1 0 29344 0 0 0 0
+-
+108.162.221.202
+0 1 1 6064 0 0 0 0
+-
+162.158.202.191
+0 5 5 2881498 0 0 0 0
+-
+172.69.62.173
+0 6 6 8808 5 1581611714 0 0
+/wp-login.php
+172.68.211.245
+0 19 15 34172 10 1581610323 0 0
+/wp-login.php
+172.69.68.250
+0 1 1 1565 1 1581464358 0 0
+/en/speakers/taco-lian-2/
+94.23.164.55
+0 6 6 8660 1 1580798212 0 0
+/xmlrpc.php
+162.158.107.170
+0 7 1 16372 0 0 0 0
+-
+172.69.68.156
+0 1 0 29318 0 0 0 0
+-
+172.69.68.162
+0 2 2 19173 0 0 0 0
+-
+5.45.207.43
+0 1 0 613 1 1580607401 0 0
+/
+108.162.238.138
+0 1 0 29422 0 0 0 0
+-
+172.69.71.77
+0 4 4 73851 4 1581414996 0 0
+/
+162.158.22.239
+0 2 2 10081 1 1581588063 0 0
+/wp-login.php
+141.101.104.108
+0 34 26 254021 26 1581627652 0 0
+/
+162.158.90.193
+0 3 3 102390 0 0 0 0
+-
+162.158.94.139
+0 2 2 363562 0 0 0 0
+-
+172.69.63.80
+0 2 2 19638 0 0 0 0
+-
+172.69.69.65
+0 2 1 32429 0 0 0 0
+-
+162.158.107.152
+0 1 1 6550 0 0 0 0
+-
+162.158.89.14
+0 3 3 13521 0 0 0 0
+-
+172.68.132.96
+0 1 1 2027 1 1581591635 0 0
+/wp-login.php
+162.158.187.164
+0 4 2 2195 2 1581585808 0 0
+/xmlrpc.php
+162.158.106.235
+0 22 1 4056 0 0 0 0
+-
+162.158.107.202
+0 2 2 2608 2 1581284517 0 0
+/arkadiusz-siechowicz/feed/
+162.158.155.117
+0 19 19 25436 10 1581619609 0 0
+/wp-login.php
+141.101.105.7
+0 63 26 195014 24 1581617146 0 0
+/xmlrpc.php
+108.162.216.11
+0 2 0 1220 2 1581260363 0 0
+/
+198.41.231.112
+0 2 2 3718 2 1581601075 0 0
+/wp-login.php
+162.158.103.42
+0 2 2 22836 0 0 0 0
+-
+172.69.70.234
+0 1 1 14198 0 0 0 0
+-
+108.162.221.244
+0 3 1 65080 0 0 0 0
+-
+141.101.104.252
+0 1 1 468 0 0 0 0
+-
+162.158.106.43
+0 3 1 37614 0 0 0 0
+-
+172.69.34.183
+0 9 9 29649 6 1581616472 0 0
+/wp-login.php
+40.77.189.229
+0 3 3 125601 0 0 0 0
+-
+64.246.187.42
+0 2 1 836 1 1581495006 0 0
+/
+162.158.167.9
+0 33 33 26888 6 1581611658 0 0
+/xmlrpc.php
+91.106.199.104
+0 5 3 106919 0 0 0 0
+-
+172.69.71.63
+0 6 0 176064 0 0 0 0
+-
+108.162.219.203
+0 1 0 29409 0 0 0 0
+-
+172.69.194.5
+0 1 1 1317 1 1581143368 0 0
+/izabela-gorecka-olejniczak/feed/
+172.69.54.64
+0 1 1 933 0 0 0 0
+-
+162.158.63.101
+0 7 6 36783 5 1581610739 0 0
+/wp-login.php
+172.69.135.17
+0 40 40 35964 9 1581611657 0 0
+/wp-login.php
+162.158.93.94
+0 3 3 3396 0 0 0 0
+-
+162.158.22.65
+0 1 1 11119 0 0 0 0
+-
+165.22.254.29
+0 3 3 4330 1 1580816941 0 0
+/xmlrpc.php
+162.158.202.71
+0 4 4 25328 0 0 0 0
+-
+141.101.76.71
+0 1 1 975 0 0 0 0
+-
+177.86.54.109
+0 12 4 408165 1 1580658603 0 0
+-
+141.101.104.30
+0 1 1 1662 0 0 0 0
+-
+162.158.166.18
+0 31 31 23489 3 1581003440 0 0
+/xmlrpc.php
+141.101.104.154
+0 29 24 109920 22 1581614793 0 0
+/xmlrpc.php
+162.158.88.189
+0 8 7 68961 0 0 0 0
+-
+40.77.190.32
+0 1 1 65232 0 0 0 0
+-
+172.69.33.90
+0 17 13 30455 13 1581614370 0 0
+/xmlrpc.php
+162.158.106.157
+0 1 1 1296 1 1581316345 0 0
+/natalia-suska/feed/
+162.158.74.192
+0 6 3 94032 3 1581585938 0 0
+/wp-login.php
+162.158.103.144
+0 1 1 12830 0 0 0 0
+-
+40.77.189.105
+0 1 1 29605 0 0 0 0
+-
+46.229.168.136
+0 3 3 20969 2 1580701558 0 0
+/galeria-czerwiec-2019/
+108.162.221.154
+0 1 1 6714 0 0 0 0
+-
+162.158.166.112
+0 39 39 29527 6 1581618414 0 0
+/xmlrpc.php
+207.180.224.181
+0 3 3 4330 1 1580825031 0 0
+/xmlrpc.php
+172.69.54.58
+0 1 1 4345 0 0 0 0
+-
+162.158.166.156
+0 29 29 19435 3 1581003528 0 0
+/xmlrpc.php
+172.68.143.73
+0 1 1 2027 1 1580898952 0 0
+/wp-login.php
+162.158.23.94
+0 1 1 9819 0 0 0 0
+-
+40.77.189.127
+0 2 2 137140 0 0 0 0
+-
+162.158.166.132
+0 8 8 14203 5 1581598791 0 0
+/wp-login.php
+172.68.189.230
+0 6 6 10149 5 1581617439 0 0
+/wp-login.php
+162.158.74.106
+0 4 4 8324 0 0 0 0
+-
+40.77.188.44
+0 1 1 8910 0 0 0 0
+-
+162.158.107.174
+0 1 1 10230 1 1581285428 0 0
+/patryk-oleszczuk/
+162.158.63.9
+0 11 9 88937 7 1581419282 0 0
+/wp-login.php
+172.69.68.238
+0 2 1 39606 1 1581360688 0 0
+/natalia-suska/
+162.158.103.182
+0 3 3 77687 0 0 0 0
+-
+108.162.216.225
+0 3 3 24162 0 0 0 0
+-
+162.158.166.58
+0 18 18 12042 1 1581003501 0 0
+/xmlrpc.php
+40.77.189.47
+0 1 1 2556 0 0 0 0
+-
+172.69.134.64
+0 20 20 14755 3 1581425816 0 0
+/wp-login.php
+172.69.68.64
+0 6 5 46091 3 1581605658 0 0
+/wp-login.php
+198.41.144.145
+0 6 4 367272 1 1580859226 0 0
+/
+162.158.103.162
+0 1 1 11033 0 0 0 0
+-
+172.69.10.143
+0 40 3 1080886 16 1581605902 0 0
+/xmlrpc.php
+172.68.244.253
+0 4 4 7507 3 1581608840 0 0
+/wp-login.php
+162.158.92.65
+0 4 4 6023 1 1580894267 0 0
+/wp-login.php
+162.158.111.62
+0 1 1 426 0 0 0 0
+-
+162.158.166.56
+0 63 62 42002 2 1581464253 0 0
+/xmlrpc.php
+40.77.188.250
+0 1 1 65232 0 0 0 0
+-
+162.158.91.250
+0 11 11 16594 8 1581614511 0 0
+/wp-login.php
+162.158.79.252
+0 4 4 72830 0 0 0 0
+-
+108.162.216.235
+0 8 8 264416 0 0 0 0
+-
+172.69.135.95
+0 23 23 15387 1 1581464265 0 0
+/xmlrpc.php
+162.158.107.162
+0 15 15 243239 14 1581339548 0 0
+/
+40.77.188.98
+0 1 1 21524 0 0 0 0
+-
+162.158.79.222
+0 3 3 24318 0 0 0 0
+-
+172.69.134.142
+0 29 29 19401 1 1581464280 0 0
+/xmlrpc.php
+162.158.94.179
+0 2 2 99474 0 0 0 0
+-
+162.158.58.122
+0 16 14 27243 11 1581622708 0 0
+/wp-login.php
+172.69.68.186
+0 1 1 1298 1 1581472948 0 0
+/patryk-oleszczuk/feed/
+162.158.89.74
+0 17 17 68383 8 1581632183 0 0
+/
+108.162.237.143
+0 1 0 29388 0 0 0 0
+-
+199.16.157.180
+0 2 2 18648 1 1580646211 0 0
+/
+162.158.238.217
+0 14 14 85736 0 0 0 0
+-
+172.68.11.192
+0 1 1 8054 0 0 0 0
+-
+108.162.216.23
+0 4 4 18028 0 0 0 0
+-
+172.68.146.195
+0 56 56 42560 5 1581463886 0 0
+/xmlrpc.php
+162.158.187.32
+0 6 4 8155 2 1581595345 0 0
+/wp-login.php
+162.158.202.137
+0 16 16 194438 0 0 0 0
+-
+172.69.69.233
+0 2 2 19194 2 1581404632 0 0
+/janusz-bossak/
+108.162.216.161
+0 5 3 73558 0 0 0 0
+-
+172.69.69.35
+0 2 1 39466 0 0 0 0
+-
+162.158.202.125
+0 8 6 118372 0 0 0 0
+-
+108.162.216.135
+0 5 4 33110 0 0 0 0
+-
+217.182.140.184
+0 3 3 4330 1 1580813656 0 0
+/xmlrpc.php
+162.158.202.131
+0 13 11 243378 0 0 0 0
+-
+172.68.246.129
+0 4 4 8965 1 1581573913 0 0
+/xmlrpc.php
+162.158.74.62
+0 1 0 29357 0 0 0 0
+-
+162.158.159.107
+0 14 14 19657 7 1581607208 0 0
+/xmlrpc.php
+213.180.203.104
+0 13 13 140977 5 1580821365 0 0
+/patryk-oleszczuk/
+40.77.188.5
+0 2 2 54829 0 0 0 0
+-
+162.158.103.78
+0 5 5 99719 1 1580929804 0 0
+/
+157.245.120.78
+0 5 5 6842 2 1580811076 0 0
+/xmlrpc.php
+162.158.165.199
+0 27 27 18080 2 1581417050 0 0
+/xmlrpc.php
+172.69.63.254
+0 2 2 3718 2 1580913840 0 0
+/wp-login.php
+54.36.148.52
+0 1 1 10062 1 1580611623 0 0
+/magdalena-chomuszko/
+103.36.125.225
+0 6 6 8660 2 1580829699 0 0
+/xmlrpc.php
+172.69.55.167
+0 1 1 959 0 0 0 0
+-
+162.158.202.215
+0 5 5 442236 0 0 0 0
+-
+172.69.138.17
+0 1 1 58199 0 0 0 0
+-
+62.210.185.4
+0 2 0 17847 1 1580606450 0 0
+-
+172.68.150.59
+0 1 1 686 1 1581585046 0 0
+/xmlrpc.php
+162.158.103.166
+0 3 3 35098 0 0 0 0
+-
+172.68.150.47
+0 6 6 10148 3 1581597626 0 0
+/wp-login.php
+162.158.74.36
+0 5 2 30281 0 0 0 0
+-
+173.245.52.196
+0 1 0 29329 1 1581293659 0 0
+-
+172.68.141.41
+0 8 8 29967 6 1581613842 0 0
+/wp-login.php
+162.158.106.223
+0 1 1 1298 1 1581245070 0 0
+/mateusz-borowiak/feed/
+141.101.76.161
+0 1 1 421 0 0 0 0
+-
+40.77.190.95
+0 2 2 21924 0 0 0 0
+-
+162.158.106.7
+0 10 10 81524 4 1581616732 0 0
+/
+134.17.27.240
+0 3 3 4330 1 1580810022 0 0
+/xmlrpc.php
+162.158.243.147
+0 8 8 12862 5 1581605309 0 0
+/xmlrpc.php
+172.68.146.237
+0 7 7 7817 6 1581602338 0 0
+/xmlrpc.php
+210.212.250.39
+0 6 6 8660 2 1580837981 0 0
+/xmlrpc.php
+162.158.187.96
+0 11 8 69708 1 1581289195 0 0
+-
+172.68.62.161
+0 1 1 686 1 1581574265 0 0
+/xmlrpc.php
+173.245.52.158
+0 7 7 11840 5 1581599890 0 0
+/wp-login.php
+162.158.166.158
+0 49 49 40692 6 1581600782 0 0
+/wp-login.php
+172.69.68.174
+0 1 1 9890 0 0 0 0
+-
+108.162.216.249
+0 2 2 8359 1 1580893300 0 0
+/wp-login.php
+162.158.134.197
+0 1 1 3166 0 0 0 0
+-
+172.68.65.157
+0 4 4 12412 0 0 0 0
+-
+108.162.216.109
+0 2 0 58634 0 0 0 0
+-
+108.162.216.87
+0 2 2 19638 0 0 0 0
+-
+40.77.188.105
+0 1 1 8115 0 0 0 0
+-
+173.245.52.146
+0 1 0 29328 1 1581293654 0 0
+-
+178.154.171.127
+0 44 42 385112 7 1580840138 0 0
+/
+141.101.77.15
+0 1 1 3493 0 0 0 0
+-
+162.158.224.147
+0 1 1 2027 1 1581577272 0 0
+/wp-login.php
+93.1.119.200
+0 3 3 4330 1 1580809587 0 0
+/xmlrpc.php
+103.27.238.68
+0 3 3 4330 1 1580828707 0 0
+/xmlrpc.php
+40.77.189.52
+0 1 1 8910 0 0 0 0
+-
+162.158.91.12
+0 9 9 14889 5 1581616577 0 0
+/xmlrpc.php
+162.158.107.74
+0 1 1 6064 0 0 0 0
+-
+162.158.103.36
+0 1 1 49737 0 0 0 0
+-
+207.46.13.169
+0 19 19 369581 2 1580551396 0 0
+/
+104.248.88.100
+0 2 2 2512 1 1580824494 0 0
+/xmlrpc.php
+162.158.224.153
+0 2 2 2377 1 1581577273 0 0
+/xmlrpc.php
+108.162.229.221
+0 3 3 4404 3 1581611500 0 0
+/wp-login.php
+162.158.159.105
+0 1 1 482 0 0 0 0
+-
+162.158.187.116
+0 1 0 29384 0 0 0 0
+-
+198.41.144.144
+0 6 4 367280 1 1580859086 0 0
+/
+172.69.234.135
+0 1 1 2027 1 1581608475 0 0
+/wp-login.php
+162.158.106.73
+0 1 1 10031 1 1581300969 0 0
+/pawel-jedrzejak/
+162.158.107.148
+0 1 0 29317 0 0 0 0
+-
+162.158.167.157
+0 68 68 56825 8 1581604925 0 0
+/wp-login.php
+40.77.188.201
+0 1 1 24010 0 0 0 0
+-
+141.101.107.181
+0 1 1 1130 0 0 0 0
+-
+162.158.238.221
+0 23 23 307973 3 1581512239 0 0
+/wystawcy/
+13.80.12.224
+0 2 1 16372 2 1580765713 0 0
+/
+162.158.94.75
+0 1 1 18462 1 1581504340 0 0
+/
+159.65.155.134
+0 3 3 4330 1 1580799334 0 0
+/xmlrpc.php
+172.68.143.61
+0 5 5 24558 4 1581620395 0 0
+/wp-login.php
+173.245.54.78
+0 1 1 803 0 0 0 0
+-
+162.158.106.169
+0 9 8 29804 7 1581614189 0 0
+/wp-login.php
+162.158.202.179
+0 11 8 119500 0 0 0 0
+-
+141.98.9.222
+0 225 3 181941 0 0 0 0
+-
+40.77.189.254
+0 2 2 99190 0 0 0 0
+-
+162.158.23.48
+0 2 2 19442 0 0 0 0
+-
+162.158.94.135
+0 5 5 35231 0 0 0 0
+-
+173.245.52.176
+0 9 5 95606 7 1581611364 0 0
+/xmlrpc.php
+108.162.216.49
+0 1 0 29357 0 0 0 0
+-
+141.8.183.19
+0 1 1 11629 1 1580570775 0 0
+/en/exhibitors/
+162.158.103.24
+0 5 5 38345 0 0 0 0
+-
+151.236.57.247
+0 21 4 434577 5 1580807490 0 0
+-
+162.158.202.245
+0 7 7 121204 0 0 0 0
+-
+162.158.155.123
+0 1 1 3103 0 0 0 0
+-
+162.158.166.166
+0 40 40 34956 7 1581603557 0 0
+/wp-login.php
+198.41.231.86
+0 3 3 3063 2 1581601077 0 0
+/xmlrpc.php
+162.158.62.172
+0 10 10 15575 9 1581618430 0 0
+/xmlrpc.php
+141.101.107.235
+0 14 14 23344 8 1581616876 0 0
+/wp-login.php
+162.158.202.155
+0 6 5 192763 0 0 0 0
+-
+172.68.244.103
+0 1 1 8280 1 1580946733 0 0
+/relacja/
+172.68.65.13
+0 1 1 4507 0 0 0 0
+-
+172.69.63.192
+0 8 8 14813 5 1581574575 0 0
+/wp-login.php
+108.162.216.171
+0 3 3 17337 0 0 0 0
+-
+108.162.216.117
+0 3 2 31694 2 1581429042 0 0
+/xmlrpc.php
+162.158.103.164
+0 2 2 392812 0 0 0 0
+-
+172.69.68.168
+0 2 0 58638 0 0 0 0
+-
+213.241.123.243
+0 99 0 45703 1 1580742792 0 0
+/
+162.158.91.246
+0 2 2 90514 0 0 0 0
+-
+162.158.107.230
+0 3 3 14922 0 0 0 0
+-
+108.162.216.199
+0 1 0 29320 0 0 0 0
+-
+162.158.90.247
+0 2 2 19692 0 0 0 0
+-
+162.158.106.181
+0 1 1 12255 1 1581542196 0 0
+/category/prelegenci/
+162.158.219.101
+0 8 8 12526 5 1581608614 0 0
+/wp-login.php
+108.162.246.54
+0 3 2 2445 0 0 0 0
+-
+172.69.34.55
+0 11 10 18192 8 1581610324 0 0
+/xmlrpc.php
+108.162.241.15
+0 1 1 686 1 1581588334 0 0
+/xmlrpc.php
+108.162.238.222
+0 9 4 51027 1 1581289218 0 0
+-
+160.153.244.194
+0 3 3 4330 1 1580808979 0 0
+/xmlrpc.php
+162.158.91.122
+0 1 1 30548 0 0 0 0
+-
+162.158.91.212
+0 17 17 74321 9 1581632182 0 0
+/
+172.68.141.161
+0 6 6 9816 6 1581618022 0 0
+/xmlrpc.php
+172.69.63.184
+0 5 5 6746 4 1581612910 0 0
+/xmlrpc.php
+157.55.39.11
+0 26 26 1082960 2 1580558337 0 0
+/izabela-gorecka-olejniczak/
+172.68.245.116
+0 1 1 1903 0 0 0 0
+-
+162.158.79.72
+0 1 1 947 0 0 0 0
+-
+167.172.145.171
+0 3 3 4330 1 1580831309 0 0
+/xmlrpc.php
+103.226.174.221
+0 6 6 8660 2 1580823401 0 0
+/xmlrpc.php
+172.68.254.79
+0 1 1 686 1 1581593766 0 0
+/xmlrpc.php
+173.245.48.142
+0 1 1 686 1 1581423674 0 0
+/xmlrpc.php
+172.69.68.172
+0 1 1 1311 1 1581037338 0 0
+/mec-kamil-kalenczuk/feed/
+162.158.217.93
+0 2 2 2713 2 1581614004 0 0
+/wp-login.php
+37.59.52.42
+0 3 3 4330 1 1580830486 0 0
+/xmlrpc.php
+34.93.141.18
+0 3 3 4330 1 1580838225 0 0
+/xmlrpc.php
+162.158.89.86
+0 3 2 143337 0 0 0 0
+-
+40.77.188.12
+0 2 2 75611 0 0 0 0
+-
+162.158.59.135
+0 1 1 2027 1 1581618020 0 0
+/wp-login.php
+162.158.178.22
+0 1 1 686 1 1581618713 0 0
+/xmlrpc.php
+206.189.157.33
+0 3 3 4330 1 1580806015 0 0
+/xmlrpc.php
+172.68.10.47
+0 1 1 10314 0 0 0 0
+-
+172.68.65.223
+0 1 1 686 1 1581423194 0 0
+/xmlrpc.php
+141.101.104.234
+0 2 0 58810 0 0 0 0
+-
+178.154.171.2
+0 1 0 613 1 1580683922 0 0
+/
+40.74.77.10
+0 3 3 4330 1 1580815358 0 0
+/xmlrpc.php
+108.162.221.118
+0 1 0 29386 1 1581415003 0 0
+-
+195.154.226.67
+0 10 1 14206 1 1580799418 0 0
+/
+172.68.186.71
+0 5 5 6112 3 1581607793 0 0
+/xmlrpc.php
+172.69.34.145
+0 9 8 15814 7 1581613286 0 0
+/wp-login.php
+108.162.229.101
+0 4 4 5426 3 1581602929 0 0
+/xmlrpc.php
+162.158.74.48
+0 3 3 30942 0 0 0 0
+-
+108.162.219.27
+0 9 8 60304 8 1581609774 0 0
+/wp-login.php
+148.251.215.225
+0 3 3 4330 1 1580840977 0 0
+/xmlrpc.php
+162.158.202.209
+0 4 4 41256 0 0 0 0
+-
+40.77.188.109
+0 1 1 115748 0 0 0 0
+-
+162.158.63.113
+0 69 67 50944 7 1581606082 0 0
+/xmlrpc.php
+172.69.68.52
+0 2 1 45163 0 0 0 0
+-
+108.162.246.132
+0 3 0 87956 0 0 0 0
+-
+178.62.74.90
+0 3 3 4330 1 1580840184 0 0
+/xmlrpc.php
+162.158.94.99
+0 2 2 114086 0 0 0 0
+-
+162.158.74.40
+0 1 0 29344 0 0 0 0
+-
+162.158.94.87
+0 2 2 39206 0 0 0 0
+-
+172.68.133.25
+0 6 6 8472 4 1581617440 0 0
+/xmlrpc.php
+162.158.90.217
+0 2 2 6332 0 0 0 0
+-
+108.162.237.137
+0 8 5 41389 2 1581585807 0 0
+/wp-login.php
+108.162.216.79
+0 8 8 30391 1 1581421020 0 0
+/wp-login.php
+172.69.71.67
+0 1 0 29386 1 1580958856 0 0
+-
+141.101.104.84
+0 1 1 1728 0 0 0 0
+-
+62.210.9.65
+0 3 3 4330 1 1580796831 0 0
+/xmlrpc.php
+172.68.24.123
+0 1 1 686 1 1581614251 0 0
+/xmlrpc.php
+46.229.168.154
+0 1 1 9085 1 1580560825 0 0
+/kontakt/
+172.69.69.207
+0 3 3 13044 3 1581620115 0 0
+/wp-login.php
+162.158.88.9
+0 1 1 18461 1 1581110720 0 0
+/
+40.77.190.87
+0 3 3 47790 0 0 0 0
+-
+134.209.77.211
+0 3 3 4330 1 1580825205 0 0
+/xmlrpc.php
+162.158.78.251
+0 3 3 64095 0 0 0 0
+-
+54.36.150.77
+0 1 1 47784 0 0 0 0
+-
+207.46.13.65
+0 10 10 92399 0 0 0 0
+-
+46.51.197.88
+0 1 1 49681 0 0 0 0
+-
+162.158.202.107
+0 7 7 300213 0 0 0 0
+-
+162.158.165.211
+0 31 31 25197 6 1581609029 0 0
+/wp-login.php
+162.158.74.16
+0 1 0 29317 0 0 0 0
+-
+54.36.148.223
+0 1 1 241 0 0 0 0
+-
+162.158.155.9
+0 6 3 62156 4 1581421410 0 0
+/xmlrpc.php
+172.69.63.218
+0 2 2 18904 2 1581037234 0 0
+/partnerzy/
+66.249.75.121
+0 3 3 37222 2 1580736996 0 0
+/
+51.15.113.160
+0 1 1 91558 1 1580697830 0 0
+/
+162.158.107.26
+0 2 2 20145 2 1581606540 0 0
+/rafal-gorski/
+45.55.82.120
+0 9 9 12990 3 1580831079 0 0
+/xmlrpc.php
+162.158.23.30
+0 4 4 29942 1 1581588064 0 0
+/xmlrpc.php
+172.68.238.83
+0 1 1 2027 1 1581604701 0 0
+/wp-login.php
+172.68.62.35
+0 2 2 3718 1 1581574264 0 0
+/wp-login.php
+162.158.202.119
+0 8 8 69255 0 0 0 0
+-
+162.158.74.170
+0 1 0 29362 0 0 0 0
+-
+172.69.69.131
+0 3 3 28293 0 0 0 0
+-
+172.68.174.133
+0 1 1 1691 1 1581586066 0 0
+/wp-login.php
+198.41.238.125
+0 1 1 1691 1 1581599906 0 0
+/wp-login.php
+162.158.92.97
+0 3 3 30942 0 0 0 0
+-
+108.162.221.148
+0 2 2 594 0 0 0 0
+-
+51.15.197.128
+0 1 1 91566 1 1580785087 0 0
+/
+51.68.176.254
+0 3 3 4330 1 1580819333 0 0
+/xmlrpc.php
+34.209.241.138
+0 1 1 18462 1 1580847821 0 0
+/
+172.69.134.232
+0 21 21 15424 3 1581416534 0 0
+/xmlrpc.php
+172.69.71.71
+0 1 0 29317 0 0 0 0
+-
+162.158.134.235
+0 1 1 2027 1 1581585511 0 0
+/wp-login.php
+34.204.202.169
+0 2 0 17845 1 1580572048 0 0
+-
+182.93.85.114
+0 3 3 4330 1 1580840686 0 0
+/xmlrpc.php
+162.158.107.86
+0 1 0 29317 0 0 0 0
+-
+172.68.65.7
+0 1 1 12255 1 1581074812 0 0
+/category/prelegenci/
+172.69.69.11
+0 1 1 13787 1 1581412474 0 0
+/wystawcy/
+172.69.63.250
+0 1 1 1898 0 0 0 0
+-
+162.158.74.162
+0 2 0 58652 0 0 0 0
+-
+162.158.23.82
+0 2 2 8899 0 0 0 0
+-
+141.101.105.193
+0 1 1 503 0 0 0 0
+-
+34.220.69.71
+0 1 1 18460 1 1580668827 0 0
+/
+162.158.238.213
+0 18 18 235292 0 0 0 0
+-
+178.62.86.102
+0 5 5 7810 1 1580824064 0 0
+/wp-login.php
+141.101.77.231
+0 1 1 1972 0 0 0 0
+-
+162.158.202.237
+0 11 9 90156 0 0 0 0
+-
+141.101.104.216
+0 1 1 1236 0 0 0 0
+-
+162.158.150.29
+0 2 2 866 2 1581103688 0 0
+/wp-cron.php
+123.31.43.40
+0 6 6 8660 2 1580821023 0 0
+/xmlrpc.php
+108.162.245.59
+0 3 2 79757 0 0 0 0
+-
+157.245.47.49
+0 3 3 4330 1 1580799575 0 0
+/xmlrpc.php
+162.158.62.250
+0 5 2 90678 3 1581425024 0 0
+/wp-login.php
+162.158.103.102
+0 3 3 11026 0 0 0 0
+-
+162.158.93.154
+0 2 2 21560 0 0 0 0
+-
+162.158.186.229
+0 7 5 41359 2 1581598307 0 0
+/wp-login.php
+141.101.99.246
+0 13 11 75993 9 1581618553 0 0
+/wp-login.php
+162.158.90.211
+0 3 3 55017 0 0 0 0
+-
+162.158.78.179
+0 1 1 686 1 1581581715 0 0
+/xmlrpc.php
+172.68.245.254
+0 1 1 7701 0 0 0 0
+-
+162.158.88.147
+0 1 1 686 1 1580894272 0 0
+/xmlrpc.php
+40.77.188.8
+0 1 1 97198 0 0 0 0
+-
+108.162.245.179
+0 7 5 86131 0 0 0 0
+-
+162.158.74.146
+0 1 1 12207 0 0 0 0
+-
+162.158.219.35
+0 11 11 16930 6 1581608613 0 0
+/wp-login.php
+207.46.13.189
+0 23 23 1123458 2 1580856786 0 0
+/relacja/
+141.101.76.89
+0 34 27 217681 27 1581619295 0 0
+/wp-login.php
+162.158.103.130
+0 1 1 6064 0 0 0 0
+-
+173.245.54.82
+0 1 1 1294 1 1580942214 0 0
+/witold-furman/feed/
+172.68.65.19
+0 1 1 4366 0 0 0 0
+-
+162.158.158.58
+0 3 3 20838 2 1581170179 0 0
+/
+40.77.189.32
+0 1 1 2556 0 0 0 0
+-
+172.68.174.53
+0 1 1 686 1 1581423998 0 0
+/xmlrpc.php
+172.69.71.91
+0 2 0 58652 0 0 0 0
+-
+162.158.111.26
+0 27 21 87226 22 1581627655 0 0
+/wp-cron.php
+162.158.88.153
+0 6 6 17010 0 0 0 0
+-
+162.158.91.174
+0 2 2 28926 0 0 0 0
+-
+172.69.54.22
+0 37 28 248096 28 1581633919 0 0
+/wp-cron.php
+172.68.10.37
+0 2 2 2377 2 1581599297 0 0
+/wp-login.php
+162.158.106.37
+0 2 0 58688 0 0 0 0
+-
+172.68.11.204
+0 4 4 84064 3 1581613907 0 0
+/xmlrpc.php
+40.77.189.118
+0 1 1 19914 0 0 0 0
+-
+162.158.58.120
+0 2 2 3718 1 1581618019 0 0
+/wp-login.php
+162.158.78.23
+0 7 3 42070 6 1581544267 0 0
+/
+172.68.34.219
+0 2 0 29841 0 0 0 0
+-
+172.69.135.173
+0 10 10 15575 5 1581599717 0 0
+/wp-login.php
+203.162.31.112
+0 3 3 4330 1 1580821886 0 0
+/xmlrpc.php
+172.68.146.183
+0 68 68 55684 7 1581604564 0 0
+/wp-login.php
+162.158.23.24
+0 2 2 2200 0 0 0 0
+-
+162.158.94.131
+0 3 3 83602 1 1581421177 0 0
+/xmlrpc.php
+138.197.77.254
+0 3 3 4330 1 1580812155 0 0
+/xmlrpc.php
+162.158.202.203
+0 8 6 284783 0 0 0 0
+-
+40.77.188.122
+0 2 2 482415 0 0 0 0
+-
+158.69.206.75
+0 12 4 408176 1 1580697727 0 0
+-
+162.158.166.138
+0 30 30 21092 2 1581003498 0 0
+/xmlrpc.php
+108.162.246.204
+0 4 2 61292 2 1581438385 0 0
+/mec-kamil-kalenczuk/feed/
+188.166.232.14
+0 3 3 4330 1 1580817638 0 0
+/xmlrpc.php
+62.210.124.220
+0 2 2 18758 1 1580634200 0 0
+/
+162.158.165.233
+0 24 24 16090 3 1581425203 0 0
+/xmlrpc.php
+141.8.183.31
+0 1 1 1298 1 1580836302 0 0
+/mateusz-borowiak/feed/
+178.128.117.181
+0 6 6 8660 2 1580839599 0 0
+/xmlrpc.php
+162.158.90.163
+0 5 4 1317405 0 0 0 0
+-
+162.158.187.74
+0 3 2 50244 2 1581617800 0 0
+/witold-chomiczewski/
+141.101.77.51
+0 1 1 755 0 0 0 0
+-
+172.68.214.42
+0 64 62 61602 2 1581167920 0 0
+/
+162.158.62.34
+0 1 0 29328 1 1581293642 0 0
+-
+40.77.167.90
+0 2 2 19298 1 1580599276 0 0
+/partnerzy/
+54.36.149.27
+0 1 1 241 0 0 0 0
+-
+162.158.154.152
+0 21 19 102327 14 1581615631 0 0
+-
+162.158.23.66
+0 1 1 1311512 0 0 0 0
+-
+87.239.222.22
+0 89 88 2682101 1 1580737426 0 0
+-
+172.69.71.7
+0 1 0 29319 0 0 0 0
+-
+162.158.178.166
+0 1 1 1691 1 1581618710 0 0
+/wp-login.php
+172.69.70.84
+0 1 0 29343 1 1581429715 0 0
+-
+141.101.77.207
+0 1 1 932 0 0 0 0
+-
+162.158.43.163
+0 2 2 2713 2 1581620298 0 0
+/xmlrpc.php
+141.101.104.200
+0 1 1 891 0 0 0 0
+-
+172.69.71.75
+0 2 1 31025 1 1581601575 0 0
+/wp-login.php
+162.158.79.114
+0 23 2 4353 0 0 0 0
+-
+172.68.214.58
+0 64 61 72458 1 1581160509 0 0
+/xmlrpc.php
+162.158.186.43
+0 7 6 85904 1 1581289199 0 0
+/wp-admin/admin-post.php
+172.68.25.53
+0 1 1 2027 1 1581614250 0 0
+/wp-login.php
+162.158.202.59
+0 8 7 90636 0 0 0 0
+-
+162.158.92.69
+0 3 3 18996 0 0 0 0
+-
+188.165.200.217
+0 2 2 1154 2 1580733181 0 0
+/
+108.162.219.91
+0 3 3 3063 3 1581425570 0 0
+/xmlrpc.php
+172.68.24.45
+0 1 1 2027 1 1581610669 0 0
+/wp-login.php
+167.172.252.248
+0 3 3 4330 1 1580808015 0 0
+/xmlrpc.php
+162.158.103.18
+0 1 1 987 0 0 0 0
+-
+193.168.195.12
+0 3 3 4330 1 1580811691 0 0
+/xmlrpc.php
+172.69.63.234
+0 3 3 4404 3 1581611715 0 0
+/xmlrpc.php
+162.158.186.79
+0 7 4 4764 2 1581620114 0 0
+/wp-login.php
+172.68.246.177
+0 1 1 1103 0 0 0 0
+-
+54.71.95.223
+0 1 1 18463 1 1580575748 0 0
+/
+40.77.189.86
+0 1 1 236016 0 0 0 0
+-
+162.158.167.71
+0 41 41 30865 5 1581618407 0 0
+/wp-login.php
+157.230.218.228
+0 3 3 4330 1 1580823207 0 0
+/xmlrpc.php
+172.68.10.43
+0 1 1 947 0 0 0 0
+-
+172.69.135.161
+0 34 34 31312 7 1581600783 0 0
+/wp-login.php
+162.158.90.115
+0 3 3 8517 0 0 0 0
+-
+141.101.77.39
+0 1 1 1002 0 0 0 0
+-
+172.68.132.30
+0 5 4 46980 3 1581588421 0 0
+/wp-login.php
+108.162.245.191
+0 7 3 95965 0 0 0 0
+-
+172.68.244.229
+0 2 2 2713 2 1581613907 0 0
+/wp-login.php
+52.90.213.44
+0 3 3 4330 1 1580831935 0 0
+/xmlrpc.php
+141.101.77.243
+0 1 1 1728 0 0 0 0
+-
+172.68.238.161
+0 2 2 2377 2 1581599020 0 0
+/wp-login.php
+162.158.186.85
+0 1 0 29427 0 0 0 0
+-
+108.162.221.238
+0 4 4 23098 3 1581610835 0 0
+/wp-login.php
+172.69.69.173
+0 1 1 12239 1 1581455236 0 0
+/author/admin/
+64.34.221.225
+0 3 3 4330 1 1580828906 0 0
+/xmlrpc.php
+107.189.2.5
+0 3 3 4330 1 1580834937 0 0
+/xmlrpc.php
+108.162.219.93
+0 7 7 8153 6 1581619775 0 0
+/xmlrpc.php
+172.69.34.173
+0 1 1 2027 1 1581620396 0 0
+/wp-login.php
+40.77.188.243
+0 1 1 14764 0 0 0 0
+-
+162.158.202.77
+0 2 0 58653 0 0 0 0
+-
+172.68.47.61
+0 14 12 34608 11 1581617012 0 0
+/wp-login.php
+172.69.135.131
+0 29 28 32454 3 1581416533 0 0
+/wp-login.php
+162.158.150.83
+0 2 2 866 2 1581079348 0 0
+/wp-cron.php
+172.68.10.215
+0 2 2 10116 0 0 0 0
+-
+108.162.216.191
+0 1 0 29331 0 0 0 0
+-
+172.69.62.245
+0 2 2 16108 0 0 0 0
+-
+66.249.66.150
+0 1 1 297 0 0 0 0
+-
+162.158.94.169
+0 2 2 20132 0 0 0 0
+-
+141.101.104.162
+0 2 2 70004 0 0 0 0
+-
+162.158.90.37
+0 1 0 29409 0 0 0 0
+-
+162.158.74.160
+0 1 1 45257 0 0 0 0
+-
+108.162.237.83
+0 2 0 58810 0 0 0 0
+-
+162.158.134.209
+0 2 2 2377 1 1581585512 0 0
+/xmlrpc.php
+167.71.93.181
+0 3 3 4330 1 1580826665 0 0
+/xmlrpc.php
+162.158.155.111
+0 3 3 2557 3 1581419398 0 0
+/wp-login.php
+172.69.70.102
+0 3 1 104041 0 0 0 0
+-
+108.162.246.126
+0 11 1 41735 0 0 0 0
+-
+162.158.62.184
+0 4 4 7772 4 1581618835 0 0
+/wp-login.php
+81.177.135.222
+0 2 2 7804 1 1580580017 0 0
+/wp-login.php
+150.136.220.44
+0 4 0 117436 1 1580818922 0 0
+-
+141.101.104.168
+0 39 30 182346 29 1581619296 0 0
+/xmlrpc.php
+141.101.104.72
+0 1 1 1113 0 0 0 0
+-
+172.68.244.97
+0 1 1 18841 0 0 0 0
+-
+134.209.105.46
+0 3 3 4330 1 1580835466 0 0
+/xmlrpc.php
+162.158.238.209
+0 15 14 172089 1 1581014023 0 0
+/
+162.158.74.134
+0 4 4 30804 0 0 0 0
+-
+172.68.150.77
+0 5 5 6781 3 1581597626 0 0
+/xmlrpc.php
+162.158.62.234
+0 1 0 29328 1 1581293656 0 0
+-
+162.158.147.135
+0 1 1 686 1 1581587421 0 0
+/xmlrpc.php
+108.162.219.109
+0 4 3 11582 3 1581419107 0 0
+/xmlrpc.php
+162.158.74.176
+0 2 0 58638 0 0 0 0
+-
+162.158.78.185
+0 2 2 20199 2 1581630087 0 0
+/mec-kamil-kalenczuk/
+209.97.166.179
+0 3 3 4330 1 1580810446 0 0
+/xmlrpc.php
+162.158.187.170
+0 12 11 45442 4 1581611282 0 0
+/wp-login.php
+108.162.221.100
+0 1 1 10407 1 1581489002 0 0
+/category/prelegenci/page/2/
+162.158.78.245
+0 7 7 20117 5 1581586520 0 0
+/wp-login.php
+162.158.94.105
+0 3 3 66102 0 0 0 0
+-
+47.103.22.96
+0 3 3 4330 1 1580801821 0 0
+/xmlrpc.php
+162.158.74.128
+0 5 5 9463 5 1581593305 0 0
+/wp-login.php
+40.77.189.137
+0 1 1 24010 0 0 0 0
+-
+172.69.54.106
+0 1 1 4514 0 0 0 0
+-
+162.158.63.5
+0 1 0 29328 1 1581293657 0 0
+-
+162.158.78.227
+0 4 4 6095 4 1581601471 0 0
+/xmlrpc.php
+162.158.107.150
+0 1 0 29386 1 1581279660 0 0
+-
+162.158.23.60
+0 1 1 2081 0 0 0 0
+-
+162.158.103.212
+0 1 1 25646 0 0 0 0
+-
+128.199.173.21
+0 3 3 4330 1 1580818745 0 0
+/xmlrpc.php
+162.158.167.129
+0 39 39 31537 5 1581594646 0 0
+/wp-login.php
+172.69.54.4
+0 1 1 587 0 0 0 0
+-
+172.69.134.82
+0 47 47 33840 4 1581425817 0 0
+/xmlrpc.php
+162.158.103.172
+0 1 1 13674 0 0 0 0
+-
+108.162.221.166
+0 1 1 6550 0 0 0 0
+-
+172.69.69.107
+0 3 3 3063 2 1581594105 0 0
+/xmlrpc.php
+162.158.107.224
+0 1 1 947 0 0 0 0
+-
+172.68.65.103
+0 1 1 10425 1 1581158109 0 0
+/witold-chomiczewski/
+5.189.168.157
+0 3 3 4330 1 1580810831 0 0
+/xmlrpc.php
+31.207.33.67
+0 3 3 4330 1 1580804413 0 0
+/xmlrpc.php
+141.101.104.96
+0 3 3 11751 0 0 0 0
+-
+206.189.41.23
+0 3 3 4330 1 1580836436 0 0
+/xmlrpc.php
+40.77.191.74
+0 1 1 29605 0 0 0 0
+-
+108.162.219.23
+0 11 11 35378 9 1581618429 0 0
+/wp-login.php
+162.158.91.214
+0 3 3 36621 0 0 0 0
+-
+172.69.71.99
+0 1 1 20899 0 0 0 0
+-
+172.69.68.220
+0 2 1 39554 0 0 0 0
+-
+172.68.25.182
+0 1 1 686 1 1581599182 0 0
+/xmlrpc.php
+172.69.68.206
+0 4 2 73837 1 1581472797 0 0
+/patryk-oleszczuk/
+162.158.165.143
+0 36 36 26851 4 1581603791 0 0
+/xmlrpc.php
+162.158.202.251
+0 3 1 7800 0 0 0 0
+-
+172.68.174.113
+0 3 3 4740 2 1581586068 0 0
+/xmlrpc.php
+162.158.23.18
+0 1 1 947 0 0 0 0
+-
+108.162.241.29
+0 2 2 2713 2 1581588333 0 0
+/wp-login.php
+162.158.22.209
+0 2 2 55147 0 0 0 0
+-
+162.158.158.160
+0 1 1 1697 0 0 0 0
+-
+108.162.219.37
+0 8 8 26278 7 1581636949 0 0
+/
+172.69.68.150
+0 3 3 36001 2 1581554686 0 0
+/witold-chomiczewski/
+162.158.74.14
+0 1 1 2027 1 1580917131 0 0
+/wp-login.php
+172.68.198.133
+0 1 1 686 1 1581419888 0 0
+/xmlrpc.php
+162.158.78.233
+0 2 2 4054 2 1581583845 0 0
+/wp-login.php
+172.69.62.17
+0 1 1 1903 0 0 0 0
+-
+172.68.189.110
+0 1 1 15280 0 0 0 0
+-
+162.158.103.202
+0 1 1 8054 0 0 0 0
+-
+167.172.51.42
+0 3 3 4330 1 1580802114 0 0
+/xmlrpc.php
+68.183.48.14
+0 2 0 29773 1 1580616418 0 0
+-
+172.69.54.52
+0 1 1 1383 0 0 0 0
+-
+172.69.63.168
+0 6 6 12410 4 1581583361 0 0
+/wp-login.php
+66.249.66.21
+0 34 3 104671 3 1580569055 0 0
+-
+66.249.75.117
+0 4 0 30620 1 1580701978 0 0
+-
+178.154.171.80
+0 4 3 42060 2 1580616197 0 0
+/author/admin/page/2/
+108.162.216.5
+0 1 1 38689 0 0 0 0
+-
+3.123.23.112
+0 3 3 4330 1 1580833529 0 0
+/xmlrpc.php
+162.158.238.9
+0 8 8 141690 0 0 0 0
+-
+108.162.221.214
+0 2 0 58640 0 0 0 0
+-
+80.233.232.98
+0 12 4 408181 1 1580736349 0 0
+-
+167.71.87.135
+0 3 3 4330 1 1580806364 0 0
+/xmlrpc.php
+112.197.16.174
+0 3 3 4330 1 1580797850 0 0
+/xmlrpc.php
+134.209.62.13
+0 3 3 4330 1 1580838595 0 0
+/xmlrpc.php
+172.69.54.112
+0 2 2 54980 0 0 0 0
+-
+162.158.165.101
+0 27 27 19085 2 1581003524 0 0
+/xmlrpc.php
+108.162.250.80
+0 9 9 14552 4 1581618708 0 0
+/wp-login.php
+198.245.51.20
+0 3 3 4166 2 1580824757 0 0
+/wp-login.php
+162.158.155.45
+0 3 3 2893 3 1581166272 0 0
+/wp-cron.php
+162.158.167.143
+0 83 83 71888 11 1581615468 0 0
+/wp-login.php
+172.69.194.41
+0 2 2 14637 1 1581095610 0 0
+/hotele/
+40.77.191.69
+0 2 2 83327 0 0 0 0
+-
+162.158.103.84
+0 1 1 14463 0 0 0 0
+-
+172.69.22.105
+0 1 1 1691 1 1580892369 0 0
+/wp-login.php
+108.162.221.64
+0 1 1 41535 0 0 0 0
+-
+162.158.202.149
+0 4 4 1182669 0 0 0 0
+-
+188.114.111.6
+0 5 5 8122 3 1581618266 0 0
+/wp-login.php
+172.69.69.141
+0 1 1 11629 1 1581447370 0 0
+/en/exhibitors/
+118.67.215.236
+0 6 6 8660 2 1580832121 0 0
+/xmlrpc.php
+162.158.238.219
+0 5 5 187252 0 0 0 0
+-
+108.162.216.217
+0 2 2 36678 0 0 0 0
+-
+173.245.54.70
+0 8 8 9861 4 1581608104 0 0
+/xmlrpc.php
+162.158.103.132
+0 2 2 14516 0 0 0 0
+-
+103.95.196.4
+0 5 5 7974 2 1580839251 0 0
+/xmlrpc.php
+172.69.63.58
+0 6 6 32018 2 1581344041 0 0
+/witold-furman/
+3.6.47.225
+0 6 6 8660 2 1580826400 0 0
+/xmlrpc.php
+108.162.237.107
+0 3 1 30362 1 1581289190 0 0
+-
+108.162.246.144
+0 1 1 10118 1 1581100719 0 0
+/magdalena-chomuszko/
+162.158.91.46
+0 4 4 20420 0 0 0 0
+-
+141.8.142.44
+0 1 0 613 1 1580569681 0 0
+/
+172.69.71.97
+0 2 2 10750 1 1581475209 0 0
+/izabela-gorecka-olejniczak/
+173.245.52.140
+0 4 3 35397 3 1581618054 0 0
+/wp-login.php
+172.69.190.75
+0 1 1 2027 1 1581421804 0 0
+/wp-login.php
+207.46.13.179
+0 5 5 1485 0 0 0 0
+-
+108.162.245.173
+0 22 7 34768 5 1581615067 0 0
+/wp-login.php
+162.158.62.88
+0 2 2 13931 2 1580893787 0 0
+/wp-login.php
+172.69.22.81
+0 6 5 35447 5 1581606308 0 0
+/xmlrpc.php
+162.158.238.207
+0 15 15 193845 2 1581435470 0 0
+/hotele/
+172.68.211.77
+0 4 4 5090 3 1581631904 0 0
+/wp-login.php
+162.158.111.20
+0 1 0 29385 0 0 0 0
+-
+172.69.62.227
+0 5 5 40835 1 1580940365 0 0
+/pawel-jedrzejak/
+195.154.87.159
+0 6 6 8660 2 1580839012 0 0
+/xmlrpc.php
+172.69.70.156
+0 4 4 31513 4 1581610838 0 0
+/xmlrpc.php
+172.68.245.206
+0 1 1 9123 1 1580961979 0 0
+/kontakt/
+141.101.104.132
+0 1 1 426 0 0 0 0
+-
+172.68.11.174
+0 2 1 476 0 0 0 0
+-
+18.144.16.119
+0 3 3 4330 1 1580821638 0 0
+/xmlrpc.php
+108.162.242.24
+0 2 2 20488 2 1581588226 0 0
+/
+162.158.159.55
+0 4 3 48735 4 1581288458 0 0
+-
+162.158.107.80
+0 5 4 33105 0 0 0 0
+-
+108.162.249.77
+0 3 3 3063 3 1581600601 0 0
+/xmlrpc.php
+162.158.167.69
+0 26 26 19438 2 1581423273 0 0
+/wp-login.php
+173.245.48.160
+0 17 15 30947 14 1581617789 0 0
+/wp-login.php
+54.36.149.60
+0 1 1 241 0 0 0 0
+-
+172.69.63.30
+0 1 1 9114 1 1581127411 0 0
+/prelegenci/
+162.158.202.11
+0 6 3 123355 0 0 0 0
+-
+66.249.64.248
+0 4 4 39326 3 1580841575 0 0
+/
+108.162.238.252
+0 9 8 18623 3 1581587840 0 0
+/wp-login.php
+54.36.149.57
+0 1 1 1107 1 1580879549 0 0
+/comments/feed/
+172.69.68.112
+0 1 1 2409 0 0 0 0
+-
+162.158.165.247
+0 29 29 19435 3 1581423284 0 0
+/xmlrpc.php
+54.36.148.125
+0 1 1 9397 1 1580839567 0 0
+/partnerzy/
+172.68.211.251
+0 3 2 6338 2 1581631907 0 0
+/wp-login.php
+172.68.189.74
+0 3 3 6081 3 1581620721 0 0
+/wp-login.php
+51.68.47.11
+0 3 3 4330 1 1580802523 0 0
+/xmlrpc.php
+68.183.187.226
+0 3 3 4330 1 1580812600 0 0
+/xmlrpc.php
+162.158.74.10
+0 1 1 1691 1 1581585937 0 0
+/wp-login.php
+172.68.65.217
+0 5 5 7769 4 1581595447 0 0
+/wp-login.php
+162.158.202.89
+0 6 6 143502 0 0 0 0
+-
+162.158.94.3
+0 12 11 78835 6 1581632189 0 0
+-
+172.69.68.158
+0 1 1 25773 0 0 0 0
+-
+46.229.168.141
+0 2 1 29579 1 1580628706 0 0
+-
+5.173.56.46
+0 59 50 2107778 1 1580599176 0 0
+/
+172.69.69.59
+0 1 1 15866 0 0 0 0
+-
+108.162.229.219
+0 4 4 7436 4 1581602928 0 0
+/wp-login.php
+172.69.69.167
+0 1 0 29346 1 1580921388 0 0
+-
+141.101.76.143
+0 35 29 110084 22 1581622706 0 0
+/wp-cron.php
+167.99.212.81
+0 3 3 4330 1 1580817780 0 0
+/xmlrpc.php
+141.101.104.250
+0 1 1 1697 0 0 0 0
+-
+172.69.54.10
+0 103 93 298653 29 1581619148 0 0
+/xmlrpc.php
+172.68.11.234
+0 1 1 9890 0 0 0 0
+-
+162.158.255.217
+0 6 5 6063 4 1581605585 0 0
+/wp-login.php
+162.158.103.150
+0 3 3 44162 0 0 0 0
+-
+40.77.191.35
+0 1 1 8910 0 0 0 0
+-
+162.158.217.89
+0 4 4 6095 3 1581597878 0 0
+/wp-login.php
+162.158.74.250
+0 3 3 102390 0 0 0 0
+-
+108.162.216.193
+0 5 4 41778 0 0 0 0
+-
+40.77.190.12
+0 1 1 6959 0 0 0 0
+-
+162.158.79.198
+0 1 1 1301 1 1581335273 0 0
+/witold-chomiczewski/feed/
+172.68.25.184
+0 1 1 1691 1 1581610668 0 0
+/wp-login.php
+108.162.250.76
+0 5 5 8458 3 1581597052 0 0
+/wp-login.php
+108.162.219.21
+0 2 1 31355 2 1581417966 0 0
+/wp-login.php
+158.69.158.103
+0 113 112 96272 1 1580717767 0 0
+/xmlrpc.php
+172.69.63.136
+0 1 1 4345 0 0 0 0
+-
+172.69.55.65
+0 1 1 426 0 0 0 0
+-
+162.158.165.249
+0 30 30 22803 3 1581423275 0 0
+/wp-login.php
+141.101.98.155
+0 12 12 17616 10 1581616809 0 0
+/wp-login.php
+162.158.187.162
+0 7 5 3645 2 1581580851 0 0
+/xmlrpc.php
+108.162.238.132
+0 7 6 21828 3 1581602671 0 0
+/xmlrpc.php
+108.162.245.155
+0 1 0 29386 1 1581306689 0 0
+-
+162.158.158.140
+0 3 3 2893 3 1581419399 0 0
+/wp-login.php
+162.158.107.210
+0 3 3 5709 0 0 0 0
+-
+162.158.106.13
+0 2 1 30631 1 1581399471 0 0
+/robert-rogalewicz/feed/
+141.101.77.177
+0 1 1 1218 0 0 0 0
+-
+108.162.238.228
+0 4 3 11544 1 1581289177 0 0
+/wp-admin/admin-post.php
+157.230.249.122
+0 3 3 4330 1 1580827147 0 0
+/xmlrpc.php
+108.162.216.185
+0 2 0 58710 1 1581133795 0 0
+-
+40.77.188.34
+0 1 1 19914 0 0 0 0
+-
+172.69.135.35
+0 46 46 38970 10 1581603558 0 0
+/wp-login.php
+162.158.103.200
+0 1 1 11119 0 0 0 0
+-
+108.162.219.99
+0 3 3 21846 3 1581615182 0 0
+/wp-login.php
+172.69.68.212
+0 3 2 65044 0 0 0 0
+-
+172.69.68.94
+0 3 3 4740 2 1581596263 0 0
+/xmlrpc.php
+108.162.216.57
+0 4 0 117544 4 1581262774 0 0
+-
+40.77.188.199
+0 2 2 125053 0 0 0 0
+-
+40.77.191.16
+0 1 1 8115 0 0 0 0
+-
+40.77.189.31
+0 1 1 17305 0 0 0 0
+-
+162.158.106.163
+0 4 4 136520 0 0 0 0
+-
+162.158.103.128
+0 1 1 11122 0 0 0 0
+-
+162.158.158.156
+0 1 1 1728 0 0 0 0
+-
+162.158.93.46
+0 2 2 46230 0 0 0 0
+-
+162.158.89.206
+0 3 3 2961 0 0 0 0
+-
+162.158.43.149
+0 4 4 6095 3 1581620297 0 0
+/wp-login.php
+172.68.238.95
+0 1 1 1691 1 1581588715 0 0
+/wp-login.php
+40.77.191.23
+0 1 1 6959 0 0 0 0
+-
+154.16.147.187
+0 3 3 4330 1 1580835156 0 0
+/xmlrpc.php
+172.68.246.87
+0 1 1 12207 0 0 0 0
+-
+188.114.111.230
+0 4 3 35149 3 1581594759 0 0
+/wp-login.php
+172.68.226.117
+0 3 3 5409 2 1581583061 0 0
+/wp-login.php
+141.101.77.63
+0 1 1 297 0 0 0 0
+-
+141.101.77.249
+0 1 1 990 0 0 0 0
+-
+108.162.221.196
+0 1 1 11223 0 0 0 0
+-
+162.158.93.220
+0 4 3 22211 0 0 0 0
+-
+122.180.30.186
+0 3 3 4330 1 1580833533 0 0
+/xmlrpc.php
+172.68.246.123
+0 1 1 2567 0 0 0 0
+-
+162.158.107.110
+0 3 3 6551 0 0 0 0
+-
+162.158.167.195
+0 30 30 22114 3 1581417048 0 0
+/wp-login.php
+172.68.24.253
+0 1 1 1691 1 1581599180 0 0
+/wp-login.php
+162.158.186.37
+0 1 0 29408 0 0 0 0
+-
+46.37.172.159
+0 3 3 4330 1 1580835891 0 0
+/xmlrpc.php
+162.158.74.30
+0 2 2 7400 1 1581420333 0 0
+/xmlrpc.php
+162.158.255.47
+0 26 6 19272 4 1581617253 0 0
+/wp-login.php
+198.41.230.5
+0 3 3 5744 2 1581601076 0 0
+/wp-login.php
+94.101.94.131
+0 3 3 4330 1 1580820766 0 0
+/xmlrpc.php
+162.158.63.41
+0 6 6 8808 4 1581613448 0 0
+/wp-login.php
+172.68.239.224
+0 3 3 4740 2 1581599021 0 0
+/xmlrpc.php
+172.68.11.96
+0 1 1 2409 0 0 0 0
+-
+141.101.69.134
+0 2 2 2377 2 1581615020 0 0
+/wp-login.php
+162.158.74.164
+0 1 0 29331 0 0 0 0
+-
+162.158.102.125
+0 1 1 4507 0 0 0 0
+-
+162.158.202.101
+0 6 3 462540 0 0 0 0
+-
+162.158.74.92
+0 1 1 18460 1 1581092615 0 0
+/
+162.158.94.159
+0 40 20 41617 9 1581619867 0 0
+/xmlrpc.php
+162.158.107.116
+0 5 3 174701 0 0 0 0
+-
+162.158.202.23
+0 5 5 272483 0 0 0 0
+-
+172.69.55.59
+0 30 24 143076 26 1581636251 0 0
+/wp-cron.php
+51.38.52.128
+0 3 3 4330 1 1580832332 0 0
+/xmlrpc.php
+162.158.155.207
+0 1 1 1691 1 1581418372 0 0
+/wp-login.php
+46.229.168.138
+0 1 1 260 0 0 0 0
+-
+162.158.103.142
+0 3 3 15931 0 0 0 0
+-
+162.158.165.115
+0 33 33 25479 4 1581425392 0 0
+/wp-login.php
+162.158.78.17
+0 3 3 21288 2 1581452320 0 0
+/xmlrpc.php
+172.68.246.171
+0 1 1 5105 0 0 0 0
+-
+141.101.76.179
+0 1 1 1644 0 0 0 0
+-
+162.158.187.188
+0 10 5 205458 4 1581611281 0 0
+/wp-login.php
+40.77.189.42
+0 1 1 14164 0 0 0 0
+-
+162.158.78.29
+0 1 1 10288 1 1581022533 0 0
+/natalia-suska/
+172.69.70.228
+0 1 0 29318 0 0 0 0
+-
+104.215.193.68
+0 3 3 4330 1 1580822774 0 0
+/xmlrpc.php
+162.158.88.177
+0 3 3 18276 0 0 0 0
+-
+172.69.71.45
+0 2 2 62958 0 0 0 0
+-
+162.158.74.220
+0 2 0 58634 0 0 0 0
+-
+35.241.204.42
+0 6 6 8660 2 1580835650 0 0
+/xmlrpc.php
+103.57.222.158
+0 3 3 4330 1 1580820617 0 0
+/xmlrpc.php
+40.77.188.77
+0 1 1 22106 0 0 0 0
+-
+162.158.186.91
+0 1 0 29381 0 0 0 0
+-
+200.61.187.49
+0 6 6 8660 2 1580838788 0 0
+/xmlrpc.php
+51.159.1.93
+0 3 3 4330 1 1580807656 0 0
+/xmlrpc.php
+162.158.202.175
+0 11 10 188659 0 0 0 0
+-
+162.158.23.116
+0 1 1 4345 0 0 0 0
+-
+150.95.26.170
+0 6 6 8660 2 1580818196 0 0
+/xmlrpc.php
+173.245.54.84
+0 1 1 1103 0 0 0 0
+-
+162.158.23.78
+0 1 1 38689 0 0 0 0
+-
+162.158.94.39
+0 3 3 24162 0 0 0 0
+-
+95.216.113.21
+0 9 9 12990 3 1580807396 0 0
+/xmlrpc.php
+195.14.0.55
+0 3 3 4330 1 1580804808 0 0
+/xmlrpc.php
+162.158.243.42
+0 13 13 16625 9 1581617519 0 0
+/xmlrpc.php
+172.69.68.142
+0 4 3 90828 1 1581472925 0 0
+-
+40.77.188.3
+0 1 1 160735 0 0 0 0
+-
+108.162.219.9
+0 2 2 2713 2 1580911968 0 0
+/wp-login.php
+37.59.232.131
+0 86 86 34056 72 1580859210 0 0
+/wp-cron.php
+172.69.63.172
+0 1 1 10393 1 1580963596 0 0
+/author/admin/page/2/
+172.68.10.101
+0 1 1 27714 0 0 0 0
+-
+40.77.189.59
+0 1 1 43513 0 0 0 0
+-
+172.69.69.239
+0 2 2 3005 1 1581429457 0 0
+/witold-furman/feed/
+162.158.63.173
+0 2 2 3382 2 1581422848 0 0
+/wp-login.php
+172.69.234.141
+0 1 1 686 1 1581608476 0 0
+/xmlrpc.php
+172.69.134.28
+0 33 32 30142 9 1581618405 0 0
+/wp-login.php
+162.158.43.141
+0 1 1 1691 1 1581616001 0 0
+/wp-login.php
+108.162.221.178
+0 5 5 9463 4 1581609350 0 0
+/wp-login.php
+162.158.159.19
+0 11 11 15253 9 1581616816 0 0
+/xmlrpc.php
+172.69.63.26
+0 7 7 9830 5 1581609692 0 0
+/wp-login.php
+108.162.219.55
+0 1 0 29405 0 0 0 0
+-
+162.158.106.199
+0 4 3 77916 2 1581495009 0 0
+/
+108.162.245.125
+0 2 0 58636 0 0 0 0
+-
+108.162.246.222
+0 1 0 27825 0 0 0 0
+-
+162.158.202.143
+0 59 55 548257 6 1581617580 0 0
+/xmlrpc.php
+108.162.246.78
+0 1 0 29386 1 1581306701 0 0
+-
+172.69.63.194
+0 1 1 10780 0 0 0 0
+-
+108.162.245.245
+0 5 5 55595 0 0 0 0
+-
+172.69.194.35
+0 3 1 12924 3 1581164055 0 0
+/
+213.32.91.71
+0 2 0 29773 1 1580581510 0 0
+-
+162.158.78.89
+0 1 1 1162 1 1580947358 0 0
+/en/comments/feed/
+108.162.216.159
+0 3 0 88008 0 0 0 0
+-
+172.68.246.105
+0 2 2 18462 0 0 0 0
+-
+162.158.103.152
+0 1 1 22034 0 0 0 0
+-
+40.77.188.124
+0 2 2 108900 1 1580770414 0 0
+/
+108.162.229.81
+0 2 2 2377 2 1581602927 0 0
+/wp-login.php
+162.158.94.33
+0 25 24 184171 9 1581620554 0 0
+/wp-login.php
+162.158.202.83
+0 11 11 270315 0 0 0 0
+-
+162.158.103.210
+0 2 2 60280 0 0 0 0
+-
+162.158.155.189
+0 3 1 31629 2 1581170187 0 0
+-
+172.69.63.164
+0 5 5 8441 4 1581583362 0 0
+/wp-login.php
+162.158.106.67
+0 2 2 20813 2 1581624847 0 0
+/arkadiusz-siechowicz/
+162.158.178.14
+0 1 1 2027 1 1581593765 0 0
+/wp-login.php
+162.158.107.196
+0 6 6 40622 6 1581615069 0 0
+/xmlrpc.php
+172.69.63.224
+0 4 4 7100 3 1581575211 0 0
+/wp-login.php
+162.158.74.120
+0 4 4 117980 0 0 0 0
+-
+162.158.91.60
+0 3 3 29457 0 0 0 0
+-
+108.162.246.180
+0 11 10 121806 5 1581589049 0 0
+/dr-witold-k-staniszkis/
+162.158.202.235
+0 7 4 105333 0 0 0 0
+-
+40.77.188.220
+0 1 1 115748 0 0 0 0
+-
+162.158.89.44
+0 3 3 116067 0 0 0 0
+-
+46.229.168.145
+0 1 0 581 1 1580599878 0 0
+-
+172.68.141.47
+0 1 1 686 1 1580898953 0 0
+/xmlrpc.php
+80.211.40.199
+0 3 3 4330 1 1580817453 0 0
+/xmlrpc.php
+172.69.54.190
+0 1 1 1823 0 0 0 0
+-
+108.162.238.186
+0 7 5 1307408 1 1581288825 0 0
+/
+194.36.84.202
+0 3 3 4330 1 1580831559 0 0
+/xmlrpc.php
+172.69.23.94
+0 1 1 1691 1 1580898951 0 0
+/wp-login.php
+172.69.63.24
+0 1 1 5587 1 1581361199 0 0
+/author/admin/feed/
+162.158.91.206
+0 2 2 25888 0 0 0 0
+-
+172.69.34.159
+0 33 9 34160 10 1581617010 0 0
+/wp-login.php
+162.158.106.175
+0 2 0 58685 0 0 0 0
+-
+40.77.188.170
+0 1 1 34557 0 0 0 0
+-
+35.227.17.251
+0 3 3 4330 1 1580818547 0 0
+/xmlrpc.php
+108.162.216.181
+0 2 2 4054 2 1581427885 0 0
+/wp-login.php
+46.229.168.148
+0 1 1 260 0 0 0 0
+-
+18.209.245.197
+0 6 0 2927 1 1580800778 0 0
+-
+172.69.69.205
+0 2 2 2713 1 1581610837 0 0
+/wp-login.php
+162.158.202.29
+0 7 7 576147 0 0 0 0
+-
+162.158.23.72
+0 1 1 6550 0 0 0 0
+-
+162.158.166.108
+0 27 26 21716 4 1581464204 0 0
+/xmlrpc.php
+162.158.93.250
+0 2 2 25660 0 0 0 0
+-
+162.158.202.233
+0 4 4 2141148 0 0 0 0
+-
+162.158.78.149
+0 1 1 987 0 0 0 0
+-
+162.158.159.21
+0 18 18 27751 10 1581614631 0 0
+/wp-login.php
+162.158.94.155
+0 2 2 11890 0 0 0 0
+-
+172.68.10.23
+0 1 1 1691 1 1581608839 0 0
+/wp-login.php
+108.162.219.89
+0 5 5 24218 4 1581617676 0 0
+/wp-login.php
+172.68.65.193
+0 2 2 13428 0 0 0 0
+-
+162.158.89.128
+0 3 3 56523 0 0 0 0
+-
+172.69.134.112
+0 28 28 20107 3 1581425393 0 0
+/wp-login.php
+162.158.94.167
+0 1 1 503 0 0 0 0
+-
+162.158.94.127
+0 2 2 12806 0 0 0 0
+-
+172.68.11.168
+0 1 1 1904 0 0 0 0
+-
+108.162.246.120
+0 5 5 316325 0 0 0 0
+-
+108.162.216.137
+0 2 0 58674 0 0 0 0
+-
+162.158.167.117
+0 5 5 7786 4 1581609034 0 0
+/xmlrpc.php
+40.77.189.14
+0 2 2 20072 0 0 0 0
+-
+162.158.202.173
+0 5 5 161569 0 0 0 0
+-
+108.162.221.136
+0 3 2 2496191 0 0 0 0
+-
+162.158.74.58
+0 1 0 29345 0 0 0 0
+-
+172.69.70.144
+0 1 1 13980 0 0 0 0
+-
+172.68.238.239
+0 1 1 2027 1 1581588715 0 0
+/wp-login.php
+162.158.106.91
+0 5 5 12835 0 0 0 0
+-
+162.158.93.106
+0 2 2 172316 0 0 0 0
+-
+162.158.147.139
+0 2 2 3718 1 1581587420 0 0
+/wp-login.php
+172.69.62.137
+0 2 2 9948 0 0 0 0
+-
+108.162.221.184
+0 1 1 947 0 0 0 0
+-
+162.158.93.88
+0 3 3 13098 0 0 0 0
+-
+162.158.107.134
+0 1 1 31007 0 0 0 0
+-
+172.68.141.191
+0 1 1 686 1 1581415855 0 0
+/xmlrpc.php
+139.59.87.40
+0 3 3 4330 1 1580796107 0 0
+/xmlrpc.php
+108.162.219.115
+0 7 6 50027 6 1581422853 0 0
+/wp-login.php
+40.77.189.165
+0 1 1 43513 0 0 0 0
+-
+40.77.190.90
+0 2 2 44670 0 0 0 0
+-
+162.158.107.232
+0 1 0 29320 0 0 0 0
+-
+141.8.183.46
+0 1 0 458 1 1580683923 0 0
+-
+162.158.22.245
+0 2 2 31780 0 0 0 0
+-
+134.213.60.8
+0 3 3 4330 1 1580827370 0 0
+/xmlrpc.php
+172.68.146.159
+0 38 38 31924 8 1581611656 0 0
+/wp-login.php
+172.68.189.134
+0 1 1 686 1 1580892373 0 0
+/xmlrpc.php
+141.101.104.202
+0 1 1 944 0 0 0 0
+-
+162.158.89.20
+0 2 1 43504 0 0 0 0
+-
+37.187.39.196
+0 12 4 408181 1 1580678183 0 0
+-
+162.158.94.173
+0 2 2 25948 0 0 0 0
+-
+54.36.148.1
+0 1 1 10275 1 1580737915 0 0
+/witold-furman/
+54.244.49.72
+0 1 1 18461 1 1580756682 0 0
+/
+108.162.229.167
+0 1 1 1691 1 1581576641 0 0
+/wp-login.php
+181.40.91.90
+0 3 3 4330 1 1580827957 0 0
+/xmlrpc.php
+162.158.23.42
+0 2 2 8873 0 0 0 0
+-
+40.77.190.99
+0 1 1 160735 0 0 0 0
+-
+172.69.234.137
+0 1 1 1691 1 1581608475 0 0
+/wp-login.php
+141.8.142.90
+0 94 87 3299088 16 1580856633 0 0
+/robert-rogalewicz/
+95.108.213.37
+0 2 2 22324 2 1580651634 0 0
+/category/prelegenci/
+108.162.216.215
+0 3 0 88158 3 1581262761 0 0
+-
+162.158.106.121
+0 12 6 553465 2 1581308438 0 0
+/natalia-suska/
+172.68.245.212
+0 1 1 6092 0 0 0 0
+-
+141.101.97.249
+0 1 1 18466 1 1581169821 0 0
+/
+162.158.74.68
+0 2 0 58636 0 0 0 0
+-
+162.158.74.156
+0 2 2 2530 1 1581420332 0 0
+/wp-login.php
+172.68.11.156
+0 1 1 5779 0 0 0 0
+-
+40.77.189.159
+0 1 1 40065 0 0 0 0
+-
+162.158.167.49
+0 41 41 29490 4 1581003539 0 0
+/xmlrpc.php
+40.77.189.255
+0 1 1 40065 0 0 0 0
+-
+40.77.188.10
+0 3 3 335142 0 0 0 0
+-
+162.158.103.114
+0 4 4 84865 0 0 0 0
+-
+162.158.62.118
+0 71 69 56000 7 1581611362 0 0
+/wp-login.php
+162.158.79.246
+0 1 1 12239 1 1581197633 0 0
+/author/admin/
+172.68.65.91
+0 3 0 1839 3 1581544267 0 0
+/
+46.229.168.135
+0 1 1 9415 1 1580616631 0 0
+/partnerzy/
+206.189.26.231
+0 3 3 4330 1 1580837804 0 0
+/xmlrpc.php
+170.239.84.63
+0 3 3 4330 1 1580823118 0 0
+/xmlrpc.php
+162.158.107.122
+0 7 6 27433 2 1581201987 0 0
+/izabela-gorecka-olejniczak/feed/
+162.158.90.7
+0 2 2 13054 0 0 0 0
+-
+46.37.31.195
+0 3 3 4330 1 1580814923 0 0
+/xmlrpc.php
+162.158.111.170
+0 1 1 1448 0 0 0 0
+-
+162.158.166.54
+0 29 29 21781 3 1581003469 0 0
+/xmlrpc.php
+108.162.219.73
+0 2 1 1211 1 1580891311 0 0
+/xmlrpc.php
+162.158.187.108
+0 1 0 29402 0 0 0 0
+-
+162.158.107.8
+0 5 5 7220 0 0 0 0
+-
+172.68.246.45
+0 3 3 38088 3 1581261805 0 0
+/
+162.158.93.196
+0 2 2 594 0 0 0 0
+-
+94.222.2.153
+0 72 58 2649274 1 1580656854 0 0
+/
+162.158.22.53
+0 3 3 44788 0 0 0 0
+-
+46.229.168.132
+0 1 1 260 0 0 0 0
+-
+172.68.245.200
+0 1 1 1977 1 1581154264 0 0
+/wp-login.php
+162.158.94.109
+0 5 5 196185 0 0 0 0
+-
+162.158.74.52
+0 5 5 94205 0 0 0 0
+-
+141.101.104.54
+0 2 2 1955 0 0 0 0
+-
+162.158.186.49
+0 5 4 20655 2 1581587843 0 0
+/xmlrpc.php
+108.162.216.103
+0 1 1 6527 0 0 0 0
+-
+162.158.23.108
+0 1 1 63265 0 0 0 0
+-
+172.68.246.117
+0 1 1 792 1 1580958666 0 0
+/xmlrpc.php
+108.162.246.252
+0 7 7 81809 0 0 0 0
+-
+172.69.10.107
+0 31 3 626682 8 1581605901 0 0
+/wp-login.php
+192.162.69.147
+0 3 3 4330 1 1580808219 0 0
+/xmlrpc.php
+172.68.198.5
+0 2 2 3718 1 1581419888 0 0
+/wp-login.php
+108.162.216.155
+0 4 4 9140 0 0 0 0
+-
+162.158.103.174
+0 3 3 236596 0 0 0 0
+-
+162.158.23.110
+0 1 1 1711 0 0 0 0
+-
+45.63.101.25
+0 6 6 8496 2 1580824319 0 0
+/xmlrpc.php
+108.162.237.101
+0 1 0 29394 0 0 0 0
+-
+134.209.105.247
+0 6 6 8660 2 1580825436 0 0
+/xmlrpc.php
+141.101.104.156
+0 1 1 392310 0 0 0 0
+-
+172.69.70.36
+0 1 0 29317 0 0 0 0
+-
+162.158.74.6
+0 6 5 34254 0 0 0 0
+-
+172.69.63.34
+0 3 3 3399 3 1581574854 0 0
+/xmlrpc.php
+108.162.245.101
+0 1 1 8281 1 1581021471 0 0
+/relacja/
+172.68.10.45
+0 1 1 686 1 1581608842 0 0
+/xmlrpc.php
+162.158.94.145
+0 36 34 213464 11 1581619865 0 0
+/wp-login.php
+108.162.219.7
+0 9 8 41201 8 1581620190 0 0
+/xmlrpc.php
+172.69.69.77
+0 1 1 10393 1 1581460704 0 0
+/author/admin/page/2/
+162.158.63.215
+0 13 13 16289 11 1581613667 0 0
+/wp-login.php
+54.36.150.78
+0 1 1 10628 1 1580833459 0 0
+/galeria-czerwiec-2019/
+188.114.111.216
+0 8 3 93327 5 1581619419 0 0
+/wp-login.php
+162.158.134.249
+0 1 1 29495 0 0 0 0
+-
+172.69.71.69
+0 1 1 11098 1 1581407665 0 0
+/polityka-prywatnosci/
+108.162.219.39
+0 72 69 85338 9 1581599563 0 0
+/wp-login.php
+40.77.189.216
+0 1 1 40302 0 0 0 0
+-
+172.69.10.65
+0 36 2 916812 12 1581599243 0 0
+/xmlrpc.php
+162.158.103.194
+0 2 2 16893 0 0 0 0
+-
+162.158.155.93
+0 14 14 38103 7 1581620011 0 0
+/xmlrpc.php
+162.158.186.241
+0 8 6 4179 1 1581289111 0 0
+/wp-admin/admin-post.php
+108.162.245.107
+0 6 6 84474 0 0 0 0
+-
+162.158.79.24
+0 7 7 14713 5 1581608102 0 0
+/wp-login.php
+172.69.63.54
+0 1 1 2567 0 0 0 0
+-
+172.69.69.215
+0 1 1 2704 0 0 0 0
+-
+162.158.106.241
+0 4 4 40992 4 1581206787 0 0
+/izabela-gorecka-olejniczak/
+108.162.229.231
+0 3 3 3063 2 1581577827 0 0
+/wp-login.php
+172.68.186.59
+0 5 5 7786 4 1581612984 0 0
+/wp-login.php
+162.158.103.148
+0 3 3 45901 0 0 0 0
+-
+162.158.103.108
+0 1 1 18841 0 0 0 0
+-
+108.162.246.162
+0 1 0 29351 0 0 0 0
+-
+40.77.167.87
+0 6 6 78879 1 1580554856 0 0
+/witold-chomiczewski/
+141.101.76.155
+0 2 2 146335 0 0 0 0
+-
+141.101.104.138
+0 24 22 70146 22 1581619147 0 0
+/wp-login.php
+162.158.107.190
+0 24 9 4001648 7 1581599001 0 0
+/wp-login.php
+162.158.90.103
+0 2 2 71518 0 0 0 0
+-
+46.229.168.147
+0 1 1 260 0 0 0 0
+-
+51.38.224.100
+0 3 3 4330 1 1580821195 0 0
+/xmlrpc.php
+212.47.245.26
+0 3 3 4330 1 1580812280 0 0
+/xmlrpc.php
+40.77.190.221
+0 1 1 1993 0 0 0 0
+-
+40.77.188.123
+0 1 1 69522 0 0 0 0
+-
+172.69.134.184
+0 23 23 15387 1 1581464232 0 0
+/xmlrpc.php
+162.158.63.221
+0 5 5 8794 5 1581610038 0 0
+/xmlrpc.php
+54.36.150.182
+0 1 1 10014 1 1580590144 0 0
+/janusz-bossak/
+164.132.170.4
+0 3 3 4330 1 1580809162 0 0
+/xmlrpc.php
+108.162.221.112
+0 2 2 2713 2 1581605659 0 0
+/xmlrpc.php
+172.69.70.132
+0 1 0 29318 0 0 0 0
+-
+162.158.78.41
+0 1 1 18339 0 0 0 0
+-
+172.68.141.125
+0 4 3 5240 4 1581617254 0 0
+/wp-login.php
+40.77.190.45
+0 2 2 101982 1 1580856800 0 0
+/
+162.158.202.47
+0 17 17 279834 0 0 0 0
+-
+141.8.183.214
+0 2 1 757 1 1580634483 0 0
+/
+108.162.229.93
+0 1 1 2027 1 1581572555 0 0
+/wp-login.php
+3.12.81.130
+0 3 3 4330 1 1580837162 0 0
+/xmlrpc.php
+66.249.66.23
+0 3 1 63137 2 1580841582 0 0
+-
+162.158.202.249
+0 46 45 198086 4 1581611209 0 0
+/
+162.158.78.143
+0 9 9 9971 4 1581593086 0 0
+/wp-login.php
+66.249.64.244
+0 57 16 251041 3 1580850107 0 0
+/dr-witold-k-staniszkis/feed/
+162.158.186.187
+0 11 7 74708 1 1581289192 0 0
+/wp-admin/admin-post.php
+47.240.80.253
+0 944 942 701217 1 1580561586 0 0
+/xmlrpc.php
+162.158.92.233
+0 2 2 23576 0 0 0 0
+-
+162.158.74.202
+0 1 0 29317 0 0 0 0
+-
+162.158.167.115
+0 26 26 18416 2 1581416530 0 0
+/wp-login.php
+162.158.150.47
+0 1 1 148751 0 0 0 0
+-
+162.158.159.7
+0 3 1 30359 2 1581288451 0 0
+-
+162.158.106.145
+0 4 4 18028 0 0 0 0
+-
+172.68.245.146
+0 1 1 4366 0 0 0 0
+-
+141.101.77.93
+0 37 32 184803 27 1581615881 0 0
+/wp-login.php
+172.69.71.13
+0 1 0 29319 0 0 0 0
+-
+173.245.52.86
+0 2 1 31355 2 1581293645 0 0
+-
+40.77.191.8
+0 1 1 15574 0 0 0 0
+-
+172.69.70.126
+0 1 1 16090 0 0 0 0
+-
+162.158.186.61
+0 9 7 40713 1 1581289168 0 0
+/wp-admin/admin-post.php
+172.68.246.111
+0 1 1 2027 1 1581590173 0 0
+/wp-login.php
+162.158.158.168
+0 18 18 25419 12 1581619607 0 0
+/wp-login.php
+140.143.200.182
+0 6 6 8496 2 1580823789 0 0
+/xmlrpc.php
+162.158.63.29
+0 8 7 8678 6 1581615183 0 0
+/xmlrpc.php
+162.158.166.146
+0 27 27 19119 4 1581595682 0 0
+/xmlrpc.php
+40.77.191.47
+0 1 1 17305 0 0 0 0
+-
+157.55.39.71
+0 8 8 480843 0 0 0 0
+-
+207.46.13.85
+0 1 1 10229 1 1580673877 0 0
+/patryk-oleszczuk/
+172.69.63.200
+0 5 5 24557 4 1581611713 0 0
+/wp-login.php
+162.158.93.160
+0 3 3 786311 1 1581421175 0 0
+/wp-login.php
+162.158.158.114
+0 2 1 29837 2 1581288474 0 0
+-
+162.158.103.134
+0 3 3 20926 0 0 0 0
+-
+141.101.104.184
+0 2 2 5380 0 0 0 0
+-
+162.158.187.184
+0 5 3 31413 2 1581581940 0 0
+/xmlrpc.php
+162.158.167.167
+0 67 67 62579 5 1581597598 0 0
+/wp-login.php
+172.68.244.85
+0 2 2 20489 2 1581573912 0 0
+/wp-login.php
+162.158.178.70
+0 1 1 1691 1 1581593763 0 0
+/wp-login.php
+162.158.106.247
+0 1 1 1163 1 1581251806 0 0
+/comments/feed/
+40.77.190.159
+0 1 1 1993 0 0 0 0
+-
+162.158.103.180
+0 2 2 160604 0 0 0 0
+-
+198.41.231.182
+0 1 1 686 1 1581596472 0 0
+/xmlrpc.php
+108.162.249.119
+0 4 4 4754 3 1581618709 0 0
+/xmlrpc.php
+108.162.238.66
+0 1 0 29392 0 0 0 0
+-
+172.68.246.63
+0 1 1 38689 0 0 0 0
+-
+162.158.93.70
+0 3 3 87063 0 0 0 0
+-
+172.68.141.83
+0 1 1 2027 1 1580892371 0 0
+/wp-login.php
+162.158.74.154
+0 1 1 1691 1 1581429040 0 0
+/wp-login.php
+172.69.70.108
+0 1 0 29317 0 0 0 0
+-
+162.158.154.92
+0 6 5 51689 4 1581419785 0 0
+/xmlrpc.php
+172.69.190.77
+0 4 4 4701 3 1581583109 0 0
+/xmlrpc.php
+172.69.71.59
+0 2 2 12424 0 0 0 0
+-
+162.158.94.93
+0 3 3 7227 0 0 0 0
+-
+165.22.49.52
+0 3 3 4330 1 1580819987 0 0
+/xmlrpc.php
+37.187.90.62
+0 3 3 4330 1 1580810630 0 0
+/xmlrpc.php
+165.227.146.95
+0 3 3 4330 1 1580813022 0 0
+/xmlrpc.php
+162.158.107.140
+0 2 2 13428 0 0 0 0
+-
+162.158.107.182
+0 1 1 10100 1 1580910785 0 0
+/mec-kamil-kalenczuk/
+172.69.63.170
+0 7 7 74726 4 1581014028 0 0
+/dr-witold-k-staniszkis/
+172.69.34.121
+0 2 2 2377 1 1581620720 0 0
+/wp-login.php
+162.158.187.190
+0 1 0 29401 0 0 0 0
+-
+162.158.93.58
+0 2 2 30986 0 0 0 0
+-
+108.162.229.165
+0 1 1 686 1 1581582172 0 0
+/xmlrpc.php
+103.133.215.130
+0 3 3 4330 1 1580808573 0 0
+/xmlrpc.php
+172.69.34.179
+0 2 1 4311 1 1581631911 0 0
+/wp-login.php
+108.162.216.195
+0 1 0 29317 0 0 0 0
+-
+162.158.22.101
+0 2 2 17654 2 1581355416 0 0
+/en/speakers/volen-atim-2-3/
+183.90.240.31
+0 3 3 4330 1 1580837434 0 0
+/xmlrpc.php
+108.162.221.172
+0 1 1 9543 1 1581453426 0 0
+/hotele/
+162.158.92.53
+0 15 15 23197 10 1581620553 0 0
+/wp-login.php
+108.61.175.186
+0 3 3 4330 1 1580829944 0 0
+/xmlrpc.php
+162.158.150.59
+0 9 9 19010 8 1581108525 0 0
+/wp-cron.php
+141.101.105.23
+0 1 1 3793 0 0 0 0
+-
+172.68.244.31
+0 2 2 3996 0 0 0 0
+-
+162.158.202.227
+0 36 35 160414 2 1581611237 0 0
+/
+172.69.54.28
+0 1 1 550 0 0 0 0
+-
+172.69.33.30
+0 3 3 4404 3 1581611101 0 0
+/xmlrpc.php
+173.236.152.114
+0 2 0 29775 1 1580559272 0 0
+-
+158.69.224.11
+0 6 6 8660 2 1580816240 0 0
+/xmlrpc.php
+35.221.12.154
+0 33 1 33437 1 1580589538 0 0
+-
+162.158.63.107
+0 65 62 44328 3 1581139123 0 0
+/xmlrpc.php
+108.162.219.29
+0 6 6 8808 5 1581612264 0 0
+/xmlrpc.php
+162.158.187.198
+0 6 3 38751 1 1581289221 0 0
+/wp-admin/admin-post.php
+162.158.159.61
+0 1 1 452 0 0 0 0
+-
+162.158.167.51
+0 18 18 12042 1 1581003506 0 0
+/xmlrpc.php
+108.162.238.72
+0 10 5 35637 2 1581581939 0 0
+/wp-login.php
+172.69.63.154
+0 1 1 3203 0 0 0 0
+-
+172.69.34.219
+0 20 17 38621 15 1581611097 0 0
+/wp-login.php
+162.158.22.47
+0 2 2 7514 0 0 0 0
+-
+162.158.63.67
+0 63 61 43142 1 1581406089 0 0
+/xmlrpc.php
+40.77.188.79
+0 1 1 19914 0 0 0 0
+-
+162.158.187.200
+0 8 2 21617 1 1581289198 0 0
+-
+59.110.236.234
+0 3 3 4330 1 1580798601 0 0
+/xmlrpc.php
+172.69.63.72
+0 1 1 5779 0 0 0 0
+-
+78.47.243.233
+0 3 3 4330 1 1580811921 0 0
+/xmlrpc.php
+162.158.91.180
+0 3 3 13035 0 0 0 0
+-
+172.69.68.148
+0 3 2 106764 1 1581415002 0 0
+-
+66.249.64.246
+0 14 5 147790 2 1580850069 0 0
+-
+46.229.168.161
+0 1 1 9076 1 1580706779 0 0
+/prelegenci/
+108.162.216.183
+0 4 4 3749 4 1581589051 0 0
+/wp-login.php
+172.68.214.56
+0 2 1 18990 1 1581137527 0 0
+/
+162.158.238.225
+0 9 9 160644 2 1581501486 0 0
+/prelegenci/
+162.158.202.53
+0 3 3 1509 0 0 0 0
+-
+162.158.187.124
+0 5 2 21210 1 1581289074 0 0
+-
+162.158.186.217
+0 1 0 29401 0 0 0 0
+-
+162.158.202.161
+0 5 5 41263 0 0 0 0
+-
+162.158.186.211
+0 13 6 81151 1 1581289209 0 0
+/wp-admin/admin-post.php
+172.69.54.226
+0 35 32 122600 29 1581617877 0 0
+/wp-login.php
+172.69.69.197
+0 2 1 39410 0 0 0 0
+-
+162.158.91.78
+0 17 17 21046 10 1581620554 0 0
+/xmlrpc.php
+162.158.187.70
+0 9 5 33602 2 1581611284 0 0
+/xmlrpc.php
+162.158.78.53
+0 1 1 30548 0 0 0 0
+-
+162.158.107.186
+0 7 7 30415 0 0 0 0
+-
+108.162.216.99
+0 2 2 31408 0 0 0 0
+-
+172.68.238.113
+0 3 3 3063 2 1581604702 0 0
+/xmlrpc.php
+172.68.244.241
+0 2 2 40844 0 0 0 0
+-
+40.77.190.78
+0 1 1 69521 0 0 0 0
+-
+173.245.48.238
+0 17 15 33293 12 1581600442 0 0
+/wp-login.php
+108.162.238.216
+0 6 3 60593 1 1581289011 0 0
+-
+108.162.219.25
+0 4 4 6267 4 1581617295 0 0
+/wp-login.php
+141.101.77.153
+0 1 1 875 0 0 0 0
+-
+172.69.63.28
+0 2 2 20250 2 1581437365 0 0
+/mateusz-borowiak/
+162.158.62.60
+0 69 64 112005 6 1581418566 0 0
+/xmlrpc.php
+172.69.194.23
+0 2 1 10686 2 1581126167 0 0
+/rafal-gorski/
+173.245.54.8
+0 2 2 3382 2 1581609691 0 0
+/wp-login.php
+141.101.76.149
+0 1 1 1126 0 0 0 0
+-
+172.68.10.71
+0 2 2 3826 0 0 0 0
+-
+108.162.216.157
+0 1 1 297 0 0 0 0
+-
+162.158.23.6
+0 1 1 18463 1 1581046256 0 0
+/
+172.69.134.196
+0 29 29 24864 5 1581597408 0 0
+/wp-login.php
+172.68.174.29
+0 1 1 1691 1 1581423996 0 0
+/wp-login.php
+46.229.168.133
+0 1 1 10388 1 1580759841 0 0
+/witold-chomiczewski/
+40.77.189.148
+0 1 1 48770 0 0 0 0
+-
+173.245.54.92
+0 7 7 26247 7 1581608103 0 0
+/wp-login.php
+54.36.148.218
+0 1 1 18405 1 1580712041 0 0
+/
+172.69.55.95
+0 1 1 1697 0 0 0 0
+-
+172.69.70.150
+0 1 1 20753 0 0 0 0
+-
+172.69.63.36
+0 1 1 12207 0 0 0 0
+-
+172.69.55.11
+0 1 1 875 0 0 0 0
+-
+172.69.22.111
+0 1 1 1691 1 1581416152 0 0
+/wp-login.php
+162.158.111.158
+0 1 1 1697 0 0 0 0
+-
+162.158.94.165
+0 2 2 22244 0 0 0 0
+-
+40.77.190.13
+0 2 2 176439 0 0 0 0
+-
+162.158.167.23
+0 28 28 18732 1 1581003526 0 0
+/xmlrpc.php
+173.249.49.120
+0 3 3 4330 1 1580814422 0 0
+/xmlrpc.php
+162.158.92.251
+0 1 1 18460 1 1580905466 0 0
+/
+162.158.238.205
+0 30 29 71961 3 1581636249 0 0
+/partnerzy/
+40.77.188.39
+0 2 2 166720 0 0 0 0
+-
+172.68.94.125
+0 1 1 18464 1 1580859481 0 0
+/
+162.158.217.95
+0 4 4 6095 3 1581614005 0 0
+/xmlrpc.php
+172.69.68.182
+0 1 1 14042 0 0 0 0
+-
+162.158.92.29
+0 20 18 73066 9 1581619866 0 0
+/wp-login.php
+162.158.103.96
+0 3 2 63457 1 1580929808 0 0
+-
+162.158.103.158
+0 1 1 9846 0 0 0 0
+-
+162.158.94.143
+0 2 2 22066 0 0 0 0
+-
+172.69.55.191
+0 27 18 201369 21 1581619295 0 0
+/wp-login.php
+162.158.167.53
+0 46 46 32886 7 1581615472 0 0
+/xmlrpc.php
+172.69.69.185
+0 1 1 9452 1 1581448564 0 0
+/partnerzy/
+141.101.104.12
+0 1 0 29378 0 0 0 0
+-
+141.101.76.11
+0 1 1 1728 0 0 0 0
+-
+46.101.43.129
+0 1 1 1654 1 1580819781 0 0
+/wp-login.php
+40.77.188.53
+0 3 3 142299 0 0 0 0
+-
+162.158.187.14
+0 1 0 29384 0 0 0 0
+-
+172.69.70.168
+0 1 0 29317 0 0 0 0
+-
+162.158.89.188
+0 2 1 45730 0 0 0 0
+-
+172.68.24.169
+0 1 1 686 1 1581610670 0 0
+/xmlrpc.php
+172.68.246.141
+0 1 1 29495 0 0 0 0
+-
+141.101.104.90
+0 2 2 313746 0 0 0 0
+-
+40.77.190.112
+0 1 1 4551 0 0 0 0
+-
+173.245.52.222
+0 1 1 2027 1 1581425570 0 0
+/wp-login.php
+217.116.198.169
+0 6 6 8660 2 1580840426 0 0
+/xmlrpc.php
+162.158.202.221
+0 7 5 127723 0 0 0 0
+-
+213.108.241.244
+0 3 3 4330 1 1580818342 0 0
+/xmlrpc.php
+162.158.74.226
+0 1 1 686 1 1580904770 0 0
+/xmlrpc.php
+162.158.78.47
+0 3 3 4404 3 1581587414 0 0
+/wp-login.php
+162.158.106.79
+0 9 9 72092 0 0 0 0
+-
+108.162.246.150
+0 1 1 10066 0 0 0 0
+-
+172.68.11.198
+0 2 2 8359 1 1581589094 0 0
+/wp-login.php
+162.158.202.185
+0 14 13 229470 0 0 0 0
+-
+172.68.244.115
+0 1 1 6550 0 0 0 0
+-
+162.158.74.104
+0 4 4 8918 1 1581420331 0 0
+/wp-login.php
+46.229.168.163
+0 1 1 9085 1 1580599882 0 0
+/kontakt/
+172.68.24.167
+0 1 1 2027 1 1581599181 0 0
+/wp-login.php
+162.158.94.45
+0 3 3 75852 0 0 0 0
+-
+162.158.103.216
+0 1 1 2839 0 0 0 0
+-
+172.69.10.77
+0 38 4 983652 13 1581599243 0 0
+/wp-login.php
+172.69.194.53
+0 6 6 1782 0 0 0 0
+-
+172.69.69.101
+0 2 0 1220 2 1581414995 0 0
+/
+172.69.71.95
+0 1 1 14248 0 0 0 0
+-
+173.245.54.88
+0 1 1 31416 0 0 0 0
+-
+162.158.88.201
+0 3 3 17337 0 0 0 0
+-
+172.68.255.81
+0 1 1 2027 1 1581618712 0 0
+/wp-login.php
+148.251.244.137
+0 5 4 37958 1 1580702386 0 0
+/
+45.55.5.34
+0 2 0 29775 1 1580597323 0 0
+-
+162.158.94.121
+0 2 2 3084 0 0 0 0
+-
+108.162.219.191
+0 9 9 16230 6 1581620187 0 0
+/wp-login.php
+172.69.135.217
+0 39 38 35543 8 1581615466 0 0
+/wp-login.php
+162.158.91.44
+0 1 0 29405 0 0 0 0
+-
+162.158.22.71
+0 1 1 6092 0 0 0 0
+-
+162.158.107.204
+0 4 4 8324 0 0 0 0
+-
+162.158.106.85
+0 7 7 105590 0 0 0 0
+-
+108.162.216.119
+0 1 1 1691 1 1580917126 0 0
+/wp-login.php
+172.69.34.247
+0 7 6 13421 6 1581614367 0 0
+/wp-login.php
+40.77.190.190
+0 2 2 240566 0 0 0 0
+-
+193.106.30.99
+0 1 1 633 1 1580812861 0 0
+/
+172.69.134.208
+0 39 39 30617 7 1581609023 0 0
+/wp-login.php
+167.71.72.4
+0 4 4 5984 2 1580833772 0 0
+/xmlrpc.php
+162.158.62.48
+0 6 6 24906 6 1581620183 0 0
+/wp-login.php
+162.158.23.104
+0 1 1 1691 1 1581588062 0 0
+/wp-login.php
+172.68.245.134
+0 1 1 4345 0 0 0 0
+-
+108.162.216.151
+0 3 3 7701 0 0 0 0
+-
+141.101.77.219
+0 1 1 22034 0 0 0 0
+-
+172.69.68.146
+0 1 0 29386 1 1580958868 0 0
+-
+206.189.120.43
+0 3 3 4330 1 1580813922 0 0
+/xmlrpc.php
+162.158.158.246
+0 1 1 9890 0 0 0 0
+-
+162.158.22.119
+0 1 1 2839 0 0 0 0
+-
+108.162.221.124
+0 2 0 58634 0 0 0 0
+-
+40.77.189.193
+0 1 1 2353 0 0 0 0
+-
+157.230.29.65
+0 3 3 4330 1 1580825785 0 0
+/xmlrpc.php
+162.158.63.149
+0 5 5 6781 4 1581618055 0 0
+/xmlrpc.php
+162.158.238.211
+0 21 14 59996 7 1581616406 0 0
+-
+162.158.103.218
+0 2 2 9036 0 0 0 0
+-
+167.172.124.87
+0 3 3 4330 1 1580820167 0 0
+/xmlrpc.php
+172.68.65.187
+0 2 1 183023 0 0 0 0
+-
+40.77.188.22
+0 1 1 55500 0 0 0 0
+-
+162.158.103.198
+0 1 1 5778 0 0 0 0
+-
+66.249.81.152
+0 1 1 49737 0 0 0 0
+-
+162.158.93.16
+0 6 6 34803 0 0 0 0
+-
+162.158.103.206
+0 1 1 15280 0 0 0 0
+-
+162.158.154.212
+0 4 3 32165 3 1581417440 0 0
+/wp-login.php
+18.232.254.203
+0 12 4 408176 1 1580717122 0 0
+-
+172.69.68.136
+0 1 0 631 1 1581407663 0 0
+-
+141.101.77.123
+0 11 9 3031 0 0 0 0
+-
+172.69.135.11
+0 30 30 22501 6 1581604926 0 0
+/xmlrpc.php
+162.158.150.129
+0 1 1 182840 0 0 0 0
+-
+172.69.70.54
+0 1 1 15061 0 0 0 0
+-
+172.68.186.53
+0 2 2 2713 1 1581612986 0 0
+/xmlrpc.php
+45.76.119.214
+0 6 6 8660 2 1580830756 0 0
+/xmlrpc.php
+162.158.202.41
+0 2 2 49094 0 0 0 0
+-
+172.69.55.131
+0 1 1 3793 0 0 0 0
+-
+172.69.63.146
+0 1 1 10408 1 1581584232 0 0
+/category/prelegenci/page/2/
+210.211.118.110
+0 3 3 4330 1 1580814117 0 0
+/xmlrpc.php
+162.158.103.66
+0 4 4 57563 0 0 0 0
+-
+162.158.23.54
+0 2 2 5332 0 0 0 0
+-
+172.69.63.44
+0 3 3 189795 0 0 0 0
+-
+162.158.74.26
+0 6 4 64455 1 1581427171 0 0
+/xmlrpc.php
+108.162.237.203
+0 8 4 3810 1 1581289165 0 0
+/wp-admin/admin-post.php
+162.158.103.140
+0 2 2 7506 0 0 0 0
+-
+172.69.134.70
+0 29 29 20810 5 1581604567 0 0
+/xmlrpc.php
+162.158.22.227
+0 2 2 13417 0 0 0 0
+-
+172.68.226.113
+0 3 3 3399 2 1581583062 0 0
+/xmlrpc.php
+162.158.23.36
+0 3 3 26938 1 1581108604 0 0
+/
+172.68.186.17
+0 3 3 5409 3 1581600853 0 0
+/wp-login.php
+173.245.54.102
+0 3 3 4740 3 1581581714 0 0
+/wp-login.php
+46.229.168.153
+0 2 2 520 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+172.69.190.59
+0 1 1 2027 1 1581583108 0 0
+/wp-login.php
+162.158.219.83
+0 11 11 14584 6 1581608615 0 0
+/xmlrpc.php
+172.68.25.11
+0 1 1 1691 1 1581614249 0 0
+/wp-login.php
+172.68.65.85
+0 2 2 2337 2 1581583276 0 0
+/xmlrpc.php
+172.69.62.119
+0 5 5 42947 1 1581592278 0 0
+/wp-login.php
+162.158.88.117
+0 2 2 11556 0 0 0 0
+-
+108.162.245.83
+0 4 4 21858 2 1581616731 0 0
+/
+162.158.74.238
+0 3 3 3063 2 1581593306 0 0
+/xmlrpc.php
+162.158.93.190
+0 17 17 36380 7 1581611998 0 0
+/wp-login.php
+162.158.92.131
+0 22 22 47797 10 1581616248 0 0
+/
+162.158.158.152
+0 18 18 25086 9 1581617041 0 0
+/xmlrpc.php
+198.41.238.89
+0 2 2 2713 1 1581599943 0 0
+/xmlrpc.php
+172.69.34.119
+0 9 9 13548 5 1581613840 0 0
+/wp-login.php
+162.158.154.86
+0 16 15 48381 10 1581618554 0 0
+/xmlrpc.php
+162.158.94.141
+0 1 1 535287 0 0 0 0
+-
+141.101.69.144
+0 1 1 1691 1 1581582171 0 0
+/wp-login.php
+162.158.90.55
+0 2 2 4164 0 0 0 0
+-
+162.158.158.28
+0 14 14 39111 8 1581620010 0 0
+/wp-login.php
+108.162.246.186
+0 1 1 987 0 0 0 0
+-
+162.158.202.35
+0 4 4 61373 0 0 0 0
+-
+108.162.219.85
+0 9 9 32995 5 1581619773 0 0
+/wp-login.php
+172.68.11.138
+0 1 1 1691 1 1581613905 0 0
+/wp-login.php
+108.162.219.215
+0 7 7 10499 5 1581614733 0 0
+/wp-login.php
+162.158.90.121
+0 1 1 58199 0 0 0 0
+-
+162.158.91.168
+0 1 1 9558 0 0 0 0
+-
+162.158.202.5
+0 1 1 2409 0 0 0 0
+-
+172.69.55.77
+0 1 1 1220 0 0 0 0
+-
+162.158.88.51
+0 1 0 182 0 0 0 0
+-
+172.69.63.244
+0 3 3 3382 2 1581588772 0 0
+/xmlrpc.php
+162.158.203.6
+0 2 2 12724 0 0 0 0
+-
+172.69.134.40
+0 8 8 10688 6 1581603559 0 0
+/xmlrpc.php
+172.69.71.81
+0 1 0 179 0 0 0 0
+-
+141.101.76.41
+0 1 1 1223 0 0 0 0
+-
+162.158.107.168
+0 2 2 3718 1 1581599324 0 0
+/wp-login.php
+162.158.90.19
+0 22 21 92033 10 1581632187 0 0
+-
+172.68.246.51
+0 3 3 4404 2 1581599297 0 0
+/wp-login.php
+162.158.238.223
+0 8 6 67313 2 1581636270 0 0
+/
+162.158.111.50
+0 2 0 58810 0 0 0 0
+-
+162.158.88.99
+0 1 0 182 0 0 0 0
+-
+172.69.62.47
+0 2 2 2663 2 1581593088 0 0
+/xmlrpc.php
+162.158.202.247
+0 1 1 4366 0 0 0 0
+-
+162.158.74.84
+0 1 1 686 1 1581580744 0 0
+/xmlrpc.php
+162.158.155.171
+0 7 7 9494 5 1581610440 0 0
+/xmlrpc.php
+162.158.238.203
+0 1 1 5779 0 0 0 0
+-
+162.158.94.51
+0 1 1 2704 0 0 0 0
+-
+162.158.63.197
+0 6 6 6462 5 1581617297 0 0
+/xmlrpc.php
+141.101.105.205
+0 15 15 20762 10 1581616134 0 0
+/wp-login.php
+172.69.34.241
+0 6 6 9144 4 1581617013 0 0
+/xmlrpc.php
+162.158.79.78
+0 3 3 56523 0 0 0 0
+-
+162.158.202.95
+0 3 3 71554 0 0 0 0
+-
+162.158.243.221
+0 8 8 10852 4 1581614921 0 0
+/xmlrpc.php
+172.68.132.24
+0 1 0 29405 0 0 0 0
+-
+141.101.105.25
+0 1 1 1728 0 0 0 0
+-
+162.158.238.7
+0 4 4 83658 0 0 0 0
+-
+162.158.107.56
+0 1 1 53850 0 0 0 0
+-
+108.162.216.71
+0 1 1 686 1 1581585938 0 0
+/xmlrpc.php
+162.158.154.188
+0 20 20 28465 12 1581616875 0 0
+/wp-login.php
+172.69.62.53
+0 2 2 2713 2 1581585346 0 0
+/xmlrpc.php
+162.158.243.177
+0 8 8 14536 4 1581617518 0 0
+/wp-login.php
+162.158.186.97
+0 3 3 5745 3 1581602670 0 0
+/wp-login.php
+162.158.107.198
+0 1 1 1691 1 1581573957 0 0
+/wp-login.php
+162.158.91.248
+0 2 2 4570 0 0 0 0
+-
+162.158.202.177
+0 2 2 12755 0 0 0 0
+-
+172.69.62.243
+0 3 3 5409 2 1581586598 0 0
+/wp-login.php
+162.158.111.248
+0 15 15 19168 11 1581636952 0 0
+/wp-cron.php
+172.69.63.6
+0 3 3 2024 3 1581633917 0 0
+/xmlrpc.php
+108.162.246.114
+0 1 1 5779 0 0 0 0
+-
+172.69.33.12
+0 2 2 2377 1 1581613289 0 0
+/xmlrpc.php
+162.158.94.69
+0 1 1 89732 0 0 0 0
+-
+172.69.71.83
+0 3 3 3399 3 1581620116 0 0
+/xmlrpc.php
+162.158.89.98
+0 3 3 17384 0 0 0 0
+-
+162.158.202.197
+0 1 1 89732 0 0 0 0
+-
+172.68.133.151
+0 3 3 3399 3 1581592657 0 0
+/xmlrpc.php
+162.158.202.113
+0 4 4 24433 0 0 0 0
+-
+188.114.111.228
+0 4 4 4085 2 1581619420 0 0
+/xmlrpc.php
+172.68.132.156
+0 1 0 29405 0 0 0 0
+-
+141.101.105.235
+0 1 1 991 0 0 0 0
+-
+108.162.238.240
+0 1 1 1691 1 1581602669 0 0
+/wp-login.php
+172.69.134.100
+0 8 8 14539 7 1581603273 0 0
+/wp-login.php
+162.158.202.243
+0 5 5 63256 2 1581617579 0 0
+/wp-login.php
+172.68.47.163
+0 3 3 4068 2 1581612431 0 0
+/xmlrpc.php
+162.158.88.39
+0 3 2 126712 0 0 0 0
+-
+162.158.106.217
+0 5 5 10322 1 1581584721 0 0
+/xmlrpc.php
+162.158.106.139
+0 1 1 686 1 1581599325 0 0
+/xmlrpc.php
+162.158.94.89
+0 1 1 11273 0 0 0 0
+-
+162.158.89.200
+0 2 2 13100 0 0 0 0
+-
+162.158.43.173
+0 5 5 7117 3 1581616004 0 0
+/xmlrpc.php
+172.69.54.196
+0 1 1 426 0 0 0 0
+-
+162.158.202.241
+0 1 1 4507 0 0 0 0
+-
+162.158.107.188
+0 4 4 6844 0 0 0 0
+-
+108.162.219.13
+0 7 7 9158 6 1581603856 0 0
+/wp-login.php
+141.101.107.217
+0 13 13 20803 11 1581623910 0 0
+/xmlrpc.php
+108.162.241.227
+0 2 2 3382 2 1581588332 0 0
+/wp-login.php
+162.158.63.125
+0 19 19 25100 10 1581619774 0 0
+/wp-login.php
+162.158.62.178
+0 5 5 7117 4 1581615182 0 0
+/wp-login.php
+162.158.74.244
+0 1 1 1691 1 1581580741 0 0
+/wp-login.php
+162.158.91.24
+0 2 2 1894 0 0 0 0
+-
+162.158.202.191
+0 2 2 1397670 0 0 0 0
+-
+172.69.62.173
+0 5 5 7117 4 1581611714 0 0
+/wp-login.php
+172.68.211.245
+0 7 7 10166 3 1581610323 0 0
+/wp-login.php
+162.158.22.239
+0 1 1 2027 1 1581588063 0 0
+/wp-login.php
+141.101.104.108
+0 11 11 30849 8 1581627652 0 0
+/
+162.158.90.193
+0 2 2 68260 0 0 0 0
+-
+162.158.94.139
+0 1 1 181781 0 0 0 0
+-
+162.158.89.14
+0 2 2 9014 0 0 0 0
+-
+172.68.132.96
+0 1 1 2027 1 1581591635 0 0
+/wp-login.php
+162.158.187.164
+0 1 1 686 1 1581585808 0 0
+/xmlrpc.php
+162.158.106.235
+0 2 0 358 0 0 0 0
+-
+162.158.155.117
+0 19 19 25436 10 1581619609 0 0
+/wp-login.php
+141.101.105.7
+0 43 11 56042 7 1581617146 0 0
+/xmlrpc.php
+198.41.231.112
+0 2 2 3718 2 1581601075 0 0
+/wp-login.php
+162.158.106.43
+0 2 1 8288 0 0 0 0
+-
+172.69.34.183
+0 8 8 11185 5 1581616472 0 0
+/wp-login.php
+162.158.167.9
+0 7 7 9494 5 1581611658 0 0
+/xmlrpc.php
+108.162.219.203
+0 1 0 29409 0 0 0 0
+-
+172.69.54.64
+0 1 1 933 0 0 0 0
+-
+162.158.63.101
+0 6 6 7467 5 1581610739 0 0
+/wp-login.php
+172.69.135.17
+0 8 8 13198 7 1581611657 0 0
+/wp-login.php
+162.158.93.94
+0 2 2 2264 0 0 0 0
+-
+162.158.202.71
+0 1 1 6332 0 0 0 0
+-
+141.101.76.71
+0 1 1 975 0 0 0 0
+-
+141.101.104.154
+0 6 6 8139 4 1581614793 0 0
+/xmlrpc.php
+162.158.88.189
+0 5 4 35848 0 0 0 0
+-
+172.69.33.90
+0 7 6 9750 6 1581614370 0 0
+/xmlrpc.php
+162.158.74.192
+0 1 1 2027 1 1581585938 0 0
+/wp-login.php
+162.158.166.112
+0 5 5 6781 5 1581618414 0 0
+/xmlrpc.php
+162.158.166.132
+0 6 6 11826 4 1581598791 0 0
+/wp-login.php
+172.68.189.230
+0 5 5 8122 4 1581617439 0 0
+/wp-login.php
+172.69.68.64
+0 4 4 6095 2 1581605658 0 0
+/wp-login.php
+172.69.10.143
+0 40 3 1080886 16 1581605902 0 0
+/xmlrpc.php
+172.68.244.253
+0 2 2 3718 2 1581608840 0 0
+/wp-login.php
+162.158.92.65
+0 2 2 2888 0 0 0 0
+-
+162.158.91.250
+0 11 11 16594 8 1581614511 0 0
+/wp-login.php
+162.158.79.252
+0 2 2 36415 0 0 0 0
+-
+162.158.94.179
+0 1 1 49737 0 0 0 0
+-
+162.158.58.122
+0 10 9 15496 6 1581622708 0 0
+/wp-login.php
+162.158.89.74
+0 17 17 68383 8 1581632183 0 0
+/
+162.158.238.217
+0 3 3 15831 0 0 0 0
+-
+162.158.202.137
+0 4 4 55968 0 0 0 0
+-
+162.158.187.32
+0 1 1 1691 1 1581595345 0 0
+/wp-login.php
+162.158.202.125
+0 1 1 6092 0 0 0 0
+-
+162.158.202.131
+0 2 2 42129 0 0 0 0
+-
+172.68.246.129
+0 2 2 2377 1 1581573913 0 0
+/xmlrpc.php
+162.158.159.107
+0 14 14 19657 7 1581607208 0 0
+/xmlrpc.php
+162.158.202.215
+0 1 1 1132 0 0 0 0
+-
+172.68.150.59
+0 1 1 686 1 1581585046 0 0
+/xmlrpc.php
+172.68.150.47
+0 6 6 10148 3 1581597626 0 0
+/wp-login.php
+172.68.141.41
+0 7 7 28276 5 1581613842 0 0
+/wp-login.php
+162.158.106.7
+0 5 5 14927 2 1581616732 0 0
+/
+162.158.243.147
+0 7 7 10835 4 1581605309 0 0
+/xmlrpc.php
+172.68.146.237
+0 6 6 6126 5 1581602338 0 0
+/xmlrpc.php
+172.68.62.161
+0 1 1 686 1 1581574265 0 0
+/xmlrpc.php
+173.245.52.158
+0 7 7 11840 5 1581599890 0 0
+/wp-login.php
+162.158.166.158
+0 12 12 15939 5 1581600782 0 0
+/wp-login.php
+172.68.65.157
+0 3 3 9309 0 0 0 0
+-
+141.101.77.15
+0 1 1 3493 0 0 0 0
+-
+162.158.224.147
+0 1 1 2027 1 1581577272 0 0
+/wp-login.php
+162.158.91.12
+0 9 9 14889 5 1581616577 0 0
+/xmlrpc.php
+162.158.224.153
+0 2 2 2377 1 1581577273 0 0
+/xmlrpc.php
+108.162.229.221
+0 3 3 4404 3 1581611500 0 0
+/wp-login.php
+172.69.234.135
+0 1 1 2027 1 1581608475 0 0
+/wp-login.php
+162.158.167.157
+0 15 15 21351 6 1581604925 0 0
+/wp-login.php
+162.158.238.221
+0 5 5 71806 0 0 0 0
+-
+172.68.143.61
+0 5 5 24558 4 1581620395 0 0
+/wp-login.php
+162.158.106.169
+0 5 5 9463 3 1581614189 0 0
+/wp-login.php
+162.158.202.179
+0 2 2 8238 0 0 0 0
+-
+162.158.94.135
+0 3 3 21466 0 0 0 0
+-
+173.245.52.176
+0 2 2 1372 2 1581611364 0 0
+/xmlrpc.php
+162.158.202.245
+0 2 2 34121 0 0 0 0
+-
+162.158.166.166
+0 10 10 14886 6 1581603557 0 0
+/wp-login.php
+198.41.231.86
+0 3 3 3063 2 1581601077 0 0
+/xmlrpc.php
+162.158.62.172
+0 10 10 15575 9 1581618430 0 0
+/xmlrpc.php
+141.101.107.235
+0 13 13 21653 7 1581616876 0 0
+/wp-login.php
+162.158.202.155
+0 1 1 53850 0 0 0 0
+-
+172.69.63.192
+0 1 1 1691 1 1581574575 0 0
+/wp-login.php
+162.158.91.246
+0 1 1 45257 0 0 0 0
+-
+162.158.90.247
+0 1 1 9846 0 0 0 0
+-
+162.158.219.101
+0 8 8 12526 5 1581608614 0 0
+/wp-login.php
+108.162.246.54
+0 2 1 1313 0 0 0 0
+-
+172.69.34.55
+0 6 6 9813 4 1581610324 0 0
+/xmlrpc.php
+108.162.241.15
+0 1 1 686 1 1581588334 0 0
+/xmlrpc.php
+108.162.238.222
+0 2 1 476 0 0 0 0
+-
+162.158.91.122
+0 1 1 30548 0 0 0 0
+-
+162.158.91.212
+0 14 14 36593 8 1581632182 0 0
+/
+172.68.141.161
+0 4 4 6431 4 1581618022 0 0
+/xmlrpc.php
+172.69.63.184
+0 3 3 4386 2 1581612910 0 0
+/xmlrpc.php
+172.68.254.79
+0 1 1 686 1 1581593766 0 0
+/xmlrpc.php
+162.158.217.93
+0 2 2 2713 2 1581614004 0 0
+/wp-login.php
+162.158.89.86
+0 2 1 18492 0 0 0 0
+-
+162.158.59.135
+0 1 1 2027 1 1581618020 0 0
+/wp-login.php
+162.158.178.22
+0 1 1 686 1 1581618713 0 0
+/xmlrpc.php
+141.101.104.234
+0 1 0 29405 0 0 0 0
+-
+172.68.186.71
+0 5 5 6112 3 1581607793 0 0
+/xmlrpc.php
+172.69.34.145
+0 5 5 7450 4 1581613286 0 0
+/wp-login.php
+108.162.229.101
+0 3 3 3399 2 1581602929 0 0
+/xmlrpc.php
+108.162.219.27
+0 3 3 4740 3 1581609774 0 0
+/wp-login.php
+162.158.202.209
+0 1 1 10314 0 0 0 0
+-
+162.158.63.113
+0 5 5 6112 5 1581606082 0 0
+/xmlrpc.php
+162.158.94.99
+0 1 1 57043 0 0 0 0
+-
+162.158.94.87
+0 1 1 19603 0 0 0 0
+-
+172.68.133.25
+0 5 5 6781 3 1581617440 0 0
+/xmlrpc.php
+162.158.90.217
+0 1 1 3166 0 0 0 0
+-
+108.162.237.137
+0 1 1 2027 1 1581585807 0 0
+/wp-login.php
+141.101.104.84
+0 1 1 1728 0 0 0 0
+-
+172.68.24.123
+0 1 1 686 1 1581614251 0 0
+/xmlrpc.php
+172.69.69.207
+0 2 2 2713 2 1581620115 0 0
+/wp-login.php
+162.158.78.251
+0 1 1 29495 0 0 0 0
+-
+162.158.202.107
+0 2 2 93958 0 0 0 0
+-
+162.158.165.211
+0 5 5 6781 4 1581609029 0 0
+/wp-login.php
+162.158.107.26
+0 2 2 20145 2 1581606540 0 0
+/rafal-gorski/
+162.158.23.30
+0 1 1 686 1 1581588064 0 0
+/xmlrpc.php
+172.68.238.83
+0 1 1 2027 1 1581604701 0 0
+/wp-login.php
+162.158.202.119
+0 2 2 16596 0 0 0 0
+-
+172.68.62.35
+0 2 2 3718 1 1581574264 0 0
+/wp-login.php
+172.68.174.133
+0 1 1 1691 1 1581586066 0 0
+/wp-login.php
+198.41.238.125
+0 1 1 1691 1 1581599906 0 0
+/wp-login.php
+162.158.92.97
+0 2 2 20628 0 0 0 0
+-
+162.158.134.235
+0 1 1 2027 1 1581585511 0 0
+/wp-login.php
+162.158.238.213
+0 5 5 79115 0 0 0 0
+-
+162.158.202.237
+0 2 2 7448 0 0 0 0
+-
+141.101.104.216
+0 1 1 1236 0 0 0 0
+-
+162.158.93.154
+0 1 1 10780 0 0 0 0
+-
+162.158.186.229
+0 1 1 1691 1 1581598307 0 0
+/wp-login.php
+141.101.99.246
+0 11 10 44574 7 1581618553 0 0
+/wp-login.php
+162.158.90.211
+0 2 2 36678 0 0 0 0
+-
+162.158.78.179
+0 1 1 686 1 1581581715 0 0
+/xmlrpc.php
+162.158.219.35
+0 9 9 13212 5 1581608613 0 0
+/wp-login.php
+141.101.76.89
+0 6 6 11826 6 1581619295 0 0
+/wp-login.php
+162.158.111.26
+0 10 10 12720 9 1581627655 0 0
+/wp-cron.php
+162.158.88.153
+0 4 4 11340 0 0 0 0
+-
+162.158.91.174
+0 1 1 14463 0 0 0 0
+-
+172.69.54.22
+0 14 13 46798 8 1581633919 0 0
+/wp-cron.php
+172.68.10.37
+0 2 2 2377 2 1581599297 0 0
+/wp-login.php
+172.68.11.204
+0 1 1 686 1 1581613907 0 0
+/xmlrpc.php
+162.158.58.120
+0 2 2 3718 1 1581618019 0 0
+/wp-login.php
+172.69.135.173
+0 9 9 13548 4 1581599717 0 0
+/wp-login.php
+172.68.146.183
+0 8 8 15544 6 1581604564 0 0
+/wp-login.php
+162.158.94.131
+0 1 1 41458 0 0 0 0
+-
+162.158.202.203
+0 2 2 75383 0 0 0 0
+-
+162.158.90.163
+0 4 3 1315502 0 0 0 0
+-
+162.158.187.74
+0 2 2 20849 2 1581617800 0 0
+/witold-chomiczewski/
+162.158.154.152
+0 18 16 82747 11 1581615631 0 0
+-
+162.158.178.166
+0 1 1 1691 1 1581618710 0 0
+/wp-login.php
+162.158.43.163
+0 2 2 2713 2 1581620298 0 0
+/xmlrpc.php
+172.69.71.75
+0 1 1 1691 1 1581601575 0 0
+/wp-login.php
+162.158.79.114
+0 2 0 358 0 0 0 0
+-
+172.68.25.53
+0 1 1 2027 1 1581614250 0 0
+/wp-login.php
+162.158.202.59
+0 2 2 17162 0 0 0 0
+-
+162.158.92.69
+0 2 2 12664 0 0 0 0
+-
+172.68.24.45
+0 1 1 2027 1 1581610669 0 0
+/wp-login.php
+172.69.63.234
+0 2 2 2377 2 1581611715 0 0
+/xmlrpc.php
+162.158.186.79
+0 1 1 1691 1 1581620114 0 0
+/wp-login.php
+162.158.167.71
+0 5 5 6781 4 1581618407 0 0
+/wp-login.php
+172.69.135.161
+0 9 9 12207 5 1581600783 0 0
+/wp-login.php
+162.158.90.115
+0 2 2 5678 0 0 0 0
+-
+172.68.132.30
+0 1 1 1691 1 1581588421 0 0
+/wp-login.php
+108.162.245.191
+0 3 0 546 0 0 0 0
+-
+172.68.244.229
+0 2 2 2713 2 1581613907 0 0
+/wp-login.php
+172.68.238.161
+0 1 1 1691 1 1581599020 0 0
+/wp-login.php
+108.162.221.238
+0 3 3 5073 3 1581610835 0 0
+/wp-login.php
+108.162.219.93
+0 7 7 8153 6 1581619775 0 0
+/xmlrpc.php
+172.69.34.173
+0 1 1 2027 1 1581620396 0 0
+/wp-login.php
+172.68.47.61
+0 5 5 9799 4 1581617012 0 0
+/wp-login.php
+162.158.94.169
+0 1 1 10066 0 0 0 0
+-
+141.101.104.162
+0 1 1 420 0 0 0 0
+-
+162.158.90.37
+0 1 0 29409 0 0 0 0
+-
+162.158.134.209
+0 2 2 2377 1 1581585512 0 0
+/xmlrpc.php
+162.158.62.184
+0 4 4 7772 4 1581618835 0 0
+/wp-login.php
+141.101.104.168
+0 11 11 30847 7 1581619296 0 0
+/xmlrpc.php
+162.158.238.209
+0 4 4 21012 0 0 0 0
+-
+172.68.150.77
+0 5 5 6781 3 1581597626 0 0
+/xmlrpc.php
+162.158.147.135
+0 1 1 686 1 1581587421 0 0
+/xmlrpc.php
+162.158.78.185
+0 1 1 10099 1 1581630087 0 0
+/mec-kamil-kalenczuk/
+162.158.187.170
+0 3 3 4740 3 1581611282 0 0
+/wp-login.php
+162.158.78.245
+0 1 1 2027 1 1581586520 0 0
+/wp-login.php
+162.158.94.105
+0 2 2 44068 0 0 0 0
+-
+162.158.74.128
+0 3 3 6081 3 1581593305 0 0
+/wp-login.php
+172.69.54.106
+0 1 1 4514 0 0 0 0
+-
+162.158.78.227
+0 3 3 4404 3 1581601471 0 0
+/xmlrpc.php
+162.158.167.129
+0 5 5 8791 4 1581594646 0 0
+/wp-login.php
+172.69.69.107
+0 3 3 3063 2 1581594105 0 0
+/xmlrpc.php
+141.101.104.96
+0 1 1 4362 0 0 0 0
+-
+162.158.91.214
+0 2 2 24414 0 0 0 0
+-
+108.162.219.23
+0 9 9 15222 7 1581618429 0 0
+/wp-login.php
+172.68.25.182
+0 1 1 686 1 1581599182 0 0
+/xmlrpc.php
+162.158.165.143
+0 5 5 6112 3 1581603791 0 0
+/xmlrpc.php
+162.158.202.251
+0 1 0 182 0 0 0 0
+-
+172.68.174.113
+0 2 2 2713 1 1581586068 0 0
+/xmlrpc.php
+108.162.241.29
+0 2 2 2713 2 1581588333 0 0
+/wp-login.php
+108.162.219.37
+0 7 7 25592 6 1581636949 0 0
+/
+172.69.68.150
+0 1 1 10425 1 1581554686 0 0
+/witold-chomiczewski/
+162.158.78.233
+0 1 1 2027 1 1581583845 0 0
+/wp-login.php
+172.69.63.168
+0 1 1 1691 1 1581583361 0 0
+/wp-login.php
+162.158.238.9
+0 2 2 46244 0 0 0 0
+-
+108.162.250.80
+0 9 9 14552 4 1581618708 0 0
+/wp-login.php
+162.158.167.143
+0 16 16 27065 10 1581615468 0 0
+/wp-login.php
+162.158.202.149
+0 1 1 392310 0 0 0 0
+-
+188.114.111.6
+0 5 5 8122 3 1581618266 0 0
+/wp-login.php
+162.158.238.219
+0 1 1 1103 0 0 0 0
+-
+173.245.54.70
+0 4 4 4085 4 1581608104 0 0
+/xmlrpc.php
+172.69.63.58
+0 3 3 8517 0 0 0 0
+-
+162.158.91.46
+0 2 2 10210 0 0 0 0
+-
+173.245.52.140
+0 3 3 6081 3 1581618054 0 0
+/wp-login.php
+108.162.245.173
+0 3 3 4068 2 1581615067 0 0
+/wp-login.php
+172.69.22.81
+0 6 5 35447 5 1581606308 0 0
+/xmlrpc.php
+162.158.238.207
+0 3 3 42982 0 0 0 0
+-
+172.68.211.77
+0 4 4 5090 3 1581631904 0 0
+/wp-login.php
+162.158.111.20
+0 1 0 29385 0 0 0 0
+-
+172.69.62.227
+0 3 3 23103 0 0 0 0
+-
+172.69.70.156
+0 2 2 2377 2 1581610838 0 0
+/xmlrpc.php
+108.162.242.24
+0 2 2 20488 2 1581588226 0 0
+/
+162.158.107.80
+0 2 2 1894 0 0 0 0
+-
+108.162.249.77
+0 3 3 3063 3 1581600601 0 0
+/xmlrpc.php
+173.245.48.160
+0 8 7 13119 6 1581617789 0 0
+/wp-login.php
+162.158.202.11
+0 1 1 11788 0 0 0 0
+-
+108.162.238.252
+0 2 2 3382 2 1581587840 0 0
+/wp-login.php
+172.68.211.251
+0 3 2 6338 2 1581631907 0 0
+/wp-login.php
+172.68.189.74
+0 3 3 6081 3 1581620721 0 0
+/wp-login.php
+162.158.74.10
+0 1 1 1691 1 1581585937 0 0
+/wp-login.php
+172.68.65.217
+0 3 3 4387 2 1581595447 0 0
+/wp-login.php
+162.158.202.89
+0 2 2 47834 0 0 0 0
+-
+162.158.94.3
+0 12 11 78835 6 1581632189 0 0
+-
+108.162.229.219
+0 3 3 5409 3 1581602928 0 0
+/wp-login.php
+141.101.76.143
+0 17 17 24896 7 1581622706 0 0
+/wp-cron.php
+172.69.54.10
+0 7 6 36959 3 1581619148 0 0
+/xmlrpc.php
+162.158.255.217
+0 2 2 2377 2 1581605585 0 0
+/wp-login.php
+162.158.217.89
+0 2 2 3718 2 1581597878 0 0
+/wp-login.php
+172.68.25.184
+0 1 1 1691 1 1581610668 0 0
+/wp-login.php
+108.162.250.76
+0 5 5 8458 3 1581597052 0 0
+/wp-login.php
+172.69.63.136
+0 1 1 4345 0 0 0 0
+-
+172.69.55.65
+0 1 1 426 0 0 0 0
+-
+141.101.98.155
+0 12 12 17616 10 1581616809 0 0
+/wp-login.php
+108.162.238.132
+0 2 2 1372 2 1581602671 0 0
+/xmlrpc.php
+162.158.187.162
+0 1 1 686 1 1581580851 0 0
+/xmlrpc.php
+162.158.107.210
+0 1 1 1903 0 0 0 0
+-
+172.69.135.35
+0 8 8 13531 7 1581603558 0 0
+/wp-login.php
+108.162.219.99
+0 2 2 3382 2 1581615182 0 0
+/wp-login.php
+172.69.68.94
+0 3 3 4740 2 1581596263 0 0
+/xmlrpc.php
+162.158.93.46
+0 1 1 23115 0 0 0 0
+-
+162.158.89.206
+0 2 2 1974 0 0 0 0
+-
+162.158.43.149
+0 4 4 6095 3 1581620297 0 0
+/wp-login.php
+172.68.238.95
+0 1 1 1691 1 1581588715 0 0
+/wp-login.php
+188.114.111.230
+0 3 3 5745 2 1581594759 0 0
+/wp-login.php
+172.68.226.117
+0 2 2 3718 1 1581583061 0 0
+/wp-login.php
+162.158.93.220
+0 2 2 14686 0 0 0 0
+-
+162.158.107.110
+0 1 1 1103 0 0 0 0
+-
+172.68.24.253
+0 1 1 1691 1 1581599180 0 0
+/wp-login.php
+162.158.255.47
+0 2 2 3382 2 1581617253 0 0
+/wp-login.php
+198.41.230.5
+0 3 3 5744 2 1581601076 0 0
+/wp-login.php
+172.68.239.224
+0 2 2 2713 1 1581599021 0 0
+/xmlrpc.php
+162.158.63.41
+0 6 6 8808 4 1581613448 0 0
+/wp-login.php
+141.101.69.134
+0 2 2 2377 2 1581615020 0 0
+/wp-login.php
+162.158.202.101
+0 1 1 124845 0 0 0 0
+-
+162.158.94.159
+0 40 20 41617 9 1581619867 0 0
+/xmlrpc.php
+162.158.202.23
+0 1 1 63265 0 0 0 0
+-
+172.69.55.59
+0 10 10 28594 9 1581636251 0 0
+/wp-cron.php
+162.158.187.188
+0 3 3 5745 3 1581611281 0 0
+/wp-login.php
+162.158.88.177
+0 2 2 12184 0 0 0 0
+-
+162.158.202.175
+0 3 3 50876 0 0 0 0
+-
+162.158.94.39
+0 2 2 16108 0 0 0 0
+-
+162.158.243.42
+0 10 10 12221 7 1581617519 0 0
+/xmlrpc.php
+172.69.234.141
+0 1 1 686 1 1581608476 0 0
+/xmlrpc.php
+172.69.134.28
+0 10 10 14900 8 1581618405 0 0
+/wp-login.php
+162.158.43.141
+0 1 1 1691 1 1581616001 0 0
+/wp-login.php
+108.162.221.178
+0 5 5 9463 4 1581609350 0 0
+/wp-login.php
+172.69.63.26
+0 6 6 9144 4 1581609692 0 0
+/wp-login.php
+162.158.159.19
+0 11 11 15253 9 1581616816 0 0
+/xmlrpc.php
+108.162.219.55
+0 1 0 29405 0 0 0 0
+-
+162.158.202.143
+0 7 6 35365 1 1581617580 0 0
+/xmlrpc.php
+108.162.245.245
+0 1 1 11119 0 0 0 0
+-
+108.162.229.81
+0 2 2 2377 2 1581602927 0 0
+/wp-login.php
+162.158.94.33
+0 21 21 90553 8 1581620554 0 0
+/wp-login.php
+162.158.202.83
+0 3 3 70397 0 0 0 0
+-
+172.69.63.164
+0 3 3 4723 2 1581583362 0 0
+/wp-login.php
+162.158.106.67
+0 1 1 10406 1 1581624847 0 0
+/arkadiusz-siechowicz/
+162.158.178.14
+0 1 1 2027 1 1581593765 0 0
+/wp-login.php
+162.158.107.196
+0 3 3 3063 3 1581615069 0 0
+/xmlrpc.php
+172.69.63.224
+0 2 2 3718 1 1581575211 0 0
+/wp-login.php
+162.158.91.60
+0 2 2 19638 0 0 0 0
+-
+108.162.246.180
+0 1 1 10676 1 1581589049 0 0
+/dr-witold-k-staniszkis/
+162.158.202.235
+0 1 1 4345 0 0 0 0
+-
+162.158.89.44
+0 2 2 77378 0 0 0 0
+-
+108.162.238.186
+0 1 1 1233436 0 0 0 0
+-
+162.158.91.206
+0 1 1 12944 0 0 0 0
+-
+172.69.34.159
+0 2 2 2377 2 1581617010 0 0
+/wp-login.php
+162.158.202.29
+0 2 2 189482 0 0 0 0
+-
+172.69.69.205
+0 2 2 2713 1 1581610837 0 0
+/wp-login.php
+162.158.93.250
+0 1 1 12830 0 0 0 0
+-
+162.158.202.233
+0 1 1 535287 0 0 0 0
+-
+162.158.159.21
+0 17 17 26054 10 1581614631 0 0
+/wp-login.php
+162.158.94.155
+0 1 1 5945 0 0 0 0
+-
+172.68.10.23
+0 1 1 1691 1 1581608839 0 0
+/wp-login.php
+108.162.219.89
+0 5 5 24218 4 1581617676 0 0
+/wp-login.php
+162.158.89.128
+0 2 2 37682 0 0 0 0
+-
+162.158.94.167
+0 1 1 503 0 0 0 0
+-
+162.158.94.127
+0 1 1 6403 0 0 0 0
+-
+108.162.246.120
+0 1 1 63265 0 0 0 0
+-
+162.158.167.117
+0 5 5 7786 4 1581609034 0 0
+/xmlrpc.php
+162.158.202.173
+0 2 2 59179 0 0 0 0
+-
+108.162.221.136
+0 1 1 1233436 0 0 0 0
+-
+172.68.238.239
+0 1 1 2027 1 1581588715 0 0
+/wp-login.php
+162.158.106.91
+0 1 1 2567 0 0 0 0
+-
+162.158.93.106
+0 1 1 86158 0 0 0 0
+-
+162.158.147.139
+0 2 2 3718 1 1581587420 0 0
+/wp-login.php
+162.158.93.88
+0 2 2 8732 0 0 0 0
+-
+162.158.107.134
+0 1 1 31007 0 0 0 0
+-
+172.68.146.159
+0 8 8 11854 7 1581611656 0 0
+/wp-login.php
+162.158.94.173
+0 1 1 12974 0 0 0 0
+-
+162.158.89.20
+0 2 1 43504 0 0 0 0
+-
+108.162.229.167
+0 1 1 1691 1 1581576641 0 0
+/wp-login.php
+172.69.234.137
+0 1 1 1691 1 1581608475 0 0
+/wp-login.php
+162.158.62.118
+0 8 8 12859 6 1581611362 0 0
+/wp-login.php
+162.158.107.122
+0 3 3 15315 0 0 0 0
+-
+162.158.90.7
+0 1 1 6527 0 0 0 0
+-
+162.158.107.8
+0 4 4 5776 0 0 0 0
+-
+162.158.93.196
+0 1 1 297 0 0 0 0
+-
+162.158.94.109
+0 3 3 112840 0 0 0 0
+-
+162.158.186.49
+0 1 1 686 1 1581587843 0 0
+/xmlrpc.php
+108.162.246.252
+0 3 3 18276 0 0 0 0
+-
+172.69.10.107
+0 31 3 626682 8 1581605901 0 0
+/wp-login.php
+141.101.104.156
+0 1 1 392310 0 0 0 0
+-
+172.69.63.34
+0 1 1 686 1 1581574854 0 0
+/xmlrpc.php
+172.68.10.45
+0 1 1 686 1 1581608842 0 0
+/xmlrpc.php
+162.158.94.145
+0 36 34 213464 11 1581619865 0 0
+/wp-login.php
+108.162.219.7
+0 8 7 40515 7 1581620190 0 0
+/xmlrpc.php
+162.158.63.215
+0 11 11 13912 9 1581613667 0 0
+/wp-login.php
+188.114.111.216
+0 3 3 4068 3 1581619419 0 0
+/wp-login.php
+108.162.219.39
+0 5 5 8794 4 1581599563 0 0
+/wp-login.php
+172.69.10.65
+0 36 2 916812 12 1581599243 0 0
+/xmlrpc.php
+162.158.155.93
+0 14 14 38103 7 1581620011 0 0
+/xmlrpc.php
+108.162.245.107
+0 1 1 9819 0 0 0 0
+-
+162.158.79.24
+0 4 4 6764 2 1581608102 0 0
+/wp-login.php
+108.162.229.231
+0 2 2 2377 1 1581577827 0 0
+/wp-login.php
+172.68.186.59
+0 5 5 7786 4 1581612984 0 0
+/wp-login.php
+141.101.104.138
+0 10 10 12051 9 1581619147 0 0
+/wp-login.php
+162.158.107.190
+0 3 3 1315566 2 1581599001 0 0
+/wp-login.php
+162.158.90.103
+0 1 1 35759 0 0 0 0
+-
+162.158.63.221
+0 5 5 8794 5 1581610038 0 0
+/xmlrpc.php
+108.162.221.112
+0 2 2 2713 2 1581605659 0 0
+/xmlrpc.php
+172.68.141.125
+0 3 3 4740 3 1581617254 0 0
+/wp-login.php
+162.158.202.47
+0 5 5 77558 0 0 0 0
+-
+108.162.229.93
+0 1 1 2027 1 1581572555 0 0
+/wp-login.php
+162.158.202.249
+0 3 3 46400 1 1581611209 0 0
+/
+162.158.78.143
+0 6 6 7467 2 1581593086 0 0
+/wp-login.php
+162.158.92.233
+0 1 1 11788 0 0 0 0
+-
+162.158.106.145
+0 1 1 4507 0 0 0 0
+-
+141.101.77.93
+0 11 11 15336 6 1581615881 0 0
+/wp-login.php
+172.68.246.111
+0 1 1 2027 1 1581590173 0 0
+/wp-login.php
+162.158.158.168
+0 18 18 25419 12 1581619607 0 0
+/wp-login.php
+162.158.63.29
+0 7 7 8153 6 1581615183 0 0
+/xmlrpc.php
+162.158.166.146
+0 3 3 3063 3 1581595682 0 0
+/xmlrpc.php
+172.69.63.200
+0 2 2 2377 2 1581611713 0 0
+/wp-login.php
+162.158.93.160
+0 1 1 392310 0 0 0 0
+-
+141.101.104.184
+0 1 1 4386 0 0 0 0
+-
+162.158.167.167
+0 9 9 12207 3 1581597598 0 0
+/wp-login.php
+162.158.187.184
+0 1 1 686 1 1581581940 0 0
+/xmlrpc.php
+172.68.244.85
+0 1 1 2027 1 1581573912 0 0
+/wp-login.php
+162.158.178.70
+0 1 1 1691 1 1581593763 0 0
+/wp-login.php
+198.41.231.182
+0 1 1 686 1 1581596472 0 0
+/xmlrpc.php
+108.162.249.119
+0 4 4 4754 3 1581618709 0 0
+/xmlrpc.php
+162.158.93.70
+0 2 2 56056 0 0 0 0
+-
+172.69.190.77
+0 2 2 2377 1 1581583109 0 0
+/xmlrpc.php
+162.158.94.93
+0 2 2 4818 0 0 0 0
+-
+172.69.34.121
+0 2 2 2377 1 1581620720 0 0
+/wp-login.php
+162.158.93.58
+0 1 1 15493 0 0 0 0
+-
+108.162.229.165
+0 1 1 686 1 1581582172 0 0
+/xmlrpc.php
+172.69.34.179
+0 2 1 4311 1 1581631911 0 0
+/wp-login.php
+162.158.92.53
+0 15 15 23197 10 1581620553 0 0
+/wp-login.php
+162.158.202.227
+0 7 6 103176 1 1581611237 0 0
+/
+172.69.54.28
+0 1 1 550 0 0 0 0
+-
+172.69.33.30
+0 2 2 2377 2 1581611101 0 0
+/xmlrpc.php
+108.162.219.29
+0 6 6 8808 5 1581612264 0 0
+/xmlrpc.php
+108.162.238.72
+0 1 1 2027 1 1581581939 0 0
+/wp-login.php
+172.69.34.219
+0 3 3 5409 3 1581611097 0 0
+/wp-login.php
+162.158.91.180
+0 2 2 8690 0 0 0 0
+-
+108.162.216.183
+0 1 1 1691 1 1581589051 0 0
+/wp-login.php
+162.158.202.53
+0 1 1 503 0 0 0 0
+-
+162.158.202.161
+0 2 2 18079 0 0 0 0
+-
+172.69.54.226
+0 10 10 12051 8 1581617877 0 0
+/wp-login.php
+162.158.187.70
+0 1 1 686 1 1581611284 0 0
+/xmlrpc.php
+162.158.91.78
+0 17 17 21046 10 1581620554 0 0
+/xmlrpc.php
+162.158.78.53
+0 1 1 30548 0 0 0 0
+-
+162.158.107.186
+0 2 2 8690 0 0 0 0
+-
+172.68.238.113
+0 3 3 3063 2 1581604702 0 0
+/xmlrpc.php
+173.245.48.238
+0 4 4 7100 3 1581600442 0 0
+/wp-login.php
+108.162.219.25
+0 4 4 6267 4 1581617295 0 0
+/wp-login.php
+173.245.54.8
+0 2 2 3382 2 1581609691 0 0
+/wp-login.php
+172.69.134.196
+0 6 6 9477 4 1581597408 0 0
+/wp-login.php
+173.245.54.92
+0 3 3 3382 3 1581608103 0 0
+/wp-login.php
+162.158.94.165
+0 1 1 11122 0 0 0 0
+-
+162.158.238.205
+0 6 6 18461 1 1581636249 0 0
+/partnerzy/
+162.158.217.95
+0 3 3 4068 2 1581614005 0 0
+/xmlrpc.php
+162.158.92.29
+0 17 16 28865 8 1581619866 0 0
+/wp-login.php
+162.158.94.143
+0 1 1 11033 0 0 0 0
+-
+172.69.55.191
+0 7 7 6389 6 1581619295 0 0
+/wp-login.php
+162.158.167.53
+0 6 6 6126 5 1581615472 0 0
+/xmlrpc.php
+162.158.89.188
+0 1 0 182 0 0 0 0
+-
+172.68.24.169
+0 1 1 686 1 1581610670 0 0
+/xmlrpc.php
+162.158.202.221
+0 1 1 9890 0 0 0 0
+-
+162.158.78.47
+0 2 2 2377 2 1581587414 0 0
+/wp-login.php
+162.158.106.79
+0 4 4 32216 0 0 0 0
+-
+162.158.202.185
+0 3 3 44910 0 0 0 0
+-
+172.68.11.198
+0 1 1 2027 1 1581589094 0 0
+/wp-login.php
+172.68.24.167
+0 1 1 2027 1 1581599181 0 0
+/wp-login.php
+162.158.94.45
+0 2 2 52250 0 0 0 0
+-
+172.69.10.77
+0 38 4 983652 13 1581599243 0 0
+/wp-login.php
+162.158.88.201
+0 2 2 11558 0 0 0 0
+-
+172.68.255.81
+0 1 1 2027 1 1581618712 0 0
+/wp-login.php
+162.158.94.121
+0 1 1 1542 0 0 0 0
+-
+108.162.219.191
+0 9 9 16230 6 1581620187 0 0
+/wp-login.php
+172.69.135.217
+0 8 8 13867 7 1581615466 0 0
+/wp-login.php
+162.158.91.44
+0 1 0 29405 0 0 0 0
+-
+162.158.107.204
+0 1 1 2081 0 0 0 0
+-
+172.69.34.247
+0 5 4 10039 4 1581614367 0 0
+/wp-login.php
+172.69.134.208
+0 10 10 11216 6 1581609023 0 0
+/wp-login.php
+162.158.62.48
+0 5 5 6445 5 1581620183 0 0
+/wp-login.php
+162.158.23.104
+0 1 1 1691 1 1581588062 0 0
+/wp-login.php
+162.158.63.149
+0 5 5 6781 4 1581618055 0 0
+/xmlrpc.php
+162.158.238.211
+0 4 3 7417 1 1581616406 0 0
+-
+162.158.93.16
+0 4 4 23202 0 0 0 0
+-
+141.101.77.123
+0 1 1 297 0 0 0 0
+-
+172.69.135.11
+0 5 5 5776 5 1581604926 0 0
+/xmlrpc.php
+172.68.186.53
+0 2 2 2713 1 1581612986 0 0
+/xmlrpc.php
+172.69.55.131
+0 1 1 3793 0 0 0 0
+-
+172.69.63.146
+0 1 1 10408 1 1581584232 0 0
+/category/prelegenci/page/2/
+172.69.134.70
+0 4 4 4085 4 1581604567 0 0
+/xmlrpc.php
+172.68.226.113
+0 1 1 686 1 1581583062 0 0
+/xmlrpc.php
+172.68.186.17
+0 3 3 5409 3 1581600853 0 0
+/wp-login.php
+173.245.54.102
+0 2 2 4054 2 1581581714 0 0
+/wp-login.php
+# End Of Table - sites (daily)
+# -referrers- 
+http://kongrestransformacji.pl/kontakt/
+1 40
+http://kongrestransformacji.pl/wp-login.php
+1 11
+http://kongrestransformacji.pl
+1 6
+http://kongrestransformacji.pl/natalia-suska/
+1 2
+https://kongrestransformacji.pl/
+1 8
+http://kongrestransformacji.pl/partnerzy/
+1 42
+http://kongrestransformacji.pl//2019/wp-login.php
+1 1
+http://kongrestransformacji.pl/hotele/
+1 39
+http://kongrestransformacji.pl/author/admin/page/2/
+1 3
+http://kongrestransformacji.pl/wp-content/plugins/contact-form-7/includes/css/styles.css
+1 10
+http://kongrestransformacji.pl/wystawcy/
+1 131
+http://kongrestransformacji.pl//wp1/wp-login.php
+1 1
+http://www.kongrestransformacji.pl/
+1 4
+http://kongrestransformacji.pl/wp-content/themes/ievent/style.css
+1 31
+http://kongrestransformacji.pl//old/wp-login.php
+1 1
+https://www.google.com/
+0 37
+- (Direct Request)
+0 5864
+http://kongrestransformacji.pl/witold-furman/
+1 2
+http://kongrestransformacji.pl/mateusz-borowiak/
+1 41
+http://kongrestransformacji.pl//test/wp-login.php
+1 1
+http://kongrestransformacji.pl//wp/wp-login.php
+1 1
+http://kongrestransformacji.pl/en/hotels/
+1 13
+http://kongrestransformacji.pl/wp-admin/admin.php
+1 2
+livechat_settings
+0 3
+http://kongrestransformacji.pl/pawel-jedrzejak/
+1 40
+http://kongrestransformacji.pl//2020/wp-login.php
+1 1
+http://kongrestransformacji.pl/wp-content/themes/ievent/fonts/font-awesome.min.css
+1 8
+http://kongrestransformacji.pl/prelegenci/
+1 67
+http://kongrestransformacji.pl/janusz-bossak/
+1 2
+http://kongrestransformacji.pl/category/prelegenci/
+1 70
+http://kongrestransformacji.pl/relacja/
+1 73
+http://kongrestransformacji.pl/author/admin/
+1 7
+http://kongrestransformacji.pl/arkadiusz-siechowicz/
+1 35
+http://kongrestransformacji.pl/izabela-gorecka-olejniczak/
+1 3
+http://kongrestransformacji.pl/robert-rogalewicz/
+1 7
+http://kongrestransformacji.pl/witold-chomiczewski/
+1 6
+http://kongrestransformacji.pl/polityka-prywatnosci/
+1 16
+http://kongrestransformacji.pl/danuta-kajrunajtys/
+1 2
+http://www.maxinesamson.top/profile/60830162/blog/
+0 1
+http://kongrestransformacji.pl/galeria-czerwiec-2019/
+1 26
+http://kongrestransformacji.pl/
+1 807
+http://kongrestransformacji.pl/en/speakers/volen-atim-2-3/
+1 5
+http://kongrestransformacji.pl/patryk-oleszczuk/
+1 2
+http://kongrestransformacji.pl///
+1 8
+http://kongrestransformacji.pl/wp-cron.php
+1 284
+http://kongrestransformacji.pl//wp2/wp-login.php
+1 1
+http://kongrestransformacji.pl/xmlrpc.php
+1 2639
+http://kongrestransformacji.pl/en/exhibitors/
+1 50
+http://kongrestransformacji.pl/rafal-gorski/
+1 2
+# End Of Table - referrers
+# -agents- 
+MJ12bot
+0 3
+Mozilla/5.0 (compatible; tracemyfile/1.0)
+0 107
+php-requests/1.7
+0 8
+Twitterbot/1.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/79.0.3945.130 Safari/537.36
+0 89
+Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 16
+Mozilla/5.0 (compatible; CloudFlare-AlwaysOnline/1.0; +http://www.cloudflare.com/always-online) AppleWebKit/534.34
+0 20
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+0 31
+Googlebot
+0 1
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36
+0 180
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 211
+okhttp/3.14.0
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 128
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+0 33
+Mozilla/5.0 (compatible; tracemyfile/1.0; +bot@tracemyfile.com)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 13
+Mozilla/5.0 (X11; Linux i586; rv:31.0) Gecko/20100101 Firefox/72.0
+0 1
+WordPress/5.2.5; http://kongrestransformacji.pl
+0 284
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 13
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 636
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 44
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.59 Safari/537.36
+0 175
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 177
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 138
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Wappalyzer)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 132
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 203
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.120 Mobile 
+0 289
+AhrefsBot
+0 3
+Go-http-client/1.1
+0 45
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+0 1
+DomainStatsBot/1.0 (https://domainstats.com/pages/our-bot)
+0 12
+Googlebot-Image/1.0
+0 4
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:28.0) Gecko/20100101 Firefox/28.0
+0 33
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36
+0 4
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/79.0.39
+0 24
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+0 20
+Opera/9.61 (Windows NT 5.2; U; en) Presto/2.1.1
+0 225
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15
+0 57
+python-requests/2.22.0
+0 76
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Applebo
+0 1
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10.11; rv:55.0) Gecko/20100101 Firefox/55.0
+0 15
+WordPress
+0 7
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+0 8
+Barkrowler/0.9 (+https://babbar.tech/crawler)
+0 6
+Windows Live Writter
+0 11
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+0 420
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 20
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)
+0 296
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31
+0 118
+Mozilla/5.0 (Linux; Android 9; VOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36
+0 59
+Mozilla/5.0(Linux;U;Android 5.1.1;zh-CN;OPPO A33 Build/LMY47V) AppleWebKit/537.36(KHTML,like Gecko) Version/4.0 Chrome/40.0.2
+0 2
+Mozilla/5.0 (X11; U; Linux i686)Gecko/20071127 Firefox/2.0.0.11
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 6
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 14
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 56
+Mozilla/5.0 (Windows NT 5.1; rv:46.0) Gecko/20100101 Firefox/46.0
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 170
+Mozilla/5.0 (Linux; Android 8.0.0; BAH2-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Safari/537.36
+0 72
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B411 Safar
+0 351
+Mozilla/5.0 (Windows NT 10.0; WOW64; Rv:50.0) Gecko/20100101 Firefox/50.0
+0 5
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+0 15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; CloudFlare-AlwaysOnline/1.0;+http://www.cloudflare.com/always-online)
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 2388
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 10
+Mozilla/5.0 (compatible; SemrushBot/6~bl; +http://www.semrush.com/bot.html)
+0 45
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:64.0) Gecko/20100101 Firefox/64.0
+0 2
+Mozilla/5.0 (X11; Linux i686; rv:55.0) Gecko/20100101 Firefox/55.0
+0 15
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
+0 95
+Internet-structure-research-project-bot
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+0 100
+Mozilla/5.0(Linux;Android 5.1.1;OPPO A33 Build/LMY47V;wv) AppleWebKit/537.36(KHTML,link Gecko) Version/4.0 Chrome/43.0.2357.1
+0 1
+python-requests/2.18.4
+0 2639
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

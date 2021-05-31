@@ -1,0 +1,40 @@
+<form role="form" id="form" action="/ajax/planning/reservation/edit<?php if($id > 0) { ?>/<?php echo $id; } ?>" method="post">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="form-group form-group-default">
+                <label>Stanowisko</label>
+                <input id="station" readonly type="text" class="form-control" value="<?php echo $result['station_name']; ?>" name="station">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="form-group form-group-default">
+                <label>Firma</label>
+                <input id="company" readonly type="text" class="form-control" value="<?php echo $result['company_name']; ?>" name="company">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Cena</label>
+                <input id="reservation_price" type="text" class="form-control" value="<?php echo $result['reservation_price']; ?>" name="reservation_price">
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Data rejestracji</label>
+                <input id="reservation_date" type="text" class="form-control" value="<?php echo $result['reservation_date']; ?>" name="reservation_date">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="checkbox check-primary">
+                <input type="checkbox" value="1" <?php if($result['reservation_accept'] == 1) echo 'checked="checked"'; ?> id="reservation_accept" name="reservation_accept">
+                <label for="checkbox3">Zaakceptowana</label>
+            </div>
+        </div>
+    </div>
+</form>

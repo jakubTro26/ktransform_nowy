@@ -1,0 +1,434 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 06:54:00
+* VERSION: 1.3.28
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 5.6.29-0+deb8u1                       |7.2.22
+OS__________________: Linux                                 |Linux
+CREATED_____________: 2020-02-14 16:29:02
+WP VERSION__________: 5.2.5
+DUP VERSION_________: 1.3.28
+DB__________________: 5.6.39
+DB TABLES___________: 20
+DB ROWS_____________: 6,896
+DB FILE SIZE________: 10.5MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.2.22 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips mod_fcgid/2.3.9 PHP/7.2.22
+DOC ROOT____________: "/home/ktransform/web/kongrestransformacji.pl/public_html"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://kongrestransformacji.pl/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ENGINE______: "shellexec_unzip"
+SET DIR PERMS_______: 1
+DIR PERMS VALUE_____: 1363
+SET FILE PERMS______: 1
+FILE PERMS VALUE____: 1204
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "20190409_kongresksiegowych_76428594f9244a1d5524_20200214162902_archive.zip"
+SIZE________________: 666.62MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+
+
+START ZIP FILE EXTRACTION SHELLEXEC >>> 
+>>> Starting Shell-Exec Unzip:
+Command: unzip -o -qq '/home/ktransform/web/kongrestransformacji.pl/public_html/20190409_kongresksiegowych_76428594f9244a1d5524_20200214162902_archive.zip' -d '/home/ktransform/web/kongrestransformacji.pl/public_html' 2>&1
+<<< Shell-Exec Unzip Complete.
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+PERMISSION UPDATES:
+    -DIRS:  '755'
+    -FILES: '644'
+
+STEP-1 COMPLETE @ 06:54:08 - RUNTIME: 7.9742 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 06:55:05
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.3.18 -- Build Server: 5.6.39
+FILE SIZE:	dup-database__7642859-14162902.sql (4.57MB)
+TIMEOUT:	5000
+MAXPACK:	1048576
+SQLMODE:	ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[/home/ktransform/web/kongrestransformacji.pl/public_html/dup-installer/dup-installer-data__7642859-14162902.sql]
+COLLATE FB:	Off
+[PHP ERR][WARN] MSG:count(): Parameter must be an array or an object that implements Countable [CODE:2|FILE:/home/ktransform/web/kongrestransformacji.pl/public_html/dup-installer/ctrls/ctrl.s2.dbinstall.php|LINE:386]
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	186
+
+wp_commentmeta: (0)
+wp_comments: (102)
+wp_duplicator_packages: (0)
+wp_links: (0)
+wp_options: (198)
+wp_phppc_functions: (6)
+wp_postmeta: (5176)
+wp_posts: (758)
+wp_revslider_css: (109)
+wp_revslider_layer_animations: (0)
+wp_revslider_navigations: (0)
+wp_revslider_sliders: (0)
+wp_revslider_slides: (0)
+wp_revslider_static_slides: (0)
+wp_term_relationships: (471)
+wp_term_taxonomy: (33)
+wp_termmeta: (0)
+wp_terms: (33)
+wp_usermeta: (31)
+wp_users: (1)
+Removed '25' cache/transient rows
+
+INSERT DATA RUNTIME: 0.3939 sec.
+STEP-2 COMPLETE @ 06:55:05 - RUNTIME: 0.4009 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 06:55:09
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "kongrestransformacji.pl"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "/var/www/clients/client1/web327/web"
+path_new______________: "/home/ktransform/web/kongrestransformacji.pl/public_html"
+siteurl_______________: "http://kongrestransformacji.pl"
+url_old_______________: "http://kongrestransformacji.pl"
+url_new_______________: "http://kongrestransformacji.pl"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbhost________________: "localhost"
+dbuser________________: "ktransform_user"
+dbname________________: "ktransform_db"
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_username___________: ""
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:   102][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client1/web327/web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  2:"\/var\/www\/clients\/client1\/web327\/web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient1%2Fweb327%2Fweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  4:"\var\www\clients\client1\web327\web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  5:"\\var\\www\\clients\\client1\\web327\\web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient1%5Cweb327%5Cweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  7:"//www.kongrestransformacji.pl" ===================> "//kongrestransformacji.pl"
+	SEARCH  8:"\/\/www.kongrestransformacji.pl" =================> "\/\/kongrestransformacji.pl"
+	SEARCH  9:"%2F%2Fwww.kongrestransformacji.pl" ===============> "%2F%2Fkongrestransformacji.pl"
+	SEARCH 10:"https://kongrestransformacji.pl" =================> "http://kongrestransformacji.pl"
+	SEARCH 11:"https:\/\/kongrestransformacji.pl" ===============> "http:\/\/kongrestransformacji.pl"
+	SEARCH 12:"https%3A%2F%2Fkongrestransformacji.pl" ===========> "http%3A%2F%2Fkongrestransformacji.pl"
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   198][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client1/web327/web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  2:"\/var\/www\/clients\/client1\/web327\/web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient1%2Fweb327%2Fweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  4:"\var\www\clients\client1\web327\web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  5:"\\var\\www\\clients\\client1\\web327\\web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient1%5Cweb327%5Cweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  7:"//www.kongrestransformacji.pl" ===================> "//kongrestransformacji.pl"
+	SEARCH  8:"\/\/www.kongrestransformacji.pl" =================> "\/\/kongrestransformacji.pl"
+	SEARCH  9:"%2F%2Fwww.kongrestransformacji.pl" ===============> "%2F%2Fkongrestransformacji.pl"
+	SEARCH 10:"https://kongrestransformacji.pl" =================> "http://kongrestransformacji.pl"
+	SEARCH 11:"https:\/\/kongrestransformacji.pl" ===============> "http:\/\/kongrestransformacji.pl"
+	SEARCH 12:"https%3A%2F%2Fkongrestransformacji.pl" ===========> "http%3A%2F%2Fkongrestransformacji.pl"
+
+EVALUATE TABLE: "wp_phppc_functions"______________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client1/web327/web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  2:"\/var\/www\/clients\/client1\/web327\/web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient1%2Fweb327%2Fweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  4:"\var\www\clients\client1\web327\web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  5:"\\var\\www\\clients\\client1\\web327\\web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient1%5Cweb327%5Cweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  7:"//www.kongrestransformacji.pl" ===================> "//kongrestransformacji.pl"
+	SEARCH  8:"\/\/www.kongrestransformacji.pl" =================> "\/\/kongrestransformacji.pl"
+	SEARCH  9:"%2F%2Fwww.kongrestransformacji.pl" ===============> "%2F%2Fkongrestransformacji.pl"
+	SEARCH 10:"https://kongrestransformacji.pl" =================> "http://kongrestransformacji.pl"
+	SEARCH 11:"https:\/\/kongrestransformacji.pl" ===============> "http:\/\/kongrestransformacji.pl"
+	SEARCH 12:"https%3A%2F%2Fkongrestransformacji.pl" ===========> "http%3A%2F%2Fkongrestransformacji.pl"
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:  5176][PG:   2][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client1/web327/web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  2:"\/var\/www\/clients\/client1\/web327\/web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient1%2Fweb327%2Fweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  4:"\var\www\clients\client1\web327\web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  5:"\\var\\www\\clients\\client1\\web327\\web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient1%5Cweb327%5Cweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  7:"//www.kongrestransformacji.pl" ===================> "//kongrestransformacji.pl"
+	SEARCH  8:"\/\/www.kongrestransformacji.pl" =================> "\/\/kongrestransformacji.pl"
+	SEARCH  9:"%2F%2Fwww.kongrestransformacji.pl" ===============> "%2F%2Fkongrestransformacji.pl"
+	SEARCH 10:"https://kongrestransformacji.pl" =================> "http://kongrestransformacji.pl"
+	SEARCH 11:"https:\/\/kongrestransformacji.pl" ===============> "http:\/\/kongrestransformacji.pl"
+	SEARCH 12:"https%3A%2F%2Fkongrestransformacji.pl" ===========> "http%3A%2F%2Fkongrestransformacji.pl"
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:   758][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client1/web327/web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  2:"\/var\/www\/clients\/client1\/web327\/web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient1%2Fweb327%2Fweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  4:"\var\www\clients\client1\web327\web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  5:"\\var\\www\\clients\\client1\\web327\\web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient1%5Cweb327%5Cweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  7:"//www.kongrestransformacji.pl" ===================> "//kongrestransformacji.pl"
+	SEARCH  8:"\/\/www.kongrestransformacji.pl" =================> "\/\/kongrestransformacji.pl"
+	SEARCH  9:"%2F%2Fwww.kongrestransformacji.pl" ===============> "%2F%2Fkongrestransformacji.pl"
+	SEARCH 10:"https://kongrestransformacji.pl" =================> "http://kongrestransformacji.pl"
+	SEARCH 11:"https:\/\/kongrestransformacji.pl" ===============> "http:\/\/kongrestransformacji.pl"
+	SEARCH 12:"https%3A%2F%2Fkongrestransformacji.pl" ===========> "http%3A%2F%2Fkongrestransformacji.pl"
+
+EVALUATE TABLE: "wp_revslider_css"________________________________[ROWS:   109][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client1/web327/web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  2:"\/var\/www\/clients\/client1\/web327\/web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient1%2Fweb327%2Fweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  4:"\var\www\clients\client1\web327\web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  5:"\\var\\www\\clients\\client1\\web327\\web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient1%5Cweb327%5Cweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  7:"//www.kongrestransformacji.pl" ===================> "//kongrestransformacji.pl"
+	SEARCH  8:"\/\/www.kongrestransformacji.pl" =================> "\/\/kongrestransformacji.pl"
+	SEARCH  9:"%2F%2Fwww.kongrestransformacji.pl" ===============> "%2F%2Fkongrestransformacji.pl"
+	SEARCH 10:"https://kongrestransformacji.pl" =================> "http://kongrestransformacji.pl"
+	SEARCH 11:"https:\/\/kongrestransformacji.pl" ===============> "http:\/\/kongrestransformacji.pl"
+	SEARCH 12:"https%3A%2F%2Fkongrestransformacji.pl" ===========> "http%3A%2F%2Fkongrestransformacji.pl"
+
+EVALUATE TABLE: "wp_revslider_layer_animations"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_navigations"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_sliders"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_slides"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_static_slides"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:   471][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client1/web327/web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  2:"\/var\/www\/clients\/client1\/web327\/web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient1%2Fweb327%2Fweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  4:"\var\www\clients\client1\web327\web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  5:"\\var\\www\\clients\\client1\\web327\\web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient1%5Cweb327%5Cweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  7:"//www.kongrestransformacji.pl" ===================> "//kongrestransformacji.pl"
+	SEARCH  8:"\/\/www.kongrestransformacji.pl" =================> "\/\/kongrestransformacji.pl"
+	SEARCH  9:"%2F%2Fwww.kongrestransformacji.pl" ===============> "%2F%2Fkongrestransformacji.pl"
+	SEARCH 10:"https://kongrestransformacji.pl" =================> "http://kongrestransformacji.pl"
+	SEARCH 11:"https:\/\/kongrestransformacji.pl" ===============> "http:\/\/kongrestransformacji.pl"
+	SEARCH 12:"https%3A%2F%2Fkongrestransformacji.pl" ===========> "http%3A%2F%2Fkongrestransformacji.pl"
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:    33][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client1/web327/web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  2:"\/var\/www\/clients\/client1\/web327\/web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient1%2Fweb327%2Fweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  4:"\var\www\clients\client1\web327\web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  5:"\\var\\www\\clients\\client1\\web327\\web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient1%5Cweb327%5Cweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  7:"//www.kongrestransformacji.pl" ===================> "//kongrestransformacji.pl"
+	SEARCH  8:"\/\/www.kongrestransformacji.pl" =================> "\/\/kongrestransformacji.pl"
+	SEARCH  9:"%2F%2Fwww.kongrestransformacji.pl" ===============> "%2F%2Fkongrestransformacji.pl"
+	SEARCH 10:"https://kongrestransformacji.pl" =================> "http://kongrestransformacji.pl"
+	SEARCH 11:"https:\/\/kongrestransformacji.pl" ===============> "http:\/\/kongrestransformacji.pl"
+	SEARCH 12:"https%3A%2F%2Fkongrestransformacji.pl" ===========> "http%3A%2F%2Fkongrestransformacji.pl"
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:    33][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client1/web327/web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  2:"\/var\/www\/clients\/client1\/web327\/web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient1%2Fweb327%2Fweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  4:"\var\www\clients\client1\web327\web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  5:"\\var\\www\\clients\\client1\\web327\\web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient1%5Cweb327%5Cweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  7:"//www.kongrestransformacji.pl" ===================> "//kongrestransformacji.pl"
+	SEARCH  8:"\/\/www.kongrestransformacji.pl" =================> "\/\/kongrestransformacji.pl"
+	SEARCH  9:"%2F%2Fwww.kongrestransformacji.pl" ===============> "%2F%2Fkongrestransformacji.pl"
+	SEARCH 10:"https://kongrestransformacji.pl" =================> "http://kongrestransformacji.pl"
+	SEARCH 11:"https:\/\/kongrestransformacji.pl" ===============> "http:\/\/kongrestransformacji.pl"
+	SEARCH 12:"https%3A%2F%2Fkongrestransformacji.pl" ===========> "http%3A%2F%2Fkongrestransformacji.pl"
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:    31][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client1/web327/web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  2:"\/var\/www\/clients\/client1\/web327\/web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient1%2Fweb327%2Fweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  4:"\var\www\clients\client1\web327\web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  5:"\\var\\www\\clients\\client1\\web327\\web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient1%5Cweb327%5Cweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  7:"//www.kongrestransformacji.pl" ===================> "//kongrestransformacji.pl"
+	SEARCH  8:"\/\/www.kongrestransformacji.pl" =================> "\/\/kongrestransformacji.pl"
+	SEARCH  9:"%2F%2Fwww.kongrestransformacji.pl" ===============> "%2F%2Fkongrestransformacji.pl"
+	SEARCH 10:"https://kongrestransformacji.pl" =================> "http://kongrestransformacji.pl"
+	SEARCH 11:"https:\/\/kongrestransformacji.pl" ===============> "http:\/\/kongrestransformacji.pl"
+	SEARCH 12:"https%3A%2F%2Fkongrestransformacji.pl" ===========> "http%3A%2F%2Fkongrestransformacji.pl"
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client1/web327/web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  2:"\/var\/www\/clients\/client1\/web327\/web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient1%2Fweb327%2Fweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  4:"\var\www\clients\client1\web327\web" =============> "/home/ktransform/web/kongrestransformacji.pl/public_html"
+	SEARCH  5:"\\var\\www\\clients\\client1\\web327\\web" =======> "\/home\/ktransform\/web\/kongrestransformacji.pl\/public_html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient1%5Cweb327%5Cweb" => "%2Fhome%2Fktransform%2Fweb%2Fkongrestransformacji.pl%2Fpublic_html"
+	SEARCH  7:"//www.kongrestransformacji.pl" ===================> "//kongrestransformacji.pl"
+	SEARCH  8:"\/\/www.kongrestransformacji.pl" =================> "\/\/kongrestransformacji.pl"
+	SEARCH  9:"%2F%2Fwww.kongrestransformacji.pl" ===============> "%2F%2Fkongrestransformacji.pl"
+	SEARCH 10:"https://kongrestransformacji.pl" =================> "http://kongrestransformacji.pl"
+	SEARCH 11:"https:\/\/kongrestransformacji.pl" ===============> "http:\/\/kongrestransformacji.pl"
+	SEARCH 12:"https%3A%2F%2Fkongrestransformacji.pl" ===========> "http%3A%2F%2Fkongrestransformacji.pl"
+--------------------------------------
+SCANNED:	Tables:20 	|	 Rows:6918 	|	 Cells:43048 
+UPDATED:	Tables:2 	|	 Rows:4 	|	 Cells:4 
+ERRORS:		0 
+RUNTIME:	0.178100 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME ""ktransform_db""
+	UPDATE DB_USER ""ktransform_user""
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache '.htaccess__7642859-14162902' was removed
+- PASS: Existing Microsoft IIS 'web.config.orig' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => really-simple-ssl/rlrsssl-really-simple-ssl.php
+    [1] => js_composer/js_composer.php
+)
+
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 06:55:09 - RUNTIME: 0.2006 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================

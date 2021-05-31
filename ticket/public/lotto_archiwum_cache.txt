@@ -1,0 +1,688 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+        <meta name="description" content="Archiwalne i aktualne wyniki Mini Lotto" /><meta name="keywords" content="mini lotto, lotto archiwa, archiwalne wyniki lotto, lotek, express lotek" /><title>Wyniki Mini Lotto - archiwalne i aktualne wyniki lotto</title>        <meta name="robots" content="NOODP"/>
+        <meta name="verify-v1" content="dzUsHnpr/tUGYpWpnjMbaynAjJBNIP25JQHotqtW/zg="/>
+        <!--<link rel="stylesheet" type="text/css" href="./css/style_detail.css"/>
+        <link rel="stylesheet" type="text/css" href="./css/style_2.css"/>-->
+        <link rel="stylesheet" type="text/css" href="/css/style_detail_2_temp_4.css"/>
+        <link rel="stylesheet" type="text/css" href="/css/style_4_temp_4.css"/>
+        <link rel="stylesheet" type="text/css" href="/css/lightbox.css"/>
+        <link rel="Shortcut icon" href="/favicon3.ico" />
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="rss.php"/>
+        <link href="https://plus.google.com/+megalottoPL" rel="publisher" />
+    </head>
+    <body>
+
+            <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8664807-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+        
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+        
+        ﻿        
+        
+        <div id="container" style="background-color: #b9b99d;">
+            
+            <div style="width: 300px; height: 600px; position: absolute; top: 0px; right: 806px; border: 0px solid black; border: 10px solid #ddddca;">
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300x600 lotto 16 txt/gra left -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-8812307210799683"
+     data-ad-slot="1100859113"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            </div>
+            
+            <div id="container2" style="border-right: 1px solid black; border-left: 0px solid black; background-color: #EFEFDF;">
+		<!-- UWAGA: Kiedy bede robil nowe kategorie, to w to miescje nalezy wkleic część kodu z pliku: index_menu_temp.txt -->
+                <!--
+                <div id="menu" style="top: 121px;">
+                    <dl id="menu31">
+                        <dt><a href="/zdrapki-lotto" title="Zdrapki lotto">Zdrapki lotto</a></dt>
+                    </dl>
+                    <dl id="menu32">
+                        <dt><a href="/nowosci" title="Nowości">Nowości</a></dt>
+                    </dl>
+                    <dl id="menu33">
+                        <dt><a href="/artykuly" title="Artykuły o tematyce lotto">Artykuły</a></dt>
+                    </dl>
+                    <dl id="menu34">
+                        <dt><a href="/transmisje-losowan" title="Transmisje losowań lotto">Transmisje losowań</a></dt>
+                    </dl>
+                </div>
+                -->
+                <!-- menu -->
+
+                <div id="menu" style="top: 121px;">
+                    <dl id="menu8">
+                        <dt><a href="/cennik" title="Cennik Lotto">Cennik</a></dt>
+                    </dl>
+
+                    <dl id="menu9">
+                        <dt><a href="/oddzialy-lotto" title="Wszystkie oddziały i kolektury w całej Polsce.">Oddziały i kolektury</a></dt>
+                    </dl>
+
+                    <dl id="menu10">
+                        <dt><a href="/statystyki" title="Statystyki">Statystyki</a></dt>
+                    </dl>
+
+                    <dl id="menu11">
+                        <dt><a href="/prawdopodobienstwo-wygranej" title="Prawdopodobieństwo wygranych w poszczególnych grach">Prawdopodobieństwo wygranej</a></dt>
+                    </dl>
+
+                    <dl id="menu12">
+                        <dt><a href="/wyniki-lotto-na-strone" title="Umieść wyniki lotto na Twoją stronę">Wyniki lotto na stronę</a></dt>
+                    </dl>
+
+                    <dl id="menu13">
+                        <dt><a href="/nowosci" title="Nowości">Nowości</a></dt>
+                    </dl>
+
+                    <dl id="menu14">
+                        <dt><a href="/artykuly" title="Artykuły o tematyce lotto">Artykuły</a></dt>
+                    </dl>
+                    
+                 </div> <!-- menu -->
+                <div id="menu" style="top: 150px;">
+                    <dl id="menu1"> 
+                        <dt><a href="http://megalotto.pl">Strona główna</a></dt>
+                        <!-- tutaj trzeba href koniczenie przypisac domene strony -->
+                    </dl>
+
+                    <dl id="menu2"> 
+                        <dt><a href="/sprawdz-liczby" title="Skreśl dowolne liczby i sprawdź czy wygrałeś w dowolnym zakresie czasu">Sprawdź liczby</a></dt>
+                    </dl>
+
+                    <dl id="menu3"> 
+                        <dt><a href="/chybil-trafil" title="Zdaj się na los i pozwół, żeby generator chybił trafiłe wytypował liczby za Ciebię :)">Chybił trafił</a></dt>
+                    </dl>
+
+                    <dl id="menu4"> 
+                        <dt><a href="/najwyzsze-wygrane" title="Dowiedze się ile wynosiły i gdzie padły największe wygrane w lotto">Najwyższe wygrane</a></dt>
+                    </dl>
+
+                    <dl id="menu5"> 
+                        <dt><a href="/wyniki" title="Przejrzyj archiwlane wyniki z całej histori lotto">Wyniki lotto</a></dt>
+                    </dl>
+ 
+                    <dl id="menu6"> 
+                        <dt><a href="/wygrane" title="Aktualne wygrane lotto">Wygrane</a></dt>
+                    </dl>
+
+                    <dl id="menu7"> 
+                        <dt><a href="/zasady-gry" title="Zasady poszczególnych gier toto lotka">Zasady gry</a></dt>
+                    </dl>
+
+                    <dl id="menu34">
+                        <dt><a href="/transmisje-losowan" title="Transmisje losowań lotto">Transmisje losowań</a></dt>
+                    </dl>
+
+                 </div> <!-- menu -->
+                <div id="header">
+                    <h1 style="position: relative; top: -20px !important; left: -25px !important; top: -10px; left: -25px; font: italic normal bold 18px Verdana, Arial, sans-serif; color: #FFFFFF;">Lotto - wyniki i wygrane</h1>
+                    <div style="position: relative; top: -25px; left: 15px; height: 20px; width: 370px; font: italic normal bold 12px Verdana, Arial, sans-serif; color: #FFFFFF;">megalotto.pl - nieoficjalny portal o grach LOTTO</div>
+                    <!--<img src="images/logo.png" />-->
+                    <a href="http://megalotto.pl/" style="position: relative; top: -65px;"><img src="http://megalotto.pl/images/logo3.png" alt="Lotto wyniki" style="border: 0px; position: absolute; top: 37px;"/></a>
+                    <a href="http://megalotto.pl/"></a>
+                    <ul id="list_in_header" style="">
+                    <li><a href="/informacje#download" id="first_element" title="Ściągnij na dysk pożyteczne rzeczy">Download<img src="http://megalotto.pl/images/download_ikonka.png" alt="Ściągnij na dysk pożyteczne rzeczy" style="position: absolute; top: 15px; left: 61px; border: 0px solid black;"/></a></li>
+                    <li><a href="/informacje#linki" title="Odnośniki do ciekawych stron">Linki<img src="http://megalotto.pl/images/linki_ikonka.png" alt="Odnośniki do ciekawych stron" style="position: absolute; top: 15px; left: 109px; border: 0px solid black;"/></a></li>
+                    <li><a href="/informacje#kontakt" title="Skontaktuj się z autorem strony">Kontakt<img src="http://megalotto.pl/images/kontakt_ikonka.png" alt="Skontaktuj się z autorem strony" style="position: absolute; top: 15px; left: 149px; border: 0px solid black;"/></a></li>
+                    </ul>
+                    
+
+
+                    <!-- kiedys w tym miejscu (na kwadratowa reklama) mialem baner o kumulacji -->
+                    <!-- UWAGA: Pamietac o zmianie paramtru ?=a w linku !!! -->
+                    <!-- <a href="http://megalotto.pl/?a=280&url=nowosci&k=1" title="Kumulacja"><img src="http://megalotto.pl/images/kumulacje/kumulacja8.gif" style="position: absolute; top: 214px; left: 486px; border: 0px solid black;"/></a> -->
+                    <!-- UWAGA: Poniższa linia zostala wylaczona na czas nie dzialania loaderow!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+                    <!--<a href="http://megalotto.pl/?a=&url=nowosci&k=1" title="Kumulacja"><img src="http://megalotto.pl/images/kumulacje/kumulacja2.gif" style="position: absolute; top: 214px; left: 486px; border: 0px solid black;"/></a>-->
+                    <div id="ikonki_header">
+                        <!--<a href="http://www.facebook.com/pages/Lotto/149778255084158" rel="nofollow" title="Facebook" target="_blank" onClick="javascript: pageTracker._trackPageview('/profile/facebook');"><img src="images/ikonki_media_spolecznosciowe/facebook_icon.png" alt="Facebook" style="border: 0px solid black; margin-left: 5px; margin-right: 2px;"/></a>-->
+                        <a href="http://www.facebook.com/LottoWyniki" rel="nofollow" title="Facebook" target="_blank" onClick="javascript: pageTracker._trackPageview('/profile/facebook');"><img src="http://megalotto.pl/images/ikonki_media_spolecznosciowe/facebook_icon.png" alt="Facebook" style="border: 0px solid black; margin-left: 5px; margin-right: 2px;"/></a>
+                        <a href="https://twitter.com/LottoWyniki" rel="nofollow" title="Twitter" target="_blank"><img src="http://megalotto.pl/images/ikonki_media_spolecznosciowe/twitter_icon.png" alt="Twitter" style="border: 0px solid black; margin-right: 2px;"/></a>
+                        <!--<a href="rss.php" title="Kanał RSS" target="_blank"><img src="images/ikonki_media_spolecznosciowe/rss_icon.png" alt="Kanał RSS" style="border: 0px solid black; margin-right: 2px;"/></a>-->
+                        <!--<a href="https://plus.google.com/+megalottoPL" rel="publisher" title="Google+" target="_blank"><img src="http://megalotto.pl/images/ikonki_media_spolecznosciowe/google_plus_icon.png" alt="Google+" style="border: 0px solid black; margin-right: 2px;"/></a>-->
+                        <!--
+                        <a href="?url=lotto" title="Lotto"><img src="images/loga_gier_glowna_strona_header/lotto.png" alt="Lotto" style="border: 0px solid black; margin-right: 0px;"/></a>
+                        <a href="?url=multi_multi" title="Multi Multi"><img src="images/loga_gier_glowna_strona_header/multi_multi.png" alt="Multi Multi" style="border: 0px solid black; margin-right: 3px;"/></a>
+                        <a href="?url=joker" title="Joker"><img src="images/loga_gier_glowna_strona_header/joker.png" alt="Joker" style="border: 0px solid black; margin-right: 0px;"/></a>
+                        <a href="?url=mini_lotto" title="Mini Lotto"><img src="images/loga_gier_glowna_strona_header/mini_lotto.png" alt="Mini Lotto" style="border: 0px solid black; margin-right: 0px;"/></a>
+                        <a href="?url=zdrapki_lotto" title="Zdrapki lotto"><img src="images/loga_gier_glowna_strona_header/zdrapki.png" alt="Zdrapki lotto" style="border: 0px solid black; margin-right: 0px;"/></a>
+                        -->
+                        <a href="/lotto" title="Lotto" style="font-size: 14px; font-weight: bold; padding-left: 13px; position: relative; top: -25px; text-decoration: none;">Lotto</a>
+                        <a href="/lotto-plus" title="Lotto Plus" style="font-size: 14px; font-weight: bold; padding-left: 10px; position: relative; top: -25px; text-decoration: none;">Lotto Plus</a>
+                        <a href="/multi-multi" title="Multi Multi" style="font-size: 14px; font-weight: bold; padding-left: 10px; position: relative; top: -25px; text-decoration: none;">Multi Multi</a>
+                        <a href="/mini-lotto" title="Mini Lotto" style="font-size: 14px; font-weight: bold; padding-left: 10px; position: relative; top: -25px; text-decoration: none;">Mini Lotto</a>
+                        <a href="/kaskada" title="Kaskada" style="font-size: 14px; font-weight: bold; padding-left: 16px; position: relative; top: -21px; left: 117px; float: left; text-decoration: none;">Kaskada</a>
+                        <a href="/ekstra-pensja" title="Ekstra Pensja" style="font-size: 14px; font-weight: bold; padding-left: 14px; position: relative; top: -21px; left: 117px; float: left; text-decoration: none;">Ekstra Pensja</a>
+                        <a href="/zdrapki-lotto" title="Zdrapki lotto" style="font-size: 14px; font-weight: bold; padding-left: 14px; position: relative; top: -21px; left: 117px; float: left; text-decoration: none;">Zdrapki lotto</a>
+
+                        <!--
+                        <a href="http://lottowyniki.blip.pl/" rel="nofollow" title="Blip" target="_blank"><img src="images/ikonki_media_spolecznosciowe/blip.png" alt="Blip" style="border: 0px solid black;"/></a>
+                        <a href="http://lottowyniki.pinger.pl/" rel="nofollow" title="Pinger" target="_blank"><img src="images/ikonki_media_spolecznosciowe/pinger.png" alt="Pinger" style="border: 0px solid black;"/></a>
+                        <a href="http://flaker.pl/LottoWyniki" rel="nofollow" title="Flaker" target="_blank"><img src="images/ikonki_media_spolecznosciowe/flaker.png" alt="Flaker" style="border: 0px solid black;"/></a>
+                        <a href="http://www.facebook.com/pages/Lotto/149778255084158" rel="nofollow" title="Facebook" target="_blank" onClick="javascript: pageTracker._trackPageview('/profile/facebook');"><img src="images/ikonki_media_spolecznosciowe/facebook.png" alt="Facebook" style="border: 0px solid black;"/></a>
+                        <a href="http://www.youtube.com/user/LottoWyniki" rel="nofollow" title="YouTube" target="_blank"><img src="images/ikonki_media_spolecznosciowe/youtube.png" alt="YouTube" style="border: 0px solid black;"/></a>
+                        <a href="https://twitter.com/LottoWyniki" rel="nofollow" title="Twitter" target="_blank"><img src="images/ikonki_media_spolecznosciowe/twitter.png" alt="Twitter" style="border: 0px solid black;"/></a>
+                        <a href="rss.php" title="Kanał RSS" target="_blank"><img src="images/ikonki_media_spolecznosciowe/rss.png" alt="Kanał RSS" style="border: 0px solid black;"/></a>
+                        -->
+                    </div>
+
+                    
+                    
+                                        <!--<img alt="Bombka" src="http://megalotto.pl/images/bombka.png"  style="position: absolute; top: 570px; left: 675px; border: 0px solid black;"/>-->
+                    
+                     <!--W tym miejscu znajdowała się REKLAMA GOOGLE
+                           Jej kod znajduje się teraz w pliku helpers/kod_reklamy_google_z_headera.php-->
+
+             <!-- <div style="position: relative; top: -25px; left: 300px;">
+             //w tym miejscu byla reklama w headerze
+             </div>-->
+
+                    
+                    
+                </div> <!-- <div id="header"> -->
+                <!--<div id="subheader">#subheader</div>-->
+
+                
+
+               
+
+
+
+<div id="middle">
+     <div class="submenu_center">
+         <p class="path">
+             <a href="http://megalotto.pl">Strona główna</a> / <a href="/wyniki">Archiwalne wyniki</a> / <a href="/wyniki/mini-lotto">Archiwalne wyniki - ML</a>         </p>
+         <h2><span>Archiwalne wyniki - Mini Lotto</span></h2>
+         <div class="formularze">
+                 <!-- zmienna $gry sluzy do alternatywnej formy nawigacji -->
+    <form action="index.php" method="post" id="ostatnie_dni">
+        <!--<fieldset>-->
+        <!--<legend>Logowanie</legend>-->
+           <!--<h3><b>Logowanie</b></h3>-->
+           <div>
+              <label for="login">Liczba</label>
+              <select name="url_2">
+                  <option selected="selected">10</option><option>20</option><option>30</option><option>40</option><option>50</option><option>60</option><option>70</option><option>80</option><option>90</option><option>100</option>	           </select>
+              <label style="display:block;" for="login">ostatnich losowań</label>
+           </div>
+
+          <!--
+          <div class="div_submit" onMouseOver="this.style.color='black';" onMouseOut="this.style.color='white';">
+           <input class="submit" type="submit" name="url" id="submit" value="Szukaj" onMouseOver="this.style.backgroundImage ='url(images/wygrane.png)'; this.style.color='#844004'; this.style.fontWeight='bold';" onMouseOut="this.style.backgroundImage ='url(images/archiwum.png)'; this.style.color='white'; this.style.fontWeight='normal';"
+/>  -->
+           <div class="div_submit">
+           <input class="submit" type="submit" name="url" id="submit" value="Szukaj">
+           <!-- <input name="value_from_form" value="" type="hidden" /> _-->
+           <input name="value_from_form" value=el_archives type="hidden" /> <!-- to dodatkowe -->
+          </div>          <!-- niewidoczne pole jest chyba potrzebne, bo mamy formularz ale jest przeciez kilka rodzajow  -->
+        <!--</fieldset>--> <!-- gier (DL, Joker, itd) i aby sterowanie bylo odpowiednio zbudowane - tzn. po kliknieciu -->
+    </form> <!-- w pole submit formularza zwiazanego z okreslona opcja i gra (np. Archiwa->DL) dalo sie wejs z powrtoem -->
+    <!-- parametr ?gry= sluzy do alternatywnej formy nawigacji -->
+    <form action="index.php" method="post" id="przedzial_czasu">
+        <!--<fieldset>-->
+        <!--<legend>Logowanie</legend>-->
+           <!--<h3><b>Logowanie</b></h3>-->
+           <div>
+              <select name="od_dnia">
+		            <option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option><option>11</option><option>12</option><option>13</option><option>14</option><option>15</option><option>16</option><option>17</option><option>18</option><option>19</option><option>20</option><option>21</option><option>22</option><option>23</option><option>24</option><option selected="selected">25</option><option>26</option><option>27</option><option>28</option><option>29</option><option>30</option><option>31</option>		        </select>
+	           <select name="od_miesiaca" class="form_miesiac">
+		            <option selected="selected">Stycznia</option><option>Lutego</option><option>Marca</option><option>Kwietnia</option><option>Maja</option><option>Czerwca</option><option>Lipca</option><option>Sierpnia</option><option>Września</option><option>Października</option><option>Listopada</option><option>Grudnia</option>	           </select>
+	           <select name="od_roku">
+		            <option>1981</option><option>1982</option><option>1983</option><option>1984</option><option>1985</option><option>1986</option><option>1987</option><option>1988</option><option>1989</option><option>1990</option><option>1991</option><option>1992</option><option>1993</option><option>1994</option><option>1995</option><option>1996</option><option>1997</option><option>1998</option><option>1999</option><option>2000</option><option>2001</option><option>2002</option><option>2003</option><option>2004</option><option>2005</option><option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option><option>2011</option><option>2012</option><option>2013</option><option>2014</option><option>2015</option><option>2016</option><option selected="selected">2017</option>	           </select>
+           </div>
+           <div class="dolny_select">
+              <select name="do_dnia">
+		            <option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option><option>11</option><option>12</option><option selected="selected">13</option><option>14</option><option>15</option><option>16</option><option>17</option><option>18</option><option>19</option><option>20</option><option>21</option><option>22</option><option>23</option><option>24</option><option>25</option><option>26</option><option>27</option><option>28</option><option>29</option><option>30</option><option>31</option>	           </select>
+	           <select name="do_miesiaca" class="form_miesiac">
+		            <option>Stycznia</option><option selected="selected">Lutego</option><option>Marca</option><option>Kwietnia</option><option>Maja</option><option>Czerwca</option><option>Lipca</option><option>Sierpnia</option><option>Września</option><option>Października</option><option>Listopada</option><option>Grudnia</option>	           </select>
+	           <select name="do_roku">
+		            <option>1981</option><option>1982</option><option>1983</option><option>1984</option><option>1985</option><option>1986</option><option>1987</option><option>1988</option><option>1989</option><option>1990</option><option>1991</option><option>1992</option><option>1993</option><option>1994</option><option>1995</option><option>1996</option><option>1997</option><option>1998</option><option>1999</option><option>2000</option><option>2001</option><option>2002</option><option>2003</option><option>2004</option><option>2005</option><option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option><option>2011</option><option>2012</option><option>2013</option><option>2014</option><option>2015</option><option>2016</option><option selected="selected">2017</option>	           </select>
+           </div>
+
+          <div class="div_submit">
+           <input class="submit" type="submit" name="url" id="submit" value="Szukaj" />
+           <input name="value_from_form" value=el_archives type="hidden" />          </div>
+        <!--</fieldset>-->
+      </form>
+   
+         </div> <!-- formularze -->   
+     	   <div class="list_of_last_drawings">
+             <p class="lista_lat" style="display:block;"><a href="/wyniki/mini-lotto/losowania-z-roku-2017">2017</a> <a href="/wyniki/mini-lotto/losowania-z-roku-2016">2016</a> <a href="/wyniki/mini-lotto/losowania-z-roku-2015">2015</a> <a href="/wyniki/mini-lotto/losowania-z-roku-2014">2014</a> <a href="/wyniki/mini-lotto/losowania-z-roku-2013">2013</a> <a href="/wyniki/mini-lotto/losowania-z-roku-2012">2012</a> <a href="/wyniki/mini-lotto/losowania-z-roku-2011">2011</a> <a href="/wyniki/mini-lotto/losowania-z-roku-2010">2010</a> <a href="/wyniki/mini-lotto/losowania-z-roku-2009">2009</a> <a href="/wyniki/mini-lotto/losowania-z-roku-2008">2008</a> <br /><a href="/wyniki/mini-lotto/losowania-z-roku-2007">2007</a> <a href="/wyniki/mini-lotto/losowania-z-roku-2006">2006</a> <a href="/wyniki/mini-lotto/losowania-z-roku-2005">2005</a> <a href="/wyniki/mini-lotto/losowania-z-roku-2004">2004</a> <a href="/wyniki/mini-lotto/losowania-z-roku-2003">2003</a> <a href="/wyniki/mini-lotto/losowania-z-roku-2002">2002</a> <a href="/wyniki/mini-lotto/losowania-z-roku-2001">2001</a> <a href="/wyniki/mini-lotto/losowania-z-roku-2000">2000</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1999">1999</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1998">1998</a> <br /><a href="/wyniki/mini-lotto/losowania-z-roku-1997">1997</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1996">1996</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1995">1995</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1994">1994</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1993">1993</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1992">1992</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1991">1991</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1990">1990</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1989">1989</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1988">1988</a> <br /><a href="/wyniki/mini-lotto/losowania-z-roku-1987">1987</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1986">1986</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1985">1985</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1984">1984</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1983">1983</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1982">1982</a> <a href="/wyniki/mini-lotto/losowania-z-roku-1981">1981</a> </p> <!-- lista_lat --><h4 class="nr_header_of_last_drawings"><span>Nr.</span></h4><h4 class="date_header_of_last_drawings"><span>Data</span></h4><h4 class="numbers_header_of_last_drawings"><span>Numery</span></h4><div class="lista_ostatnich_losowan"><ul ><li class="nr_in_list">3942. </li><li class="date_in_list">13-02-2017</li><li class="numbers_in_list">20 </li><li class="numbers_in_list">22 </li><li class="numbers_in_list">28 </li><li class="numbers_in_list">34 </li><li class="numbers_in_list">37 </li><a href="/wyniki/mini-lotto/wygrane-z-dnia-13-02-2017" style="position: relative; left: 16px; top: 0px;"><strong>Wygrane</strong></a></ul><ul ><li class="nr_in_list">3941. </li><li class="date_in_list">12-02-2017</li><li class="numbers_in_list">4 </li><li class="numbers_in_list">5 </li><li class="numbers_in_list">13 </li><li class="numbers_in_list">27 </li><li class="numbers_in_list">32
+ </li><a href="/wyniki/mini-lotto/wygrane-z-dnia-12-02-2017" style="position: relative; left: 16px; top: 0px;"><strong>Wygrane</strong></a></ul><ul ><li class="nr_in_list">3940. </li><li class="date_in_list">11-02-2017</li><li class="numbers_in_list">4 </li><li class="numbers_in_list">13 </li><li class="numbers_in_list">15 </li><li class="numbers_in_list">17 </li><li class="numbers_in_list">42
+ </li><a href="/wyniki/mini-lotto/wygrane-z-dnia-11-02-2017" style="position: relative; left: 16px; top: 0px;"><strong>Wygrane</strong></a></ul><ul ><li class="nr_in_list">3939. </li><li class="date_in_list">10-02-2017</li><li class="numbers_in_list">1 </li><li class="numbers_in_list">6 </li><li class="numbers_in_list">7 </li><li class="numbers_in_list">36 </li><li class="numbers_in_list">41
+ </li><a href="/wyniki/mini-lotto/wygrane-z-dnia-10-02-2017" style="position: relative; left: 16px; top: 0px;"><strong>Wygrane</strong></a></ul><ul ><li class="nr_in_list">3938. </li><li class="date_in_list">09-02-2017</li><li class="numbers_in_list">2 </li><li class="numbers_in_list">5 </li><li class="numbers_in_list">10 </li><li class="numbers_in_list">26 </li><li class="numbers_in_list">27
+ </li><a href="/wyniki/mini-lotto/wygrane-z-dnia-09-02-2017" style="position: relative; left: 16px; top: 0px;"><strong>Wygrane</strong></a></ul><ul ><li class="nr_in_list">3937. </li><li class="date_in_list">08-02-2017</li><li class="numbers_in_list">2 </li><li class="numbers_in_list">3 </li><li class="numbers_in_list">15 </li><li class="numbers_in_list">35 </li><li class="numbers_in_list">38
+ </li><a href="/wyniki/mini-lotto/wygrane-z-dnia-08-02-2017" style="position: relative; left: 16px; top: 0px;"><strong>Wygrane</strong></a></ul><ul ><li class="nr_in_list">3936. </li><li class="date_in_list">07-02-2017</li><li class="numbers_in_list">2 </li><li class="numbers_in_list">6 </li><li class="numbers_in_list">17 </li><li class="numbers_in_list">33 </li><li class="numbers_in_list">38
+ </li><a href="/wyniki/mini-lotto/wygrane-z-dnia-07-02-2017" style="position: relative; left: 16px; top: 0px;"><strong>Wygrane</strong></a></ul><ul ><li class="nr_in_list">3935. </li><li class="date_in_list">06-02-2017</li><li class="numbers_in_list">16 </li><li class="numbers_in_list">23 </li><li class="numbers_in_list">28 </li><li class="numbers_in_list">29 </li><li class="numbers_in_list">31
+ </li><a href="/wyniki/mini-lotto/wygrane-z-dnia-06-02-2017" style="position: relative; left: 16px; top: 0px;"><strong>Wygrane</strong></a></ul><ul ><li class="nr_in_list">3934. </li><li class="date_in_list">05-02-2017</li><li class="numbers_in_list">20 </li><li class="numbers_in_list">32 </li><li class="numbers_in_list">33 </li><li class="numbers_in_list">41 </li><li class="numbers_in_list">42
+ </li><a href="/wyniki/mini-lotto/wygrane-z-dnia-05-02-2017" style="position: relative; left: 16px; top: 0px;"><strong>Wygrane</strong></a></ul><ul class="last_ul" ><li class="nr_in_list">3933. </li><li class="date_in_list">04-02-2017</li><li class="numbers_in_list">9 </li><li class="numbers_in_list">10 </li><li class="numbers_in_list">12 </li><li class="numbers_in_list">17 </li><li class="numbers_in_list">32
+ </li><a href="/wyniki/mini-lotto/wygrane-z-dnia-04-02-2017" style="position: relative; left: 16px; top: 0px;"><strong>Wygrane</strong></a></ul></div> <!-- lista_ostatnich_losowan -->         </div> <!-- list_of_last_drawings -->      
+     </div> <!-- submenu_center -->
+</div> <!-- middle -->   
+              
+                <div id="right" style="margin-top: 205px; margin-bottom: 0px;">
+                    <!--<div class="submenu_right" id="reklama300" style="height: 280px; border: 8px solid #ddddca; position: relative; left: -6px; -webkit-border-radius: 10px; /* Safari, Chrome */ -khtml-border-radius: 10px; /* Konqueror */ -moz-border-radius: 10px; /* Firefox */ border-radius: 10px;">-->
+                    <div class="submenu_right" id="reklama300" style="height: 280px; border: 8px solid #ddddca; position: relative; left: -6px;">
+                    
+                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 336x280 lotto 17 txt/gra top -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-8812307210799683"
+     data-ad-slot="4172076714"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+                     </div>
+
+                    <div style="position: absolute; left: 28px; top: 186px;" id="reklama728_1">
+                       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 750x200 lotto 17 txt/gra top -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:750px;height:200px"
+     data-ad-client="ca-pub-8812307210799683"
+     data-ad-slot="8602276314"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+                   </div>
+                   
+
+                    
+                
+  <img src="http://megalotto.pl/images/news_ikona.png" style="position: absolute; top: 686px; left: 453px; margin: 5px 0px 0px -8px; border: 0px solid black; width: 64px; height: 50px;" alt="Nowości ze świata lotto"/>
+  <!--<a href="rss.php" title="Kanał RSS" target="_blank"><img src="images/ikonki_media_spolecznosciowe/rss_icon_mini.png" alt="Kanał RSS" style="position: absolute; top: 578px; left: 455px; margin:15px 0px 0px 220px; border: 0px solid black;"/></a>-->
+<div class="submenu_right" style="overflow: hidden; height: 100%; border-color: #a2a28a;">
+
+    <div class="newsy newsy_mini">
+            <h2 id="nowosci_naglowek">
+                <a href="/nowosci" title="Nowości">Nowości</a> |
+                <a href="/artykuly" title="Artykuły">Artykuły</a>
+            </h2>
+
+    ﻿		﻿﻿﻿<div style="margin-bottom: 24px; border-bottom: 2px solid #2c2c1b;"> 
+
+<h2 style="width: 270px; margin-bottom: 0px; margin-top: -14px; padding: 2px 0px 0px 0px; font-size: 10pt; font-weight: bold; background-color: #ddddcb; -webkit-border-radius: 20px; /* Safari, Chrome */ -khtml-border-radius: 20px; /* Konqueror */
+-moz-border-radius: 20px; /* Firefox */ border-radius: 20px;">
+<a href="/nowosci/zagraj-o-gwarantowana-pule-w-lotto,1391" style="color: #844004;">
+Zagraj o gwarantowaną pulę w Lotto
+</a>
+</h2>
+
+        <div>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse">
+  <tr>
+    <td>
+<p style="text-align: justify;"><strong>We wtorek, 14.02.2017 roku</strong> w losowaniu Lotto znów będzie można powalczyć o gwarantowaną pulę 2 000 000 zł. To wynik rozbicia w sobotnim losowaniu kumulacji w wysokości 10 000 000 zł. <strong>Dwóm szczęśliwym Graczom, którzy wygrali po 5 320 068.10 zł</strong> serdecznie gratulujemy.</p>
+</td>
+  </tr>
+</table>
+</div>
+        
+	
+
+        <div style="margin-left: -8px; margin-top: -3px"></div>
+	<div id="comments" style="margin-top: 7px; text-align: left; clear: both;">
+		<a href="/nowosci/zagraj-o-gwarantowana-pule-w-lotto,1391">Czytaj dalej</a> <img src="http://megalotto.pl/images/czytaj_dalej_ikonka.png" style="border: 0px solid black;"/> <span style="position: relative; left: 56px;"><strong style="color: #2c2c1b; ">11.02.2017 - 22:15</strong></span> <img src="http://megalotto.pl/images/zegarek_ikonka.png" style="position: relative; left: 56px; top: 3px; border: 0px solid black;"/>
+
+	</div>
+
+<div style="margin-bottom: 5px; margin-top: 7px">
+<!--<img border="0" src="gfx/line.png" width="521" height="1">-->
+</div>
+
+</div><div style="margin-bottom: 24px; border-bottom: 2px solid #2c2c1b;"> 
+
+<h2 style="width: 270px; margin-bottom: 0px; margin-top: -14px; padding: 2px 0px 0px 0px; font-size: 10pt; font-weight: bold; background-color: #ddddcb; -webkit-border-radius: 20px; /* Safari, Chrome */ -khtml-border-radius: 20px; /* Konqueror */
+-moz-border-radius: 20px; /* Firefox */ border-radius: 20px;">
+<a href="/nowosci/pula-w-kumulacji-lotto-wzrosla-do-10-000-000-zl,1390" style="color: #844004;">
+Pula w kumulacji Lotto wzrosła do 10 000 000 zł
+</a>
+</h2>
+
+        <div>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse">
+  <tr>
+    <td>
+<p style="text-align: justify;">Z racji tego, że <a href="http://megalotto.pl/wyniki/lotto" target="_blank">dzisiejsze losowanie Lotto</a> dla nikogo nie okazało się szczęśliwe, pula pieniędzy na skutek kumulacji wzrosła do <strong>10 000 000 zł</strong>. O wynikach nowego losowania dowiemy się już w sobotę <strong>11 lutego 2017 roku</strong>.</p>
+</td>
+  </tr>
+</table>
+</div>
+        
+	
+
+        <div style="margin-left: -8px; margin-top: -3px"></div>
+	<div id="comments" style="margin-top: 7px; text-align: left; clear: both;">
+		<a href="/nowosci/pula-w-kumulacji-lotto-wzrosla-do-10-000-000-zl,1390">Czytaj dalej</a> <img src="http://megalotto.pl/images/czytaj_dalej_ikonka.png" style="border: 0px solid black;"/> <span style="position: relative; left: 56px;"><strong style="color: #2c2c1b; ">09.02.2017 - 22:17</strong></span> <img src="http://megalotto.pl/images/zegarek_ikonka.png" style="position: relative; left: 56px; top: 3px; border: 0px solid black;"/>
+
+	</div>
+
+<div style="margin-bottom: 5px; margin-top: 7px">
+<!--<img border="0" src="gfx/line.png" width="521" height="1">-->
+</div>
+
+</div><div style="margin-bottom: 24px; border-bottom: 2px solid #2c2c1b;"> 
+
+<h2 style="width: 270px; margin-bottom: 0px; margin-top: -14px; padding: 2px 0px 0px 0px; font-size: 10pt; font-weight: bold; background-color: #ddddcb; -webkit-border-radius: 20px; /* Safari, Chrome */ -khtml-border-radius: 20px; /* Konqueror */
+-moz-border-radius: 20px; /* Firefox */ border-radius: 20px;">
+<a href="/nowosci/8-000-000-zl-do-wygrania-w-kumulacji-lotto,1389" style="color: #844004;">
+8 000 000 zł do wygrania w kumulacji Lotto
+</a>
+</h2>
+
+        <div>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse">
+  <tr>
+    <td>
+<p style="text-align: justify;"><a href="http://megalotto.pl/wyniki/lotto" target="_blank">Ostatnie losowanie Lotto</a> nie wyłoniło żadnego zwycięzcy. Jest to dobra wiadomość dla wszystkich Graczy, ponieważ teraz pula pieniędzy wzrosła do <strong>8 000 000 zł</strong>. Wyniki nowego losowania poznamy już w czwartek <strong>09.02.2017 roku</strong>.</p>
+</td>
+  </tr>
+</table>
+</div>
+        
+	
+
+        <div style="margin-left: -8px; margin-top: -3px"></div>
+	<div id="comments" style="margin-top: 7px; text-align: left; clear: both;">
+		<a href="/nowosci/8-000-000-zl-do-wygrania-w-kumulacji-lotto,1389">Czytaj dalej</a> <img src="http://megalotto.pl/images/czytaj_dalej_ikonka.png" style="border: 0px solid black;"/> <span style="position: relative; left: 56px;"><strong style="color: #2c2c1b; ">07.02.2017 - 22:11</strong></span> <img src="http://megalotto.pl/images/zegarek_ikonka.png" style="position: relative; left: 56px; top: 3px; border: 0px solid black;"/>
+
+	</div>
+
+<div style="margin-bottom: 5px; margin-top: 7px">
+<!--<img border="0" src="gfx/line.png" width="521" height="1">-->
+</div>
+
+</div>     </div>
+
+<!--
+  <h2 title="Kalendarz przedstawiający dni w jakie odbywają się losowania w poszczeólnych
+grach"><span>Kalendarz losowań</span></h2>
+  <ul style="">
+      <li>Pn</li>
+      <li>Wt</li>
+      <li>Sr</li>
+      <li>Cz</li>
+      <li>Pt</li>
+      <li>Sb</li>
+      <li style="padding-right: 0px;">Nd</li>
+  </ul>
+  <dl id="kal_dl">
+     <dt>Lotto</dt>
+        <dd class="pn"></dd>
+        <dd class="losowanie"></dd>
+        <dd></dd>
+        <dd class="losowanie"></dd>
+        <dd></dd>
+        <dd class="losowanie"></dd>
+        <dd></dd>
+  </dl>
+  <dl id="kal_dl">
+     <dt>Joker</dt>
+        <dd class="pn_losowanie"></dd>
+        <dd></dd>
+        <dd class="losowanie"></dd>
+        <dd></dd>
+        <dd class="losowanie"></dd>
+        <dd></dd>
+        <dd></dd>
+  </dl>
+  <dl id="kal_ml">
+     <dt>Multi Multi</dt>
+        <dd class="pn_losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+  </dl>
+  <dl id="kal_el">
+     <dt>Mini Lotto</dt>
+        <dd class="pn"></dd>
+        <dd class="losowanie"></dd>
+        <dd></dd>
+        <dd class="losowanie"></dd>
+        <dd></dd>
+        <dd class="losowanie"></dd>
+        <dd></dd>
+  </dl>
+-->
+  </div>
+
+                            <div style="">
+                    <!--<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/pages/Lotto/149778255084158" width="270" show_faces="true" stream="false" header="false"></fb:like-box>-->
+                </div>
+                <div id="submenu_right_extend_right_column" style="">
+                </div>
+                </div> <!-- right -->
+
+                <div style="width: 319px; position: absolute; left: 796px; top: 260px;"> <!-- ten div jest zabezpieczeniem przed przejsciem kalendarza lotto do prawej kolumny -->
+                    <div style="">
+                                       </div>
+                    <!-- UWAGA: Pamietac o zmianie paramtru ?=a w linku !!! -->
+                    
+                    <!-- UWAGA: Poniższa linia zostala wylaczona na czas nie dzialania loaderow!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+                    <!--<a href="http://megalotto.pl/?a=&url=nowosci&k=1" title="Kumulacja"><img src="http://megalotto.pl/images/kumulacje/kumulacja2.gif" style="position: absolute; top: 214px; left: 486px; border: 0px solid black;"/></a>-->
+                <!--<img src="images/kalendarz_lotto_ikona.png" style="position: relative; top: 132px; left: 130px; border: 0px solid black; width: 64px; height: 50px;"/>-->
+                    
+                    <div style="position: relative; top: -56px; left: 20px;">
+                            <g:plusone></g:plusone>
+                    </div>
+                    
+                    <div style="position: relative; top: -50px; left: 20px;">
+                        <div class="fb-like" data-href="https://www.facebook.com/LottoWyniki/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div>
+                    </div>
+                    
+                    <div style="float: right; clear: both; position: relative; top: -44px; left: -28px;">
+
+                        <a href="/nowosci/zagraj-o-gwarantowana-pule-w-lotto,1391" title="Gwarantowana pula"><img src="http://megalotto.pl/images/kumulacje/gwarantowana-pula.gif" alt="Gwarantowana pula" style="border: 0px solid black;"/></a>                                <!--<a href="http://megalotto.pl/?a=389&url=nowosci&k=1" title="Kumulacja"><img src="http://megalotto.pl/images/kumulacje/kumulacja15.gif" alt="Kumulacja" style="border: 0px solid black;"/></a>-->
+                                <!--<a href="http://megalotto.pl/?a=389&url=nowosci&k=1" title="Gwarantowana pula">
+                                <img src="http://megalotto.pl/images/kumulacje/gwarantowana-pula.gif" alt="Gwarantowana pula" style="border: 0px solid black; margin: 8px 0px 10px 59px;"/>
+                                </a>-->
+
+                                <!--<a href="http://megalotto.pl/?a=296&url=nowosci&k=1" title="Kumulacja"><img src="images/kumulacje/" style="border: 0px solid black;"/></a>-->
+
+                                <!--<a href="http://megalotto.pl/?a=&url=nowosci&k=1" title="Kumulacja"><img src="images/kumulacje/" style="border: 0px solid black;"/></a>-->
+                                                    </div>
+                    <div class="submenu_right" style="/*position: relative; top: -13px; left: 134px; float: left;*/ position: relative; left: -10px; width: 270px; height: 212px; float: right; margin: -37px 15px 10px 0px; border: 2px solid #a2a28a; background-image: url(http://megalotto.pl/images/kalendarz_gier_lotto.jpg);">
+      
+                    <div style="position: relative; left: -20px;">
+
+                    <h2 title="Kalendarz przedstawiający dni w jakie odbywają się losowania w poszczeólnych grach"><span>Kalendarz losowań</span></h2>
+  <ul style="">
+      <li>Pn</li>
+      <li>Wt</li>
+      <li>Sr</li>
+      <li>Cz</li>
+      <li>Pt</li>
+      <li>Sb</li>
+      <li style="padding-right: 0px;">Nd</li>
+  </ul>
+  <dl id="kal_dl">
+     <dt>Lotto</dt>
+        <dd class="pn"></dd>
+        <dd class="losowanie"></dd>
+        <dd></dd>
+        <dd class="losowanie"></dd>
+        <dd></dd>
+        <dd class="losowanie"></dd>
+        <dd></dd>
+  </dl>
+  <dl id="kal_dl">
+     <dt>Lotto Plus</dt>
+        <dd class="pn"></dd>
+        <dd class="losowanie"></dd>
+        <dd></dd>
+        <dd class="losowanie"></dd>
+        <dd></dd>
+        <dd class="losowanie"></dd>
+        <dd></dd>
+  </dl>
+  <dl id="kal_ml">
+     <dt>Multi Multi</dt>
+        <dd class="pn_losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+  </dl>
+  <dl id="kal_dl">
+     <dt>Mini Lotto</dt>
+        <dd class="pn_losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+  </dl>
+  <dl id="kal_dl">
+     <dt style="">Ekstra Pensja</dt>
+        <dd class="pn"></dd>
+        <dd></dd>
+        <dd class="losowanie"></dd>
+        <dd></dd>
+        <dd class="losowanie"></dd>
+        <dd></dd>
+        <dd class="losowanie"></dd>
+  </dl>
+  <dl id="kal_dl">
+     <dt>Kaskada</dt>
+        <dd class="pn_losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+  </dl>
+  <dl id="kal_el">
+     <dt style="">Super Szansa</dt>
+        <dd class="pn_losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+        <dd class="losowanie"></dd>
+  </dl>
+                    </div>
+                </div> <!-- submenu_right -->
+                
+                <!--
+                <div style="margin-left: 20px;">
+                <a href="http://www.ball3d.com/megalotto" target="_blank">
+                    <img src="http://megalotto.pl/images/b3d_banner_megalotto.png"/>
+                </a>
+                </div>
+                -->
+                
+                </div>
+
+                <!-- jezeli ktos lubi profil megalotto na Facebooku,
+                to bedzie mial obcieta jedna z twarzy na dole w Like Boksie, nic sie na to nie poradzi -->
+                <div id="facebook" class="submenu_right facebook_left">
+                    <script src="http://connect.facebook.net/pl_PL/all.js#xfbml=1"></script>
+
+                    <script type="text/javascript">
+                    <!--
+                    SetHeightOfFacebookLike("facebook");
+
+                    function SetHeightOfFacebookLike(id)
+                    {
+                        var middle_column_height = document.getElementById('middle').offsetHeight;
+                        var right_column_height = document.getElementById('right').offsetHeight;
+                        //if ( right_column < 900 )
+                        //document.write("M: "+myTarget.offsetHeight);
+                        //document.write(" R: "+right_column);
+                        var difference_between_middle_and_right_column = middle_column_height - right_column_height;
+                        //document.write( difference_between_middle_and_right_column );
+
+                        // gdy jest mala roznica pomiedzy wysokosciami #middle i #right kolumn, to facebook like box sie rozjezdza
+                        if ( difference_between_middle_and_right_column > 0 && difference_between_middle_and_right_column < 150 )
+                        {
+                            // i wowczas trzeba przedluzyc kolumne #right (jeden z DIVow wewnatrz zyskuje wysokosc)
+                            addClass(document.getElementById('submenu_right_extend_right_column'), "submenu_right_extend_right_column_for_facebook_like_box");
+                        }
+
+                        if ( middle_column_height > 1060) // jezeli lewa kolumna jest odpowiednio dluga
+                        { // umiesc facebook like w prawej kolumnie
+                            //alert("right: "+middle_column_height);
+                            addClass(document.getElementById(id), "facebook_right")
+                            document.write("<fb:like-box href=\"http://www.facebook.com/pages/Lotto/149778255084158\" width=\"341\" height=\"342\" show_faces=\"true\" stream=\"false\" header=\"false\"></fb:like-box>");
+                        }
+                        else // w przeciwnym razie umiesc facebook like w lewej kolumnie
+                        {
+                            //alert("left: "+middle_column_height);
+                            document.write("<fb:like-box href=\"http://www.facebook.com/pages/Lotto/149778255084158\" width=\"426\" height=\"342\" show_faces=\"true\" stream=\"false\" header=\"false\"></fb:like-box>");
+                        }
+                        //myTarget.innerText = "TESTTTTTTTTTTTTTT";
+                        //document.getElementById(id).innerHTML = middle_column_height;
+                    }
+                    
+                    function addClass(element, value)
+                    {
+                            if(!element.className) {
+                               element.className = value;
+                            } else {
+                                newClassName = element.className;
+                                newClassName+= " ";
+                                newClassName+= value;
+                                element.className = newClassName;
+                                //alert("AAAARRRR");
+                             }
+                    }
+
+                    //-->
+                </script>
+
+                <style>
+                    div.facebook_right {border-color: #a2a28a; width: 331px; margin-top: 0px; position: relative; left: -5px;}
+                    /*div.right_extended_for_facebook_like_box .newsy_mini {}*/
+                </style>
+
+                   
+                      <!--<iframe src="http://www.facebook.com/plugins/likebox.php?id=149778255084158&amp;width=426&amp;connections=24&amp;stream=false&amp;header=false&amp;height=330" scrolling="no" frameborder="0" style="border: 0px solid #a2a28a; overflow: hidden; width:426px; height:330px;" allowTransparency="true"></iframe>-->
+                </div> <!-- submenu_right facebook_left -->
+
+                <div style="margin: 10px 0px 7px 27px;" id="reklama728_2">
+                    <!-- tutaj kiedys reklama podluzna na dole strony byla -->
+                </div>
+
+                <div id="footer">
+                    <span style="position: relative; left: -69px;"><a href="/informacje#polityka-prywatnosci">Informacje o cookies</a></span>
+                    <span style="position: relative; left: 27px;">Copyright © 2017 megalotto.pl by Rafał Kowalczyk</span>
+                    <span style="position: relative; left: 60px;"><a href="/informacje#polityka-prywatnosci">Polityka prywatności</a></span>
+                    <span style="position: relative; left: 70px;"><a href="/informacje#warunki-uzycia">Warunki użycia</a></span>
+                </div>
+            </div> <!-- container2 -->
+        </div> <!-- container -->
+        <script type="text/javascript" src="/js/sprawdz_liczby_walidacja.js"></script>
+        <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+  {lang: 'pl'}
+</script>
+            </body>
+</html>

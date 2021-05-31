@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <meta charset="utf-8" />
+    <title>CryptoExpo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="apple-touch-icon" href="http://www.canbike.org/public/images/030114/Bitcoin_Logo.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="http://www.canbike.org/public/images/030114/Bitcoin_Logo.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="http://www.canbike.org/public/images/030114/Bitcoin_Logo.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="http://www.canbike.org/public/images/030114/Bitcoin_Logo.png">
+    <link rel="icon" type="image/x-icon" href="http://www.canbike.org/public/images/030114/Bitcoin_Logo.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta content="Crypto Future Conference" name="description" />
+    <meta content="Lemonbee Tomasz Cisowski" name="author" />
+    <link href="/assets/plugins/pace/pace-theme-flash.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/plugins/boostrapv3/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/plugins/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/plugins/jquery-scrollbar/jquery.scrollbar.css" rel="stylesheet" type="text/css" media="screen" />
+    <link href="/assets/plugins/bootstrap-select2/select2.css" rel="stylesheet" type="text/css" media="screen" />
+    <link href="/assets/plugins/switchery/css/switchery.min.css" rel="stylesheet" type="text/css" media="screen" />
+    <link href="/pages/css/pages-icons.css" rel="stylesheet" type="text/css">
+    <link class="main-stylesheet" href="/pages/css/pages.css" rel="stylesheet" type="text/css" />
+    <!--[if lte IE 9]>
+    <link href="/pages/css/ie9.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <script type="text/javascript">
+        window.onload = function()
+        {
+            // fix for windows 8
+            if (navigator.appVersion.indexOf("Windows NT 6.2") != -1)
+                document.head.innerHTML += '<link rel="stylesheet" type="text/css" href="pages/css/windows.chrome.fix.css" />'
+        }
+    </script>
+</head>
+    <style>
+        body {
+            font-family: Helvetica, Arial, sans-serif;
+            margin: 0;
+        }
+
+        h1 {
+            font-size: 20px;
+        }
+
+
+        .qtip-bootstrap {
+            font-size: 12px;
+        }
+
+        .free {
+            fill: lightsteelblue;
+        }
+
+        .cc-selector input{
+            margin:0;padding:0;
+            -webkit-appearance:none;
+            -moz-appearance:none;
+            appearance:none;
+        }
+        .ticket_1{background-image:url('/images/1_ticket.jpg');}
+        .ticket_2{background-image:url('/images/2_ticket.jpg');}
+        .ticket_3{background-image:url('/images/3_ticket.jpg');}
+        .ticket_4{background-image:url('/images/4_ticket.jpg');}
+        .ticket_5{background-image:url('/images/5_ticket.jpg');}
+
+        .cc-selector input:active +.drinkcard-cc{opacity: .9;}
+        .cc-selector input:checked +.drinkcard-cc{
+            -webkit-filter: none;
+            -moz-filter: none;
+            filter: none;
+        }
+        .drinkcard-cc{
+            cursor:pointer;
+            background-size:contain;
+            background-repeat:no-repeat;
+            display:inline-block;
+            width:155px;height:150px;
+            -webkit-transition: all 100ms ease-in;
+            -moz-transition: all 100ms ease-in;
+            transition: all 100ms ease-in;
+            -webkit-filter: brightness(1.2) grayscale(.2) opacity(.6);
+            -moz-filter: brightness(1.2) grayscale(.2) opacity(.6);
+            filter: brightness(1.2) grayscale(.2) opacity(.6);
+        }
+        .drinkcard-cc:hover{
+            -webkit-filter: brightness(1.2) grayscale(.5) opacity(.9);
+            -moz-filter: brightness(1.2) grayscale(.5) opacity(.9);
+            filter: brightness(1.2) grayscale(.5) opacity(.9);
+        }
+
+		.tooltip-inner {
+			white-space: pre-wrap;
+		}
+		
+		.panel-default>.panel-heading {
+			color: #16aced;
+		}
+		
+		.btn-success, .btn-success:focus {
+			background-color: #16aced;
+			border-color: #16aced;
+		}
+		
+		.btn-success.active, .btn-success:active, .btn-success.active:focus, .btn-success:active:focus, .btn-success:active:hover, .open .dropdown-toggle.btn-success, .btn-success.hover, .btn-success:hover, .open .dropdown-toggle.btn-success {
+			background-color: #000;
+			border-color: #000;
+		}
+    </style>
+</head>
+<body class="fixed-header   ">
+<noscript>
+    <style type="text/css">
+        .register-container {display:none;}
+    </style>
+    <div class="noscriptmsg">
+    Strona wymaga obsługi javascript. Proszę o włączenie obsługi JavaScript lub użycie innej przeglądarki.
+    </div>
+</noscript>
+<div class="register-container full-height sm-p-t-30" style="width: 75%;">
+    <div class="container-sm-height full-height">
+        <div class="row row-sm-height">
+
+            <div class="col-sm-12 col-sm-height col-middle">
+                <div class="center" style="width: 100%; text-align: center;">
+                    <img src="/images/CryptoFutureFinalExpoWhite.png" alt="logo" data-src="/images/CryptoFutureFinalExpoWhite.png" style="width: 50%" data-src-retina="/images/CryptoFutureFinalExpoWhite.png" >
+                </div>
+                <h3 style="text-align: center;">Dziękujemy za zainteresowanie się wydarzeniem<br />Crypto Future Expo 2018<br /><br />20.09.2018, PGE Narodowy (stadion Warszawa)</h3>
+				
+				<h3 style="text-align: center; font-weight: bold;">Rejestracja online została zamknięta. Jeśli nie zdążyłeś zakupić biletu, możesz to zrobić na miejscu.</h3>
+				<?php /*
+<?php if($_GET['error'] == 1) { ?><p style="color: red;">Proszę wypełnić wszystkie dane formularza.</p><?php } ?>
+                <form id="form-register" class="p-t-15" method="post" role="form" action="/kup-bilet/1">
+                    <input type="hidden" value="0" name="bon_id" id="bon_id" />
+                    <input type="hidden" value="0" name="bon_discount" id="bon_discount" />
+                    <input type="hidden" value="0" name="bitcoin" id="bitcoin" />
+
+                    <input type="hidden" value="<?php echo $ticketPrice; ?>" name="price_amount" id="price_amount" />
+                    <p>Proszę wypełnić dane w formularzu, aby dokonać zakupu biletu</p>
+                    <div class="form-group-attached">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group form-group-default">
+                                    <label>Imię</label>
+                                    <input type="text" name="visitor_firstname" placeholder="Jan" class="form-control" required>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="form-group form-group-default">
+                                    <label>Nazwisko</label>
+                                    <input type="text" name="visitor_lastname" placeholder="Kowalski" class="form-control" required>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group form-group-default">
+                                    <label>Telefon</label>
+                                    <input type="tel" name="visitor_tel" placeholder="+48" class="form-control" required>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="form-group form-group-default">
+                                    <label>Email</label>
+                                    <input type="email" name="visitor_email" placeholder="jan@kowalski.pl" class="form-control" required>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" id="">
+                        <div class="checkbox check-success">
+                            <input type="checkbox" value="1" name="ticket_fv" id="ticket_fv">
+                            <label for="ticket_fv">Chcę otrzymać fakturę</label>
+                        </div>
+                    </div>
+
+					<div id="boxFv" style="display: none" class="m-b-20">
+                        <div class="form-group-attached">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group form-group-default">
+                                        <label>Nazwa firmy</label>
+                                        <input type="text" name="visitor_company" id="visitor_company" placeholder="Podaj nazwę firmy" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group form-group-default">
+                                        <label>NIP</label>
+                                        <input type="text" name="visitor_nip" id="visitor_nip" placeholder="Wpisz tutaj NIP (tylko cyfry)" class="form-control">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group form-group-default">
+                                        <label>Ulica</label>
+                                        <input type="text" name="visitor_address" id="visitor_address" placeholder="Wpisz nazwę ulicy" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group form-group-default">
+                                        <label>Numer</label>
+                                        <input type="text" name="visitor_address2" id="visitor_address2" placeholder="Wpisz numer budynku lub lokalu" class="form-control">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group form-group-default">
+                                        <label>Kod pocztowy</label>
+                                        <input type="text" name="visitor_zipcode" id="visitor_zipcode" placeholder="00-000" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group form-group-default">
+                                        <label>Miasto</label>
+                                        <input type="text" name="visitor_city" id="visitor_city" placeholder="Wpisz miasto" class="form-control">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+					</div>
+					<?php
+						$opis[1] = "BILET BASIC
+Co zawiera bilet?
+
+- dostęp do powierzchni targowej
+- katalog targowy";
+						$opis[2] = 'BILET VIP
+Co zawiera bilet?
+ 
+- dostęp do powierzchni targowej
+- udział w całodziennej konferencji
+- katalog targowy
+- możliwość udziału w każdym warsztacie:
+* Cryptosignals – warsztaty z tradingu kryptowalut
+* Cryptorig – warsztaty z kryptokoparek i miningu
+* Cryptotaxes – warsztaty z prawa i podatków od kryptowalut';
+						$opis[3] = 'PREMIUM - 1 DZIEŃ
+Co zawiera bilet?
+ 
+- zwiedzanie stoisk jednego dnia
+  (przyjdź w sobotę lub niedzielę)
+- mapa targowa
+- katalog wydarzenia w PDF
+- pokaz kulinarny
+- strefa chillout
+- udział w Kongresie
+- trening z Gwiazdami
+- spotkanie z Gośćmi Specjalnymi
+- spotkanie z Ambasadorami
+- welcome pack
+- strefa metamorfozy
+- porady dietetyczne';
+						$opis[4] = 'VIP - 2 DNI
+Co zawiera bilet?
+ 
+- zwiedzanie stoisk w oba dni
+  (sobota i niedziela)
+- mapa targowa
+- katalog wydarzenia w PDF
+- pokaz kulinarny
+- strefa chillout
+- udział w Kongresie
+- trening z Gwiazdami
+- spotkanie z Gośćmi Specjalnymi
+- spotkanie z Ambasadorami
+- welcome pack
+- strefa metamorfozy
+- porady dietetyczne
+- warsztaty taneczne
+- warsztaty fitness
+- warsztaty dietetyczne
+- pokaz sztuk walki';
+						
+					?>
+			
+                    <div class="panel panel-default">
+                        <div class="panel-heading separator">
+                            <div class="panel-title">Wybierz ilość biletów
+                            </div>
+                        </div>
+                        <div class="panel-body" style="padding-bottom: 5px;" id="box_additional_tickets">
+                            <div class="form-group form-group-default m-t-10 box_additional_ticket_data" style="border: 0;">
+                                <i class="fa pg-minus_circle" style="font-size: 19px; color: #ca3737; float: left; cursor: pointer"></i>
+                                <input type="text" name="ticket_num" id="ticket_num" value="1" readonly class="form-control" style="text-align: center; color: #000; width: 30px; float: left;">
+                                <i class="fa pg-plus_circle" style="font-size: 19px; color: #37ca43; float: left; cursor: pointer"></i>
+                            </div>
+                        </div>
+                    </div>
+					
+					<div class="panel panel-default"  style="text-align: cetner;">
+						  <div class="panel-heading separator">
+							<div class="panel-title">Wybierz rodzaj biletu
+							</div>
+						  </div>
+						  <div class="panel-body" style="text-align: cetner;">
+                            <div class="cc-selector m-t-15" style="text-align: cetner;">
+                                <?php foreach($ticketList as $row) { if($row['ticket_type_id'] == $ticketType) {$ticketName = $row['ticket_name']; $ticketPrice = $row['ticket_price'];} ?>
+                                    <input class="radio-button" id="ticket_<?php echo $row['ticket_type_id'] ?>" data-name="<?php echo $row['ticket_name'] ?>"" data-price="<?php echo $row['ticket_price'] ?>" data-old-price="<?php echo $row['ticket_old_price'] ?>" type="radio" <?php if($row['ticket_type_id'] == $ticketType) echo 'checked="checked"'; ?> name="ticket_type_id" value="<?php echo $row['ticket_type_id'] ?>" />
+                                    <label data-toggle="tooltip" data-placement="bottom" data-original-title="<?php echo $opis[$row['ticket_type_id']] ?>" class="drinkcard-cc ticket_<?php echo $row['ticket_type_id'] ?>" for="ticket_<?php echo $row['ticket_type_id'] ?>">
+                                    <div style="width: 155px; margin-top: 150px; text-align: center;"><?php echo $row['ticket_price'] ?> PLN <?php if($row['ticket_old_price'] > 0) { ?><span style="text-decoration: line-through"><?php echo $row['ticket_old_price'] ?> PLN</span><?php } ?> (brutto)</div></label>
+                                <?php } ?>
+                            </div>
+							
+                            <div class="row" style="padding: 10px; padding-bottom: 0px; display: none;" id="ticketBoxAdditional">
+								<div class="panel-heading separator">
+									<div class="panel-title" style="font-family: Helvetica;">Jeśli chcesz wziąć udział w warsztatach dokonaj wyboru</div>
+								</div>
+							
+								<?php if($additional11 > 0) { ?> 
+                                <div class="checkbox check-success">
+									<input type="checkbox" class="additionalCheckbox" value="1" name="additional11" id="additional11">
+                                    <label for="additional11" style="white-space: normal">TRADING (10:00-12:30) (<?php echo $additional11; ?> miejsc)</label>
+                                </div>
+								<?php } if($additional12 > 0) { ?>
+								<div class="checkbox check-success">
+									<input type="checkbox" class="additionalCheckbox" value="1" name="additional12" id="additional12">
+                                    <label for="additional12" style="white-space: normal">KRYPTOKOPARKI (12:30-14:45) (<?php echo $additional12; ?> miejsc)</label>
+                                </div>
+								<?php } if($additional21 > 0) { ?>
+								<div class="checkbox check-success">
+									<input type="checkbox" class="additionalCheckbox" value="1" name="additional21" id="additional21">
+                                    <label for="additional21" style="white-space: normal">PODATKI OD KRYPTOWALUT (15:00-17:15) (<?php echo $additional21; ?> miejsc)</label>
+                                </div>
+								<?php } ?>
+                            </div>
+							
+                        </div>
+					</div>
+	
+                    <div class="panel panel-default">
+                        <div class="panel-heading separator">
+                            <div class="panel-title">Posiadasz kod rabatowy?
+                            </div>
+                        </div>
+                        <div class="panel-body">
+                            <div class="form-group form-group-default" style="border: 1px solid rgba(0, 0, 0, 0.3)">
+                                <label>Wpisz swój kod rabatowy</label>
+                                <input type="text" name="bon_code" id="bon_code" class="form-control" style="width: 250px; margin-right: 10px; float: left;" /><span style="float: left; color: green" id="bonOk2"></span><span style="float: left; color: green" id="bonOk"></span><span style="float: left; color: red;" id="bonRed"></span>
+                            </div>
+                            <button class="btn btn-success btn-cons" formnovalidate id="checkBon" onclick="javascript:void(0)" style="float: left;">Zastosuj</button>
+                        </div>
+                    </div>
+					
+					
+					<div class="row">
+						<div class="panel panel-default">
+						  <div class="panel-heading separator">
+							<div class="panel-title">Podsumowanie
+							</div>
+						  </div>
+						  <div class="panel-body">
+							<h4><span style="color: #16aced; font-weight: 400">Wybrany bilet:</span> <span id="box_bilet"><?php echo $ticketName; ?></span></h4>
+							<h4 class="m-b-10"><span style="color: #16aced; font-weight: 400">Do zapłaty:</span> <span id="box_price"><?php echo $ticketPrice; ?></span> PLN</h4>
+						  </div>
+						</div>
+					</div>
+
+					
+					
+                    <div class="row m-t-10">
+						<div class="checkbox check-success">
+							<input type="checkbox" value="1" name="regulamin1" id="regulamin1" required>
+							<label class="question" for="regulamin1" style="white-space: normal">Oświadczam, że zostałem poinformowany, zgodnie z art.24 ust. 1 ustawy z dnia 29 sierpnia 1997r. o ochronie danych osobowych (t.j. Dz. U. z 2002r. nr 101, poz 926 ze zm.), że administratorem danych osobowych jest Innovative Group spółka z ograniczoną odpowiedzialnością z siedzibą w Warszawie (02-495), ul. Ryżowa 49. Dane osobowe będą przetwarzane w celu realizacji płatności i finalnego zakupu biletu.</label>
+						</div>
+                        <div class="checkbox check-success">
+							<input type="checkbox" value="1" name="regulamin" id="regulamin" required>
+							<label class="question" for="regulamin" style="white-space: normal">Oświadczam, że zapoznałem/am się z <a href="http://cryptoexpo.pl/polityka-prywatnosci/ " class="text-info" style="font-weight: bold; text-decoration: underline;" target="_blank">regulamin</a> i akceptuję jej treść.</label>
+						</div>
+						<div class="checkbox check-success">
+							<input type="checkbox" value="1" name="zgoda" id="zgoda">
+							<label class="question" for="zgoda" style="white-space: normal;">Wyrażam zgodę na przetwarzanie moich danych osobowych przez Innovative Group Spółka z ograniczoną odpowiedzialnością oraz Partnerów wydarzenia Crypto Future Expo, w celach związanych z przekazywaniem informacji dotyczących działalności i oferty.</label>
+						</div>
+					</div>
+					<div class="row m-t-10">
+                        <div class="col-md-12 m-t-10" style="text-align: center">
+                            <p>Szybki kontakt: <a href="tel:796008484">796 008 484</a></p>
+                        </div>
+                    </div>
+					<div class="row m-t-10">
+                        <div class="col-md-12 m-t-10" style="text-align: center">
+                            <button class="btn btn-success btn-cons m-b-40" style="margin-bottom: 80px; padding: 20px; font-size: 20px;" type="submit">Zapłać PLN</button>
+                            <button class="btn btn-success btn-cons m-b-40" style="margin-bottom: 80px; padding: 20px; font-size: 20px;" onclick="$('#bitcoin').val(1); $('#form-register').submit();" type="button">Zapłać Bitcoin</button>
+                        </div>
+                    </div>
+                </form> */ ?>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- END OVERLAY -->
+<!-- BEGIN VENDOR JS -->
+<script src="/assets/plugins/pace/pace.min.js" type="text/javascript"></script>
+<script src="/assets/plugins/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/assets/plugins/modernizr.custom.js" type="text/javascript"></script>
+<script src="/assets/plugins/jquery-ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/assets/plugins/boostrapv3/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="/assets/plugins/jquery/jquery-easy.js" type="text/javascript"></script>
+<script src="/assets/plugins/jquery-unveil/jquery.unveil.min.js" type="text/javascript"></script>
+<script src="/assets/plugins/jquery-bez/jquery.bez.min.js"></script>
+<script src="/assets/plugins/jquery-ios-list/jquery.ioslist.min.js" type="text/javascript"></script>
+<script src="/assets/plugins/jquery-actual/jquery.actual.min.js"></script>
+<script src="/assets/plugins/jquery-scrollbar/jquery.scrollbar.min.js"></script>
+<script type="text/javascript" src="/assets/plugins/bootstrap-select2/select2.min.js"></script>
+<script type="text/javascript" src="/assets/plugins/classie/classie.js"></script>
+<script src="/assets/plugins/switchery/js/switchery.min.js" type="text/javascript"></script>
+<script src="/assets/plugins/jquery-validation/js/jquery.validate.min.js" type="text/javascript"></script>
+<!-- END VENDOR JS -->
+<!-- BEGIN CORE TEMPLATE JS -->
+<script src="/pages/js/pages.min.js"></script>
+<!-- END CORE TEMPLATE JS -->
+<!-- BEGIN PAGE LEVEL JS -->
+<script src="/assets/js/scripts.js" type="text/javascript"></script>
+<script src="/assets/plugins/jquery-validation/js/localization/messages_pl.min.js" type="text/javascript"></script>
+<!-- END PAGE LEVEL JS -->
+<script>
+    $(function()
+    {
+		$.validator.setDefaults({
+			messages: {
+				required: "Pole nie zostało wypełnione, uzupełnij"
+			},
+            button: {
+                selector: '[type="submit"]:not([formnovalidate])'
+            },
+			errorPlacement: function (error, element) {
+				if (element.attr("type") == "checkbox") {
+					error.insertAfter($(element).parent());
+				} else {
+					// something else if it's not a checkbox
+				}
+			}
+		});
+		
+		<?php if($ticketType == 2) { ?>
+			$('#ticketBoxAdditional').show();
+		<?php } ?>
+
+        $('#form-register').validate();
+
+        function calcPrice(ile) {
+
+            var price = $('.radio-button').filter(':checked').data('price');
+			/*var countWarsztat = 0;
+            if($('#additional11').is(':checked')) {
+                price += 99;
+				countWarsztat++;
+			}
+			if($('#additional12').is(':checked')) {
+                price += 99;
+				countWarsztat++;
+			}
+			if($('#additional21').is(':checked')) {
+                price += 149;
+				countWarsztat++;
+			}
+			if($('#additional22').is(':checked')) {
+                price += 149;
+				countWarsztat++;
+			}
+			if($('#additional31').is(':checked')) {
+                price += 99;
+				countWarsztat++;
+			}
+			if($('#additional32').is(':checked')) {
+                price += 99;
+				countWarsztat++;
+			}*/
+
+			$('#bonOk2').html('');
+			
+            if($('#bon_discount').val() > 0) {
+                price = price-((price*($('#bon_discount').val()))/100);
+				price = price.toFixed(2);
+            } /*else if(countWarsztat >= 2) {
+				price = price-((price*(10))/100);
+				$('#bonOk2').html('').html('10% zniżki za udział w przynajmniej 2 warsztatach');
+			}*/
+
+            price = price*ile;
+            $('#price_amount').val(price);
+            $('#box_price').html(price);
+
+            return price;
+        }
+
+        $('.pg-minus_circle').on('click', function() {
+            var num = $('#ticket_num').val();
+            if(num > 1) {
+                $('#ticket_num').val(num-1);
+                $('#box_additional_tickets').find('.box_additional_ticket_data').last().remove();
+
+                calcPrice(num-1);
+            }
+        });
+
+        $('.pg-plus_circle').on('click', function() {
+            var num = parseInt($('#ticket_num').val());
+            if(num < 10) {
+                $('#ticket_num').val(num+1);
+                var html = '<div class="box_additional_ticket_data m-t-10"><p>Podaj dane uczestnika numer ' + (num+1) + '</p>' +
+                            '<div class="form-group-attached">' +
+                                '<div class="row">' +
+                                    '<div class="col-sm-6">' +
+                                        '<div class="form-group form-group-default">' +
+                                            '<label>Imię</label>' +
+                                            '<input type="text" id="visitor2_firstname_' + (num+1) + '" name="visitor2_firstname[' + (num+1) + ']" placeholder="Jan" class="form-control" required>' +
+                                        '</div>' +
+                                    '</div>' +
+                                    '<div class="col-sm-6">' +
+                                        '<div class="form-group form-group-default">' +
+                                            '<label>Nazwisko</label>' +
+                                            '<input type="text" id="visitor2_lastname_' + (num+1) + '" name="visitor2_lastname[' + (num+1) + ']" placeholder="Kowalski" class="form-control" required>' +
+                                        '</div>' +
+                                    '</div>' +
+                                '</div>' +
+                            '</div></div>';
+                $('#box_additional_tickets').find('.box_additional_ticket_data').last().after(html);
+
+                calcPrice(num+1);
+            }
+        });
+
+        $('.radio-button').on('click', function() {
+            var name = $(this).data('name');
+			
+			if($(this).val() != 2) {
+				$('#ticketBoxAdditional').hide();
+				//$('#ticketBoxAdditional2').hide();
+				$('.additionalCheckbox').each(function() {
+					$(this).attr('checked', false);
+				})
+			} else {
+				$('#ticketBoxAdditional').show();
+				//$('#ticketBoxAdditional2').show();
+			}
+
+            if($('.additionalCheckbox').is(':checked')) {
+				name = name + ' + udział w warsztatach';
+            }
+
+            $('#box_bilet').html(name);
+            calcPrice(parseInt($('#ticket_num').val()));
+        });
+		
+		$('#ticket_fv').on('click', function() {
+			if ( $(this).is(':checked') ) {
+				$('#boxFv').show();
+			} else {
+				$('#boxFv').hide();
+				$('#visitor_company').val('');
+				$('#visitor_nip').val('');
+				$('#visitor_address').val('');
+				$('#visitor_address2').val('');
+				$('#visitor_zipcode').val('');
+				$('#visitor_city').val('');
+				
+			}
+		});
+		
+		$('.additionalCheckbox').on('click', function() {
+			if ( $(this).is(':checked') ) {
+				var name = $('.radio-button').filter(':checked').data('name');
+				var name = name + ' + udział w warsztatach';
+			} else {
+				var name = $('.radio-button').filter(':checked').data('name');
+			}
+
+			$('#box_bilet').html(name);
+            //calcPrice(parseInt($('#ticket_num').val()));
+		});
+
+		$('#checkBon').on('click', function(e) {
+
+		    e.preventDefault();
+
+            $.ajax({
+                method: "POST",
+                url: "/ajax/visitor/bon/check",
+                data: { bon_code: $('#bon_code').val() }
+            }).done(function( msg ) {
+                if(msg.status == 'error') {
+                    $('#bonRed').html('').html(msg.komunikat);
+                    $('#bonOk').html('');
+                    $('#bon_id').val(0);
+                    $('#bon_discount').val(0);
+
+                } else {
+                    $('#bonRed').html('');
+                    $('#bonOk').html('').html('Koszt biletów został obniżony o ' + msg.bon_discount + '%');
+                    $('#bon_id').val(msg.bon_id);
+                    $('#bon_discount').val(msg.bon_discount);
+
+                }
+
+                calcPrice(parseInt($('#ticket_num').val()));
+            
+            });
+        })
+        return false;
+    })
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108264765-1"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'UA-108264765-1');
+</script>
+</body>
+</html>

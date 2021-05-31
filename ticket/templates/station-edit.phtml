@@ -1,0 +1,35 @@
+<form role="form" id="form" action="/ajax/planning/station/edit/<?php echo $id; ?>" method="post">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="form-group form-group-default">
+                <label>Nazwa</label>
+                <input id="station" type="text" class="form-control" value="<?php echo $result['station_name']; ?>" name="station">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="form-group form-group-default">
+                <label>Status</label>
+                <select name="station_active">
+                    <option <?php if($result['station_active'] == 1) echo 'selected="selected"'; ?> value="1">wolne</option>
+                    <option <?php if($result['station_active'] == 0) echo 'selected="selected"'; ?> value="0">zarezerwowane</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Cena PLN netto</label>
+                <input id="station_price" type="text" class="form-control" value="<?php echo $result['station_price']; ?>" name="station_price">
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="form-group form-group-default">
+                <label>Powierzchnia</label>
+                <input id="station_area" type="text" class="form-control" value="<?php echo $result['station_area']; ?>" name="station_area">
+            </div>
+        </div>
+    </div>
+</form>

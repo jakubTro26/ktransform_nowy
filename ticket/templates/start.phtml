@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<!--[if IE 7 ]>
+<html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>
+<html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en"> <!--<![endif]-->
+<head>
+
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <title>Lotto</title>
+    <meta name="description" content="Mastenia Responsive Form wizar landing page">
+    <meta name="author" content="">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/css/metro.css">
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Jquery -->
+    <script src="/js/jquery-1.7.1.min.js"></script>
+    <script src="http://cdn.jquerytools.org/1.2.6/all/jquery.tools.min.js"></script>
+    <script src="/js/metro.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#selectsearch").change(function () {
+
+                $('#system')
+                    .find('option')
+                    .remove();
+
+                var select = $('#system');
+
+                $.ajax({
+                    method: "GET",
+                    dataType: "json",
+                    url: "/analysis/game/getSystem",
+                    data: { id: $(this).find(':selected').val()}
+                })
+                    .done(function (data) {
+                        console.log(data);
+                        $.each(data, function (key, value) {
+                            select
+                                .append($("<option></option>")
+                                    .attr("value", key)
+                                    .text(value));
+                        })
+                    });
+            });
+        })
+    </script>
+</head>
+<body>
+<form method="get" action="/analysis/game/system">
+    Nazwa gry:
+    <select class="input-control select" name="game_id" id="selectsearch">
+        <option value="">-- wybierz --</option>
+        <?php foreach ($games as $key => $row) { ?>
+            <option value="<?php echo $key; ?>"><?php echo $row; ?></option>
+        <?php } ?>
+    </select>
+    <select class="input-control select" name="system_id" id="system">
+        <option value="">-- wybierz --</option>
+    </select>
+    <input type="submit" value="Wybierz"/>
+</form>
+</body>
+</html>
