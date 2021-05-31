@@ -93,7 +93,7 @@ if ( ! empty( $el_id ) ) {
 $output .= '<div ' . implode( ' ', $wrapper_attributes ) . '>';
 $output .= '<div class="vc_column-inner ' . esc_attr( trim( vc_shortcode_custom_css_class( $css ) ) ) . '">';
 $output .= '<div class="wpb_wrapper">';
-$output .= wpb_js_remove_wpautop( $content );
+//$output .= wpb_js_remove_wpautop( $content );
 $output .= '</div>';
 $output .= '</div>';
 $output .= '</div>';
