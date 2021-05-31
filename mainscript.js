@@ -6,7 +6,7 @@ window.onload = function() {
  $('#ParentTab > ul > li > div.jx-ievent-tab-day.jx-ievent-uppercase').innerHTML="30/06/2021";
 
   $ = document.querySelector.bind(document)
-console.log('loadeddf');
+console.log('loadeddff');
 
 
 
