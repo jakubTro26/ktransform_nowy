@@ -248,7 +248,7 @@ function agenda2(){
 
   var opisDiv=document.createElement('div');
   
-  opisDiv.innerHTML=starzynskiOpis;
+  opisDiv.innerHTML=miszulowiczOpis;
   
   var miszulowicz = document.querySelector('#ChildTab-1 > div > div > div > div:nth-child(23) > div.right-position');
   
