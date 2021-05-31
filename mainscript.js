@@ -40,6 +40,9 @@ $('body > div.jx-ievent-summary-info > div > ul > li:nth-child(2)').style.width=
 
 if(window.location.href=="https://kongrestransformacji.pl/" || window.location.href=="https://kongrestransformacji.pl/#schedule" || window.location.href=="https://kongrestransformacji.pl/#about" || window.location.href=="https://kongrestransformacji.pl/#speakers"  ){
 
+
+$('#sponsorzy').style.width="400px";
+
   dodajimg1();
   dodajimg2();
 
