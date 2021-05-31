@@ -87,8 +87,7 @@ $wrapper_attributes[] = 'class="' . esc_attr( trim( $css_class ) ) . '"';
 if ( ! empty( $el_id ) ) {
 	$wrapper_attributes[] = 'id="' . esc_attr( $el_id ) . '"';
 }
-echo 'content123';
-var_dump($content);
+
 
 $output .= '<div ' . implode( ' ', $wrapper_attributes ) . '>';
 $output .= '<div class="vc_column-inner ' . esc_attr( trim( vc_shortcode_custom_css_class( $css ) ) ) . '">';
