@@ -1,6 +1,15 @@
 
 window.onload = function() {
 
+
+
+  $(".register").click(function() {
+    $([document.documentElement, document.body]).animate({
+        scrollTop: $("#register").offset().top
+    }, 2000);
+});
+
+
   $ = document.querySelector.bind(document)
 console.log('loadedd');
 
