@@ -42,6 +42,9 @@ if(window.location.href=="https://kongrestransformacji.pl/" || window.location.h
 
 
 $('#sponsorzy').style.width="400px";
+$('#sponsorzy').style.position="relative";
+$('#sponsorzy').style.left="50%";
+$('#sponsorzy').style.transform="translateX(-44%)";
 
   dodajimg1();
   dodajimg2();
