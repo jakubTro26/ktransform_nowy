@@ -30,7 +30,6 @@
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 
 	<link rel="stylesheet" type="text/css" href="https://kongrestransformacji.pl/wp-content/themes/ievent/css/mojstyl.css?ver=<?php echo rand(111,999)?>">
-	<link rel="stylesheet" type="text/css" href="https://kongrestransformacji.pl/wp-content/themes/ievent/css/skeleton2.css?ver=<?php echo rand(111,999)?>"> 
     <!-- Mobile Specific Metas
   ================================================== -->
     <?php if($ievent_data['check_responsive'] == 1) { ?><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"><?php } ?>    

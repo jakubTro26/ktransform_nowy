@@ -62,7 +62,7 @@
 										<a href="">RELACJA</a>
 									</li>
 									<li class="register"  style="cursor:pointer; ">
-										<a href="#register">REJESTRACJA</a>
+										<a>REJESTRACJA</a>
 									</li>
 
 
