@@ -993,7 +993,7 @@ if (!function_exists('of_options'))
 		$of_options[] = array( "name" => "Logo",
 							"desc" => "Select an image file for your logo.",
 							"id" => "logo",
-							"std" => 'https://kongrestransformacji.pl/wp-content/uploads/2019/04/cyfrowa_transformacja_logo-1.png',
+							"std" => get_template_directory_uri()."/images/ievent-logo.png",
 							"mod" => "",
 							"type" => "media");
 							
@@ -1097,7 +1097,7 @@ if (!function_exists('of_options'))
 		$of_options[] = array( "name" => "Footer Logo",
 							"desc" => "Select an image file for your footer logo.",
 							"id" => "footer-logo",
-							"std" => 'https://kongrestransformacji.pl/wp-content/uploads/2019/04/cyfrowa_transformacja_logo-1.png',
+							"std" => get_template_directory_uri()."/images/ievent-logo.png",
 							"mod" => "",
 							"type" => "media");						
 		
