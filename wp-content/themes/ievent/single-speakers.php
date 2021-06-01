@@ -2,7 +2,7 @@
 global $ievent_data;
 
 	if ($ievent_data['speaker_view']=='single-page'):
-		get_header();
+		//get_header();
 		$class_single='speaker-single-page';
 	elseif ($ievent_data['speaker_view']=='pop-up'):
 		$class_single='speaker-pop-up';
