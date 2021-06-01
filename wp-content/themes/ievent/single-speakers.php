@@ -210,7 +210,7 @@ global $ievent_data;
 
 		
 ?>
-<body class="klasa">
+<body class="page-template-default page page-id-2032 wpb-js-composer js-comp-ver-5.4.5 vc_responsive" style="overflow: visible;">
  <!-- BOF Main Content -->
     <div id="main" role="main" class="main">
         <div id="primary" class="content-area">
