@@ -31,13 +31,20 @@ $('#post-2032 > div > div > div > div > div > div > div:nth-child(2) > div > p:n
 $('#post-2032 > div > div > div > div > div > div > div:nth-child(2) > div > p:nth-child(10)').style.margin="0px";
 $('#post-2032 > div > div > div > div > div > div > div:nth-child(2) > div > p:nth-child(11)').style.margin="0px";
 
-document.querySelector('body > div.jx-ievent-slider.header-1.kontakt > header > div > div > div > div > div.jx-ievent-logo.left > a > img').src="https://kongrestransformacji.pl/wp-content/uploads/2019/04/cyfrowa_transformacja_logo-1.png";
+document.querySelector('body > div.jx-ievent-slider.header-1.prelegenci > header > div > div > div > div > div.jx-ievent-logo.left > a > img').src="https://kongrestransformacji.pl/wp-content/uploads/2019/04/cyfrowa_transformacja_logo-1.png";
 //background:url(https://kongresksiegowych.pl/wp-content/uploads/2018/04/kamil-gliwinski-568269-unsplash.jpg); background-position:center
 document.querySelector('#home > div.page-titlebar-bg.parallax-no').style.background='url(https://kongresksiegowych.pl/wp-content/uploads/2018/04/kamil-gliwinski-568269-unsplash.jpg)';
 document.querySelector('#home > div.page-titlebar-bg.parallax-no').style.backgroundPosition="center";
 $('body > div.jx-ievent-summary-info > div > ul > li:nth-child(2)').style.width="426px";
 
 }
+
+if(window.location.href=="https://kongrestransformacji.pl/prelegenci/"){
+  document.querySelector('body > div.jx-ievent-slider.header-1.kontakt > header > div > div > div > div > div.jx-ievent-logo.left > a > img').src="https://kongrestransformacji.pl/wp-content/uploads/2019/04/cyfrowa_transformacja_logo-1.png";
+    document.querySelector('#home > div.page-titlebar-bg.parallax-no').style.background='url(https://kongresksiegowych.pl/wp-content/uploads/2018/04/kamil-gliwinski-568269-unsplash.jpg)';
+    document.querySelector('#home > div.page-titlebar-bg.parallax-no').style.backgroundPosition="center";
+}
+
 
 if(window.location.href=="https://kongrestransformacji.pl/" || window.location.href=="https://kongrestransformacji.pl/#schedule" || window.location.href=="https://kongrestransformacji.pl/#about" || window.location.href=="https://kongrestransformacji.pl/#speakers"  ){
 
