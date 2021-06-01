@@ -22,6 +22,8 @@ $('#ChildTab-1 > div > div > div > div:nth-child(5)').style.display="none";
 
 if(window.location.href=="https://kongrestransformacji.pl/kontakt/")
 {
+
+$('body > div.jx-ievent-summary-info > div > ul > li:nth-child(2) > div > div > div.jx-ievent-bar-head').innerHtml="535-312-144";
 $('#post-2032 > div > div > div > div > div > div > div:nth-child(2) > div > p:nth-child(2)').style.margin="0px";
 $('#post-2032 > div > div > div > div > div > div > div:nth-child(2) > div > p:nth-child(3)').style.margin="0px";
 $('#post-2032 > div > div > div > div > div > div > div:nth-child(2) > div > p:nth-child(5)').style.margin="0px";
