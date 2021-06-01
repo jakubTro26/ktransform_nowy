@@ -15,7 +15,7 @@ global $ievent_data;
     <div id="main" role="main" class="main">
         <div id="primary" class="content-area">
             <div class="container">
-                <div class="sixteen columns jx-ievent-padding <?php echo $class_single; ?>">
+                <div class="sixteen columns jx-ievent-padding f <?php echo $class_single; ?>">
                 
                 
                 	<?php while ( have_posts() ) : the_post(); ?>
