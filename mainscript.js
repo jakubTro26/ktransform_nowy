@@ -71,7 +71,7 @@ $('#speakers > div.container > div > div > div > div:nth-child(1) > div:nth-chil
 if(window.location.href=="https://kongrestransformacji.pl/partnerzy/")
 {
 
-document.querySelector('body > div.jx-ievent-slider.header-1.partnerzy > header > div > div > div > div > div.jx-ievent-logo.left > a > img').src="https://kongrestransformacji.pl/wp-content/uploads/2019/04/cyfrowa_transformacja_logo-1.png";
+document.querySelector('body > div.jx-ievent-slider.header-1.prelegenci > header > div > div > div > div > div.jx-ievent-logo.left > a > img').src="https://kongrestransformacji.pl/wp-content/uploads/2019/04/cyfrowa_transformacja_logo-1.png";
 
 document.querySelector('#home > div.page-titlebar-bg.parallax-no').style.background='url(https://kongresksiegowych.pl/wp-content/uploads/2018/04/kamil-gliwinski-568269-unsplash.jpg)';
 document.querySelector('#home > div.page-titlebar-bg.parallax-no').style.backgroundPosition="center";
@@ -218,8 +218,8 @@ f.href="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-30.png"
 var fimg=document.createElement('img');
 fimg.style.width="200px";
 fimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-30.png";
-f.insertAdjacentElement('afterBegin', fimg);
-document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > div > div > div > div.wpb_text_column.wpb_content_element > div > center').insertAdjacentElement('afterBegin',f);
+f.insertAdjacentElement('afterBegin', fimg);_content_element > di
+document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > div > div > div > div.wpb_text_column.wpbv > center').insertAdjacentElement('afterBegin',f);
 
 
 }
