@@ -15,7 +15,7 @@ document.querySelector('.register').onclick=function(){
 
 if(window.location.href=="https://kongrestransformacji.pl/"){
 
-$('#ParentTab > ul > li > div.jx-ievent-tab-day.jx-ievent-uppercase').innerHTML="30/06/2021";
+
 $('#ChildTab-1 > div > div > div > div:nth-child(5)').style.display="none";
 
 }
@@ -49,7 +49,7 @@ $('body > div.jx-ievent-summary-info > div > ul > li:nth-child(2)').style.width=
 
 
 if(window.location.href=="https://kongrestransformacji.pl/" || window.location.href=="https://kongrestransformacji.pl/#schedule" || window.location.href=="https://kongrestransformacji.pl/#about" || window.location.href=="https://kongrestransformacji.pl/#speakers"  ){
-
+  $('#ParentTab > ul > li > div.jx-ievent-tab-day.jx-ievent-uppercase').innerHTML="30/06/2021";
 $('#ChildTab-1 > div > div > div > div:nth-child(5)').style.display="none";
 $('#sponsorzy').style.width="400px";
 $('#sponsorzy').style.position="relative";
