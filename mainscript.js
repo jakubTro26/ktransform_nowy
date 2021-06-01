@@ -41,7 +41,7 @@ $('body > div.jx-ievent-summary-info > div > ul > li:nth-child(2)').style.width=
 
 if(window.location.href=="https://kongrestransformacji.pl/" || window.location.href=="https://kongrestransformacji.pl/#schedule" || window.location.href=="https://kongrestransformacji.pl/#about" || window.location.href=="https://kongrestransformacji.pl/#speakers"  ){
 
-
+$('#ChildTab-1 > div > div > div > div:nth-child(5)').style.display="none";
 $('#sponsorzy').style.width="400px";
 $('#sponsorzy').style.position="relative";
 $('#sponsorzy').style.left="50%";
