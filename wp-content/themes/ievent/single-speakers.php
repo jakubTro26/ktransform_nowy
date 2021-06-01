@@ -1,6 +1,11 @@
+
+
+
+<head class="test"></head>
 <?php 
 global $ievent_data;
 
+    
 	if ($ievent_data['speaker_view']=='single-page'):
 		//get_header();
 		$class_single='speaker-single-page';
