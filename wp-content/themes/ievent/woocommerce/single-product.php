@@ -50,7 +50,7 @@ global $ievent_data;
     <div id="main" role="main" class="main">
         <div id="primary" class="content-area">
                 <div class="container <?php echo esc_attr( $set_content_width ); ?>">
-                    <div class="sixteen columns jx-ievent-padding <?php echo esc_attr( $content_class ); ?>">
+                    <div class="sixteen columns jx-ievent-padding g <?php echo esc_attr( $content_class ); ?>">
 						<?php
                         $hide_breadcrumbs = '';
                         if ( isset( $ievent_data['opt_hide_breadcrumbs_product'] ) && $ievent_data['opt_hide_breadcrumbs_product'] != '0' ) {
