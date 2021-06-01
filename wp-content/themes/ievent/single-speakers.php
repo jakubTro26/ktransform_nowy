@@ -210,7 +210,7 @@ global $ievent_data;
 
 		
 ?>
-
+<body class="klasa">
  <!-- BOF Main Content -->
     <div id="main" role="main" class="main">
         <div id="primary" class="content-area">
@@ -241,7 +241,7 @@ global $ievent_data;
             <!-- EOF Container -->
         </div><!-- #primary -->
     </div>
-    
+</body>  
 <?php 
 
 
