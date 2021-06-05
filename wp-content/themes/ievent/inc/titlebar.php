@@ -571,7 +571,7 @@ if((get_post_meta( get_the_ID(), 'jx_ievent_title_bar', true )) and (get_post_me
                 
                 
                 <div id="home" class="jx-ievent-page-titlebar">
-                    <div class="page-titlebar-bg d parallax-no" style="background:url('https://kongrestransformacji.pl/back.jpg'); background-position:<?php echo esc_attr($ievent_data['header_bg_image_pos']); ?>"></div>
+                    <div class="page-titlebar-bg d parallax-no" style="background:url(<?php echo esc_url($ievent_data['header_bg_image']); ?>); background-position:<?php echo esc_attr($ievent_data['header_bg_image_pos']); ?>"></div>
                     <!-- Background Image -->                    
                     <div class="container">
                         <?php if(get_post_meta( get_the_ID(), 'jx_ievent_breadcrumbs', true )): ?>
