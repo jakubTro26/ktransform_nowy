@@ -219,7 +219,7 @@ if((get_post_meta( get_the_ID(), 'jx_ievent_title_bar', true )) and (get_post_me
 				?>
                 
                 <div id="home" class="jx-ievent-page-titlebar">
-                    <div class="page-titlebar-bg parallax-no" style="background:url(<?php echo esc_url($images_url_1); ?>); background-position:<?php echo get_post_meta(get_the_ID(),'jx_ievent_bg_image_pos',true); ?>"></div>
+                    <div class="page-titlebar-bg d parallax-no" style="background:url(<?php echo esc_url($images_url_1); ?>); background-position:<?php echo get_post_meta(get_the_ID(),'jx_ievent_bg_image_pos',true); ?>"></div>
                     <!-- Background Image -->                    
                         <div class="container">
                         <?php if(get_post_meta( get_the_ID(), 'jx_ievent_breadcrumbs', true )): ?>
