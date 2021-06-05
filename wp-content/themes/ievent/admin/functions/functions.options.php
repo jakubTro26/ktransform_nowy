@@ -1042,7 +1042,7 @@ if (!function_exists('of_options'))
 		$of_options[] = array( "name" => "Header Background Image",
 							"desc" => "Upload header background image or paste image path.",
 							"id" => "header_bg_image",
-							"std" => get_template_directory_uri()."/images/default-titlebar.jpg",
+							"std" => get_template_directory_uri()."/images/titlebar.jpg",
 							"mod" => "",
 							"type" => "media");	
 							
