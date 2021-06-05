@@ -1,7 +1,7 @@
 <header>
         <div class="header-1">
         	<?php if ($ievent_data['check_sticky_header']): ?>
-        	<div class="jx-ievent-header jx-ievent-sticky">
+        	<div class="jx-ievent-header f jx-ievent-sticky">
             <?php else: ?>
             <div class="jx-ievent-header">
             <?php endif; ?>
