@@ -569,10 +569,8 @@ if((get_post_meta( get_the_ID(), 'jx_ievent_title_bar', true )) and (get_post_me
 				
                 
                 <?php 
-					
-					echo 'src123';
-					echo $ievent_data['header_bg_image'];
-					
+			
+			$ievent_data['header_bg_image']='http://kongrestransformacji.pl/wp-content/themes/ievent/images/bar.jpg';
 					
 					?>
                 
