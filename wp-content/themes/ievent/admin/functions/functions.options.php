@@ -1045,6 +1045,9 @@ if (!function_exists('of_options'))
 							"std" => get_template_directory_uri()."/images/bar.jpg",
 							"mod" => "",
 							"type" => "media");	
+
+							echo 'dir123';
+						 	echo get_template_directory_uri();
 							
 		$of_options[] = array( "name" => "Background Image Position",
 							"desc" => "Set Background Position.",
