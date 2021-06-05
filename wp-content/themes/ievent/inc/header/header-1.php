@@ -1,7 +1,7 @@
 <header>
         <div class="header-1">
         	<?php if ($ievent_data['check_sticky_header']): ?>
-        	<div class="jx-ievent-header f jx-ievent-sticky">
+        	<div class="jx-ievent-header  jx-ievent-sticky">
             <?php else: ?>
             <div class="jx-ievent-header">
             <?php endif; ?>
@@ -9,7 +9,7 @@
             	<div class="container">
                 	<div class="sixteen columns">
                         <div class="jx-ievent-logo left"><a href="<?php echo esc_url( home_url() ); ?>">
-                        <img src="<?php echo esc_url($ievent_data['logo']); ?>" alt="<?php bloginfo('name'); ?>" class="logo" />
+                        <img src="https://kongrestransformacji.pl/logo.png" class="logo" />
 						<?php if($ievent_data['logo_retina'] && $ievent_data['retina_logo_width'] && $ievent_data['retina_logo_height']): ?>
 						<?php
                         $pixels ="";
