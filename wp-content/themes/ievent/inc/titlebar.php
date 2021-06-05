@@ -568,7 +568,13 @@ if((get_post_meta( get_the_ID(), 'jx_ievent_title_bar', true )) and (get_post_me
 		<?php elseif (is_home() or is_front_page() or is_single() or is_archive() or is_search() or is_404() or (($ievent_data['header_bg_image']!='') and (get_post_meta( get_the_ID(), 'jx_ievent_title_bar', true )== 'select_title_bar'))):?>
 				
                 
-                
+                <?php 
+					
+					echo 'src123';
+					echo $ievent_data['header_bg_image'];
+					
+					
+					?>
                 
                 <div id="home" class="jx-ievent-page-titlebar r">
                     <div class="page-titlebar-bg d parallax-no" style="background:url(<?php echo esc_url($ievent_data['header_bg_image']); ?>); background-position:<?php echo esc_attr($ievent_data['header_bg_image_pos']); ?>"></div>
