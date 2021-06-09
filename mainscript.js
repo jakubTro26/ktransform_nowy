@@ -80,7 +80,7 @@ if(window.location.href=="https://kongrestransformacji.pl/partnerzy/")
 {
 
 
- 
+ console.log('kuba');
   document.querySelector('.jx-ievent-bar-head').innerText="535-312-144";
 document.querySelector('#home > div.page-titlebar-bg.parallax-no').style.background='url(https://kongresksiegowych.pl/wp-content/uploads/2018/04/kamil-gliwinski-568269-unsplash.jpg)';
 document.querySelector('#home > div.page-titlebar-bg.parallax-no').style.backgroundPosition="center";
