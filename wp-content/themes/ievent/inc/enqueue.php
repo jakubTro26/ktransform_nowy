@@ -39,7 +39,7 @@ function jx_ievent_styles()
 	$theme_base_color=esc_attr($ievent_data['theme_base_color']);
 	
 	/*---------------- Register CSS Styles ------------------------*/
-	wp_enqueue_style( 'ievent-skeleton', get_template_directory_uri() . '/css/skeleton.css', array(), rand( 100, 999 ), 'all' );
+	//wp_enqueue_style( 'ievent-skeleton', get_template_directory_uri() . '/css/skeleton.css', array(), rand( 100, 999 ), 'all' );
 	wp_enqueue_style( 'ievent-dynamic', get_template_directory_uri() . '/css/dynamic_ievent.css', array(), '1', 'all' );
 	wp_enqueue_style( 'ievent-font-awesome', get_template_directory_uri() . '/fonts/font-awesome.min.css', array(), '1', 'all' );
 	wp_enqueue_style( 'ievent-theme-animate', get_template_directory_uri() . '/css/theme-animate.css', array(), '1', 'all' );
