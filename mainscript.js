@@ -103,6 +103,9 @@ document.querySelector('.four.columns').style.width="1200px";
 
 var countDownDate = new Date("Jun 30, 2021 7:00:00").getTime();
 
+if(window.location.href=="https://kongrestransformacji.pl/")
+{
+
 var x = setInterval(function() {
 
   // Get today's date and time
@@ -132,7 +135,7 @@ document.querySelector('.seconds.count').innerHTML=seconds;
   }
 }, 1000);
 
-
+}
 
 if(window.location.href=="https://kongrestransformacji.pl/kontakt/"){
 document.querySelector('#speakers > div.container > div > div > div > div:nth-child(1) > div:nth-child(3) > div > div > div > div > p:nth-child(2)').style.margin="0px";
