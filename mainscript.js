@@ -178,10 +178,14 @@ document.querySelector('#sponsorzy').insertAdjacentElement('afterBegin',a)
 
 var maindiv = document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > div > div > div > div.wpb_text_column.wpb_content_element > div > center');
 
+
+if(window.location.href=="https://kongrestransformacji.pl/")
+{
+
 for(i =0; i<maindiv.childElementCount;i++){
 maindiv.children[i].style.display="none";
 }
-
+}
 
 wspimg = function(){
 var b = document.createElement('a');
