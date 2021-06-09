@@ -20,12 +20,7 @@ $('#ChildTab-1 > div > div > div > div:nth-child(5)').style.display="none";
 
 }
 
-if(window.location.href=="https://kongrestransformacji.pl/partnerzy/")
-{
-$('.jx-ievent-bar-head').innerText="535-312-144";
-console.log('part');
-  
-}
+
 
 if(window.location.href=="https://kongrestransformacji.pl/kontakt/")
 {
@@ -85,7 +80,7 @@ if(window.location.href=="https://kongrestransformacji.pl/partnerzy/")
 {
 
 
-
+  $('.jx-ievent-bar-head').innerText="535-312-144";
 document.querySelector('#home > div.page-titlebar-bg.parallax-no').style.background='url(https://kongresksiegowych.pl/wp-content/uploads/2018/04/kamil-gliwinski-568269-unsplash.jpg)';
 document.querySelector('#home > div.page-titlebar-bg.parallax-no').style.backgroundPosition="center";
 document.querySelector('body > div.jx-ievent-summary-info > div > ul > li:nth-child(2)').style.width="426px";
