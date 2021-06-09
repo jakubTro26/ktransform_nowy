@@ -23,6 +23,7 @@ $('#ChildTab-1 > div > div > div > div:nth-child(5)').style.display="none";
 if(window.location.href=="https://kongrestransformacji.pl/partnerzy/")
 {
 $('.jx-ievent-bar-head').innerText="535-312-144";
+console.log('part');
   
 }
 
