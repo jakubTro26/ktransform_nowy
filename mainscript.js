@@ -44,6 +44,8 @@ $('body > div.jx-ievent-summary-info > div > ul > li:nth-child(2)').style.width=
 }
 
 if(window.location.href=="https://kongrestransformacji.pl/prelegenci/"){
+
+$('#speakers > div.container > div > div > div > div:nth-child(2) > div:nth-child(3) > div > div > div > div > p:nth-child(2)').style.margin="0px";
   $('body > div.jx-ievent-summary-info > div > ul > li:nth-child(2) > div > div > div.jx-ievent-bar-head').innerHTML="535-312-144";
 $('body > div.jx-ievent-summary-info > div > ul > li:nth-child(2)').style.width="420px";
   document.querySelector('body > div.jx-ievent-slider.header-1.prelegenci > header > div > div > div > div > div.jx-ievent-logo.left > a > img').src="https://kongrestransformacji.pl/wp-content/uploads/2019/04/cyfrowa_transformacja_logo-1.png";
