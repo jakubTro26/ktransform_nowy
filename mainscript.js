@@ -61,8 +61,7 @@ $('#sponsorzy').style.width="400px";
 $('#sponsorzy').style.position="relative";
 $('#sponsorzy').style.left="50%";
 $('#sponsorzy').style.transform="translateX(-44%)";
-
-debugger; dodajimg1();
+ dodajimg1();
   dodajimg2();
 
   $('#sponsors > div > div > div > div > div:nth-child(2) > div > div > div > div:nth-child(3)').style.height="70px";
