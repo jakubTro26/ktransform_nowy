@@ -227,7 +227,7 @@ wspimg = function(){
   fimg.style.width="200px";
   fimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-30.png";
   f.insertAdjacentElement('afterBegin', fimg);
-  document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > div > div > div > div.wpb_text_column.wpbv > center').insertAdjacentElement('afterBegin',f);
+  document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > div > div > div > div.wpb_text_column.wpb_content_element > div > center').insertAdjacentElement('afterBegin',f);
   
   
   }
