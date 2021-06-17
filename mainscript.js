@@ -159,7 +159,7 @@ document.querySelector('#sponsors > div > div > div > div > div:nth-child(2) > d
 
 function dodajimg1(){
 var a = document.createElement('a');
-a.href="https://www.monetplus.cz/";
+a.href="https://www.elo.com/pl-pl.html";
 var aimg = document.createElement('img');
 aimg.style.width="200px";
 aimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-20.png";
@@ -170,7 +170,7 @@ document.querySelector('#sponsorzy').insertAdjacentElement('afterBegin',a)
 
 function dodajimg2(){
 var a = document.createElement('a');
-a.href="https://www.elo.com/pl-pl.html";
+a.href="https://www.monetplus.cz/";
 var aimg = document.createElement('img');
 aimg.style.width="200px";
 aimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-31.png";
@@ -185,7 +185,7 @@ var maindiv = document.querySelector('#sponsors > div > div > div > div > div:nt
 wspimg = function(){
  var b = document.createElement('a');
   b.style.padding="20px";
-  b.href="https://www.bnpparibas.pl/";
+  b.href="https://www.nordea.com/en";
   var bimg=document.createElement('img');
   bimg.style.width="200px";
   bimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-21.png";
@@ -194,7 +194,7 @@ wspimg = function(){
   
   var c = document.createElement('a');
   c.style.padding="20px";
-  c.href="https://abrsesta.com/pl/spoleczenstwo/?gclid=Cj0KCQjw5auGBhDEARIsAFyNm9HkJ6vTEPgMr8zR79mA-Se_5zp4KccviKYmk1tpay6kPMMr4_7YiCIaAiVNEALw_wcB";
+  c.href="https://www.cofidis.pl/";
   var cimg=document.createElement('img');
   cimg.style.width="200px";
   cimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-22.png";
@@ -212,7 +212,7 @@ wspimg = function(){
   
   var e = document.createElement('a');
   e.style.padding="20px";
-  e.href="https://www.cofidis.pl/";
+  e.href="https://abrsesta.com/pl/spoleczenstwo/?gclid=Cj0KCQjw5auGBhDEARIsAFyNm9Efio0icBXYsMk1AaSQ8TpeNoeX9edkXi-_LdvH6YfAh90N-7z_k_IaAi5GEALw_wcB";
   var eimg=document.createElement('img');
   eimg.style.width="200px";
   eimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-24.png";
@@ -221,7 +221,7 @@ wspimg = function(){
   
   var f = document.createElement('a');
   f.style.padding="20px";
-  f.href="https://www.nordea.com/en";
+  f.href="https://www.bnpparibas.pl/";
   var fimg=document.createElement('img');
   fimg.style.width="200px";
   fimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-30.png";
