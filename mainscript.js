@@ -183,6 +183,56 @@ document.querySelector('#sponsorzy').insertAdjacentElement('afterBegin',a)
 var maindiv = document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > div > div > div > div.wpb_text_column.wpb_content_element > div > center');
 
 
+wspimg = function(){
+  var b = document.createElement('a');
+  b.style.padding="20px";
+  b.href="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-21.png";
+  var bimg=document.createElement('img');
+  bimg.style.width="200px";
+  bimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-21.png";
+  b.insertAdjacentElement('afterBegin', bimg);
+  document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > div > div > div > div.wpb_text_column.wpb_content_element > div > center').insertAdjacentElement('afterBegin',b);
+  
+  var c = document.createElement('a');
+  c.style.padding="20px";
+  c.href="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-22.png";
+  var cimg=document.createElement('img');
+  cimg.style.width="200px";
+  cimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-22.png";
+  c.insertAdjacentElement('afterBegin', cimg);
+  document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > div > div > div > div.wpb_text_column.wpb_content_element > div > center').insertAdjacentElement('afterBegin',c);
+  
+  var d = document.createElement('a');
+  d.style.padding="20px";
+  d.href="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-23.png";
+  var dimg=document.createElement('img');
+  dimg.style.width="200px";
+  dimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-23.png";
+  d.insertAdjacentElement('afterBegin', dimg);
+  document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > div > div > div > div.wpb_text_column.wpb_content_element > div > center').insertAdjacentElement('afterBegin',d);
+  
+  var e = document.createElement('a');
+  e.style.padding="20px";
+  e.href="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-24.png";
+  var eimg=document.createElement('img');
+  eimg.style.width="200px";
+  eimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-24.png";
+  e.insertAdjacentElement('afterBegin', eimg);
+  document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > div > div > div > div.wpb_text_column.wpb_content_element > div > center').insertAdjacentElement('afterBegin',e);
+  
+  var f = document.createElement('a');
+  f.style.padding="20px";
+  f.href="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-30.png";
+  var fimg=document.createElement('img');
+  fimg.style.width="200px";
+  fimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-30.png";
+  f.insertAdjacentElement('afterBegin', fimg);_content_element > di
+  document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > div > div > div > div.wpb_text_column.wpbv > center').insertAdjacentElement('afterBegin',f);
+  
+  
+  }
+
+
 if(window.location.href=="https://kongrestransformacji.pl/")
 {
 
@@ -193,54 +243,7 @@ maindiv.children[i].style.display="none";
 }
 }
 
-wspimg = function(){
-var b = document.createElement('a');
-b.style.padding="20px";
-b.href="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-21.png";
-var bimg=document.createElement('img');
-bimg.style.width="200px";
-bimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-21.png";
-b.insertAdjacentElement('afterBegin', bimg);
-document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > div > div > div > div.wpb_text_column.wpb_content_element > div > center').insertAdjacentElement('afterBegin',b);
 
-var c = document.createElement('a');
-c.style.padding="20px";
-c.href="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-22.png";
-var cimg=document.createElement('img');
-cimg.style.width="200px";
-cimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-22.png";
-c.insertAdjacentElement('afterBegin', cimg);
-document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > div > div > div > div.wpb_text_column.wpb_content_element > div > center').insertAdjacentElement('afterBegin',c);
-
-var d = document.createElement('a');
-d.style.padding="20px";
-d.href="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-23.png";
-var dimg=document.createElement('img');
-dimg.style.width="200px";
-dimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-23.png";
-d.insertAdjacentElement('afterBegin', dimg);
-document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > div > div > div > div.wpb_text_column.wpb_content_element > div > center').insertAdjacentElement('afterBegin',d);
-
-var e = document.createElement('a');
-e.style.padding="20px";
-e.href="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-24.png";
-var eimg=document.createElement('img');
-eimg.style.width="200px";
-eimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-24.png";
-e.insertAdjacentElement('afterBegin', eimg);
-document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > div > div > div > div.wpb_text_column.wpb_content_element > div > center').insertAdjacentElement('afterBegin',e);
-
-var f = document.createElement('a');
-f.style.padding="20px";
-f.href="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-30.png";
-var fimg=document.createElement('img');
-fimg.style.width="200px";
-fimg.src="https://kongrestransformacji.pl/wp-content/uploads/2021/05/image-30.png";
-f.insertAdjacentElement('afterBegin', fimg);_content_element > di
-document.querySelector('#sponsors > div > div > div > div > div:nth-child(3) > div > div > div > div.wpb_text_column.wpbv > center').insertAdjacentElement('afterBegin',f);
-
-
-}
 
 
 
