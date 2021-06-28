@@ -240,7 +240,7 @@ if(window.location.href=="https://kongrestransformacji.pl/")
   
 
 for(i =0; i<maindiv.childElementCount;i++){
-maindiv.children[i].style.display="none";
+ // maindiv.children[i].style.display="none";
 }
 
 }
