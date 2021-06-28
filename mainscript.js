@@ -71,7 +71,7 @@ $('#sponsorzy').style.transform="translateX(-44%)";
 
  $('#speakers > div.container > div > div > div > div:nth-child(1) > div:nth-child(3) > div > div > div > div > p:nth-child(2)').style.margin="0px";
 $('body > div.jx-ievent-slider.header-1.home-count-down-2 > div.jx-ievent-main-slider.jx-ievent-parallax-fullwidth > div.jx-ievent-slider-content > div.container > div > div.jx-ievent-event-date').style.background="rgb(214 0 127)";
-$('body > div.jx-ievent-slider.header-1.home-count-down > header > div > div > div > div > div.jx-ievent-logo.left > a > img').src="https://kongrestransformacji.pl/wp-content/uploads/2019/04/cyfrowa_transformacja_logo-1.png";  
+
 
 $('#speakers > div.container > div > div > div > div:nth-child(1) > div:nth-child(4) > div > div > div > div > p:nth-child(2)').style.margin="0px";
 
