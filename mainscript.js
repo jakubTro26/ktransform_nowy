@@ -100,7 +100,7 @@ document.querySelector('.four.columns').style.width="300px";
 
 }
 
-
+//
 document.querySelector('.four.columns').style.width="1200px";
 
 var countDownDate = new Date("Jun 30, 2021 7:00:00").getTime();
