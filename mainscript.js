@@ -64,7 +64,7 @@ $('#sponsorzy').style.position="relative";
 $('#sponsorzy').style.left="50%";
 $('#sponsorzy').style.transform="translateX(-44%)";
  //dodajimg1();
- // dodajimg2();
+ // dodajimg2();df
 
   $('#sponsors > div > div > div > div > div:nth-child(2) > div > div > div > div:nth-child(3)').style.height="70px";
   $('.parallax-no.bg-pos-center').style.background=" url('https://kongrestransformacji.pl/wp-content/uploads/2018/12/image.jpg')";
