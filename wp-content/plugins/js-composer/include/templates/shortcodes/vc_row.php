@@ -40,7 +40,7 @@ $css_classes = array(
 	'vc_row',
 	'wpb_row',//deprecated
 	'vc_row-fluid',
-	'kubaa',
+	'kubaaa',
 	$el_class,
 	vc_shortcode_custom_css_class( $css ),
 );
