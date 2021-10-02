@@ -115,9 +115,14 @@ $output .= wpb_js_remove_wpautop( $content );
 
 if(strpos($output,'vc_custom_1524500212394')){
 
+?>
 
-	$output.='<div class="div1"></div>';
+<div class="testowy">
 
+
+</div>
+
+<?php
 }
 
 
