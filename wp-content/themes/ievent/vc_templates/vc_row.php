@@ -118,14 +118,7 @@ if(strpos($output, 'vc_custom_1524500212394')){
 
 }
 
-if(!strpos($output, 'vc_custom_1524500212394')){
 
-$output .= wpb_js_remove_wpautop( $content );
-}
-else{
-
-	
-}
 if($container):
 	if('container' === $container):
 		$output .= '</div>';
