@@ -467,7 +467,7 @@ class Vc_ParamAnimation {
 	 * @return string
 	 */
 	public function render() {
-		$output = '<div class="vc_row a">';
+		$output = '<div class="vc_row ">';
 		wp_enqueue_style( 'animate-css' );
 
 		$styles = $this->animationStyles();
