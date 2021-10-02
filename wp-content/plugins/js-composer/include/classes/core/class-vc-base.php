@@ -511,7 +511,7 @@ class Vc_Base {
 		wp_register_style( 'font-awesome', vc_asset_url( 'lib/bower/font-awesome/css/font-awesome.min.css' ), array(), WPB_VC_VERSION );
 		wp_register_style( 'animate-css', vc_asset_url( 'lib/bower/animate-css/animate.min.css' ), array(), WPB_VC_VERSION );
 
-		$front_css_file = vc_asset_url( 'css/js_composer.min.css' );
+		$front_css_file = vc_asset_url( 'css/js_composer.css' );
 		$upload_dir = wp_upload_dir();
 		$vc_upload_dir = vc_upload_dir();
 		if ( '1' === vc_settings()->get( 'use_custom' ) && is_file( $upload_dir['basedir'] . '/' . $vc_upload_dir . '/js_composer_front_custom.css' ) ) {
