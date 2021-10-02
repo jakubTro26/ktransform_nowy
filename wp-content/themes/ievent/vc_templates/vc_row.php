@@ -32,7 +32,7 @@ $el_class = $this->getExtraClass( $el_class );
 
 $css_classes = array(
 	'vc_row',
-	'wpb_row', //deprecatedd
+	'wpb_row', //deprecatedkuba
 	'vc_row-fluid',
 	'mati',
 	$el_class,
