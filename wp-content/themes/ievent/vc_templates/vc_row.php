@@ -112,11 +112,7 @@ if(! empty($container)):
 	endif;
 endif;
 
-if(strpos($output, 'vc_custom_1524500212394')){
 
-	echo $output .= '<div class="pierwszyDiv"></div>';
-
-}
 
 
 if($container):
