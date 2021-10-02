@@ -4190,11 +4190,11 @@ ul.wpb_thumbnails-fluid > li {
  
 }
 
-@media (min-width: 1200px){
+/* @media (min-width: 1200px){
 .vc_column_container > .vc_column-inner {
     width: 1170px;
 }
-}
+} */
 
 
 .vc_section {
