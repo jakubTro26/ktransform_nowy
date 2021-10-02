@@ -34,7 +34,7 @@ $css_classes = array(
 	'vc_row',
 	'wpb_row', //deprecatedd
 	'vc_row-fluid',
-	'kubaa',
+	'mati',
 	$el_class,
 	$el_class_2,
 	vc_shortcode_custom_css_class( $css ),
