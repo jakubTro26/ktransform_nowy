@@ -38,7 +38,7 @@ $el_class = $this->getExtraClass( $el_class ) . $this->getCSSAnimation( $css_ani
 
 $css_classes = array(
 	'vc_row',
-	'wpb_row',//deprecated
+	'wpb_row',//deprecatedd
 	'vc_row-fluid',
 	'kubaaa',
 	$el_class,
