@@ -538,7 +538,7 @@ class Vc_Base {
 	}
 
 	/**
-	 * Enqueue base css class for VC elements and enqueue custom css if exists.
+	 * Enqueue base css class for VC elements and enqueue custom css if exists.ff
 	 */
 	public function enqueueStyle() {
 		$post = get_post();
