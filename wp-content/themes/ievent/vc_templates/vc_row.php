@@ -104,11 +104,7 @@ $wrapper_attributes[] = 'class="' . esc_attr( trim( $css_class ) ) . '"';
 $output .= '<div ' . implode( ' ', $wrapper_attributes ) . '>';
 
 
-if(strpos($output, 'vc_custom_1524500212394')){
 
-	echo 'znalazl';
-
-}
 
 if(! empty($container)):
 	if('container' === $container):
@@ -116,11 +112,15 @@ if(! empty($container)):
 	endif;
 endif;
 
+if(strpos($output, 'vc_custom_1524500212394')){
+
+	echo $output .= '<div class="pierwszyDiv"></div>';
+
+}
 
 
 
-
-$output .= wpb_js_remove_wpautop( $content );
+//$output .= wpb_js_remove_wpautop( $content );
 
 if($container):
 	if('container' === $container):
