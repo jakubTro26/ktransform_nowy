@@ -33,7 +33,6 @@ $el_class = $this->getExtraClass( $el_class );
 $css_classes = array(
 	'vc_row',
 	'wpb_row', //deprecated
-	'kubab',
 	'vc_row-fluid',
 	$el_class,
 	$el_class_2,
@@ -105,7 +104,7 @@ $wrapper_attributes[] = 'class="' . esc_attr( trim( $css_class ) ) . '"';
 $output .= '<div ' . implode( ' ', $wrapper_attributes ) . '>';
 
 
-if(strpos($output, 'kubab')){
+if(strpos($output, 'vc_custom_1524500212394')){
 
 	echo 'znalazl';
 
