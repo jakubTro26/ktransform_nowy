@@ -57,7 +57,7 @@ if(window.location.href=="https://kongrestransformacji.pl/" || window.location.h
   
 $('body > div.jx-ievent-summary-info > div > ul > li:nth-child(2) > div > div > div.jx-ievent-bar-head').innerHTML="535-312-144";
 $('#ParentTab > ul > li > div.jx-ievent-tab-day.jx-ievent-uppercase').innerHTML="28/10/2021";
-$('#ChildTab-1 > div > div > div > div:nth-child(5)').style.display="none";
+
 $('#sponsorzy').style.width="400px";
 $('#sponsorzy').style.position="relative";
 $('#sponsorzy').style.left="50%";
@@ -147,9 +147,8 @@ document.querySelector('.jx-ievent-event-date').style.background="#d6007f";
 
 document.querySelector('#ParentTab > ul > li > div.jx-ievent-tab-day.jx-ievent-uppercase').innerText="30/06/2021";
 
-document.querySelector('#ChildTab-1 > div > div > div > div:nth-child(5) > div.left-position > div:nth-child(2)').style.display="none";
 
-document.querySelector('#ChildTab-1 > div > div > div > div:nth-child(5)').style.display="none";
+
 
 document.querySelector('#sponsors > div > div > div > div > div:nth-child(2) > div > div > div > div.wpb_text_column.wpb_content_element > div > center > a:nth-child(1)').style.display="none";
 
