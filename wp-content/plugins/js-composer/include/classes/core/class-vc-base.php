@@ -543,7 +543,7 @@ class Vc_Base {
 	public function enqueueStyle() {
 		$post = get_post();
 		if ( $post && preg_match( '/vc_row/', $post->post_content ) ) {
-			wp_enqueue_style( 'js_composer_front' );
+			wp_enqueue_style( 'js_composer_front','',array(), rand(0,100));
 		}
 		wp_enqueue_style( 'js_composer_custom_css' );
 	}
