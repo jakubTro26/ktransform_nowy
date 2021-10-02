@@ -104,11 +104,22 @@ $wrapper_attributes[] = 'class="' . esc_attr( trim( $css_class ) ) . '"';
 
 $output .= '<div ' . implode( ' ', $wrapper_attributes ) . '>';
 
+
+if(strpos($output, 'kubab')){
+
+	echo 'znalazl';
+
+}
+
 if(! empty($container)):
 	if('container' === $container):
 		$output .= '<div class="container">';
 	endif;
 endif;
+
+
+
+
 
 $output .= wpb_js_remove_wpautop( $content );
 
