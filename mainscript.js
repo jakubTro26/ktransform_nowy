@@ -20,7 +20,7 @@ $('#ChildTab-1 > div > div > div > div:nth-child(5)').style.display="none";
 
 }
 
-
+//
 
 if(window.location.href=="https://kongrestransformacji.pl/kontakt/")
 {
