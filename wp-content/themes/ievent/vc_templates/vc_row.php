@@ -34,7 +34,6 @@ $css_classes = array(
 	'vc_row',
 	'wpb_row', //deprecatedkuba
 	'vc_row-fluid',
-	'matii',
 	$el_class,
 	$el_class_2,
 	vc_shortcode_custom_css_class( $css ),
@@ -110,7 +109,19 @@ if(! empty($container)):
 	endif;
 endif;
 
+
+
 $output .= wpb_js_remove_wpautop( $content );
+
+if(strpos($output,'vc_custom_1524500212394')){
+
+
+	$output.='<div class="div1"></div>';
+
+}
+
+
+
 
 if($container):
 	if('container' === $container):
