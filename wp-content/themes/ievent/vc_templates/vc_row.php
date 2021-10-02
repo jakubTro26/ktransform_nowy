@@ -108,7 +108,7 @@ if(! empty($container)):
 		$output .= '<div class="container">';
 	endif;
 endif;
-
+//
 $output .= wpb_js_remove_wpautop( $content );
 
 if($container):
