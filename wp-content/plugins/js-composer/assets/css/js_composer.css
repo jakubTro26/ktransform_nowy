@@ -183,6 +183,61 @@
     margin:auto;
 }
 }
+
+@media (min-width: 1200px)
+{
+#speakers {
+    width: 1170px;
+    margin:auto;
+}
+}
+
+@media (min-width: 1200px)
+{
+#countup {
+    width: 1170px;
+    margin:auto;
+}
+}
+
+@media (min-width: 1200px)
+{
+#schedule {
+    width: 1170px;
+    margin:auto;
+}
+}
+
+@media (min-width: 1200px)
+{
+#stoiska {
+    width: 1170px;
+    margin:auto;
+}
+}
+
+@media (min-width: 1200px)
+{
+#gallery {
+    width: 1170px;
+    margin:auto;
+}
+}
+
+@media (min-width: 1200px)
+{
+#sponsors {
+    width: 1170px;
+    margin:auto;
+}
+}
+
+@media (min-width: 992px)
+{
+#about {
+    width: 970px;
+}
+}
 .vc_col-lg-1,
 .vc_col-lg-10,
 .vc_col-lg-11,
