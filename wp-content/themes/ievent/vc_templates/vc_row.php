@@ -117,9 +117,126 @@ if(strpos($output,'vc_custom_1524500212394')){
 	?>
 
 
-	<div>
-		kuba123
-	</div>
+<div id="schedule" class="vc_row wpb_row vc_row-fluid vc_custom_1524500212394"><div class="div1">
+		<div class="wpb_column vc_column_container vc_col-sm-12">
+			<div class="vc_column-inner ">
+				<div class="wpb_wrapper">
+					<div class="jx-ievent-section-title-1 jx-ievent-dark">
+						<div class="jx-ievent-pre-title jx-ievent-short-border">
+							<div class="jx-ievent-title-border left">
+							</div>
+							<div class="jx-ievent-title-icon"><i class="line-icon vc_li vc_li-calendar"></i>
+							</div>
+							<div class="jx-ievent-title-border right">
+							</div> 
+						</div>
+						<div class="jx-ievent-title jx-ievent-uppercase">AGENDA
+						</div>
+						<div class="jx-ievent-subtitle">
+							<p>Dzień pełen inspiracji! Szeroka tematyka konferencji pozwoli na uzyskanie wiedzy „w pigułce”
+							</p>
+						</div>
+						<!-- Section Title -->
+					</div>
+					<div class="shortcode_tab_e jx-ievent-white-tab jx-ievent-arrow-tab">			
+						<div id="ParentTab" style="display: block; width: 100%; margin: 0px;">
+						<ul class="resp-tabs-list parenttab_1">
+							<li class="resp-tab-item full-width parenttab_1 resp-tab-active" aria-controls="parenttab_1_tab_item-0" role="tab">
+								<div class="jx-ievent-tab-date jx-ievent-uppercase">Kongres Cyfrowa Transformacja
+								</div>
+								<div class="jx-ievent-tab-day jx-ievent-uppercase">10/12/2020
+								</div>
+							</li></ul><div class="resp-tabs-container parenttab_1">
+							<h2 class="resp-accordion parenttab_1 resp-tab-active" role="tab" aria-controls="parenttab_1_tab_item-0" style="background: none;">
+								<span class="resp-arrow">
+								</span>
+								<div class="jx-ievent-tab-date jx-ievent-uppercase">Kongres Cyfrowa Transformacja
+								</div>
+								<div class="jx-ievent-tab-day jx-ievent-uppercase">10/12/2020
+								</div>
+							
+								<div class="jx-ievent-tab-date jx-ievent-uppercase">Kongres Cyfrowa Transformacja
+								</div>
+								<div class="jx-ievent-tab-day jx-ievent-uppercase">10/12/2020
+								</div>
+							</h2>
+							<h2 class="resp-accordion parenttab_1" role="tab" aria-controls="parenttab_1_tab_item-1"><span class="resp-arrow"></span>
+											<div class="jx-ievent-tab-title">Agenda
+											</div>
+										</h2><div class="resp-tab-content parenttab_1 resp-tab-content-active" aria-labelledby="parenttab_1_tab_item-0" style="display:block">
+								<div id="ChildTab-1" style="display: block; width: 100%; margin: 0px;">
+									<ul class="resp-tabs-list jx-ievent-subtab childtab_1 ">
+										<li class="resp-tab-item childtab_1 resp-tab-active" aria-controls="childtab_1_tab_item-0" role="tab">
+											<div class="jx-ievent-tab-title">Agenda
+											</div>
+										</li>
+									</ul><!-- EOF Child Tab Head -->					
+									<div class="resp-tabs-container jx-ievent-event-schedule childtab_1">
+										<h2 class="resp-accordion childtab_1 resp-tab-active" role="tab" aria-controls="childtab_1_tab_item-0" style="background: none;">
+											<span class="resp-arrow">
+											</span>
+											<div class="jx-ievent-tab-title">Agenda
+											</div>
+										
+											<div class="jx-ievent-tab-title">Agenda
+											</div>
+										</h2>
+										<h2 class="resp-accordion childtab_1" role="tab" aria-controls="childtab_1_tab_item-1"><span class="resp-arrow"></span></h2><div class="resp-tab-content childtab_1 resp-tab-content-active" aria-labelledby="childtab_1_tab_item-0" style="display:block">
+											<div data-accordion-group="" class="jx-ievent-accordion-box">
+												<div class="item"> 					  
+													<div class="left-position">
+														<div class="image"><img width="920" height="920" src="https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1.png 920w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-300x300.png 300w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-150x150.png 150w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-768x768.png 768w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-400x400.png 400w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-200x200.png 200w" sizes="(max-width: 920px) 100vw, 920px">
+														</div>
+														<!-- Image -->
+													</div>
+																							<!-- Left item Position -->
+								
+													<div class="right-position">					
+														<div data-accordion="" class="head">
+															<div class="date"><i class="fa fa-clock-o"></i> 
+																<span>11:30 - 14:20
+																</span> testowy wygląd
+															</div>
+															<div class="title" data-control="">tata taty - workwork
+															</div>                        
+																		<!-- Title --><div data-content2="">
+															<div class="content"><p>Witam no to jest testowy wygląd</p></div>
+															</div>
+																	<!-- Content -->
+											
+															</div>							
+														</div>
+													</div>					
+																<!-- Item # 1 --> 
+													<div class="clearfix">
+													</div>
+													<div class="item"> 					  
+														<div class="left-position">
+															<div class="image"><img width="920" height="920" src="https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1.png 920w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-300x300.png 300w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-150x150.png 150w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-768x768.png 768w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-400x400.png 400w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-200x200.png 200w" sizes="(max-width: 920px) 100vw, 920px">
+															</div>
+																<!-- Image -->
+															<div class="image">
+																<img src="https://kongrestransformacji.pl/wp-content/themes/ievent/images/default_speaker.jpg" alt=""></div><!-- Image -->
+								</div>
+								<!-- Left item Position -->
+								
+								<div class="right-position">					
+								<div data-accordion="" class="head">
+									<div class="date"><i class="fa fa-clock-o"></i> <span>11:30 - 14:20</span> testowy wygląd</div>
+									<div class="title" data-control=""></div>                        
+									<!-- Title --><div data-content2="">
+											<div class="content"><p></p></div>
+										</div>
+										<!-- Content -->
+											
+										</div>							
+									</div>
+								</div>					
+								<!-- Item # 1 --> 
+								<div class="clearfix"></div></div></div></div></div></div></div><div class="mb60"></div></div></div></div></div></div>
+			
+	
+	</div></div>
 
 
 	<?php
