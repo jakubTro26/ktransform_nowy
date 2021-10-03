@@ -195,8 +195,8 @@
 @media (min-width: 1200px)
 {
 #countup {
-    width: 1170px;
-    margin:auto;
+    width: 1170px !important;
+    margin:auto !important;
 }
 }
 
