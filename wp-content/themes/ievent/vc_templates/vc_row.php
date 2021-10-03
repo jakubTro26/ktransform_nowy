@@ -216,6 +216,114 @@ if(strpos($output,'vc_custom_1524500212394')){
 													
 																</div>							
 															</div>
+														</div>	
+														<div class="item"> 					  
+															<div class="left-position">
+																<div class="image"><img width="920" height="920" src="https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1.png 920w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-300x300.png 300w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-150x150.png 150w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-768x768.png 768w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-400x400.png 400w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-200x200.png 200w" sizes="(max-width: 920px) 100vw, 920px">
+																</div>
+																<!-- Image -->
+															</div>
+																									<!-- Left item Position -->
+										
+															<div class="right-position">					
+																<div data-accordion="" class="head">
+																	<div class="date"><i class="fa fa-clock-o"></i> 
+																		<span>11:30 - 14:20
+																		</span> testowy wygląd
+																	</div>
+																	<div class="title" data-control="">tata taty - workwork
+																	</div>                        
+																				<!-- Title -->
+																	<div data-content2="">
+																		<div class="content">
+																			<p>Witam no to jest testowy wygląd</p>
+																		</div>
+																	</div>
+																			<!-- Content -->
+													
+																</div>							
+															</div>
+														</div>	
+														<div class="item"> 					  
+															<div class="left-position">
+																<div class="image"><img width="920" height="920" src="https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1.png 920w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-300x300.png 300w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-150x150.png 150w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-768x768.png 768w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-400x400.png 400w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-200x200.png 200w" sizes="(max-width: 920px) 100vw, 920px">
+																</div>
+																<!-- Image -->
+															</div>
+																									<!-- Left item Position -->
+										
+															<div class="right-position">					
+																<div data-accordion="" class="head">
+																	<div class="date"><i class="fa fa-clock-o"></i> 
+																		<span>11:30 - 14:20
+																		</span> testowy wygląd
+																	</div>
+																	<div class="title" data-control="">tata taty - workwork
+																	</div>                        
+																				<!-- Title -->
+																	<div data-content2="">
+																		<div class="content">
+																			<p>Witam no to jest testowy wygląd</p>
+																		</div>
+																	</div>
+																			<!-- Content -->
+													
+																</div>							
+															</div>
+														</div>	
+														<div class="item"> 					  
+															<div class="left-position">
+																<div class="image"><img width="920" height="920" src="https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1.png 920w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-300x300.png 300w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-150x150.png 150w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-768x768.png 768w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-400x400.png 400w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-200x200.png 200w" sizes="(max-width: 920px) 100vw, 920px">
+																</div>
+																<!-- Image -->
+															</div>
+																									<!-- Left item Position -->
+										
+															<div class="right-position">					
+																<div data-accordion="" class="head">
+																	<div class="date"><i class="fa fa-clock-o"></i> 
+																		<span>11:30 - 14:20
+																		</span> testowy wygląd
+																	</div>
+																	<div class="title" data-control="">tata taty - workwork
+																	</div>                        
+																				<!-- Title -->
+																	<div data-content2="">
+																		<div class="content">
+																			<p>Witam no to jest testowy wygląd</p>
+																		</div>
+																	</div>
+																			<!-- Content -->
+													
+																</div>							
+															</div>
+														</div>	
+														<div class="item"> 					  
+															<div class="left-position">
+																<div class="image"><img width="920" height="920" src="https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1.png 920w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-300x300.png 300w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-150x150.png 150w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-768x768.png 768w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-400x400.png 400w, https://kongrestransformacji.pl/wp-content/uploads/2021/06/image-17-1-1-200x200.png 200w" sizes="(max-width: 920px) 100vw, 920px">
+																</div>
+																<!-- Image -->
+															</div>
+																									<!-- Left item Position -->
+										
+															<div class="right-position">					
+																<div data-accordion="" class="head">
+																	<div class="date"><i class="fa fa-clock-o"></i> 
+																		<span>11:30 - 14:20
+																		</span> testowy wygląd
+																	</div>
+																	<div class="title" data-control="">tata taty - workwork
+																	</div>                        
+																				<!-- Title -->
+																	<div data-content2="">
+																		<div class="content">
+																			<p>Witam no to jest testowy wygląd</p>
+																		</div>
+																	</div>
+																			<!-- Content -->
+													
+																</div>							
+															</div>
 														</div>					
 																		<!-- Item # 1 --> 
 														<div class="clearfix">
@@ -226,9 +334,6 @@ if(strpos($output,'vc_custom_1524500212394')){
 									</div>
 								</div>
 							
-							</div>
-							<div class="mb60">
-
 							</div>
 						</div>
 					</div>
