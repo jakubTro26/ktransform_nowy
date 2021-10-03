@@ -197,6 +197,9 @@
 #countup {
     width: 1170px !important;
     margin:auto !important;
+    position: relative;
+    left:0px !important;
+    padding: 0px !important;
 }
 }
 
