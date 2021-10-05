@@ -350,7 +350,7 @@ if(strpos($output,'vc_custom_1524500212394') ){
 										
 															<div class="right-position">					
 																<div data-accordion="" class="head">
-																	<div class="date"><i class="fa fa-clock-o"></i> 
+																	<div class="date"><i class="fa fa-clock-o p1"></i> 
 																		<span>11:10 - 11:40
 																		</span> Wystąpienie zarezerwowanee
 																	</div>
