@@ -66,7 +66,7 @@ $('#sponsorzy').style.transform="translateX(-44%)";
  //dodajimg1();
  // dodajimg2();
 
-  $('#sponsors > div > div > div > div > div:nth-child(2) > div > div > div > div:nth-child(3)').style.height="70px";
+  // $('#sponsors > div > div > div > div > div:nth-child(2) > div > div > div > div:nth-child(3)').style.height="70px";
   $('.parallax-no.bg-pos-center').style.background=" url('https://kongrestransformacji.pl/wp-content/uploads/2018/12/image.jpg')";
 
  $('#speakers > div.container > div > div > div > div:nth-child(1) > div:nth-child(3) > div > div > div > div > p:nth-child(2)').style.margin="0px";
