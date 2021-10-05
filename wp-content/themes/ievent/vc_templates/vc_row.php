@@ -473,10 +473,10 @@ if(strpos($output,'vc_custom_1524500212394') ){
 															<div class="right-position">					
 																<div data-accordion="" class="head">
 																	<div class="date"><i class="fa fa-clock-o"></i> 
-																		<span>11:10 - 11:40
-																		</span> Wystąpienie zarezerwowane
+																		<span>12:40 - 12:50
+																		</span> Przerwa
 																	</div>
-																	<div class="title" data-control="">Magdalena Chudzikiewicz - home.pl
+																	<div class="title" data-control="">
 																	</div>                        
 																				<!-- Title -->
 																	<div data-content2="">
@@ -508,10 +508,10 @@ if(strpos($output,'vc_custom_1524500212394') ){
 															<div class="right-position">					
 																<div data-accordion="" class="head">
 																	<div class="date"><i class="fa fa-clock-o"></i> 
-																		<span>11:10 - 11:40
+																		<span>12:50 - 13:20
 																		</span> Wystąpienie zarezerwowane
 																	</div>
-																	<div class="title" data-control="">Magdalena Chudzikiewicz - home.pl
+																	<div class="title" data-control="">Elwira Pyk - Akademia Leona Koźmińskiego
 																	</div>                        
 																				<!-- Title -->
 																	<div data-content2="">
