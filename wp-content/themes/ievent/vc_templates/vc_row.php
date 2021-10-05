@@ -166,7 +166,7 @@ if(strpos($output,'vc_custom_1524500212394')){
 								<h2 class="resp-accordion parenttab_1" role="tab" aria-controls="parenttab_1_tab_item-1">
 									<span class="resp-arrow"> 
 									</span>
-									<div class="jx-ievent-tab-title">Agenda
+									<div class="jx-ievent-tab-title">Agendaa
 									</div>
 								</h2>
 								<div class="resp-tab-content parenttab_1 resp-tab-content-active" aria-labelledby="parenttab_1_tab_item-0" style="display:block">
