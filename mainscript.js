@@ -73,7 +73,7 @@ $('#sponsorzy').style.transform="translateX(-44%)";
 // $('body > div.jx-ievent-slider.header-1.home-count-down-2 > div.jx-ievent-main-slider.jx-ievent-parallax-fullwidth > div.jx-ievent-slider-content > div.container > div > div.jx-ievent-event-date').style.background="rgb(214 0 127)";
 
 
-$('#speakers > div.container > div > div > div > div:nth-child(1) > div:nth-child(4) > div > div > div > div > p:nth-child(2)').style.margin="0px";
+// $('#speakers > div.container > div > div > div > div:nth-child(1) > div:nth-child(4) > div > div > div > div > p:nth-child(2)').style.margin="0px";
 
 }
 
