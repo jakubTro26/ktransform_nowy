@@ -344,7 +344,7 @@ if(strpos($output,'vc_custom_1524500212394')){
 																 https://kongrestransformacji.pl/wp-content/uploads/2020/05/logopppp11.jpg 200w"
 																	 sizes="(max-width: 920px) 100vw, 920px">
 																</div>
-																<!-- Image -->
+																<!-- Image f-->
 															</div>
 																									<!-- Left item Position -->
 										
