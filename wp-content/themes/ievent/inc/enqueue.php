@@ -43,7 +43,7 @@ function jx_ievent_styles()
 	wp_enqueue_style( 'ievent-dynamic', get_template_directory_uri() . '/css/dynamic_ievent.css', array(), '1', 'all' );
 	wp_enqueue_style( 'ievent-font-awesome', get_template_directory_uri() . '/fonts/font-awesome.min.css', array(), '1', 'all' );
 	wp_enqueue_style( 'ievent-theme-animate', get_template_directory_uri() . '/css/theme-animate.css', array(), '1', 'all' );
-	wp_enqueue_style( 'ievent-theme-elements', get_template_directory_uri() . '/css/theme-elements.css', array(), '1', 'all' );
+	wp_enqueue_style( 'ievent-theme-elements', get_template_directory_uri() . '/css/theme-elements.css', array(), rand(1,999), 'all' );
 	wp_enqueue_style( 'ievent-theme-responsive', get_template_directory_uri() . '/css/theme-responsive.css', array(), '1', 'all' );
 	wp_enqueue_style( 'ievent-plugins', get_template_directory_uri() . '/css/plugins.css', array(), '1', 'all' );
 	wp_enqueue_style( 'ievent-magnific-popup', get_template_directory_uri() . '/vendor/magnific-popup/magnific-popup.css', array(), '1', 'all' );
