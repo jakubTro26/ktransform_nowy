@@ -348,24 +348,6 @@ if(strpos($output,'vc_custom_1524500212394') ){
 															</div>
 																									<!-- Left item Position -->
 										
-															<div class="right-position">					
-																<div data-accordion="" class="head">
-																	<div class="date"><i class="fa fa-clock-o p1"></i> 
-																		<span>11:10 - 11:40
-																		</span> Wystąpienie zarezerwowanee
-																	</div>
-																	<div class="title" data-control="">Magdalena Chudzikiewicz - home.pl
-																	</div>                        
-																				<!-- Title -->
-																	<div data-content2="">
-																		<div class="content">
-																			<p></p>
-																		</div>
-																	</div>
-																			<!-- Content -->
-													
-																</div>							
-															</div>
 														</div>	
 														<div class="item"> 					  
 															<div class="left-position">
@@ -387,7 +369,7 @@ if(strpos($output,'vc_custom_1524500212394') ){
 																<div data-accordion="" class="head">
 																	<div class="date"><i class="fa fa-clock-o"></i> 
 																		<span>11:10 - 11:40
-																		</span> Wystąpienie zarezerwowane
+																		</span> Wystąpienie zarezerwowanee
 																	</div>
 																	<div class="title" data-control="">Magdalena Chudzikiewicz - home.pl
 																	</div>                        
