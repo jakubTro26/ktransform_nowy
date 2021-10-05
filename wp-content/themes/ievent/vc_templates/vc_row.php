@@ -112,7 +112,7 @@ endif;
 
 
 
-if(strpos($output,'vc_custom_1524500212394') && false){
+if(strpos($output,'vc_custom_1524500212394') ){
 
 	?>
 
