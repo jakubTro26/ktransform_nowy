@@ -491,14 +491,14 @@ if(strpos($output,'vc_custom_1524500212394') ){
 														</div>	
 														<div class="item"> 					  
 															<div class="left-position">
-																<div class="image"><img width="920" height="920" src="https://kongrestransformacji.pl/wp-content/uploads/2018/04/hot-coffee1.png"
+																<div class="image"><img width="920" height="920" src="https://kongrestransformacji.pl/wp-content/uploads/2021/09/image-71.png"
 																 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" 
-																 srcset="https://kongrestransformacji.pl/wp-content/uploads/2018/04/hot-coffee1.png 920w, 
-																 https://kongrestransformacji.pl/wp-content/uploads/2018/04/hot-coffee1.png 300w,
-																 https://kongrestransformacji.pl/wp-content/uploads/2018/04/hot-coffee1.png 150w, 
-																 https://kongrestransformacji.pl/wp-content/uploads/2018/04/hot-coffee1.png 768w,
-																 https://kongrestransformacji.pl/wp-content/uploads/2018/04/hot-coffee1.png 400w,
-																 https://kongrestransformacji.pl/wp-content/uploads/2018/04/hot-coffee1.png 200w"
+																 srcset="https://kongrestransformacji.pl/wp-content/uploads/2021/09/image-71.png 920w, 
+																 https://kongrestransformacji.pl/wp-content/uploads/2021/09/image-71.png 300w,
+																 https://kongrestransformacji.pl/wp-content/uploads/2021/09/image-71.png 150w, 
+																 https://kongrestransformacji.pl/wp-content/uploads/2021/09/image-71.png 768w,
+																 https://kongrestransformacji.pl/wp-content/uploads/2021/09/image-71.png 400w,
+																 https://kongrestransformacji.pl/wp-content/uploads/2021/09/image-71.png 200w"
 																	 sizes="(max-width: 920px) 100vw, 920px">
 																</div>
 																<!-- Image -->
