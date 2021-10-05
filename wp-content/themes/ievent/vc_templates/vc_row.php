@@ -351,14 +351,14 @@ if(strpos($output,'vc_custom_1524500212394') ){
 														</div>	
 														<div class="item"> 					  
 															<div class="left-position">
-																<div class="image"><img width="920" height="920" src="https://kongrestransformacji.pl/wp-content/uploads/2018/04/hot-coffee1.png"
+																<div class="image"><img width="920" height="920" src="https://kongrestransformacji.pl/wp-content/uploads/2020/05/logopppp11.jpg"
 																 class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" 
-																 srcset="https://kongrestransformacji.pl/wp-content/uploads/2018/04/hot-coffee1.png 920w, 
-																 https://kongrestransformacji.pl/wp-content/uploads/2018/04/hot-coffee1.png 300w,
-																 https://kongrestransformacji.pl/wp-content/uploads/2018/04/hot-coffee1.png 150w, 
-																 https://kongrestransformacji.pl/wp-content/uploads/2018/04/hot-coffee1.png 768w,
-																 https://kongrestransformacji.pl/wp-content/uploads/2018/04/hot-coffee1.png 400w,
-																 https://kongrestransformacji.pl/wp-content/uploads/2018/04/hot-coffee1.png 200w"
+																 srcset="https://kongrestransformacji.pl/wp-content/uploads/2020/05/logopppp11.jpg 920w, 
+																 https://kongrestransformacji.pl/wp-content/uploads/2020/05/logopppp11.jpg 300w,
+																 https://kongrestransformacji.pl/wp-content/uploads/2020/05/logopppp11.jpg 150w, 
+																 https://kongrestransformacji.pl/wp-content/uploads/2020/05/logopppp11.jpg 768w,
+																 https://kongrestransformacji.pl/wp-content/uploads/2020/05/logopppp11.jpg 400w,
+																 https://kongrestransformacji.pl/wp-content/uploads/2020/05/logopppp11.jpg 200w"
 																	 sizes="(max-width: 920px) 100vw, 920px">
 																</div>
 																<!-- Image -->
@@ -369,7 +369,7 @@ if(strpos($output,'vc_custom_1524500212394') ){
 																<div data-accordion="" class="head">
 																	<div class="date"><i class="fa fa-clock-o"></i> 
 																		<span>11:10 - 11:40
-																		</span> Wystąpienie zarezerwowanee
+																		</span> Wystąpienie zarezerwowane
 																	</div>
 																	<div class="title" data-control="">Magdalena Chudzikiewicz - home.pl
 																	</div>                        
