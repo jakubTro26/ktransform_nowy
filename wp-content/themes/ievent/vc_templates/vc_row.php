@@ -516,7 +516,7 @@ if(strpos($output,'vc_custom_1524500212394') ){
 																				<!-- Title -->
 																	<div data-content2="">
 																		<div class="content">
-																			<p></p>
+																			<p>Wskaźniki i metryki pomiaru skuteczności wdrażania transformacji cyfrowej</p>
 																		</div>
 																	</div>
 																			<!-- Content -->
