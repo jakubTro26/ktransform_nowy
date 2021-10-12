@@ -142,12 +142,7 @@ if(strpos($output,'vc_custom_1524500212394') ){
 					<div class="shortcode_tab_e jx-ievent-white-tab jx-ievent-arrow-tab">			
 						<div id="ParentTab" style="display: block; width: 100%; margin: 0px;">
 							<ul class="resp-tabs-list parenttab_1">
-								<li class="resp-tab-item full-width parenttab_1 resp-tab-active" aria-controls="parenttab_1_tab_item-0" role="tab">
-									<div class="jx-ievent-tab-date jx-ievent-uppercase">Kongres Cyfrowa Transformacja
-									</div>
-									<div class="jx-ievent-tab-day jx-ievent-uppercase">10/12/2020
-									</div>
-								</li>
+								
 							</ul>
 							<div class="resp-tabs-container parenttab_1">
 								<h2 class="resp-accordion parenttab_1 resp-tab-active" role="tab" aria-controls="parenttab_1_tab_item-0" style="background: none;">
