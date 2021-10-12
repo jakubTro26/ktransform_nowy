@@ -146,7 +146,7 @@ if(strpos($output,'vc_custom_1524500212394') ){
 									<div class="jx-ievent-tab-date jx-ievent-uppercase">Kongres Cyfrowa Transformacja
 									</div>
 									<div class="jx-ievent-tab-day jx-ievent-uppercase">
-									17/10/2021
+									30/10/2021
 									</div>
 								</li>
 							</ul>
