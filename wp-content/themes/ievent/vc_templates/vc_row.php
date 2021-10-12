@@ -145,8 +145,7 @@ if(strpos($output,'vc_custom_1524500212394') ){
 								<li class="resp-tab-item full-width parenttab_1 resp-tab-active" aria-controls="parenttab_1_tab_item-0" role="tab">
 									<div class="jx-ievent-tab-date jx-ievent-uppercase">Kongres Cyfrowa Transformacja
 									</div>
-									<div class="jx-ievent-tab-day jx-ievent-uppercase">10/12/2020
-									</div>
+									
 								</li>
 							</ul>
 							<div class="resp-tabs-container parenttab_1">
