@@ -133,12 +133,47 @@ if(strpos($output,'vc_custom_1524500212394') ){
 					</div>
 					<div class="shortcode_tab_e jx-ievent-white-tab jx-ievent-arrow-tab">			
 						<div id="ParentTab" style="display: block; width: 100%; margin: 0px;">
-						
+							<ul class="resp-tabs-list parenttab_1">
+							
+							</ul>
 							<div class="resp-tabs-container parenttab_1">
+								<h2 class="resp-accordion parenttab_1 resp-tab-active" role="tab" aria-controls="parenttab_1_tab_item-0" style="background: none;">
+									<span class="resp-arrow">
+									</span>
+									<div class="jx-ievent-tab-date jx-ievent-uppercase">Kongres Cyfrowa Transformacja
+									</div>
+									<div class="jx-ievent-tab-day jx-ievent-uppercase">10/12/2020
+									</div>
+								
+									<div class="jx-ievent-tab-date jx-ievent-uppercase">Kongres Cyfrowa Transformacja
+									</div>
+									<div class="jx-ievent-tab-day jx-ievent-uppercase">10/12/2020
+									</div>
+								</h2>
+								<h2 class="resp-accordion parenttab_1" role="tab" aria-controls="parenttab_1_tab_item-1">
+									<span class="resp-arrow"> 
+									</span>
+									<div class="jx-ievent-tab-title">Agendaa
+									</div>
+								</h2>
 								<div class="resp-tab-content parenttab_1 resp-tab-content-active" aria-labelledby="parenttab_1_tab_item-0" style="display:block">
 									<div id="ChildTab-1" style="display: block; width: 100%; margin: 0px;">
-					
+										<ul class="resp-tabs-list jx-ievent-subtab childtab_1 ">
+											<li class="resp-tab-item childtab_1 resp-tab-active" aria-controls="childtab_1_tab_item-0" role="tab">
+												<div class="jx-ievent-tab-title">Agenda
+												</div>
+											</li>
+										</ul><!-- EOF Child Tab Head -->					
 										<div class="resp-tabs-container jx-ievent-event-schedule childtab_1">
+											<h2 class="resp-accordion childtab_1 resp-tab-active" role="tab" aria-controls="childtab_1_tab_item-0" style="background: none;">
+												<span class="resp-arrow">
+												</span>
+												<div class="jx-ievent-tab-title">Agenda
+												</div>
+											
+												<div class="jx-ievent-tab-title">Agenda
+												</div>
+											</h2>
 											<h2 class="resp-accordion childtab_1" role="tab" aria-controls="childtab_1_tab_item-1"><span class="resp-arrow"></span></h2>
 												<div class="resp-tab-content childtab_1 resp-tab-content-active" aria-labelledby="childtab_1_tab_item-0" style="display:block">
 													<div data-accordion-group="" class="jx-ievent-accordion-box">
