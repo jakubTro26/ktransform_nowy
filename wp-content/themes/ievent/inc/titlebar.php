@@ -291,7 +291,7 @@ if((get_post_meta( get_the_ID(), 'jx_ievent_title_bar', true )) and (get_post_me
 				?>
                 
                 <div class="jx-ievent-main-slider jx-ievent-parallax-fullwidth">
-                	<div class="parallax-no bg-pos-center" style="background:url('<?php echo esc_url($images_url_2); ?>');"></div>
+                	<div class="parallax-no bg-pos-center" style="background:url('https://kongrestransformacji.pl/wp-content/uploads/2018/12/image-1.jpg');"></div>
                     
                     <?php if ($ievent_data['check_event_infobar']):?>
 						<?php if (get_post_meta( get_the_ID(), 'jx_ievent_home_info_box', true )):?>
