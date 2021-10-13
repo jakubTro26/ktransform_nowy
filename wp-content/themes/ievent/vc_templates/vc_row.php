@@ -541,8 +541,8 @@ if(strpos($output,'vc_custom_1524500212394') ){
 															<div class="right-position">					
 																<div data-accordion="" class="head">
 																	<div class="date"><i class="fa fa-clock-o"></i> 
-																		<span>13:20
-																		</span> Zakończenie wydarzenia
+																		<span>13:20 - 13:50
+																		</span> Wystąpienie merytoryczne
 																	</div>
 																	<div class="title" data-control="">
 																	</div>                        
