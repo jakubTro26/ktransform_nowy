@@ -146,7 +146,7 @@ document.querySelector('body > div.jx-ievent-slider.header-1.home-count-down > h
 
 document.querySelector('.jx-ievent-event-date').style.background="#d6007f";
 
-document.querySelector('#ParentTab > ul > li > div.jx-ievent-tab-day.jx-ievent-uppercase').innerText="30/06/2021";
+//document.querySelector('#ParentTab > ul > li > div.jx-ievent-tab-day.jx-ievent-uppercase').innerText="30/06/2021";
 
 document.querySelector('#ChildTab-1 > div > div > div > div:nth-child(5) > div.left-position > div:nth-child(2)').style.display="none";
 
